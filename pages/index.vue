@@ -34,8 +34,8 @@
             </div>
           </li>
 
-          <li class="flex w-full items-center gap-3 py-1 px-0 sm:px-2 hover:bg-gray-50">
-            <div class="flex-none w-12 flex flex-col items-end justify-center text-sm text-gray-700 pr-4 select-none">
+          <li class="flex w-full items-start gap-4 py-1 px-0 sm:px-2 hover:bg-gray-50">
+            <div class="flex-none w-12 flex flex-col items-end text-sm text-gray-700 pr-6 select-none">
               <span class="text-gray-700 text-xs leading-tight">{{ repo.forks.toLocaleString() }}</span>
               <span class="text-orange-500 font-semibold text-sm leading-tight mt-1">{{ repo.stars.toLocaleString() }}</span>
             </div>
@@ -43,12 +43,12 @@
             <div class="flex-1 min-w-0">
               <div class="flex items-start justify-between">
                 <div class="min-w-0">
-                  <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline inline">{{ repo.name }}</a>
+                  <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline leading-none">{{ repo.name }}</a>
                   <template v-if="repo.description">
-                    <span class="text-xs text-gray-600 ml-2">— {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span></span>
+                    <span class="text-xs text-gray-600 ml-3 leading-tight">— {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span></span>
                   </template>
                   <template v-else>
-                    <span class="text-xs text-gray-400 ml-2">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
+                    <span class="text-xs text-gray-400 ml-3">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
                   </template>
                 </div>
               </div>
