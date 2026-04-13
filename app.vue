@@ -1,5 +1,5 @@
 <template>
-  <div class="font-sans text-sm leading-5 antialiased">
+  <div class="font-sans text-sm leading-normal antialiased">
     <NuxtPage />
   </div>
 </template>
