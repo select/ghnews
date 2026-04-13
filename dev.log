@@ -10,21 +10,292 @@
 
   ➜ DevTools: press Shift + Alt + D in the browser (v3.2.4)
 
-✔ Vite client built in 202ms
-✔ Vite server built in 269ms
-[nitro] ✔ Nuxt Nitro server built in 4535ms
-ℹ Vite server warmed up in 6ms
-ℹ Vite client warmed up in 13ms
-✔ Vite server hmr 1 files in 21.417ms
+✔ Vite client built in 276ms
+✔ Vite server built in 405ms
+[nitro] ✔ Nuxt Nitro server built in 5045ms
+ℹ Vite server warmed up in 8ms
+ℹ Vite client warmed up in 17ms
+✔ Vite server hmr 1 files in 30.517ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 3.869ms
+✔ Vite server hmr 1 files in 0.052ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+
+ ERROR  Internal server error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+      at createCompilerError (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:1378:17)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4957:19
+      at Array.some (<anonymous>)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4952:25
+      at Array.<anonymous> (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:5092:17)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3647:15)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3634:9)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at transform (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3534:3)
+      at Object.baseCompile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:6710:3)
+      at Object.compile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-dom@3.5.32/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js:889:23)
+      at doCompileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4313:47)
+      at Object.compileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4255:12)
+      at compile (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:169:34)
+      at transformTemplateInMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:161:17)
+      at genTemplateCode (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1420:76)
+      at transformMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1331:73)
+      at async file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite-plugin-inspect@11.3.3_@nuxt+kit@4.4.2_magicast@0.5.2__vite@7.3.2_@types+node@25.6._c88b4938d2ba54fcbd53d4d83542a2fb/node_modules/vite-plugin-inspect/dist/shared/vite-plugin-inspect.BzUKaD4x.mjs:403:17
+      at async EnvironmentPluginContainer.transform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:24546:20)
+
+
+ ERROR  Pre-transform error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+
+
+ ERROR  Internal server error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+      at createCompilerError (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:1378:17)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4957:19
+      at Array.some (<anonymous>)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4952:25
+      at Array.<anonymous> (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:5092:17)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3647:15)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3634:9)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at transform (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3534:3)
+      at Object.baseCompile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:6710:3)
+      at Object.compile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-dom@3.5.32/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js:889:23)
+      at doCompileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4313:47)
+      at Object.compileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4255:12)
+      at compile (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:169:34)
+      at transformTemplateInMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:161:17)
+      at genTemplateCode (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1420:76)
+      at transformMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1331:73)
+      at async file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite-plugin-inspect@11.3.3_@nuxt+kit@4.4.2_magicast@0.5.2__vite@7.3.2_@types+node@25.6._c88b4938d2ba54fcbd53d4d83542a2fb/node_modules/vite-plugin-inspect/dist/shared/vite-plugin-inspect.BzUKaD4x.mjs:403:17
+      at async EnvironmentPluginContainer.transform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:22670:26)
+
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+
+ ERROR  Internal server error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+      at createCompilerError (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:1378:17)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4957:19
+      at Array.some (<anonymous>)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4952:25
+      at Array.<anonymous> (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:5092:17)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3647:15)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3634:9)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at transform (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3534:3)
+      at Object.baseCompile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:6710:3)
+      at Object.compile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-dom@3.5.32/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js:889:23)
+      at doCompileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4313:47)
+      at Object.compileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4255:12)
+      at compile (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:169:34)
+      at transformTemplateInMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:161:17)
+      at genTemplateCode (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1420:76)
+      at transformMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1331:73)
+      at async file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite-plugin-inspect@11.3.3_@nuxt+kit@4.4.2_magicast@0.5.2__vite@7.3.2_@types+node@25.6._c88b4938d2ba54fcbd53d4d83542a2fb/node_modules/vite-plugin-inspect/dist/shared/vite-plugin-inspect.BzUKaD4x.mjs:403:17
+      at async EnvironmentPluginContainer.transform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:24546:20)
+
+
+ ERROR  Pre-transform error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+
+
+ ERROR  Internal server error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+      at createCompilerError (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:1378:17)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4957:19
+      at Array.some (<anonymous>)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4952:25
+      at Array.<anonymous> (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:5092:17)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3647:15)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3634:9)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at transform (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3534:3)
+      at Object.baseCompile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:6710:3)
+      at Object.compile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-dom@3.5.32/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js:889:23)
+      at doCompileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4313:47)
+      at Object.compileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4255:12)
+      at compile (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:169:34)
+      at transformTemplateInMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:161:17)
+      at genTemplateCode (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1420:76)
+      at transformMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1331:73)
+      at async file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite-plugin-inspect@11.3.3_@nuxt+kit@4.4.2_magicast@0.5.2__vite@7.3.2_@types+node@25.6._c88b4938d2ba54fcbd53d4d83542a2fb/node_modules/vite-plugin-inspect/dist/shared/vite-plugin-inspect.BzUKaD4x.mjs:403:17
+      at async EnvironmentPluginContainer.transform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:22670:26)
+
+✔ Vite server hmr 15 files in 6.551ms
+✔ Vite server hmr 1 files in 0.043ms
+
+ ERROR  Internal server error: <template v-for> key should be placed on the <template> tag.
+  Plugin: vite:vue
+  File: /data/data/com.termux/files/home/gh-rending-news/pages/index.vue:34:15
+  32 |            </li>
+  33 |  
+  34 |            <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
+     |                 ^
+  35 |              <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+  36 |                <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
+      at createCompilerError (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:1378:17)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4957:19
+      at Array.some (<anonymous>)
+      at /data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:4952:25
+      at Array.<anonymous> (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:5092:17)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3647:15)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3634:9)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at traverseChildren (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3598:5)
+      at traverseNode (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3641:7)
+      at transform (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:3534:3)
+      at Object.baseCompile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-core@3.5.32/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js:6710:3)
+      at Object.compile (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-dom@3.5.32/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js:889:23)
+      at doCompileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4313:47)
+      at Object.compileTemplate (/data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vue+compiler-sfc@3.5.32/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:4255:12)
+      at compile (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:169:34)
+      at transformTemplateInMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:161:17)
+      at genTemplateCode (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1420:76)
+      at transformMain (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/@vitejs+plugin-vue@6.0.5_vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3__vue@3.5.32_typescript@6.0.2_/node_modules/@vitejs/plugin-vue/dist/index.mjs:1331:73)
+      at async file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite-plugin-inspect@11.3.3_@nuxt+kit@4.4.2_magicast@0.5.2__vite@7.3.2_@types+node@25.6._c88b4938d2ba54fcbd53d4d83542a2fb/node_modules/vite-plugin-inspect/dist/shared/vite-plugin-inspect.BzUKaD4x.mjs:403:17
+      at async EnvironmentPluginContainer.transform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:28801:14)
+      at async loadAndTransform (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:22670:26)
+      at async viteTransformMiddleware (file:///data/data/com.termux/files/home/gh-rending-news/node_modules/.pnpm/vite@7.3.2_@types+node@25.6.0_jiti@2.6.1_terser@5.46.1_yaml@2.8.3/node_modules/vite/dist/node/chunks/config.js:24546:20)
+
+Could not open index.vue in the editor.
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 3.383ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 14 files in 4.932ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 8.374ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 6.664ms
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true (x2)
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+✔ Vite server hmr 12 files in 6.219ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs (x2)
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 7.62ms
+ℹ hmr update /app.vue
+ℹ page reload app.vue
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 16 files in 5.375ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+✔ Vite server hmr 12 files in 3.869ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+✔ Vite server hmr 12 files in 5.018ms
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
 ℹ hmr update /app.vue
 ℹ page reload app.vue
 ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
 ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
 ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
 ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
-[nuxt] ℹ Compiled plugins.server.mjs in 526.75ms
-[nuxt] ℹ Compiled plugins.client.mjs in 564.29ms
-[nuxt] ℹ Compiled types/plugins.d.ts in 589.06ms
-[nuxt] ℹ Compiled plugins.server.mjs in 656.07ms
-[nuxt] ℹ Compiled plugins.client.mjs in 690ms
-[nuxt] ℹ Compiled types/plugins.d.ts in 716.29ms
