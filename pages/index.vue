@@ -41,15 +41,16 @@
             </div>
 
             <div class="flex-1 min-w-0">
-              <div class="flex items-center justify-between">
-                <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline">{{ repo.name }}</a>
-              </div>
-
-              <div class="mt-0.5">
-                <p v-if="repo.description" class="text-xs text-gray-600 leading-tight">
-                  {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
-                </p>
-                <p v-else class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</p>
+              <div class="flex items-start justify-between">
+                <div class="min-w-0">
+                  <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline inline">{{ repo.name }}</a>
+                  <template v-if="repo.description">
+                    <span class="text-xs text-gray-600 ml-2">— {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span></span>
+                  </template>
+                  <template v-else>
+                    <span class="text-xs text-gray-400 ml-2">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
+                  </template>
+                </div>
               </div>
             </div>
           </li>
