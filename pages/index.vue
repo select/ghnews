@@ -17,24 +17,24 @@
       <div v-if="!items" class="text-gray-500">Loading...</div>
 
       <ol v-if="items" class="divide-y divide-gray-200">
-        <li v-for="(repo, i) in items" :key="repo.id" class="flex items-start gap-3 py-3">
+        <li v-for="(repo, i) in items" :key="repo.id" class="flex items-start gap-3 py-3 px-4 sm:px-6 hover:bg-gray-50">
           <div class="w-8 text-right text-gray-500 pr-2 select-none">{{ i + 1 }}</div>
 
           <div class="flex-1">
             <div class="flex items-start justify-between">
               <a :href="repo.html_url" target="_blank" class="text-sm text-blue-600 hover:underline font-medium">{{ repo.full_name }}</a>
-              <div class="text-xs text-gray-500 ml-3">⭐ {{ repo.stars.toLocaleString() }}</div>
+              <div class="text-xs text-gray-500 ml-3 flex items-center gap-2"><i class="i-mdi-star text-[14px]"></i> {{ repo.stars.toLocaleString() }}</div>
             </div>
 
             <p v-if="repo.description" class="text-xs text-gray-600 mt-1">{{ repo.description }}</p>
 
             <div class="mt-2 text-xs text-gray-500 flex flex-wrap gap-3 items-center">
-              <span v-if="repo.language">📘 {{ repo.language }}</span>
-              <span>🍴 {{ repo.forks.toLocaleString() }}</span>
-              <span>🕒 {{ formatDate(repo.created_at) }}</span>
+              <span v-if="repo.language" class="flex items-center gap-1"><i class="i-mdi-file-code text-[14px]"></i><span>{{ repo.language }}</span></span>
+              <span class="flex items-center gap-1"><i class="i-mdi-source-branch text-[14px]"></i><span>{{ repo.forks.toLocaleString() }}</span></span>
+              <span class="flex items-center gap-1"><i class="i-mdi-clock-outline text-[14px]"></i><span>{{ formatDate(repo.created_at) }}</span></span>
               <span v-if="repo.owner" class="flex items-center gap-2">
                 <img v-if="repo.owner.avatar" :src="repo.owner.avatar" class="w-4 h-4 rounded-full" />
-                <a :href="repo.owner.url" class="text-gray-700 hover:underline">{{ repo.owner.login }}</a>
+                <a :href="repo.owner.url" class="text-gray-700 hover:underline text-xs">{{ repo.owner.login }}</a>
               </span>
             </div>
           </div>

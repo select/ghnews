@@ -1,0 +1,30 @@
+
+> gh-rending-news@0.1.0 dev /data/data/com.termux/files/home/gh-rending-news
+> nuxt dev
+
+│
+●  Nuxt 4.4.2 (with Nitro 2.13.3, Vite 7.3.2 and Vue 3.5.32)
+
+  ➜ Local:    http://localhost:3000/
+  ➜ Network:  use --host to expose
+
+  ➜ DevTools: press Shift + Alt + D in the browser (v3.2.4)
+
+✔ Vite client built in 202ms
+✔ Vite server built in 269ms
+[nitro] ✔ Nuxt Nitro server built in 4535ms
+ℹ Vite server warmed up in 6ms
+ℹ Vite client warmed up in 13ms
+✔ Vite server hmr 1 files in 21.417ms
+ℹ hmr update /app.vue
+ℹ page reload app.vue
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+ℹ hmr update /pages/index.vue, /pages/index.vue?macro=true, /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs
+ℹ hmr update /@id/virtual:nuxt:%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome%2Fgh-rending-news%2F.nuxt%2Froutes.mjs, /pages/index.vue?macro=true
+[nuxt] ℹ Compiled plugins.server.mjs in 526.75ms
+[nuxt] ℹ Compiled plugins.client.mjs in 564.29ms
+[nuxt] ℹ Compiled types/plugins.d.ts in 589.06ms
+[nuxt] ℹ Compiled plugins.server.mjs in 656.07ms
+[nuxt] ℹ Compiled plugins.client.mjs in 690ms
+[nuxt] ℹ Compiled types/plugins.d.ts in 716.29ms
