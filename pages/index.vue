@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-2xl mx-auto p-4 font-sans text-sm leading-6">
+  <div class="w-full max-w-screen-md mx-auto px-4 sm:px-6 py-4 font-sans text-sm leading-6">
     <header class="flex items-center justify-between py-4">
       <h1 class="text-3xl font-light">hckr news</h1>
       <nav class="text-sm">
@@ -34,8 +34,8 @@
             </div>
           </li>
 
-          <li class="flex w-full items-start gap-2 py-2 px-2 sm:px-6 hover:bg-gray-50">
-            <div class="flex-none w-10 flex flex-col items-end text-sm text-gray-700 pr-1 select-none">
+          <li class="flex w-full items-start gap-2 py-2 px-1 sm:px-4 hover:bg-gray-50">
+            <div class="flex-none w-8 flex flex-col items-end text-sm text-gray-700 pr-0 select-none">
               <span class="text-gray-700 text-xs">{{ repo.forks.toLocaleString() }}</span>
               <span class="text-orange-500 font-semibold mt-1 text-sm">{{ repo.stars.toLocaleString() }}</span>
             </div>
