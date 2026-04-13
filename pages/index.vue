@@ -34,10 +34,10 @@
             </div>
           </li>
 
-          <li class="flex w-full items-start gap-1 py-2 px-0 sm:px-2 hover:bg-gray-50">
-            <div class="flex-none w-5 flex flex-col items-end text-sm text-gray-700 pr-0 select-none">
-              <span class="text-gray-700 text-xs">{{ repo.forks.toLocaleString() }}</span>
-              <span class="text-orange-500 font-semibold mt-1 text-sm">{{ repo.stars.toLocaleString() }}</span>
+          <li class="flex w-full items-center gap-3 py-1 px-0 sm:px-2 hover:bg-gray-50">
+            <div class="flex-none w-12 flex flex-col items-end justify-center text-sm text-gray-700 pr-3 select-none">
+              <span class="text-gray-700 text-xs leading-tight">{{ repo.forks.toLocaleString() }}</span>
+              <span class="text-orange-500 font-semibold text-sm leading-tight mt-1">{{ repo.stars.toLocaleString() }}</span>
             </div>
 
             <div class="flex-1 min-w-0">
