@@ -11,8 +11,12 @@
     <div class="text-center my-3">
       <div class="inline-block text-sm text-gray-700 underline">auto-refresh disabled</div>
       <div class="float-right">
-        <span class="text-sm mr-2">Filter:</span>
-        <span class="inline-block bg-orange-500 text-white px-3 py-1 rounded-full text-sm">top 20</span>
+        <label class="text-sm mr-2">Timespan:</label>
+        <select v-model="days" class="text-sm bg-white border border-gray-300 rounded px-2 py-1">
+          <option :value="1">Daily</option>
+          <option :value="7">Weekly</option>
+          <option :value="30">Monthly</option>
+        </select>
       </div>
     </div>
 
