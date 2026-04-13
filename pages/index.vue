@@ -16,11 +16,11 @@
       <div v-if="error" class="text-red-600">Error: {{ error }}</div>
       <div v-if="!items" class="text-gray-500">Loading...</div>
 
-      <ol v-if="items" class="divide-y divide-gray-200">
-        <li v-for="(repo, i) in items" :key="repo.id" class="flex items-start gap-3 py-3 px-4 sm:px-6 hover:bg-gray-50">
-          <div class="w-8 text-right text-gray-500 pr-2 select-none">{{ i + 1 }}</div>
+      <ol v-if="items" class="divide-y divide-gray-200 list-none pl-0">
+        <li v-for="(repo, i) in items" :key="repo.id" class="flex w-full items-start gap-3 py-3 px-4 sm:px-6 hover:bg-gray-50">
+          <div class="flex-none w-6 text-right text-gray-500 pr-2 select-none">{{ i + 1 }}</div>
 
-          <div class="flex-1">
+          <div class="flex-1 min-w-0">
             <div class="flex items-start justify-between">
               <a :href="repo.html_url" target="_blank" class="text-sm text-blue-600 hover:underline font-medium">{{ repo.full_name }}</a>
               <div class="text-xs text-gray-500 ml-3 flex items-center gap-2"><i class="i-mdi-star text-[14px]"></i> {{ repo.stars.toLocaleString() }}</div>
