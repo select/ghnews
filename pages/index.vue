@@ -21,30 +21,30 @@
       <div v-if="!items" class="text-gray-500">Loading...</div>
 
       <ol v-if="items" class="divide-y divide-gray-200 list-none pl-0">
-        <template v-for="(repo, i) in items">
-          <li v-if="i === 0 || formatDateDay(repo.created_at) !== formatDateDay(items[i-1].created_at)" :key="`sep-${i}`" class="py-4">
+        <template v-for="(repo, i) in items" :key="repo.id">
+          <li v-if="i === 0 || formatDateDay(repo.created_at) !== formatDateDay(items[i-1].created_at)" class="py-2">
             <div class="relative">
               <div class="absolute inset-x-0 top-1/2 transform -translate-y-1/2">
-                <div class="mx-auto inline-block bg-orange-500 text-white px-4 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
+                <div class="mx-auto inline-block bg-orange-500 text-white px-3 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
               </div>
-              <div class="h-px bg-orange-300 mt-3"></div>
+              <div class="h-px bg-orange-300 mt-2"></div>
             </div>
           </li>
 
-          <li :key="repo.id" class="flex w-full items-start gap-4 py-3 px-2 sm:px-6 hover:bg-gray-50">
-            <div class="flex-none w-14 flex flex-col items-end text-sm text-gray-700 pr-3 select-none">
+          <li class="flex w-full items-start gap-3 py-2 px-2 sm:px-6 hover:bg-gray-50">
+            <div class="flex-none w-12 flex flex-col items-end text-sm text-gray-700 pr-2 select-none">
               <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
               <span class="text-orange-500 font-semibold mt-1">{{ repo.stars.toLocaleString() }}</span>
             </div>
 
             <div class="flex-1 min-w-0">
               <div class="flex items-center justify-between">
-                <a :href="repo.html_url" target="_blank" class="text-base text-gray-900 font-medium hover:underline">{{ repo.full_name }}</a>
+                <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium hover:underline">{{ repo.full_name }}</a>
               </div>
 
-              <div class="mt-1">
-                <p v-if="repo.description" class="text-sm text-gray-600 leading-snug">{{ repo.description }}</p>
-                <div class="text-sm text-gray-400 mt-1">({{ extractDomain(repo.html_url) }})</div>
+              <div class="mt-0.5">
+                <p v-if="repo.description" class="text-xs text-gray-600 leading-tight">{{ repo.description }}</p>
+                <div class="text-xs text-gray-400 mt-1">({{ extractDomain(repo.html_url) }})</div>
               </div>
             </div>
           </li>
@@ -69,7 +69,8 @@ async function fetchData () {
     if ((res as any).error) {
       error.value = (res as any).error
     } else {
-      items.value = (res as any).items
+      // Sort by created_at descending so newest (by creation date) appear first
+      items.value = (res as any).items.sort((a: any, b: any) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
     }
   } catch (err: any) {
     error.value = err.message || String(err)
