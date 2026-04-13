@@ -1,10 +1,10 @@
 <template>
-  <div class="max-w-3xl mx-auto p-4">
-    <header class="flex items-center justify-between py-6">
-      <h1 class="text-2xl font-bold"><a href="/">hckrnews - GitHub Trending</a></h1>
-      <div>
+  <div class="max-w-2xl mx-auto p-4 font-sans text-sm leading-6">
+    <header class="flex items-center justify-between py-4">
+      <h1 class="text-base font-semibold"><a href="/" class="text-black no-underline hover:underline">hckrnews - GitHub Trending</a></h1>
+      <div class="text-sm text-gray-700">
         <label class="mr-2">Period:</label>
-        <select v-model="days" class="px-2 py-1 border rounded">
+        <select v-model="days" class="px-2 py-1 border rounded text-sm">
           <option :value="1">Daily</option>
           <option :value="7">Weekly</option>
           <option :value="30">Monthly</option>
@@ -16,23 +16,26 @@
       <div v-if="error" class="text-red-600">Error: {{ error }}</div>
       <div v-if="!items" class="text-gray-500">Loading...</div>
 
-      <ol v-if="items" class="list-decimal pl-6 space-y-4">
-        <li v-for="repo in items" :key="repo.id" class="py-2">
-          <div class="flex items-start gap-3">
-            <div class="flex-1">
-              <a :href="repo.html_url" target="_blank" class="text-lg font-medium text-blue-600 hover:underline">{{ repo.full_name }}</a>
-              <p class="text-sm text-gray-600">{{ repo.description }}</p>
+      <ol v-if="items" class="divide-y divide-gray-200">
+        <li v-for="(repo, i) in items" :key="repo.id" class="flex items-start gap-3 py-3">
+          <div class="w-8 text-right text-gray-500 pr-2 select-none">{{ i + 1 }}</div>
 
-              <div class="mt-2 text-sm text-gray-500 flex flex-wrap gap-4">
-                <span>⭐ {{ repo.stars.toLocaleString() }}</span>
-                <span v-if="repo.language">📘 {{ repo.language }}</span>
-                <span>🍴 {{ repo.forks.toLocaleString() }}</span>
-                <span>🕒 created: {{ formatDate(repo.created_at) }}</span>
-                <span v-if="repo.owner" class="flex items-center gap-2">
-                  <img v-if="repo.owner.avatar" :src="repo.owner.avatar" class="w-4 h-4 rounded-full" />
-                  <a :href="repo.owner.url" class="text-blue-600">{{ repo.owner.login }}</a>
-                </span>
-              </div>
+          <div class="flex-1">
+            <div class="flex items-start justify-between">
+              <a :href="repo.html_url" target="_blank" class="text-sm text-blue-600 hover:underline font-medium">{{ repo.full_name }}</a>
+              <div class="text-xs text-gray-500 ml-3">⭐ {{ repo.stars.toLocaleString() }}</div>
+            </div>
+
+            <p v-if="repo.description" class="text-xs text-gray-600 mt-1">{{ repo.description }}</p>
+
+            <div class="mt-2 text-xs text-gray-500 flex flex-wrap gap-3 items-center">
+              <span v-if="repo.language">📘 {{ repo.language }}</span>
+              <span>🍴 {{ repo.forks.toLocaleString() }}</span>
+              <span>🕒 {{ formatDate(repo.created_at) }}</span>
+              <span v-if="repo.owner" class="flex items-center gap-2">
+                <img v-if="repo.owner.avatar" :src="repo.owner.avatar" class="w-4 h-4 rounded-full" />
+                <a :href="repo.owner.url" class="text-gray-700 hover:underline">{{ repo.owner.login }}</a>
+              </span>
             </div>
           </div>
         </li>
