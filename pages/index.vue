@@ -42,14 +42,14 @@
 
             <div class="flex-1 min-w-0">
               <div class="flex items-center justify-between">
-                <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline">{{ repo.full_name }}</a>
+                <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline">{{ repo.name }}</a>
               </div>
 
               <div class="mt-0.5">
                 <p v-if="repo.description" class="text-xs text-gray-600 leading-tight">
-                  {{ repo.description }} <span class="text-xs text-gray-400">({{ extractDomain(repo.html_url) }})</span>
+                  {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
                 </p>
-                <p v-else class="text-xs text-gray-400">({{ extractDomain(repo.html_url) }})</p>
+                <p v-else class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</p>
               </div>
             </div>
           </li>
