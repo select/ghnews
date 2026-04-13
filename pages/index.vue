@@ -1,7 +1,7 @@
 <template>
   <div class="w-full max-w-full mx-auto px-1 sm:px-2 py-4 font-sans text-sm leading-5">
     <header class="flex items-center justify-between py-4">
-      <h1 class="text-3xl font-light">hckr news</h1>
+      <h1 class="text-3xl font-light">GitHub Trending</h1>
       <nav class="text-sm">
         <a href="#" class="mr-4 text-gray-700 hover:underline">settings</a>
         <a href="#" class="text-gray-700 hover:underline">about</a>
@@ -28,16 +28,16 @@
         <template v-for="(repo, i) in items" :key="repo.id">
           <li v-if="i === 0 || formatDateDay(repo.created_at) !== formatDateDay(items[i-1].created_at)" class="py-3">
             <div class="flex items-center">
-              <div class="flex-1 h-px bg-orange-300"></div>
-              <div class="mx-4 inline-block bg-orange-500 text-white px-3 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
-              <div class="flex-1 h-px bg-orange-300"></div>
+              <div class="flex-1 h-px bg-teal-200"></div>
+              <div class="mx-4 inline-block bg-teal-600 text-white px-3 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
+              <div class="flex-1 h-px bg-teal-200"></div>
             </div>
           </li>
 
           <li class="flex w-full items-start gap-4 py-3 px-0 sm:px-2 hover:bg-gray-50">
             <div class="flex-none w-12 flex flex-col items-end text-sm text-gray-700 pr-6 select-none">
               <span class="text-gray-700 text-xs leading-tight">{{ repo.forks.toLocaleString() }}</span>
-              <span class="text-orange-500 font-semibold text-sm leading-tight mt-1">{{ repo.stars.toLocaleString() }}</span>
+              <span class="text-teal-600 font-semibold text-sm leading-tight mt-1">{{ repo.stars.toLocaleString() }}</span>
             </div>
 
             <div class="flex-1 min-w-0">
