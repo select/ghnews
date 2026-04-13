@@ -23,18 +23,17 @@
       <ol v-if="items" class="divide-y divide-gray-200 list-none pl-0">
         <template v-for="(repo, i) in items" :key="repo.id">
           <li v-if="i === 0 || formatDateDay(repo.created_at) !== formatDateDay(items[i-1].created_at)" class="py-2">
-            <div class="relative">
-              <div class="absolute inset-x-0 top-1/2 transform -translate-y-1/2">
-                <div class="mx-auto inline-block bg-orange-500 text-white px-3 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
-              </div>
-              <div class="h-px bg-orange-300 mt-2"></div>
+            <div class="flex items-center">
+              <div class="flex-1 h-px bg-orange-300"></div>
+              <div class="mx-4 inline-block bg-orange-500 text-white px-3 py-1 rounded-md text-xs">{{ formatDateDay(repo.created_at) }}</div>
+              <div class="flex-1 h-px bg-orange-300"></div>
             </div>
           </li>
 
-          <li class="flex w-full items-start gap-3 py-2 px-2 sm:px-6 hover:bg-gray-50">
-            <div class="flex-none w-12 flex flex-col items-end text-sm text-gray-700 pr-2 select-none">
-              <span class="text-gray-700">{{ repo.forks.toLocaleString() }}</span>
-              <span class="text-orange-500 font-semibold mt-1">{{ repo.stars.toLocaleString() }}</span>
+          <li class="flex w-full items-start gap-2 py-2 px-2 sm:px-6 hover:bg-gray-50">
+            <div class="flex-none w-10 flex flex-col items-end text-sm text-gray-700 pr-1 select-none">
+              <span class="text-gray-700 text-xs">{{ repo.forks.toLocaleString() }}</span>
+              <span class="text-orange-500 font-semibold mt-1 text-sm">{{ repo.stars.toLocaleString() }}</span>
             </div>
 
             <div class="flex-1 min-w-0">
