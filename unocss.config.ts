@@ -4,7 +4,14 @@ export default defineConfig({
   presets: [
     presetUno(),
     presetAttributify(),
-    presetIcons(),
+    presetIcons({
+      /* use the 'mdi' icon pack via Iconify (no extra config needed) */
+      scale: 1.2,
+      extraProperties: {
+        'display': 'inline-block',
+        'vertical-align': 'middle'
+      }
+    }),
   ],
   shortcuts: {
     'btn': 'px-4 py-2 rounded inline-block bg-primary text-white'

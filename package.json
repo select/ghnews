@@ -13,6 +13,7 @@
     "@unocss/nuxt": "latest"
   },
   "devDependencies": {
-    "unocss": "latest"
+    "unocss": "latest",
+    "@iconify-json/mdi": "^1.2.0"
   }
 }
