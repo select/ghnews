@@ -43,13 +43,14 @@
             <div class="flex-1 min-w-0">
               <div class="flex items-start justify-between">
                 <div class="min-w-0">
-                  <a :href="repo.html_url" target="_blank" class="text-sm text-gray-900 font-medium no-underline">{{ repo.name }}</a>
-                  <template v-if="repo.description">
-                    <span class="text-xs text-gray-600 ml-3">— {{ repo.description }} <span class="text-xs text-gray-400">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span></span>
-                  </template>
-                  <template v-else>
-                    <span class="text-xs text-gray-400 ml-3">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
-                  </template>
+                  <a :href="repo.html_url" target="_blank" class="block text-sm text-gray-900 font-medium no-underline">
+                    <span class="align-middle">{{ repo.name }}</span>
+                    <template v-if="repo.description">
+                      <span class="text-xs text-gray-600 ml-3 align-middle">— {{ repo.description }}</span>
+                    </template>
+                  </a>
+
+                  <div class="text-xs text-gray-400 mt-1">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline" target="_blank" rel="noopener">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</div>
                 </div>
               </div>
             </div>
