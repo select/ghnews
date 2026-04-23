@@ -1,0 +1,809 @@
+{
+  "date": "2026-04-23",
+  "since": "2026-04-16",
+  "days": 7,
+  "fetched_at": "2026-04-23T21:08:35.061Z",
+  "total_count": 2021381,
+  "items": [
+    {
+      "id": 1214346700,
+      "name": "OpenMythos",
+      "full_name": "kyegomez/OpenMythos",
+      "html_url": "https://github.com/kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "stars": 9625,
+      "forks": 2085,
+      "language": "Python",
+      "created_at": "2026-04-18T12:57:52Z",
+      "owner": {
+        "login": "kyegomez",
+        "avatar": "https://avatars.githubusercontent.com/u/98760976?v=4",
+        "url": "https://github.com/kyegomez"
+      }
+    },
+    {
+      "id": 1213049020,
+      "name": "browser-harness",
+      "full_name": "browser-use/browser-harness",
+      "html_url": "https://github.com/browser-use/browser-harness",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+      "stars": 5817,
+      "forks": 507,
+      "language": "Python",
+      "created_at": "2026-04-17T01:56:15Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
+        "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": 1215145625,
+      "name": "huashu-design",
+      "full_name": "alchaincyf/huashu-design",
+      "html_url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+      "stars": 5311,
+      "forks": 830,
+      "language": "HTML",
+      "created_at": "2026-04-19T14:42:06Z",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4",
+        "url": "https://github.com/alchaincyf"
+      }
+    },
+    {
+      "id": 1216173720,
+      "name": "Kami",
+      "full_name": "tw93/Kami",
+      "html_url": "https://github.com/tw93/Kami",
+      "description": "👩‍🚒 Good content deserves good paper.",
+      "stars": 2868,
+      "forks": 138,
+      "language": "HTML",
+      "created_at": "2026-04-20T16:35:19Z",
+      "owner": {
+        "login": "tw93",
+        "avatar": "https://avatars.githubusercontent.com/u/8736212?v=4",
+        "url": "https://github.com/tw93"
+      }
+    },
+    {
+      "id": 1214290850,
+      "name": "awesome-gpt-image-2-prompts",
+      "full_name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+      "stars": 2639,
+      "forks": 227,
+      "language": "Python",
+      "created_at": "2026-04-18T11:22:14Z",
+      "owner": {
+        "login": "EvoLinkAI",
+        "avatar": "https://avatars.githubusercontent.com/u/253253881?v=4",
+        "url": "https://github.com/EvoLinkAI"
+      }
+    },
+    {
+      "id": 1214028719,
+      "name": "open-codesign",
+      "full_name": "OpenCoworkAI/open-codesign",
+      "html_url": "https://github.com/OpenCoworkAI/open-codesign",
+      "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
+      "stars": 1844,
+      "forks": 138,
+      "language": "TypeScript",
+      "created_at": "2026-04-18T03:14:33Z",
+      "owner": {
+        "login": "OpenCoworkAI",
+        "avatar": "https://avatars.githubusercontent.com/u/254727761?v=4",
+        "url": "https://github.com/OpenCoworkAI"
+      }
+    },
+    {
+      "id": 1214125715,
+      "name": "awesome-claude-design",
+      "full_name": "VoltAgent/awesome-claude-design",
+      "html_url": "https://github.com/VoltAgent/awesome-claude-design",
+      "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+      "stars": 1388,
+      "forks": 145,
+      "language": null,
+      "created_at": "2026-04-18T06:40:04Z",
+      "owner": {
+        "login": "VoltAgent",
+        "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4",
+        "url": "https://github.com/VoltAgent"
+      }
+    },
+    {
+      "id": 1215413339,
+      "name": "advisor-ledger",
+      "full_name": "the-hidden-fish/advisor-ledger",
+      "html_url": "https://github.com/the-hidden-fish/advisor-ledger",
+      "description": null,
+      "stars": 1023,
+      "forks": 96,
+      "language": "Python",
+      "created_at": "2026-04-19T21:58:46Z",
+      "owner": {
+        "login": "the-hidden-fish",
+        "avatar": "https://avatars.githubusercontent.com/u/277556120?v=4",
+        "url": "https://github.com/the-hidden-fish"
+      }
+    },
+    {
+      "id": 1214105808,
+      "name": "gpt2api",
+      "full_name": "432539/gpt2api",
+      "html_url": "https://github.com/432539/gpt2api",
+      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "stars": 925,
+      "forks": 236,
+      "language": "Go",
+      "created_at": "2026-04-18T06:02:44Z",
+      "owner": {
+        "login": "432539",
+        "avatar": "https://avatars.githubusercontent.com/u/22024444?v=4",
+        "url": "https://github.com/432539"
+      }
+    },
+    {
+      "id": 1215001317,
+      "name": "hop",
+      "full_name": "golbin/hop",
+      "html_url": "https://github.com/golbin/hop",
+      "description": null,
+      "stars": 905,
+      "forks": 186,
+      "language": "TypeScript",
+      "created_at": "2026-04-19T10:49:46Z",
+      "owner": {
+        "login": "golbin",
+        "avatar": "https://avatars.githubusercontent.com/u/6277035?v=4",
+        "url": "https://github.com/golbin"
+      }
+    },
+    {
+      "id": 1213917906,
+      "name": "privacy-filter",
+      "full_name": "openai/privacy-filter",
+      "html_url": "https://github.com/openai/privacy-filter",
+      "description": "OpenAI Privacy Filter",
+      "stars": 893,
+      "forks": 70,
+      "language": "Python",
+      "created_at": "2026-04-17T22:49:09Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": 1215868605,
+      "name": "MasterHttpRelayVPN",
+      "full_name": "masterking32/MasterHttpRelayVPN",
+      "html_url": "https://github.com/masterking32/MasterHttpRelayVPN",
+      "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
+      "stars": 876,
+      "forks": 90,
+      "language": "Python",
+      "created_at": "2026-04-20T10:32:26Z",
+      "owner": {
+        "login": "masterking32",
+        "avatar": "https://avatars.githubusercontent.com/u/1076030?v=4",
+        "url": "https://github.com/masterking32"
+      }
+    },
+    {
+      "id": 1213797717,
+      "name": "BTC-Trading-Since-2020",
+      "full_name": "bwjoke/BTC-Trading-Since-2020",
+      "html_url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+      "description": "Public BTC trading context since 2020.",
+      "stars": 827,
+      "forks": 286,
+      "language": null,
+      "created_at": "2026-04-17T19:18:03Z",
+      "owner": {
+        "login": "bwjoke",
+        "avatar": "https://avatars.githubusercontent.com/u/1284814?v=4",
+        "url": "https://github.com/bwjoke"
+      }
+    },
+    {
+      "id": 1216954187,
+      "name": "web-design-skill",
+      "full_name": "ConardLi/web-design-skill",
+      "html_url": "https://github.com/ConardLi/web-design-skill",
+      "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
+      "stars": 713,
+      "forks": 142,
+      "language": "CSS",
+      "created_at": "2026-04-21T11:56:17Z",
+      "owner": {
+        "login": "ConardLi",
+        "avatar": "https://avatars.githubusercontent.com/u/30708545?v=4",
+        "url": "https://github.com/ConardLi"
+      }
+    },
+    {
+      "id": 1214488641,
+      "name": "oransim",
+      "full_name": "OranAi-Ltd/oransim",
+      "html_url": "https://github.com/OranAi-Ltd/oransim",
+      "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+      "stars": 712,
+      "forks": 94,
+      "language": "Python",
+      "created_at": "2026-04-18T16:40:44Z",
+      "owner": {
+        "login": "OranAi-Ltd",
+        "avatar": "https://avatars.githubusercontent.com/u/237740540?v=4",
+        "url": "https://github.com/OranAi-Ltd"
+      }
+    },
+    {
+      "id": 1216116826,
+      "name": "OpenGame",
+      "full_name": "leigest519/OpenGame",
+      "html_url": "https://github.com/leigest519/OpenGame",
+      "description": "OpenGame: Open Agentic Coding for Games",
+      "stars": 672,
+      "forks": 76,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T15:28:16Z",
+      "owner": {
+        "login": "leigest519",
+        "avatar": "https://avatars.githubusercontent.com/u/57628855?v=4",
+        "url": "https://github.com/leigest519"
+      }
+    },
+    {
+      "id": 1214741287,
+      "name": "cc-design",
+      "full_name": "ZeroZ-lab/cc-design",
+      "html_url": "https://github.com/ZeroZ-lab/cc-design",
+      "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+      "stars": 612,
+      "forks": 65,
+      "language": "JavaScript",
+      "created_at": "2026-04-19T01:35:57Z",
+      "owner": {
+        "login": "ZeroZ-lab",
+        "avatar": "https://avatars.githubusercontent.com/u/12062960?v=4",
+        "url": "https://github.com/ZeroZ-lab"
+      }
+    },
+    {
+      "id": 1215153409,
+      "name": "chatgpt2api",
+      "full_name": "basketikun/chatgpt2api",
+      "html_url": "https://github.com/basketikun/chatgpt2api",
+      "description": null,
+      "stars": 602,
+      "forks": 179,
+      "language": "TypeScript",
+      "created_at": "2026-04-19T14:53:01Z",
+      "owner": {
+        "login": "basketikun",
+        "avatar": "https://avatars.githubusercontent.com/u/114481029?v=4",
+        "url": "https://github.com/basketikun"
+      }
+    },
+    {
+      "id": 1217105927,
+      "name": "OpenChronicle",
+      "full_name": "Einsia/OpenChronicle",
+      "html_url": "https://github.com/Einsia/OpenChronicle",
+      "description": null,
+      "stars": 594,
+      "forks": 14,
+      "language": "Python",
+      "created_at": "2026-04-21T14:50:33Z",
+      "owner": {
+        "login": "Einsia",
+        "avatar": "https://avatars.githubusercontent.com/u/246131017?v=4",
+        "url": "https://github.com/Einsia"
+      }
+    },
+    {
+      "id": 1215974868,
+      "name": "mercury-agent",
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 591,
+      "forks": 72,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T12:46:31Z",
+      "owner": {
+        "login": "cosmicstack-labs",
+        "avatar": "https://avatars.githubusercontent.com/u/277752932?v=4",
+        "url": "https://github.com/cosmicstack-labs"
+      }
+    },
+    {
+      "id": 1217671020,
+      "name": "TileKernels",
+      "full_name": "deepseek-ai/TileKernels",
+      "html_url": "https://github.com/deepseek-ai/TileKernels",
+      "description": "A kernel library written in tilelang",
+      "stars": 586,
+      "forks": 31,
+      "language": "Python",
+      "created_at": "2026-04-22T05:38:31Z",
+      "owner": {
+        "login": "deepseek-ai",
+        "avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
+        "url": "https://github.com/deepseek-ai"
+      }
+    },
+    {
+      "id": 1213214246,
+      "name": "MD-This-Page",
+      "full_name": "Ademking/MD-This-Page",
+      "html_url": "https://github.com/Ademking/MD-This-Page",
+      "description": "Convert any web page to clean, readable Markdown with just one click.",
+      "stars": 520,
+      "forks": 41,
+      "language": "TypeScript",
+      "created_at": "2026-04-17T06:42:43Z",
+      "owner": {
+        "login": "Ademking",
+        "avatar": "https://avatars.githubusercontent.com/u/12462188?v=4",
+        "url": "https://github.com/Ademking"
+      }
+    },
+    {
+      "id": 1214788016,
+      "name": "agents-md",
+      "full_name": "TheRealSeanDonahoe/agents-md",
+      "html_url": "https://github.com/TheRealSeanDonahoe/agents-md",
+      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.",
+      "stars": 489,
+      "forks": 60,
+      "language": null,
+      "created_at": "2026-04-19T03:40:28Z",
+      "owner": {
+        "login": "TheRealSeanDonahoe",
+        "avatar": "https://avatars.githubusercontent.com/u/273815545?v=4",
+        "url": "https://github.com/TheRealSeanDonahoe"
+      }
+    },
+    {
+      "id": 1214119020,
+      "name": "kiro-auto",
+      "full_name": "AERT-7Y/kiro-auto",
+      "html_url": "https://github.com/AERT-7Y/kiro-auto",
+      "description": "kiro自动注册机",
+      "stars": 471,
+      "forks": 135,
+      "language": "TypeScript",
+      "created_at": "2026-04-18T06:27:50Z",
+      "owner": {
+        "login": "AERT-7Y",
+        "avatar": "https://avatars.githubusercontent.com/u/265234268?v=4",
+        "url": "https://github.com/AERT-7Y"
+      }
+    },
+    {
+      "id": 1214877703,
+      "name": "musicDownload",
+      "full_name": "MrsEWE44/musicDownload",
+      "html_url": "https://github.com/MrsEWE44/musicDownload",
+      "description": null,
+      "stars": 437,
+      "forks": 59,
+      "language": "Python",
+      "created_at": "2026-04-19T07:04:43Z",
+      "owner": {
+        "login": "MrsEWE44",
+        "avatar": "https://avatars.githubusercontent.com/u/97342736?v=4",
+        "url": "https://github.com/MrsEWE44"
+      }
+    },
+    {
+      "id": 1214412003,
+      "name": "mdv",
+      "full_name": "drasimwagan/mdv",
+      "html_url": "https://github.com/drasimwagan/mdv",
+      "description": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.",
+      "stars": 434,
+      "forks": 12,
+      "language": "TypeScript",
+      "created_at": "2026-04-18T14:42:02Z",
+      "owner": {
+        "login": "drasimwagan",
+        "avatar": "https://avatars.githubusercontent.com/u/87940632?v=4",
+        "url": "https://github.com/drasimwagan"
+      }
+    },
+    {
+      "id": 1214542327,
+      "name": "aube",
+      "full_name": "endevco/aube",
+      "html_url": "https://github.com/endevco/aube",
+      "description": "A fast Node.js package manager",
+      "stars": 409,
+      "forks": 9,
+      "language": "Rust",
+      "created_at": "2026-04-18T18:06:49Z",
+      "owner": {
+        "login": "endevco",
+        "avatar": "https://avatars.githubusercontent.com/u/263159590?v=4",
+        "url": "https://github.com/endevco"
+      }
+    },
+    {
+      "id": 1214783544,
+      "name": "Cairn",
+      "full_name": "oritera/Cairn",
+      "html_url": "https://github.com/oritera/Cairn",
+      "description": "AI 自动化通用问题解决 / AI 自动化渗透测试系统",
+      "stars": 407,
+      "forks": 15,
+      "language": null,
+      "created_at": "2026-04-19T03:28:41Z",
+      "owner": {
+        "login": "oritera",
+        "avatar": "https://avatars.githubusercontent.com/u/277208930?v=4",
+        "url": "https://github.com/oritera"
+      }
+    },
+    {
+      "id": 1215107346,
+      "name": "MITM-DomainFronting",
+      "full_name": "patterniha/MITM-DomainFronting",
+      "html_url": "https://github.com/patterniha/MITM-DomainFronting",
+      "description": "Receiving unencrypted data with MITM, Then send it with DomainFronting",
+      "stars": 404,
+      "forks": 14,
+      "language": "Batchfile",
+      "created_at": "2026-04-19T13:46:03Z",
+      "owner": {
+        "login": "patterniha",
+        "avatar": "https://avatars.githubusercontent.com/u/71074308?v=4",
+        "url": "https://github.com/patterniha"
+      }
+    },
+    {
+      "id": 1213776823,
+      "name": "CrabTrap",
+      "full_name": "brexhq/CrabTrap",
+      "html_url": "https://github.com/brexhq/CrabTrap",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "stars": 396,
+      "forks": 31,
+      "language": "Go",
+      "created_at": "2026-04-17T18:47:45Z",
+      "owner": {
+        "login": "brexhq",
+        "avatar": "https://avatars.githubusercontent.com/u/26666889?v=4",
+        "url": "https://github.com/brexhq"
+      }
+    },
+    {
+      "id": 1217623970,
+      "name": "PPT-Design-Prompt",
+      "full_name": "Russell-cell/PPT-Design-Prompt",
+      "html_url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+      "description": null,
+      "stars": 390,
+      "forks": 25,
+      "language": "Python",
+      "created_at": "2026-04-22T04:15:58Z",
+      "owner": {
+        "login": "Russell-cell",
+        "avatar": "https://avatars.githubusercontent.com/u/206703724?v=4",
+        "url": "https://github.com/Russell-cell"
+      }
+    },
+    {
+      "id": 1217102150,
+      "name": "MasterHttpRelayVPN-RUST",
+      "full_name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "html_url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+      "stars": 388,
+      "forks": 22,
+      "language": "Rust",
+      "created_at": "2026-04-21T14:46:31Z",
+      "owner": {
+        "login": "therealaleph",
+        "avatar": "https://avatars.githubusercontent.com/u/67456590?v=4",
+        "url": "https://github.com/therealaleph"
+      }
+    },
+    {
+      "id": 1215986180,
+      "name": "FlashKDA",
+      "full_name": "MoonshotAI/FlashKDA",
+      "html_url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "stars": 381,
+      "forks": 26,
+      "language": "Cuda",
+      "created_at": "2026-04-20T12:59:46Z",
+      "owner": {
+        "login": "MoonshotAI",
+        "avatar": "https://avatars.githubusercontent.com/u/129152888?v=4",
+        "url": "https://github.com/MoonshotAI"
+      }
+    },
+    {
+      "id": 1213975621,
+      "name": "Freebuff2API",
+      "full_name": "Quorinex/Freebuff2API",
+      "html_url": "https://github.com/Quorinex/Freebuff2API",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "stars": 381,
+      "forks": 64,
+      "language": "Go",
+      "created_at": "2026-04-18T01:08:34Z",
+      "owner": {
+        "login": "Quorinex",
+        "avatar": "https://avatars.githubusercontent.com/u/257893540?v=4",
+        "url": "https://github.com/Quorinex"
+      }
+    },
+    {
+      "id": 1213076887,
+      "name": "permiso",
+      "full_name": "zats/permiso",
+      "html_url": "https://github.com/zats/permiso",
+      "description": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819",
+      "stars": 375,
+      "forks": 25,
+      "language": "Swift",
+      "created_at": "2026-04-17T02:46:48Z",
+      "owner": {
+        "login": "zats",
+        "avatar": "https://avatars.githubusercontent.com/u/2688806?v=4",
+        "url": "https://github.com/zats"
+      }
+    },
+    {
+      "id": 1213220459,
+      "name": "open-codex-computer-use",
+      "full_name": "iFurySt/open-codex-computer-use",
+      "html_url": "https://github.com/iFurySt/open-codex-computer-use",
+      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "stars": 365,
+      "forks": 39,
+      "language": "Swift",
+      "created_at": "2026-04-17T06:51:32Z",
+      "owner": {
+        "login": "iFurySt",
+        "avatar": "https://avatars.githubusercontent.com/u/16201837?v=4",
+        "url": "https://github.com/iFurySt"
+      }
+    },
+    {
+      "id": 1214139285,
+      "name": "autoresearch",
+      "full_name": "smallnest/autoresearch",
+      "html_url": "https://github.com/smallnest/autoresearch",
+      "description": "autoresearch for software development",
+      "stars": 340,
+      "forks": 29,
+      "language": "Shell",
+      "created_at": "2026-04-18T07:01:02Z",
+      "owner": {
+        "login": "smallnest",
+        "avatar": "https://avatars.githubusercontent.com/u/865763?v=4",
+        "url": "https://github.com/smallnest"
+      }
+    },
+    {
+      "id": 1215383925,
+      "name": "trellis-mac",
+      "full_name": "shivampkumar/trellis-mac",
+      "html_url": "https://github.com/shivampkumar/trellis-mac",
+      "description": null,
+      "stars": 325,
+      "forks": 9,
+      "language": "Python",
+      "created_at": "2026-04-19T20:57:30Z",
+      "owner": {
+        "login": "shivampkumar",
+        "avatar": "https://avatars.githubusercontent.com/u/7513060?v=4",
+        "url": "https://github.com/shivampkumar"
+      }
+    },
+    {
+      "id": 1214951658,
+      "name": "awesome-claude-design",
+      "full_name": "rohitg00/awesome-claude-design",
+      "html_url": "https://github.com/rohitg00/awesome-claude-design",
+      "description": "Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.",
+      "stars": 313,
+      "forks": 30,
+      "language": null,
+      "created_at": "2026-04-19T09:20:44Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://avatars.githubusercontent.com/u/48523873?v=4",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": 1213616615,
+      "name": "swarm-forge",
+      "full_name": "unclebob/swarm-forge",
+      "html_url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "stars": 305,
+      "forks": 28,
+      "language": "Shell",
+      "created_at": "2026-04-17T15:18:26Z",
+      "owner": {
+        "login": "unclebob",
+        "avatar": "https://avatars.githubusercontent.com/u/36901?v=4",
+        "url": "https://github.com/unclebob"
+      }
+    },
+    {
+      "id": 1215857200,
+      "name": "pi-computer-use",
+      "full_name": "injaneity/pi-computer-use",
+      "html_url": "https://github.com/injaneity/pi-computer-use",
+      "description": "control your applications using pi-coding-agent. fully invisible.",
+      "stars": 299,
+      "forks": 16,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T10:18:18Z",
+      "owner": {
+        "login": "injaneity",
+        "avatar": "https://avatars.githubusercontent.com/u/44902825?v=4",
+        "url": "https://github.com/injaneity"
+      }
+    },
+    {
+      "id": 1215389987,
+      "name": "ledgerwallet",
+      "full_name": "Ledger-Wallet-LLC/ledgerwallet",
+      "html_url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+      "description": "Official Ledger Wallet Repository ",
+      "stars": 297,
+      "forks": 4,
+      "language": "JavaScript",
+      "created_at": "2026-04-19T21:09:49Z",
+      "owner": {
+        "login": "Ledger-Wallet-LLC",
+        "avatar": "https://avatars.githubusercontent.com/u/277556627?v=4",
+        "url": "https://github.com/Ledger-Wallet-LLC"
+      }
+    },
+    {
+      "id": 1214914397,
+      "name": "agent-style",
+      "full_name": "yzhao062/agent-style",
+      "html_url": "https://github.com/yzhao062/agent-style",
+      "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+      "stars": 284,
+      "forks": 11,
+      "language": "Python",
+      "created_at": "2026-04-19T08:12:16Z",
+      "owner": {
+        "login": "yzhao062",
+        "avatar": "https://avatars.githubusercontent.com/u/15079146?v=4",
+        "url": "https://github.com/yzhao062"
+      }
+    },
+    {
+      "id": 1215469712,
+      "name": "awawausb",
+      "full_name": "ArcaneNibble/awawausb",
+      "html_url": "https://github.com/ArcaneNibble/awawausb",
+      "description": "WebUSB for fopses",
+      "stars": 273,
+      "forks": 1,
+      "language": "Rust",
+      "created_at": "2026-04-20T00:16:32Z",
+      "owner": {
+        "login": "ArcaneNibble",
+        "avatar": "https://avatars.githubusercontent.com/u/732574?v=4",
+        "url": "https://github.com/ArcaneNibble"
+      }
+    },
+    {
+      "id": 1214564285,
+      "name": "browser-harness-js",
+      "full_name": "browser-use/browser-harness-js",
+      "html_url": "https://github.com/browser-use/browser-harness-js",
+      "description": "Self-healing browser harness that enables LLMs to complete any task",
+      "stars": 270,
+      "forks": 17,
+      "language": "TypeScript",
+      "created_at": "2026-04-18T18:44:16Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://avatars.githubusercontent.com/u/192012301?v=4",
+        "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": 1213212865,
+      "name": "esp-claw",
+      "full_name": "espressif/esp-claw",
+      "html_url": "https://github.com/espressif/esp-claw",
+      "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+      "stars": 255,
+      "forks": 45,
+      "language": "C",
+      "created_at": "2026-04-17T06:40:46Z",
+      "owner": {
+        "login": "espressif",
+        "avatar": "https://avatars.githubusercontent.com/u/9460735?v=4",
+        "url": "https://github.com/espressif"
+      }
+    },
+    {
+      "id": 1214958134,
+      "name": "alice",
+      "full_name": "simoncirstoiu/alice",
+      "html_url": "https://github.com/simoncirstoiu/alice",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "stars": 253,
+      "forks": 27,
+      "language": "JavaScript",
+      "created_at": "2026-04-19T09:32:31Z",
+      "owner": {
+        "login": "simoncirstoiu",
+        "avatar": "https://avatars.githubusercontent.com/u/46245735?v=4",
+        "url": "https://github.com/simoncirstoiu"
+      }
+    },
+    {
+      "id": 1215121664,
+      "name": "crypto-casino-bonus-2026",
+      "full_name": "bonused/crypto-casino-bonus-2026",
+      "html_url": "https://github.com/bonused/crypto-casino-bonus-2026",
+      "description": "Discover the best crypto casino bonuses in 2026, including no deposit offers, free spins, welcome rewards, and expert tips to maximize winnings. Compare top promotions and claim your exclusive $250 registration bonus today.",
+      "stars": 250,
+      "forks": 0,
+      "language": null,
+      "created_at": "2026-04-19T14:07:26Z",
+      "owner": {
+        "login": "bonused",
+        "avatar": "https://avatars.githubusercontent.com/u/276495194?v=4",
+        "url": "https://github.com/bonused"
+      }
+    },
+    {
+      "id": 1214645274,
+      "name": "honker",
+      "full_name": "russellromney/honker",
+      "html_url": "https://github.com/russellromney/honker",
+      "description": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler",
+      "stars": 249,
+      "forks": 5,
+      "language": "Python",
+      "created_at": "2026-04-18T21:19:35Z",
+      "owner": {
+        "login": "russellromney",
+        "avatar": "https://avatars.githubusercontent.com/u/22407809?v=4",
+        "url": "https://github.com/russellromney"
+      }
+    },
+    {
+      "id": 1213323614,
+      "name": "agent-startup-kit",
+      "full_name": "Blink-h/agent-startup-kit",
+      "html_url": "https://github.com/Blink-h/agent-startup-kit",
+      "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+      "stars": 237,
+      "forks": 1,
+      "language": null,
+      "created_at": "2026-04-17T09:03:55Z",
+      "owner": {
+        "login": "Blink-h",
+        "avatar": "https://avatars.githubusercontent.com/u/276926484?v=4",
+        "url": "https://github.com/Blink-h"
+      }
+    }
+  ]
+}
