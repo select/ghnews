@@ -9,7 +9,7 @@
     </header>
 
     <div class="text-center my-3">
-      <div class="inline-block text-sm text-gray-700 underline">auto-refresh disabled</div>
+      <div v-if="currentDate" class="inline-block text-sm text-gray-700 underline">{{ currentDate }}</div>
       <div class="float-right">
         <label class="text-sm mr-2">Timespan:</label>
         <select v-model="days" class="text-sm bg-white border border-gray-300 rounded px-2 py-1">
@@ -67,17 +67,41 @@ import { ref, watch } from 'vue'
 const days = ref<number>(7)
 const items = ref<any[] | null>(null)
 const error = ref<string | null>(null)
+const currentDate = ref<string | null>(null)
 
-async function fetchData () {
+async function fetchData() {
   items.value = null
   error.value = null
+
   try {
-    const res = await $fetch('/api/trending?days=' + days.value)
-    if ((res as any).error) {
-      error.value = (res as any).error
-    } else {
-      // Sort by created_at descending so newest (by creation date) appear first
-      items.value = (res as any).items.sort((a: any, b: any) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
+    // Load index to find available dates
+    const index = await $fetch<{ dates: string[] }>('/data/index.json')
+    if (!index.dates || index.dates.length === 0) {
+      error.value = 'No data available. Run pnpm fetch-news first.'
+      return
+    }
+
+    // Pick dates within the selected timespan
+    const cutoff = new Date()
+    cutoff.setDate(cutoff.getDate() - days.value)
+    const cutoffStr = cutoff.toISOString().split('T')[0]
+
+    const relevantDates = index.dates.filter(d => d >= cutoffStr)
+    if (relevantDates.length === 0) {
+      // Fall back to the most recent date
+      relevantDates.push(index.dates[0])
+    }
+
+    currentDate.value = relevantDates[0]
+
+    // Load the most recent relevant data file
+    const data = await $fetch<{ date: string; items: any[] }>(`/data/${relevantDates[0]}.json`)
+
+    if (data.items) {
+      // Sort by created_at descending
+      items.value = data.items.sort((a: any, b: any) =>
+        new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+      )
     }
   } catch (err: any) {
     error.value = err.message || String(err)
@@ -86,15 +110,7 @@ async function fetchData () {
 
 watch(days, () => fetchData(), { immediate: true })
 
-function formatDate (iso: string) {
-  try {
-    return new Date(iso).toLocaleDateString()
-  } catch (e) {
-    return iso
-  }
-}
-
-function formatDateDay (iso: string) {
+function formatDateDay(iso: string) {
   try {
     const d = new Date(iso)
     return d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' })
@@ -103,7 +119,7 @@ function formatDateDay (iso: string) {
   }
 }
 
-function extractDomain (url: string) {
+function extractDomain(url: string) {
   try {
     const u = new URL(url)
     return u.hostname.replace('www.', '')
