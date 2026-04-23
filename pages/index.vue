@@ -1,7 +1,7 @@
 <template>
   <div class="w-full max-w-full mx-auto px-1 sm:px-2 py-4 font-sans text-sm leading-5">
     <header class="flex items-center justify-between py-4">
-      <h1 class="text-3xl font-light">GH News</h1>
+      <h1 class="text-3xl font-light">ghnews</h1>
       <nav class="text-sm">
         <a href="#" class="mr-4 text-gray-700 hover:underline">settings</a>
         <a href="#" class="text-gray-700 hover:underline">about</a>
@@ -45,10 +45,10 @@
                 <div class="min-w-0">
                   <a :href="repo.html_url" target="_blank" class="block text-sm text-gray-900 font-medium no-underline">
                     <span class="align-middle">{{ repo.name }}</span>
-                    <span class="text-xs text-gray-400 ml-2 align-middle">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline" target="_blank" rel="noopener">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
                     <template v-if="repo.description">
                       <span class="text-xs text-gray-600 ml-3 align-middle">— {{ repo.description }}</span>
                     </template>
+                    <span class="text-xs text-gray-400 ml-2 align-middle">(<a :href="repo.owner?.url" class="text-gray-400 hover:underline" target="_blank" rel="noopener">{{ repo.owner?.login || extractDomain(repo.html_url) }}</a>)</span>
                   </a>
                 </div>
               </div>
