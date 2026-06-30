@@ -164,7 +164,7 @@ async function loadNextChunk() {
 	loadingMore.value = true;
 	try {
 		const date = allDates.value[chunkIndex.value];
-		const data = await $fetch<{ items: any[] }>(`/data/${date}.json`);
+		const data = await $fetch<{ items: any[] }>(`data/${date}.json`);
 		if (data.items) {
 			// keep archive order (already sorted by stars in-file); dedup
 			pushChunk(data.items);
@@ -183,7 +183,7 @@ async function init() {
 	seen.clear();
 	chunkIndex.value = 0;
 	try {
-		const index = await $fetch<{ dates: string[] }>("/data/index.json");
+		const index = await $fetch<{ dates: string[] }>("data/index.json");
 		if (!index.dates || index.dates.length === 0) {
 			error.value = "No data available.";
 			return;
@@ -223,7 +223,7 @@ async function refresh() {
 				"Refresh failed: " + (res.stderr || res.stdout || "unknown error");
 		} else {
 			// Bust cache and reload from scratch
-			await $fetch("/data/index.json", { query: { _t: Date.now() } });
+			await $fetch("data/index.json", { query: { _t: Date.now() } });
 			await init();
 		}
 	} catch (err: any) {
