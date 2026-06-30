@@ -4,6 +4,8 @@
 .output/
 .update.lock
 .vscode/
+.devpid
+dev.log
 dist/
 node_modules/
 update-trending.log
