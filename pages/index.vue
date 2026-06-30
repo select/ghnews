@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="w-full max-w-[940px] mx-auto px-2 sm:px-4 py-4 font-sans text-base leading-6"
+		class="w-full max-w-[940px] mx-auto px-2 sm:px-4 py-4 font-sans text-base leading-6 antialiased"
 	>
 		<header class="flex items-center justify-between py-4">
 			<h1 class="text-3xl font-light">ghnews</h1>
