@@ -1,0 +1,1915 @@
+{
+  "date": "2026-06-23",
+  "items": [
+    {
+      "id": 141442329,
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "html_url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "calesthio",
+        "avatar": "",
+        "url": "https://github.com/calesthio"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4289957969,
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ZhuLinsen",
+        "avatar": "",
+        "url": "https://github.com/ZhuLinsen"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1344880438,
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "mukul975",
+        "avatar": "",
+        "url": "https://github.com/mukul975"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 110163070,
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "bytedance",
+        "avatar": "",
+        "url": "https://github.com/bytedance"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4076530188,
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "",
+        "url": "https://github.com/anthropics"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2965316426,
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "NousResearch",
+        "avatar": "",
+        "url": "https://github.com/NousResearch"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3778231208,
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "html_url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "paperless-ngx",
+        "avatar": "",
+        "url": "https://github.com/paperless-ngx"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 252954913,
+      "name": "agent-toolkit-for-aws",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "html_url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "aws",
+        "avatar": "",
+        "url": "https://github.com/aws"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3965277378,
+      "name": "quant-mind",
+      "full_name": "LLMQuant/quant-mind",
+      "html_url": "https://github.com/LLMQuant/quant-mind",
+      "description": "QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "LLMQuant",
+        "avatar": "",
+        "url": "https://github.com/LLMQuant"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2132607961,
+      "name": "skills",
+      "full_name": "NVIDIA/skills",
+      "html_url": "https://github.com/NVIDIA/skills",
+      "description": "AI agent skills published by NVIDIA",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "",
+        "url": "https://github.com/NVIDIA"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1584259063,
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "html_url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "",
+        "url": "https://github.com/anthropics"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4080181326,
+      "name": "LangBot",
+      "full_name": "langbot-app/LangBot",
+      "html_url": "https://github.com/langbot-app/LangBot",
+      "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "langbot-app",
+        "avatar": "",
+        "url": "https://github.com/langbot-app"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2877086341,
+      "name": "storm",
+      "full_name": "stanford-oval/storm",
+      "html_url": "https://github.com/stanford-oval/storm",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "stanford-oval",
+        "avatar": "",
+        "url": "https://github.com/stanford-oval"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 833446554,
+      "name": "scrapy",
+      "full_name": "scrapy/scrapy",
+      "html_url": "https://github.com/scrapy/scrapy",
+      "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "scrapy",
+        "avatar": "",
+        "url": "https://github.com/scrapy"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1931389260,
+      "name": "autoresearch",
+      "full_name": "karpathy/autoresearch",
+      "html_url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "karpathy",
+        "avatar": "",
+        "url": "https://github.com/karpathy"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1167094678,
+      "name": "winpodx",
+      "full_name": "kernalix7/winpodx",
+      "html_url": "https://github.com/kernalix7/winpodx",
+      "description": "Windows pod system for Linux",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "kernalix7",
+        "avatar": "",
+        "url": "https://github.com/kernalix7"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1689920070,
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "",
+        "url": "https://github.com/Tencent"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2717846096,
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "html_url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "aquasecurity",
+        "avatar": "",
+        "url": "https://github.com/aquasecurity"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 273031924,
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "html_url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "syncthing",
+        "avatar": "",
+        "url": "https://github.com/syncthing"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 773250963,
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "html_url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "jackc",
+        "avatar": "",
+        "url": "https://github.com/jackc"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2703596514,
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "html_url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "prometheus",
+        "avatar": "",
+        "url": "https://github.com/prometheus"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1207335789,
+      "name": "multica",
+      "full_name": "multica-ai/multica",
+      "html_url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "multica-ai",
+        "avatar": "",
+        "url": "https://github.com/multica-ai"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1139878611,
+      "name": "Pentest-Swarm-AI",
+      "full_name": "Armur-Ai/Pentest-Swarm-AI",
+      "html_url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "Armur-Ai",
+        "avatar": "",
+        "url": "https://github.com/Armur-Ai"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3390660520,
+      "name": "no-mistakes",
+      "full_name": "kunchenguid/no-mistakes",
+      "html_url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "kunchenguid",
+        "avatar": "",
+        "url": "https://github.com/kunchenguid"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2932108212,
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "esengine",
+        "avatar": "",
+        "url": "https://github.com/esengine"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3735008598,
+      "name": "agent-sandbox",
+      "full_name": "kubernetes-sigs/agent-sandbox",
+      "html_url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "kubernetes-sigs",
+        "avatar": "",
+        "url": "https://github.com/kubernetes-sigs"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3209887885,
+      "name": "ainovel-cli",
+      "full_name": "voocel/ainovel-cli",
+      "html_url": "https://github.com/voocel/ainovel-cli",
+      "description": "✨多agent实现全自动AI小说生成",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "voocel",
+        "avatar": "",
+        "url": "https://github.com/voocel"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1008270993,
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "html_url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "milvus-io",
+        "avatar": "",
+        "url": "https://github.com/milvus-io"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1032924080,
+      "name": "Fabric",
+      "full_name": "danielmiessler/Fabric",
+      "html_url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "danielmiessler",
+        "avatar": "",
+        "url": "https://github.com/danielmiessler"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3650359213,
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "html_url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "gin-gonic",
+        "avatar": "",
+        "url": "https://github.com/gin-gonic"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1371356256,
+      "name": "harness",
+      "full_name": "harness/harness",
+      "html_url": "https://github.com/harness/harness",
+      "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "harness",
+        "avatar": "",
+        "url": "https://github.com/harness"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 218967359,
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "html_url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "argoproj",
+        "avatar": "",
+        "url": "https://github.com/argoproj"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1452653555,
+      "name": "treehouse",
+      "full_name": "kunchenguid/treehouse",
+      "html_url": "https://github.com/kunchenguid/treehouse",
+      "description": "Manage worktrees without managing worktrees.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "kunchenguid",
+        "avatar": "",
+        "url": "https://github.com/kunchenguid"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1386112609,
+      "name": "go-music-dl",
+      "full_name": "guohuiyuan/go-music-dl",
+      "html_url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "guohuiyuan",
+        "avatar": "",
+        "url": "https://github.com/guohuiyuan"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2381718840,
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "html_url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "navidrome",
+        "avatar": "",
+        "url": "https://github.com/navidrome"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2302750150,
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "html_url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "prometheus",
+        "avatar": "",
+        "url": "https://github.com/prometheus"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3067265215,
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "html_url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "hashicorp",
+        "avatar": "",
+        "url": "https://github.com/hashicorp"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3566825452,
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "html_url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "tailscale",
+        "avatar": "",
+        "url": "https://github.com/tailscale"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1874270525,
+      "name": "new-api",
+      "full_name": "QuantumNous/new-api",
+      "html_url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "QuantumNous",
+        "avatar": "",
+        "url": "https://github.com/QuantumNous"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1236030431,
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "html_url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "vxcontrol",
+        "avatar": "",
+        "url": "https://github.com/vxcontrol"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1645028994,
+      "name": "liteparse",
+      "full_name": "run-llama/liteparse",
+      "html_url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "run-llama",
+        "avatar": "",
+        "url": "https://github.com/run-llama"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1816948053,
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "html_url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "tursodatabase",
+        "avatar": "",
+        "url": "https://github.com/tursodatabase"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1344485757,
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "html_url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "tinyhumansai",
+        "avatar": "",
+        "url": "https://github.com/tinyhumansai"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1334164886,
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "",
+        "url": "https://github.com/vercel-labs"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2682203568,
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "html_url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "wezterm",
+        "avatar": "",
+        "url": "https://github.com/wezterm"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 712653508,
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "html_url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "rustdesk",
+        "avatar": "",
+        "url": "https://github.com/rustdesk"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2507955649,
+      "name": "windmill",
+      "full_name": "windmill-labs/windmill",
+      "html_url": "https://github.com/windmill-labs/windmill",
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "windmill-labs",
+        "avatar": "",
+        "url": "https://github.com/windmill-labs"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2495128541,
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "html_url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "louis-e",
+        "avatar": "",
+        "url": "https://github.com/louis-e"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2282250292,
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "html_url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "",
+        "url": "https://github.com/TencentCloud"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3201579750,
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "html_url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "",
+        "url": "https://github.com/ruvnet"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2453695868,
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "html_url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "bevyengine",
+        "avatar": "",
+        "url": "https://github.com/bevyengine"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 188772277,
+      "name": "rustnet",
+      "full_name": "domcyrus/rustnet",
+      "html_url": "https://github.com/domcyrus/rustnet",
+      "description": "Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "domcyrus",
+        "avatar": "",
+        "url": "https://github.com/domcyrus"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3808386504,
+      "name": "rustdesk-server",
+      "full_name": "rustdesk/rustdesk-server",
+      "html_url": "https://github.com/rustdesk/rustdesk-server",
+      "description": "RustDesk Server Program",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "rustdesk",
+        "avatar": "",
+        "url": "https://github.com/rustdesk"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2937936827,
+      "name": "rhwp",
+      "full_name": "edwardkim/rhwp",
+      "html_url": "https://github.com/edwardkim/rhwp",
+      "description": "아래한글 hwp viewer and editor by rust and wasm",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "edwardkim",
+        "avatar": "",
+        "url": "https://github.com/edwardkim"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 559482290,
+      "name": "bottom",
+      "full_name": "ClementTsang/bottom",
+      "html_url": "https://github.com/ClementTsang/bottom",
+      "description": "Yet another cross-platform graphical process/system monitor.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ClementTsang",
+        "avatar": "",
+        "url": "https://github.com/ClementTsang"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3281615650,
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "html_url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "tokio-rs",
+        "avatar": "",
+        "url": "https://github.com/tokio-rs"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1551706843,
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "html_url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Fast, flexible LLM inference",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "EricLBuehler",
+        "avatar": "",
+        "url": "https://github.com/EricLBuehler"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1228079458,
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "html_url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ajeetdsouza",
+        "avatar": "",
+        "url": "https://github.com/ajeetdsouza"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 932910074,
+      "name": "ESP32-Cheap-Yellow-Display",
+      "full_name": "witnessmenow/ESP32-Cheap-Yellow-Display",
+      "html_url": "https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display",
+      "description": "Building a community around a cheap ESP32 Display with a touch screen",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "witnessmenow",
+        "avatar": "",
+        "url": "https://github.com/witnessmenow"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1186021301,
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "html_url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "GyulyVGC",
+        "avatar": "",
+        "url": "https://github.com/GyulyVGC"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 892552159,
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "html_url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "google",
+        "avatar": "",
+        "url": "https://github.com/google"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1586545984,
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "tensorflow",
+        "avatar": "",
+        "url": "https://github.com/tensorflow"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3084807846,
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "html_url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "grpc",
+        "avatar": "",
+        "url": "https://github.com/grpc"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4103330741,
+      "name": "cutter",
+      "full_name": "rizinorg/cutter",
+      "html_url": "https://github.com/rizinorg/cutter",
+      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "rizinorg",
+        "avatar": "",
+        "url": "https://github.com/rizinorg"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3559614735,
+      "name": "LunaTranslator",
+      "full_name": "HIllya51/LunaTranslator",
+      "html_url": "https://github.com/HIllya51/LunaTranslator",
+      "description": "视觉小说翻译器 / Visual Novel Translator",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "HIllya51",
+        "avatar": "",
+        "url": "https://github.com/HIllya51"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 792148566,
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "html_url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "protocolbuffers",
+        "avatar": "",
+        "url": "https://github.com/protocolbuffers"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1177005659,
+      "name": "media-downloader",
+      "full_name": "mhogomchungu/media-downloader",
+      "html_url": "https://github.com/mhogomchungu/media-downloader",
+      "description": "Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "mhogomchungu",
+        "avatar": "",
+        "url": "https://github.com/mhogomchungu"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3065974257,
+      "name": "vllm-ascend",
+      "full_name": "vllm-project/vllm-ascend",
+      "html_url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "vllm-project",
+        "avatar": "",
+        "url": "https://github.com/vllm-project"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2101845287,
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "html_url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ggml-org",
+        "avatar": "",
+        "url": "https://github.com/ggml-org"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3763581224,
+      "name": "LibreSprite",
+      "full_name": "LibreSprite/LibreSprite",
+      "html_url": "https://github.com/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "LibreSprite",
+        "avatar": "",
+        "url": "https://github.com/LibreSprite"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 238484855,
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "html_url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ROCm",
+        "avatar": "",
+        "url": "https://github.com/ROCm"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3108826856,
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "html_url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "FreeCAD",
+        "avatar": "",
+        "url": "https://github.com/FreeCAD"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2072771804,
+      "name": "react-native",
+      "full_name": "react/react-native",
+      "html_url": "https://github.com/react/react-native",
+      "description": "A framework for building native applications using React",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "react",
+        "avatar": "",
+        "url": "https://github.com/react"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1814412167,
+      "name": "camoufox",
+      "full_name": "daijro/camoufox",
+      "html_url": "https://github.com/daijro/camoufox",
+      "description": "🦊 Anti-detect browser",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "daijro",
+        "avatar": "",
+        "url": "https://github.com/daijro"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1192223956,
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "html_url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "google",
+        "avatar": "",
+        "url": "https://github.com/google"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4142048246,
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "html_url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "openvinotoolkit",
+        "avatar": "",
+        "url": "https://github.com/openvinotoolkit"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3147788243,
+      "name": "moonlight-qt",
+      "full_name": "moonlight-stream/moonlight-qt",
+      "html_url": "https://github.com/moonlight-stream/moonlight-qt",
+      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "moonlight-stream",
+        "avatar": "",
+        "url": "https://github.com/moonlight-stream"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2478546599,
+      "name": "JUCE",
+      "full_name": "juce-framework/JUCE",
+      "html_url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "juce-framework",
+        "avatar": "",
+        "url": "https://github.com/juce-framework"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 990698371,
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "html_url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "fmtlib",
+        "avatar": "",
+        "url": "https://github.com/fmtlib"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1717247436,
+      "name": "nixl",
+      "full_name": "ai-dynamo/nixl",
+      "html_url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ai-dynamo",
+        "avatar": "",
+        "url": "https://github.com/ai-dynamo"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 460300246,
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "html_url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "zeux",
+        "avatar": "",
+        "url": "https://github.com/zeux"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1379949824,
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "",
+        "url": "https://github.com/affaan-m"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4019289559,
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "asgeirtj",
+        "avatar": "",
+        "url": "https://github.com/asgeirtj"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1167656615,
+      "name": "anime",
+      "full_name": "juliangarnier/anime",
+      "html_url": "https://github.com/juliangarnier/anime",
+      "description": "JavaScript animation engine",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "juliangarnier",
+        "avatar": "",
+        "url": "https://github.com/juliangarnier"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 391388200,
+      "name": "streambert",
+      "full_name": "truelockmc/streambert",
+      "html_url": "https://github.com/truelockmc/streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "truelockmc",
+        "avatar": "",
+        "url": "https://github.com/truelockmc"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2929383863,
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "html_url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "jarrodwatts",
+        "avatar": "",
+        "url": "https://github.com/jarrodwatts"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1003929254,
+      "name": "three.js",
+      "full_name": "mrdoob/three.js",
+      "html_url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "mrdoob",
+        "avatar": "",
+        "url": "https://github.com/mrdoob"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 170129520,
+      "name": "axios",
+      "full_name": "axios/axios",
+      "html_url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "axios",
+        "avatar": "",
+        "url": "https://github.com/axios"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3738042055,
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "html_url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "garrytan",
+        "avatar": "",
+        "url": "https://github.com/garrytan"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2049720318,
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "html_url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "koala73",
+        "avatar": "",
+        "url": "https://github.com/koala73"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2154611599,
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "jamiepine",
+        "avatar": "",
+        "url": "https://github.com/jamiepine"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2175813800,
+      "name": "ai-website-cloner-template",
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "html_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "JCodesMore",
+        "avatar": "",
+        "url": "https://github.com/JCodesMore"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1498949688,
+      "name": "hunk",
+      "full_name": "modem-dev/hunk",
+      "html_url": "https://github.com/modem-dev/hunk",
+      "description": "Review-first terminal diff viewer for agentic coders",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "modem-dev",
+        "avatar": "",
+        "url": "https://github.com/modem-dev"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1279107186,
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "heygen-com",
+        "avatar": "",
+        "url": "https://github.com/heygen-com"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3732048626,
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agent-native applications.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "BuilderIO",
+        "avatar": "",
+        "url": "https://github.com/BuilderIO"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3342146863,
+      "name": "shannon",
+      "full_name": "KeygraphHQ/shannon",
+      "html_url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "KeygraphHQ",
+        "avatar": "",
+        "url": "https://github.com/KeygraphHQ"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2017459124,
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "html_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "Crosstalk-Solutions",
+        "avatar": "",
+        "url": "https://github.com/Crosstalk-Solutions"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3157949091,
+      "name": "Stirling-PDF",
+      "full_name": "Stirling-Tools/Stirling-PDF",
+      "html_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "Stirling-Tools",
+        "avatar": "",
+        "url": "https://github.com/Stirling-Tools"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 3993170130,
+      "name": "MentraOS",
+      "full_name": "Mentra-Community/MentraOS",
+      "html_url": "https://github.com/Mentra-Community/MentraOS",
+      "description": "MentraOS is the leading smart glasses OS. See live captions, stream your view, talk to AI, and capture photos hands-free on compatible glasses.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "Mentra-Community",
+        "avatar": "",
+        "url": "https://github.com/Mentra-Community"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 4251294308,
+      "name": "grafana",
+      "full_name": "grafana/grafana",
+      "html_url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "grafana",
+        "avatar": "",
+        "url": "https://github.com/grafana"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 486661786,
+      "name": "wacrm",
+      "full_name": "ArnasDon/wacrm",
+      "html_url": "https://github.com/ArnasDon/wacrm",
+      "description": "",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "ArnasDon",
+        "avatar": "",
+        "url": "https://github.com/ArnasDon"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 2983904980,
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "",
+        "url": "https://github.com/mksglu"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 931497772,
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "html_url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "stablyai",
+        "avatar": "",
+        "url": "https://github.com/stablyai"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 343397480,
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "html_url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "",
+        "url": "https://github.com/firecrawl"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1927846183,
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "html_url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "",
+        "url": "https://github.com/alibaba"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    },
+    {
+      "id": 1041257652,
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "html_url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2026-06-23T00:00:00Z",
+      "owner": {
+        "login": "abhigyanpatwari",
+        "avatar": "",
+        "url": "https://github.com/abhigyanpatwari"
+      },
+      "_trending_date": "2026-06-23",
+      "_source": "archive"
+    }
+  ],
+  "_source": "archive",
+  "_partial": true
+}

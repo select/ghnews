@@ -1,0 +1,1717 @@
+{
+  "date": "2025-12-29",
+  "items": [
+    {
+      "id": 3370790825,
+      "name": "TrendRadar",
+      "full_name": "sansan0/TrendRadar",
+      "html_url": "https://github.com/sansan0/TrendRadar",
+      "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sansan0",
+        "avatar": "",
+        "url": "https://github.com/sansan0"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3915224968,
+      "name": "chatterbox",
+      "full_name": "resemble-ai/chatterbox",
+      "html_url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "resemble-ai",
+        "avatar": "",
+        "url": "https://github.com/resemble-ai"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1661275205,
+      "name": "Python",
+      "full_name": "TheAlgorithms/Python",
+      "html_url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "TheAlgorithms",
+        "avatar": "",
+        "url": "https://github.com/TheAlgorithms"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3253472003,
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "html_url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "donnemartin",
+        "avatar": "",
+        "url": "https://github.com/donnemartin"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3146589814,
+      "name": "mealie",
+      "full_name": "mealie-recipes/mealie",
+      "html_url": "https://github.com/mealie-recipes/mealie",
+      "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mealie-recipes",
+        "avatar": "",
+        "url": "https://github.com/mealie-recipes"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2025359912,
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "Shubhamsaboo",
+        "avatar": "",
+        "url": "https://github.com/Shubhamsaboo"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2860181721,
+      "name": "SurfSense",
+      "full_name": "MODSetter/SurfSense",
+      "html_url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors. Join our Discord: https://discord.gg/ejRNvftDp9",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "MODSetter",
+        "avatar": "",
+        "url": "https://github.com/MODSetter"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2086923175,
+      "name": "RealtimeSTT",
+      "full_name": "KoljaB/RealtimeSTT",
+      "html_url": "https://github.com/KoljaB/RealtimeSTT",
+      "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "KoljaB",
+        "avatar": "",
+        "url": "https://github.com/KoljaB"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 685501239,
+      "name": "agents",
+      "full_name": "wshobson/agents",
+      "html_url": "https://github.com/wshobson/agents",
+      "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "wshobson",
+        "avatar": "",
+        "url": "https://github.com/wshobson"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1504327526,
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "",
+        "url": "https://github.com/shiyu-coder"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 697302580,
+      "name": "sympy",
+      "full_name": "sympy/sympy",
+      "html_url": "https://github.com/sympy/sympy",
+      "description": "A computer algebra system written in pure Python",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sympy",
+        "avatar": "",
+        "url": "https://github.com/sympy"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 879023734,
+      "name": "hacs_waste_collection_schedule",
+      "full_name": "mampfes/hacs_waste_collection_schedule",
+      "html_url": "https://github.com/mampfes/hacs_waste_collection_schedule",
+      "description": "Home Assistant integration framework for (garbage collection) schedules",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mampfes",
+        "avatar": "",
+        "url": "https://github.com/mampfes"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3512595813,
+      "name": "n8n-workflows",
+      "full_name": "Zie619/n8n-workflows",
+      "html_url": "https://github.com/Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "stars": 0,
+      "forks": 0,
+      "language": "python",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "Zie619",
+        "avatar": "",
+        "url": "https://github.com/Zie619"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 725021509,
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "html_url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sysadminsmedia",
+        "avatar": "",
+        "url": "https://github.com/sysadminsmedia"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1220678260,
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "html_url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "netbirdio",
+        "avatar": "",
+        "url": "https://github.com/netbirdio"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3528158054,
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "html_url": "https://github.com/keploy/keploy",
+      "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "keploy",
+        "avatar": "",
+        "url": "https://github.com/keploy"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3297179609,
+      "name": "axonhub",
+      "full_name": "looplj/axonhub",
+      "html_url": "https://github.com/looplj/axonhub",
+      "description": "AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "looplj",
+        "avatar": "",
+        "url": "https://github.com/looplj"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 4146020433,
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "html_url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "evcc-io",
+        "avatar": "",
+        "url": "https://github.com/evcc-io"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2717846096,
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "html_url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "aquasecurity",
+        "avatar": "",
+        "url": "https://github.com/aquasecurity"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 273031924,
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "html_url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "syncthing",
+        "avatar": "",
+        "url": "https://github.com/syncthing"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3735665582,
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "html_url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "gohugoio",
+        "avatar": "",
+        "url": "https://github.com/gohugoio"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 388994405,
+      "name": "age",
+      "full_name": "FiloSottile/age",
+      "html_url": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "FiloSottile",
+        "avatar": "",
+        "url": "https://github.com/FiloSottile"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3236461626,
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "html_url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "avelino",
+        "avatar": "",
+        "url": "https://github.com/avelino"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3026480482,
+      "name": "ebiten",
+      "full_name": "hajimehoshi/ebiten",
+      "html_url": "https://github.com/hajimehoshi/ebiten",
+      "description": "A dead simple 2D game engine for Go",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "hajimehoshi",
+        "avatar": "",
+        "url": "https://github.com/hajimehoshi"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3603567871,
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "html_url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mayswind",
+        "avatar": "",
+        "url": "https://github.com/mayswind"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2245435455,
+      "name": "nps",
+      "full_name": "ehang-io/nps",
+      "html_url": "https://github.com/ehang-io/nps",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ehang-io",
+        "avatar": "",
+        "url": "https://github.com/ehang-io"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 662373351,
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "html_url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "XTLS",
+        "avatar": "",
+        "url": "https://github.com/XTLS"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3112123106,
+      "name": "tsgolint",
+      "full_name": "oxc-project/tsgolint",
+      "html_url": "https://github.com/oxc-project/tsgolint",
+      "description": "Type aware linting for oxlint",
+      "stars": 0,
+      "forks": 0,
+      "language": "go",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "oxc-project",
+        "avatar": "",
+        "url": "https://github.com/oxc-project"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2629332930,
+      "name": "RustPython",
+      "full_name": "RustPython/RustPython",
+      "html_url": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "RustPython",
+        "avatar": "",
+        "url": "https://github.com/RustPython"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 283380806,
+      "name": "vibe-kanban",
+      "full_name": "BloopAI/vibe-kanban",
+      "html_url": "https://github.com/BloopAI/vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "BloopAI",
+        "avatar": "",
+        "url": "https://github.com/BloopAI"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3189027959,
+      "name": "fresh",
+      "full_name": "sinelaw/fresh",
+      "html_url": "https://github.com/sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sinelaw",
+        "avatar": "",
+        "url": "https://github.com/sinelaw"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2541480956,
+      "name": "tunnelto",
+      "full_name": "agrinman/tunnelto",
+      "html_url": "https://github.com/agrinman/tunnelto",
+      "description": "Expose your local web server to the internet with a public URL.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "agrinman",
+        "avatar": "",
+        "url": "https://github.com/agrinman"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1974697172,
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "html_url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ratatui",
+        "avatar": "",
+        "url": "https://github.com/ratatui"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2208723177,
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "html_url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "tracel-ai",
+        "avatar": "",
+        "url": "https://github.com/tracel-ai"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 992598009,
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "html_url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "dani-garcia",
+        "avatar": "",
+        "url": "https://github.com/dani-garcia"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 4208048882,
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "html_url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "",
+        "url": "https://github.com/cloudflare"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3265042556,
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "html_url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "qarmin",
+        "avatar": "",
+        "url": "https://github.com/qarmin"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3174962635,
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "html_url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ankitects",
+        "avatar": "",
+        "url": "https://github.com/ankitects"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2973885432,
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "html_url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "fish-shell",
+        "avatar": "",
+        "url": "https://github.com/fish-shell"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 83124692,
+      "name": "rocketmq-rust",
+      "full_name": "mxsm/rocketmq-rust",
+      "html_url": "https://github.com/mxsm/rocketmq-rust",
+      "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.⭐Star if you like it!",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mxsm",
+        "avatar": "",
+        "url": "https://github.com/mxsm"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1765727848,
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "html_url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "get-convex",
+        "avatar": "",
+        "url": "https://github.com/get-convex"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3977663391,
+      "name": "open-tv",
+      "full_name": "Fredolx/open-tv",
+      "html_url": "https://github.com/Fredolx/open-tv",
+      "description": "Ultra-fast, simple and powerful cross-platform IPTV app",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "Fredolx",
+        "avatar": "",
+        "url": "https://github.com/Fredolx"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3328854718,
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "html_url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "stalwartlabs",
+        "avatar": "",
+        "url": "https://github.com/stalwartlabs"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 222283962,
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "html_url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "bee-san",
+        "avatar": "",
+        "url": "https://github.com/bee-san"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2349371326,
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "html_url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "rust-lang",
+        "avatar": "",
+        "url": "https://github.com/rust-lang"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 614359870,
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "html_url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "emilk",
+        "avatar": "",
+        "url": "https://github.com/emilk"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1345304939,
+      "name": "Dorion",
+      "full_name": "SpikeHD/Dorion",
+      "html_url": "https://github.com/SpikeHD/Dorion",
+      "description": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "SpikeHD",
+        "avatar": "",
+        "url": "https://github.com/SpikeHD"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1793054333,
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "html_url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "stars": 0,
+      "forks": 0,
+      "language": "rust",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "vercel",
+        "avatar": "",
+        "url": "https://github.com/vercel"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2245850542,
+      "name": "mongo",
+      "full_name": "mongodb/mongo",
+      "html_url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mongodb",
+        "avatar": "",
+        "url": "https://github.com/mongodb"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2405373217,
+      "name": "Battery-Emulator",
+      "full_name": "dalathegreat/Battery-Emulator",
+      "html_url": "https://github.com/dalathegreat/Battery-Emulator",
+      "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "dalathegreat",
+        "avatar": "",
+        "url": "https://github.com/dalathegreat"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1077505050,
+      "name": "LichtFeld-Studio",
+      "full_name": "MrNeRF/LichtFeld-Studio",
+      "html_url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "description": "LichtFeld Studio: Where reality and the digital world blend.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "MrNeRF",
+        "avatar": "",
+        "url": "https://github.com/MrNeRF"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 688045836,
+      "name": "qBittorrent",
+      "full_name": "qbittorrent/qBittorrent",
+      "html_url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "qbittorrent",
+        "avatar": "",
+        "url": "https://github.com/qbittorrent"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3184588740,
+      "name": "wabt",
+      "full_name": "WebAssembly/wabt",
+      "html_url": "https://github.com/WebAssembly/wabt",
+      "description": "The WebAssembly Binary Toolkit",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "WebAssembly",
+        "avatar": "",
+        "url": "https://github.com/WebAssembly"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 145004770,
+      "name": "Cataclysm-DDA",
+      "full_name": "CleverRaven/Cataclysm-DDA",
+      "html_url": "https://github.com/CleverRaven/Cataclysm-DDA",
+      "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "CleverRaven",
+        "avatar": "",
+        "url": "https://github.com/CleverRaven"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3719126056,
+      "name": "notepad-plus-plus",
+      "full_name": "notepad-plus-plus/notepad-plus-plus",
+      "html_url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+      "description": "Notepad++ official repository",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "notepad-plus-plus",
+        "avatar": "",
+        "url": "https://github.com/notepad-plus-plus"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 235174018,
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "html_url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "godotengine",
+        "avatar": "",
+        "url": "https://github.com/godotengine"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2527026312,
+      "name": "esphome",
+      "full_name": "esphome/esphome",
+      "html_url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "esphome",
+        "avatar": "",
+        "url": "https://github.com/esphome"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3468360402,
+      "name": "harfbuzz",
+      "full_name": "harfbuzz/harfbuzz",
+      "html_url": "https://github.com/harfbuzz/harfbuzz",
+      "description": "HarfBuzz text shaping engine",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "harfbuzz",
+        "avatar": "",
+        "url": "https://github.com/harfbuzz"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2185892884,
+      "name": "MuseScore",
+      "full_name": "musescore/MuseScore",
+      "html_url": "https://github.com/musescore/MuseScore",
+      "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "musescore",
+        "avatar": "",
+        "url": "https://github.com/musescore"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3915467722,
+      "name": "dogecoin",
+      "full_name": "dogecoin/dogecoin",
+      "html_url": "https://github.com/dogecoin/dogecoin",
+      "description": "very currency",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "dogecoin",
+        "avatar": "",
+        "url": "https://github.com/dogecoin"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1806477356,
+      "name": "RE-UE4SS",
+      "full_name": "UE4SS-RE/RE-UE4SS",
+      "html_url": "https://github.com/UE4SS-RE/RE-UE4SS",
+      "description": "Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "UE4SS-RE",
+        "avatar": "",
+        "url": "https://github.com/UE4SS-RE"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2770660653,
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "html_url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "hyprwm",
+        "avatar": "",
+        "url": "https://github.com/hyprwm"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3583285628,
+      "name": "PrismLauncher",
+      "full_name": "PrismLauncher/PrismLauncher",
+      "html_url": "https://github.com/PrismLauncher/PrismLauncher",
+      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "PrismLauncher",
+        "avatar": "",
+        "url": "https://github.com/PrismLauncher"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1066101260,
+      "name": "fxsound-app",
+      "full_name": "fxsound2/fxsound-app",
+      "html_url": "https://github.com/fxsound2/fxsound-app",
+      "description": "FxSound application and DSP source code",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "fxsound2",
+        "avatar": "",
+        "url": "https://github.com/fxsound2"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3238026296,
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "html_url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "bitcoin",
+        "avatar": "",
+        "url": "https://github.com/bitcoin"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1741186216,
+      "name": "OrcaSlicer",
+      "full_name": "OrcaSlicer/OrcaSlicer",
+      "html_url": "https://github.com/OrcaSlicer/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "OrcaSlicer",
+        "avatar": "",
+        "url": "https://github.com/OrcaSlicer"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 4167702087,
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "html_url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "",
+        "url": "https://github.com/cloudflare"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2373198070,
+      "name": "azerothcore-wotlk",
+      "full_name": "azerothcore/azerothcore-wotlk",
+      "html_url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "description": "Complete Open Source and Modular solution for MMO",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "azerothcore",
+        "avatar": "",
+        "url": "https://github.com/azerothcore"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1306189184,
+      "name": "pcsx2",
+      "full_name": "PCSX2/pcsx2",
+      "html_url": "https://github.com/PCSX2/pcsx2",
+      "description": "PCSX2 - The Playstation 2 Emulator",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "PCSX2",
+        "avatar": "",
+        "url": "https://github.com/PCSX2"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2151125389,
+      "name": "GTAIV.EFLC.FusionFix",
+      "full_name": "ThirteenAG/GTAIV.EFLC.FusionFix",
+      "html_url": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix",
+      "description": "This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ThirteenAG",
+        "avatar": "",
+        "url": "https://github.com/ThirteenAG"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3567175164,
+      "name": "xournalpp",
+      "full_name": "xournalpp/xournalpp",
+      "html_url": "https://github.com/xournalpp/xournalpp",
+      "description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",
+      "stars": 0,
+      "forks": 0,
+      "language": "cpp",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "xournalpp",
+        "avatar": "",
+        "url": "https://github.com/xournalpp"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 378420513,
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "html_url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "harvard-edge",
+        "avatar": "",
+        "url": "https://github.com/harvard-edge"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2996058140,
+      "name": "OpenSign",
+      "full_name": "OpenSignLabs/OpenSign",
+      "html_url": "https://github.com/OpenSignLabs/OpenSign",
+      "description": "🔥 The free & Open Source DocuSign alternative",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "OpenSignLabs",
+        "avatar": "",
+        "url": "https://github.com/OpenSignLabs"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 878725617,
+      "name": "internet_archive_downloader",
+      "full_name": "elementdavv/internet_archive_downloader",
+      "html_url": "https://github.com/elementdavv/internet_archive_downloader",
+      "description": "A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "elementdavv",
+        "avatar": "",
+        "url": "https://github.com/elementdavv"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3377300175,
+      "name": "mini-tokyo-3d",
+      "full_name": "nagix/mini-tokyo-3d",
+      "html_url": "https://github.com/nagix/mini-tokyo-3d",
+      "description": "A real-time 3D digital map of Tokyo's public transport system",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "nagix",
+        "avatar": "",
+        "url": "https://github.com/nagix"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2142951188,
+      "name": "Web-Dev-For-Beginners",
+      "full_name": "microsoft/Web-Dev-For-Beginners",
+      "html_url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "",
+        "url": "https://github.com/microsoft"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 364201845,
+      "name": "Baileys",
+      "full_name": "WhiskeySockets/Baileys",
+      "html_url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "WhiskeySockets",
+        "avatar": "",
+        "url": "https://github.com/WhiskeySockets"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3918781822,
+      "name": "kit",
+      "full_name": "sveltejs/kit",
+      "html_url": "https://github.com/sveltejs/kit",
+      "description": "web development, streamlined",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sveltejs",
+        "avatar": "",
+        "url": "https://github.com/sveltejs"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 616328078,
+      "name": "openmtp",
+      "full_name": "ganeshrvel/openmtp",
+      "html_url": "https://github.com/ganeshrvel/openmtp",
+      "description": "OpenMTP - Advanced Android File Transfer Application for macOS",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ganeshrvel",
+        "avatar": "",
+        "url": "https://github.com/ganeshrvel"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 4029188412,
+      "name": "shields",
+      "full_name": "badges/shields",
+      "html_url": "https://github.com/badges/shields",
+      "description": "Concise, consistent, and legible badges in SVG and raster format",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "badges",
+        "avatar": "",
+        "url": "https://github.com/badges"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 4054967948,
+      "name": "filestash",
+      "full_name": "mickael-kerjean/filestash",
+      "html_url": "https://github.com/mickael-kerjean/filestash",
+      "description": "📁 What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "mickael-kerjean",
+        "avatar": "",
+        "url": "https://github.com/mickael-kerjean"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3848967204,
+      "name": "github-readme-stats",
+      "full_name": "anuraghazra/github-readme-stats",
+      "html_url": "https://github.com/anuraghazra/github-readme-stats",
+      "description": "⚡ Dynamically generated stats for your github readmes",
+      "stars": 0,
+      "forks": 0,
+      "language": "javascript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "anuraghazra",
+        "avatar": "",
+        "url": "https://github.com/anuraghazra"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2446776983,
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "html_url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "gitroomhq",
+        "avatar": "",
+        "url": "https://github.com/gitroomhq"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 839218546,
+      "name": "ghostfolio",
+      "full_name": "ghostfolio/ghostfolio",
+      "html_url": "https://github.com/ghostfolio/ghostfolio",
+      "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "ghostfolio",
+        "avatar": "",
+        "url": "https://github.com/ghostfolio"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3040566104,
+      "name": "xterm.js",
+      "full_name": "xtermjs/xterm.js",
+      "html_url": "https://github.com/xtermjs/xterm.js",
+      "description": "A terminal for the web",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "xtermjs",
+        "avatar": "",
+        "url": "https://github.com/xtermjs"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3232715736,
+      "name": "Handy",
+      "full_name": "cjpais/Handy",
+      "html_url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "cjpais",
+        "avatar": "",
+        "url": "https://github.com/cjpais"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1496029990,
+      "name": "instagram-cli",
+      "full_name": "supreme-gg-gg/instagram-cli",
+      "html_url": "https://github.com/supreme-gg-gg/instagram-cli",
+      "description": "Instagram's terminal UI app - The ultimate weapon against brainrot",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "supreme-gg-gg",
+        "avatar": "",
+        "url": "https://github.com/supreme-gg-gg"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3771130227,
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "html_url": "https://github.com/sst/opencode",
+      "description": "The open source coding agent.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sst",
+        "avatar": "",
+        "url": "https://github.com/sst"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2661851158,
+      "name": "hyprnote",
+      "full_name": "fastrepl/hyprnote",
+      "html_url": "https://github.com/fastrepl/hyprnote",
+      "description": "Local-first AI Notepad for Private Meetings",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "fastrepl",
+        "avatar": "",
+        "url": "https://github.com/fastrepl"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1243422587,
+      "name": "app-monorepo",
+      "full_name": "OneKeyHQ/app-monorepo",
+      "html_url": "https://github.com/OneKeyHQ/app-monorepo",
+      "description": "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "OneKeyHQ",
+        "avatar": "",
+        "url": "https://github.com/OneKeyHQ"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2004958930,
+      "name": "OpenAgents",
+      "full_name": "darrenhinde/OpenAgents",
+      "html_url": "https://github.com/darrenhinde/OpenAgents",
+      "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "darrenhinde",
+        "avatar": "",
+        "url": "https://github.com/darrenhinde"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 3403674643,
+      "name": "nest",
+      "full_name": "nestjs/nest",
+      "html_url": "https://github.com/nestjs/nest",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "nestjs",
+        "avatar": "",
+        "url": "https://github.com/nestjs"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2587275960,
+      "name": "opentui",
+      "full_name": "sst/opentui",
+      "html_url": "https://github.com/sst/opentui",
+      "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "sst",
+        "avatar": "",
+        "url": "https://github.com/sst"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 1479079926,
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "html_url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "likec4",
+        "avatar": "",
+        "url": "https://github.com/likec4"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    },
+    {
+      "id": 2200741140,
+      "name": "daytona",
+      "full_name": "daytonaio/daytona",
+      "html_url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "stars": 0,
+      "forks": 0,
+      "language": "typescript",
+      "created_at": "2025-12-29T00:00:00Z",
+      "owner": {
+        "login": "daytonaio",
+        "avatar": "",
+        "url": "https://github.com/daytonaio"
+      },
+      "_trending_date": "2025-12-29",
+      "_source": "archive"
+    }
+  ],
+  "_source": "archive",
+  "_partial": true
+}
