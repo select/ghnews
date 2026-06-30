@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="w-full max-w-[940px] mx-auto px-3 sm:px-4 py-4 font-sans text-base leading-6"
+		class="w-full max-w-[940px] mx-auto px-2 sm:px-4 py-4 font-sans text-base leading-6"
 	>
 		<header class="flex items-center justify-between py-4">
 			<h1 class="text-3xl font-light">ghnews</h1>
@@ -88,12 +88,14 @@
 										rel="noopener"
 										class="block text-base text-gray-900 font-medium no-underline"
 									>
-										<span class="align-middle capitalize">{{ repo.name }}</span>
+										<div class="truncate">
+											<span class="align-middle capitalize">{{ repo.name }}</span>
 										<span class="text-gray-400 ml-2 align-middle"
 											>({{
 												repo.owner?.login || extractDomain(repo.html_url)
 											}})</span
 										>
+										</div>
 										<p
 											v-if="repo.description"
 											class="text-sm text-gray-600 mt-0.5 line-clamp-2"
@@ -106,7 +108,7 @@
 									:src="ogImage(repo)"
 									:alt="repo.full_name"
 									loading="lazy"
-									class="flex-none w-24 sm:w-32 aspect-2/1 object-cover rounded border border-gray-200 bg-gray-50"
+									class="hidden sm:block flex-none w-32 aspect-2/1 object-cover rounded border border-gray-200 bg-gray-50"
 									@error="failedImgs.add(repo.id); failedImgs = new Set(failedImgs)"
 								/>
 							</div>
@@ -142,8 +144,9 @@ const sentinel = ref<HTMLElement | null>(null);
 const failedImgs = ref(new Set<string | number>());
 let observer: IntersectionObserver | null = null;
 
+const mounted = ref(false);
 const isLocalhost = computed(() => {
-	if (import.meta.server) return false;
+	if (!mounted.value) return false;
 	const h = window.location.hostname;
 	return h === "localhost" || h === "127.0.0.1" || h === "0.0.0.0";
 });
@@ -207,7 +210,10 @@ function setupObserver() {
 	observer.observe(sentinel.value);
 }
 
-onMounted(init);
+onMounted(() => {
+	mounted.value = true;
+	init();
+});
 onBeforeUnmount(() => observer?.disconnect());
 
 async function refresh() {

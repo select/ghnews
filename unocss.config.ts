@@ -13,6 +13,15 @@ export default defineConfig({
       }
     }),
   ],
+  preflights: [
+    {
+      layer: 'base',
+      getCSS: () => `
+*,::before,::after{box-sizing:border-box;}
+html,body{margin:0;}
+`,
+    },
+  ],
   shortcuts: {
     'btn': 'px-4 py-2 rounded inline-block bg-primary text-white'
   },
