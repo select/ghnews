@@ -1,7 +1,9 @@
-node_modules/
-.nuxt/
-dist/
-.output/
-.env
 .DS_Store
+.env
+.nuxt/
+.output/
+.update.lock
 .vscode/
+dist/
+node_modules/
+update-trending.log
