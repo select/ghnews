@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-02",
+  "since": "daily",
+  "fetched_at": "2026-07-02T08:43:01.332Z",
+  "first_fetched_at": "2026-07-02T08:41:07.376Z",
+  "snapshots": 3,
+  "updated_at": "2026-07-02T08:43:01.332Z",
+  "total_count": 20,
+  "items": [
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 124557,
+      "forks": 20214,
+      "stars_today": 2114,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    },
+    {
+      "id": "usestrix/strix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 30428,
+      "forks": 3262,
+      "stars_today": 1211,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "usestrix",
+        "avatar": "https://github.com/usestrix.png",
+        "url": "https://github.com/usestrix"
+      }
+    },
+    {
+      "id": "HKUDS/Vibe-Trading",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 16974,
+      "forks": 2842,
+      "stars_today": 694,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "hasaneyldrm/exercises-dataset",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "stars": 8765,
+      "forks": 982,
+      "stars_today": 2470,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "hasaneyldrm",
+        "avatar": "https://github.com/hasaneyldrm.png",
+        "url": "https://github.com/hasaneyldrm"
+      }
+    },
+    {
+      "id": "facebook/astryx",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "html_url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 3043,
+      "forks": 158,
+      "stars_today": 708,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "facebook",
+        "avatar": "https://github.com/facebook.png",
+        "url": "https://github.com/facebook"
+      }
+    },
+    {
+      "id": "diegosouzapw/OmniRoute",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "html_url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "stars": 9917,
+      "forks": 1501,
+      "stars_today": 1010,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "diegosouzapw",
+        "avatar": "https://github.com/diegosouzapw.png",
+        "url": "https://github.com/diegosouzapw"
+      }
+    },
+    {
+      "id": "allenai/olmocr",
+      "name": "olmocr",
+      "full_name": "allenai/olmocr",
+      "html_url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars": 18451,
+      "forks": 1518,
+      "stars_today": 334,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "allenai",
+        "avatar": "https://github.com/allenai.png",
+        "url": "https://github.com/allenai"
+      }
+    },
+    {
+      "id": "logto-io/logto",
+      "name": "logto",
+      "full_name": "logto-io/logto",
+      "html_url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "stars": 13427,
+      "forks": 909,
+      "stars_today": 113,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "logto-io",
+        "avatar": "https://github.com/logto-io.png",
+        "url": "https://github.com/logto-io"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/378310716/3c56ff4b-787f-4cf5-930f-b2f807535d16"
+    },
+    {
+      "id": "togatoga/karukan",
+      "name": "karukan",
+      "full_name": "togatoga/karukan",
+      "html_url": "https://github.com/togatoga/karukan",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "stars": 623,
+      "forks": 38,
+      "stars_today": 42,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "togatoga",
+        "avatar": "https://github.com/togatoga.png",
+        "url": "https://github.com/togatoga"
+      }
+    },
+    {
+      "id": "Mebus/cupp",
+      "name": "cupp",
+      "full_name": "Mebus/cupp",
+      "html_url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "stars": 6287,
+      "forks": 2071,
+      "stars_today": 184,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "Mebus",
+        "avatar": "https://github.com/Mebus.png",
+        "url": "https://github.com/Mebus"
+      }
+    },
+    {
+      "id": "Unclecheng-li/VulnClaw",
+      "name": "VulnClaw",
+      "full_name": "Unclecheng-li/VulnClaw",
+      "html_url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "stars": 1690,
+      "forks": 227,
+      "stars_today": 132,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "Unclecheng-li",
+        "avatar": "https://github.com/Unclecheng-li.png",
+        "url": "https://github.com/Unclecheng-li"
+      }
+    },
+    {
+      "id": "microsoft/AI-For-Beginners",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "html_url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 50857,
+      "forks": 10287,
+      "stars_today": 1096,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4"
+    },
+    {
+      "id": "refactoringhq/tolaria",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "html_url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "stars": 18137,
+      "forks": 1231,
+      "stars_today": 150,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "refactoringhq",
+        "avatar": "https://github.com/refactoringhq.png",
+        "url": "https://github.com/refactoringhq"
+      }
+    },
+    {
+      "id": "ogulcancelik/herdr",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "html_url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 9846,
+      "forks": 575,
+      "stars_today": 609,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "ogulcancelik",
+        "avatar": "https://github.com/ogulcancelik.png",
+        "url": "https://github.com/ogulcancelik"
+      }
+    },
+    {
+      "id": "0xNyk/council-of-high-intelligence",
+      "name": "council-of-high-intelligence",
+      "full_name": "0xNyk/council-of-high-intelligence",
+      "html_url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "stars": 2834,
+      "forks": 254,
+      "stars_today": 161,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "0xNyk",
+        "avatar": "https://github.com/0xNyk.png",
+        "url": "https://github.com/0xNyk"
+      }
+    },
+    {
+      "id": "altic-dev/FluidVoice",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "html_url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
+      "stars": 5672,
+      "forks": 337,
+      "stars_today": 572,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "altic-dev",
+        "avatar": "https://github.com/altic-dev.png",
+        "url": "https://github.com/altic-dev"
+      }
+    },
+    {
+      "id": "CoreBunch/Instatic",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "html_url": "https://github.com/CoreBunch/Instatic",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "stars": 2148,
+      "forks": 175,
+      "stars_today": 508,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "CoreBunch",
+        "avatar": "https://github.com/CoreBunch.png",
+        "url": "https://github.com/CoreBunch"
+      }
+    },
+    {
+      "id": "TencentCloud/CubeSandbox",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "html_url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 6951,
+      "forks": 575,
+      "stars_today": 79,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "browser-use/video-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "html_url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 13425,
+      "forks": 1663,
+      "stars_today": 693,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://github.com/browser-use.png",
+        "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": "yikart/AiToEarn",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "html_url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars": 22791,
+      "forks": 3418,
+      "stars_today": 116,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T08:43:01.332Z",
+      "owner": {
+        "login": "yikart",
+        "avatar": "https://github.com/yikart.png",
+        "url": "https://github.com/yikart"
+      }
+    }
+  ]
+}
