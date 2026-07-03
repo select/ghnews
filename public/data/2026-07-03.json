@@ -1,0 +1,353 @@
+{
+  "date": "2026-07-03",
+  "since": "daily",
+  "fetched_at": "2026-07-03T07:59:14.530Z",
+  "first_fetched_at": "2026-07-03T07:59:14.530Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-03T07:59:14.530Z",
+  "total_count": 17,
+  "items": [
+    {
+      "id": "usestrix/strix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 33086,
+      "forks": 3436,
+      "stars_today": 2137,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "usestrix",
+        "avatar": "https://github.com/usestrix.png",
+        "url": "https://github.com/usestrix"
+      }
+    },
+    {
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 81843,
+      "forks": 4569,
+      "stars_today": 926,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 125936,
+      "forks": 20435,
+      "stars_today": 3032,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    },
+    {
+      "id": "hasaneyldrm/exercises-dataset",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "stars": 9557,
+      "forks": 1060,
+      "stars_today": 938,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "hasaneyldrm",
+        "avatar": "https://github.com/hasaneyldrm.png",
+        "url": "https://github.com/hasaneyldrm"
+      }
+    },
+    {
+      "id": "santifer/career-ops",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 58169,
+      "forks": 11421,
+      "stars_today": 372,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "santifer",
+        "avatar": "https://github.com/santifer.png",
+        "url": "https://github.com/santifer"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 244868,
+      "forks": 21705,
+      "stars_today": 897,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45228,
+      "forks": 2940,
+      "stars_today": 104,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "browser-use/video-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "html_url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 14031,
+      "forks": 1703,
+      "stars_today": 554,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://github.com/browser-use.png",
+        "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": "actions/checkout",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "html_url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "stars": 8200,
+      "forks": 2529,
+      "stars_today": 26,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "actions",
+        "avatar": "https://github.com/actions.png",
+        "url": "https://github.com/actions"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225381,
+      "forks": 34479,
+      "stars_today": 486,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "HKUDS/Vibe-Trading",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17532,
+      "forks": 2902,
+      "stars_today": 939,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "agentskills/agentskills",
+      "name": "agentskills",
+      "full_name": "agentskills/agentskills",
+      "html_url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 21745,
+      "forks": 1379,
+      "stars_today": 86,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "agentskills",
+        "avatar": "https://github.com/agentskills.png",
+        "url": "https://github.com/agentskills"
+      }
+    },
+    {
+      "id": "openai/codex-plugin-cc",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "html_url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 22825,
+      "forks": 1386,
+      "stars_today": 352,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "langflow-ai/langflow",
+      "name": "langflow",
+      "full_name": "langflow-ai/langflow",
+      "html_url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150957,
+      "forks": 9409,
+      "stars_today": 117,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "langflow-ai",
+        "avatar": "https://github.com/langflow-ai.png",
+        "url": "https://github.com/langflow-ai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/599320067/a9637c6a-7347-4a7a-8bf3-7bbdae6974b6"
+    },
+    {
+      "id": "pytorch/pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101314,
+      "forks": 28234,
+      "stars_today": 65,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "pytorch",
+        "avatar": "https://github.com/pytorch.png",
+        "url": "https://github.com/pytorch"
+      }
+    },
+    {
+      "id": "harvard-edge/cs249r_book",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "html_url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "stars": 25821,
+      "forks": 3090,
+      "stars_today": 68,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "harvard-edge",
+        "avatar": "https://github.com/harvard-edge.png",
+        "url": "https://github.com/harvard-edge"
+      }
+    },
+    {
+      "id": "ryanmcdermott/clean-code-javascript",
+      "name": "clean-code-javascript",
+      "full_name": "ryanmcdermott/clean-code-javascript",
+      "html_url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
+      "stars": 94642,
+      "forks": 12476,
+      "stars_today": 27,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-03T00:00:00Z",
+      "first_seen": "2026-07-03T07:59:14.530Z",
+      "last_seen": "2026-07-03T07:59:14.530Z",
+      "owner": {
+        "login": "ryanmcdermott",
+        "avatar": "https://github.com/ryanmcdermott.png",
+        "url": "https://github.com/ryanmcdermott"
+      }
+    }
+  ]
+}
