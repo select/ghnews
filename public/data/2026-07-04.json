@@ -1,0 +1,413 @@
+{
+  "date": "2026-07-04",
+  "since": "daily",
+  "fetched_at": "2026-07-04T00:04:19.205Z",
+  "first_fetched_at": "2026-07-04T00:03:40.904Z",
+  "snapshots": 2,
+  "updated_at": "2026-07-04T00:04:19.205Z",
+  "total_count": 20,
+  "items": [
+    {
+      "id": "usestrix/strix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 34588,
+      "forks": 3546,
+      "stars_today": 2803,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "usestrix",
+        "avatar": "https://github.com/usestrix.png",
+        "url": "https://github.com/usestrix"
+      }
+    },
+    {
+      "id": "openai/codex-plugin-cc",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "html_url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 23193,
+      "forks": 1403,
+      "stars_today": 634,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 82912,
+      "forks": 4626,
+      "stars_today": 2863,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "elastic/elasticsearch",
+      "name": "elasticsearch",
+      "full_name": "elastic/elasticsearch",
+      "html_url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "stars": 77331,
+      "forks": 25923,
+      "stars_today": 91,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "elastic",
+        "avatar": "https://github.com/elastic.png",
+        "url": "https://github.com/elastic"
+      }
+    },
+    {
+      "id": "actions/checkout",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "html_url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "stars": 8260,
+      "forks": 2535,
+      "stars_today": 129,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "actions",
+        "avatar": "https://github.com/actions.png",
+        "url": "https://github.com/actions"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45481,
+      "forks": 2955,
+      "stars_today": 405,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "ansible/ansible",
+      "name": "ansible",
+      "full_name": "ansible/ansible",
+      "html_url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "stars": 69194,
+      "forks": 24107,
+      "stars_today": 65,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "ansible",
+        "avatar": "https://github.com/ansible.png",
+        "url": "https://github.com/ansible"
+      }
+    },
+    {
+      "id": "facebook/astryx",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "html_url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 4603,
+      "forks": 269,
+      "stars_today": 885,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "facebook",
+        "avatar": "https://github.com/facebook.png",
+        "url": "https://github.com/facebook"
+      }
+    },
+    {
+      "id": "rommapp/romm",
+      "name": "romm",
+      "full_name": "rommapp/romm",
+      "html_url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "stars": 9802,
+      "forks": 475,
+      "stars_today": 239,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "rommapp",
+        "avatar": "https://github.com/rommapp.png",
+        "url": "https://github.com/rommapp"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/611338935/ca8301ec-cb9f-4f73-8746-5db27ea8b02e"
+    },
+    {
+      "id": "harvard-edge/cs249r_book",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "html_url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "stars": 26151,
+      "forks": 3120,
+      "stars_today": 793,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "harvard-edge",
+        "avatar": "https://github.com/harvard-edge.png",
+        "url": "https://github.com/harvard-edge"
+      }
+    },
+    {
+      "id": "pytorch/pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101426,
+      "forks": 28249,
+      "stars_today": 293,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "pytorch",
+        "avatar": "https://github.com/pytorch.png",
+        "url": "https://github.com/pytorch"
+      }
+    },
+    {
+      "id": "apache/maven",
+      "name": "maven",
+      "full_name": "apache/maven",
+      "html_url": "https://github.com/apache/maven",
+      "description": "Apache Maven core",
+      "stars": 5225,
+      "forks": 2901,
+      "stars_today": 58,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "apache",
+        "avatar": "https://github.com/apache.png",
+        "url": "https://github.com/apache"
+      }
+    },
+    {
+      "id": "safishamsi/graphify",
+      "name": "graphify",
+      "full_name": "safishamsi/graphify",
+      "html_url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": 77103,
+      "forks": 7635,
+      "stars_today": 945,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "safishamsi",
+        "avatar": "https://github.com/safishamsi.png",
+        "url": "https://github.com/safishamsi"
+      }
+    },
+    {
+      "id": "anthropics/claude-code",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 135830,
+      "forks": 21855,
+      "stars_today": 221,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "ogulcancelik/herdr",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "html_url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 10766,
+      "forks": 637,
+      "stars_today": 478,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "ogulcancelik",
+        "avatar": "https://github.com/ogulcancelik.png",
+        "url": "https://github.com/ogulcancelik"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 245515,
+      "forks": 21761,
+      "stars_today": 1209,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "agentskills/agentskills",
+      "name": "agentskills",
+      "full_name": "agentskills/agentskills",
+      "html_url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 21983,
+      "forks": 1394,
+      "stars_today": 406,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "agentskills",
+        "avatar": "https://github.com/agentskills.png",
+        "url": "https://github.com/agentskills"
+      }
+    },
+    {
+      "id": "supabase/supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "html_url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 105464,
+      "forks": 12970,
+      "stars_today": 169,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "supabase",
+        "avatar": "https://github.com/supabase.png",
+        "url": "https://github.com/supabase"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/214587193/00f59f00-90a6-11eb-8764-f49e3f731458"
+    },
+    {
+      "id": "TencentCloud/CubeSandbox",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "html_url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 7164,
+      "forks": 592,
+      "stars_today": 60,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 126473,
+      "forks": 20530,
+      "stars_today": 1208,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-04T00:00:00Z",
+      "first_seen": "2026-07-04T00:03:40.904Z",
+      "last_seen": "2026-07-04T00:04:19.205Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    }
+  ]
+}
