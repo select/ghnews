@@ -1,67 +1,26 @@
 {
   "date": "2026-07-07",
   "since": "daily",
-  "fetched_at": "2026-07-07T09:02:00.643Z",
+  "fetched_at": "2026-07-07T16:00:02.883Z",
   "first_fetched_at": "2026-07-07T09:02:00.643Z",
-  "snapshots": 1,
-  "updated_at": "2026-07-07T09:02:00.643Z",
-  "total_count": 16,
+  "snapshots": 2,
+  "updated_at": "2026-07-07T16:00:02.883Z",
+  "total_count": 22,
   "items": [
-    {
-      "id": "asgeirtj/system_prompts_leaks",
-      "name": "system_prompts_leaks",
-      "full_name": "asgeirtj/system_prompts_leaks",
-      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 52192,
-      "forks": 8494,
-      "stars_today": 1378,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-07-07T00:00:00Z",
-      "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
-      "owner": {
-        "login": "asgeirtj",
-        "avatar": "https://github.com/asgeirtj.png",
-        "url": "https://github.com/asgeirtj"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe"
-    },
-    {
-      "id": "addyosmani/agent-skills",
-      "name": "agent-skills",
-      "full_name": "addyosmani/agent-skills",
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 71364,
-      "forks": 7730,
-      "stars_today": 1112,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-07-07T00:00:00Z",
-      "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
-      "owner": {
-        "login": "addyosmani",
-        "avatar": "https://github.com/addyosmani.png",
-        "url": "https://github.com/addyosmani"
-      }
-    },
     {
       "id": "Zackriya-Solutions/meetily",
       "name": "meetily",
       "full_name": "Zackriya-Solutions/meetily",
       "html_url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "stars": 19912,
-      "forks": 2002,
-      "stars_today": 2494,
+      "stars": 20308,
+      "forks": 2039,
+      "stars_today": 1781,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "Zackriya-Solutions",
         "avatar": "https://github.com/Zackriya-Solutions.png",
@@ -70,25 +29,227 @@
       "banner_url": "https://repository-images.githubusercontent.com/908589694/0e959177-b65c-4f87-b9fd-759b0f1a299d"
     },
     {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 71791,
+      "forks": 7771,
+      "stars_today": 1311,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
       "id": "ruvnet/RuView",
       "name": "RuView",
       "full_name": "ruvnet/RuView",
       "html_url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 77943,
-      "forks": 10484,
-      "stars_today": 470,
+      "stars": 78250,
+      "forks": 10533,
+      "stars_today": 1122,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "ruvnet",
         "avatar": "https://github.com/ruvnet.png",
         "url": "https://github.com/ruvnet"
       },
       "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
+    },
+    {
+      "id": "asgeirtj/system_prompts_leaks",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 52611,
+      "forks": 8562,
+      "stars_today": 1704,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "asgeirtj",
+        "avatar": "https://github.com/asgeirtj.png",
+        "url": "https://github.com/asgeirtj"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe"
+    },
+    {
+      "id": "TencentCloud/CubeSandbox",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "html_url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 8292,
+      "forks": 696,
+      "stars_today": 665,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "AhmadIbrahiim/Website-downloader",
+      "name": "Website-downloader",
+      "full_name": "AhmadIbrahiim/Website-downloader",
+      "html_url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "stars": 3768,
+      "forks": 970,
+      "stars_today": 173,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "AhmadIbrahiim",
+        "avatar": "https://github.com/AhmadIbrahiim.png",
+        "url": "https://github.com/AhmadIbrahiim"
+      }
+    },
+    {
+      "id": "steipete/CodexBar",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "html_url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars": 16966,
+      "forks": 1384,
+      "stars_today": 377,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "steipete",
+        "avatar": "https://github.com/steipete.png",
+        "url": "https://github.com/steipete"
+      }
+    },
+    {
+      "id": "dotnet/skills",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "html_url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars": 4244,
+      "forks": 320,
+      "stars_today": 200,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "dotnet",
+        "avatar": "https://github.com/dotnet.png",
+        "url": "https://github.com/dotnet"
+      }
+    },
+    {
+      "id": "iOfficeAI/OfficeCLI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "html_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 9555,
+      "forks": 663,
+      "stars_today": 802,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "iOfficeAI",
+        "avatar": "https://github.com/iOfficeAI.png",
+        "url": "https://github.com/iOfficeAI"
+      }
+    },
+    {
+      "id": "bradautomates/claude-video",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "html_url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 4902,
+      "forks": 643,
+      "stars_today": 953,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "bradautomates",
+        "avatar": "https://github.com/bradautomates.png",
+        "url": "https://github.com/bradautomates"
+      }
+    },
+    {
+      "id": "kyutai-labs/pocket-tts",
+      "name": "pocket-tts",
+      "full_name": "kyutai-labs/pocket-tts",
+      "html_url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "stars": 5905,
+      "forks": 623,
+      "stars_today": 510,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "kyutai-labs",
+        "avatar": "https://github.com/kyutai-labs.png",
+        "url": "https://github.com/kyutai-labs"
+      }
+    },
+    {
+      "id": "hesreallyhim/awesome-claude-code",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "html_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "stars": 48918,
+      "forks": 4264,
+      "stars_today": 227,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-07T00:00:00Z",
+      "first_seen": "2026-07-07T16:00:02.883Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
+      "owner": {
+        "login": "hesreallyhim",
+        "avatar": "https://github.com/hesreallyhim.png",
+        "url": "https://github.com/hesreallyhim"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/969302809/cf18660c-161b-4091-ab68-6954cd6b71a4"
     },
     {
       "id": "Leonxlnx/taste-skill",
@@ -103,7 +264,7 @@
       "language": "JavaScript",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "Leonxlnx",
         "avatar": "https://github.com/Leonxlnx.png",
@@ -124,7 +285,7 @@
       "language": "Python",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "alirezarezvani",
         "avatar": "https://github.com/alirezarezvani.png",
@@ -144,7 +305,7 @@
       "language": "JavaScript",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "openai",
         "avatar": "https://github.com/openai.png",
@@ -164,7 +325,7 @@
       "language": "Python",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "mvanhorn",
         "avatar": "https://github.com/mvanhorn.png",
@@ -184,31 +345,11 @@
       "language": "Rust",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "ogulcancelik",
         "avatar": "https://github.com/ogulcancelik.png",
         "url": "https://github.com/ogulcancelik"
-      }
-    },
-    {
-      "id": "bradautomates/claude-video",
-      "name": "claude-video",
-      "full_name": "bradautomates/claude-video",
-      "html_url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 4629,
-      "forks": 626,
-      "stars_today": 427,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-07T00:00:00Z",
-      "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
-      "owner": {
-        "login": "bradautomates",
-        "avatar": "https://github.com/bradautomates.png",
-        "url": "https://github.com/bradautomates"
       }
     },
     {
@@ -224,7 +365,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "karakeep-app",
         "avatar": "https://github.com/karakeep-app.png",
@@ -244,33 +385,13 @@
       "language": "TypeScript",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "firecrawl",
         "avatar": "https://github.com/firecrawl.png",
         "url": "https://github.com/firecrawl"
       },
       "banner_url": "https://repository-images.githubusercontent.com/787076358/f9616c09-3701-41ef-b5a6-fdf912ffb15b"
-    },
-    {
-      "id": "steipete/CodexBar",
-      "name": "CodexBar",
-      "full_name": "steipete/CodexBar",
-      "html_url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 16868,
-      "forks": 1382,
-      "stars_today": 598,
-      "window": "today",
-      "language": "Swift",
-      "created_at": "2026-07-07T00:00:00Z",
-      "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
-      "owner": {
-        "login": "steipete",
-        "avatar": "https://github.com/steipete.png",
-        "url": "https://github.com/steipete"
-      }
     },
     {
       "id": "alibaba/zvec",
@@ -285,7 +406,7 @@
       "language": "C++",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "alibaba",
         "avatar": "https://github.com/alibaba.png",
@@ -305,7 +426,7 @@
       "language": null,
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "sindresorhus",
         "avatar": "https://github.com/sindresorhus.png",
@@ -326,7 +447,7 @@
       "language": "Go",
       "created_at": "2026-07-07T00:00:00Z",
       "first_seen": "2026-07-07T09:02:00.643Z",
-      "last_seen": "2026-07-07T09:02:00.643Z",
+      "last_seen": "2026-07-07T16:00:02.883Z",
       "owner": {
         "login": "gastownhall",
         "avatar": "https://github.com/gastownhall.png",
