@@ -1,11 +1,11 @@
 {
   "date": "2026-07-08",
   "since": "daily",
-  "fetched_at": "2026-07-08T09:07:51.586Z",
+  "fetched_at": "2026-07-08T16:00:02.977Z",
   "first_fetched_at": "2026-07-08T09:07:51.586Z",
-  "snapshots": 1,
-  "updated_at": "2026-07-08T09:07:51.586Z",
-  "total_count": 13,
+  "snapshots": 2,
+  "updated_at": "2026-07-08T16:00:02.977Z",
+  "total_count": 22,
   "items": [
     {
       "id": "MadsLorentzen/ai-job-search",
@@ -13,18 +13,323 @@
       "full_name": "MadsLorentzen/ai-job-search",
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "stars": 12739,
-      "forks": 4052,
-      "stars_today": 2514,
+      "stars": 14319,
+      "forks": 4397,
+      "stars_today": 5071,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "MadsLorentzen",
         "avatar": "https://github.com/MadsLorentzen.png",
         "url": "https://github.com/MadsLorentzen"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 73301,
+      "forks": 7916,
+      "stars_today": 1322,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "ruvnet/RuView",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "html_url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 78933,
+      "forks": 10616,
+      "stars_today": 793,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
+    },
+    {
+      "id": "TencentCloud/TencentDB-Agent-Memory",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 7451,
+      "forks": 698,
+      "stars_today": 351,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "prisma/prisma",
+      "name": "prisma",
+      "full_name": "prisma/prisma",
+      "html_url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "stars": 46444,
+      "forks": 2275,
+      "stars_today": 30,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "prisma",
+        "avatar": "https://github.com/prisma.png",
+        "url": "https://github.com/prisma"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/192925833/e5721600-60ad-11eb-8c41-bd105ac8e8b7"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 50576,
+      "forks": 4221,
+      "stars_today": 373,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "argoproj/argo-cd",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "html_url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "stars": 23387,
+      "forks": 7424,
+      "stars_today": 20,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "argoproj",
+        "avatar": "https://github.com/argoproj.png",
+        "url": "https://github.com/argoproj"
+      }
+    },
+    {
+      "id": "iOfficeAI/OfficeCLI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "html_url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 11334,
+      "forks": 760,
+      "stars_today": 1712,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "iOfficeAI",
+        "avatar": "https://github.com/iOfficeAI.png",
+        "url": "https://github.com/iOfficeAI"
+      }
+    },
+    {
+      "id": "asgeirtj/system_prompts_leaks",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 53814,
+      "forks": 8770,
+      "stars_today": 1226,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "asgeirtj",
+        "avatar": "https://github.com/asgeirtj.png",
+        "url": "https://github.com/asgeirtj"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 249577,
+      "forks": 22147,
+      "stars_today": 999,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "alibaba/zvec",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "html_url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 14287,
+      "forks": 878,
+      "stars_today": 685,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      }
+    },
+    {
+      "id": "Diolinux/PhotoGIMP",
+      "name": "PhotoGIMP",
+      "full_name": "Diolinux/PhotoGIMP",
+      "html_url": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "stars": 14834,
+      "forks": 586,
+      "stars_today": 2031,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "Diolinux",
+        "avatar": "https://github.com/Diolinux.png",
+        "url": "https://github.com/Diolinux"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/273572029/f6123ad8-c71e-4767-844e-f1fae73181b7"
+    },
+    {
+      "id": "wonderwhy-er/DesktopCommanderMCP",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "html_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 6318,
+      "forks": 746,
+      "stars_today": 20,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "wonderwhy-er",
+        "avatar": "https://github.com/wonderwhy-er.png",
+        "url": "https://github.com/wonderwhy-er"
+      }
+    },
+    {
+      "id": "huxingyi/autoremesher",
+      "name": "autoremesher",
+      "full_name": "huxingyi/autoremesher",
+      "html_url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "stars": 1865,
+      "forks": 142,
+      "stars_today": 292,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T16:00:02.977Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "huxingyi",
+        "avatar": "https://github.com/huxingyi.png",
+        "url": "https://github.com/huxingyi"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/273084732/0192ccf3-8fd2-4d6c-93b3-c50afc13821c"
+    },
+    {
+      "id": "bradautomates/claude-video",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "html_url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 5833,
+      "forks": 699,
+      "stars_today": 948,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "bradautomates",
+        "avatar": "https://github.com/bradautomates.png",
+        "url": "https://github.com/bradautomates"
+      }
+    },
+    {
+      "id": "TencentCloud/CubeSandbox",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "html_url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 8806,
+      "forks": 731,
+      "stars_today": 555,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-08T00:00:00Z",
+      "first_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
       }
     },
     {
@@ -40,95 +345,13 @@
       "language": "Rust",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "Zackriya-Solutions",
         "avatar": "https://github.com/Zackriya-Solutions.png",
         "url": "https://github.com/Zackriya-Solutions"
       },
       "banner_url": "https://repository-images.githubusercontent.com/908589694/0e959177-b65c-4f87-b9fd-759b0f1a299d"
-    },
-    {
-      "id": "addyosmani/agent-skills",
-      "name": "agent-skills",
-      "full_name": "addyosmani/agent-skills",
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 72622,
-      "forks": 7863,
-      "stars_today": 1317,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "addyosmani",
-        "avatar": "https://github.com/addyosmani.png",
-        "url": "https://github.com/addyosmani"
-      }
-    },
-    {
-      "id": "ruvnet/RuView",
-      "name": "RuView",
-      "full_name": "ruvnet/RuView",
-      "html_url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 78766,
-      "forks": 10594,
-      "stars_today": 1129,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "ruvnet",
-        "avatar": "https://github.com/ruvnet.png",
-        "url": "https://github.com/ruvnet"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
-    },
-    {
-      "id": "asgeirtj/system_prompts_leaks",
-      "name": "system_prompts_leaks",
-      "full_name": "asgeirtj/system_prompts_leaks",
-      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": 53470,
-      "forks": 8717,
-      "stars_today": 1691,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "asgeirtj",
-        "avatar": "https://github.com/asgeirtj.png",
-        "url": "https://github.com/asgeirtj"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/976921297/6c0bb133-1e4f-4a4e-9570-43797d4faefe"
-    },
-    {
-      "id": "TencentCloud/CubeSandbox",
-      "name": "CubeSandbox",
-      "full_name": "TencentCloud/CubeSandbox",
-      "html_url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "stars": 8652,
-      "forks": 725,
-      "stars_today": 664,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "TencentCloud",
-        "avatar": "https://github.com/TencentCloud.png",
-        "url": "https://github.com/TencentCloud"
-      }
     },
     {
       "id": "AhmadIbrahiim/Website-downloader",
@@ -143,7 +366,7 @@
       "language": "HTML",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "AhmadIbrahiim",
         "avatar": "https://github.com/AhmadIbrahiim.png",
@@ -163,7 +386,7 @@
       "language": "Swift",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "steipete",
         "avatar": "https://github.com/steipete.png",
@@ -183,51 +406,11 @@
       "language": "C#",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "dotnet",
         "avatar": "https://github.com/dotnet.png",
         "url": "https://github.com/dotnet"
-      }
-    },
-    {
-      "id": "iOfficeAI/OfficeCLI",
-      "name": "OfficeCLI",
-      "full_name": "iOfficeAI/OfficeCLI",
-      "html_url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": 10742,
-      "forks": 718,
-      "stars_today": 893,
-      "window": "today",
-      "language": "C#",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "iOfficeAI",
-        "avatar": "https://github.com/iOfficeAI.png",
-        "url": "https://github.com/iOfficeAI"
-      }
-    },
-    {
-      "id": "bradautomates/claude-video",
-      "name": "claude-video",
-      "full_name": "bradautomates/claude-video",
-      "html_url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 5572,
-      "forks": 686,
-      "stars_today": 965,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-08T00:00:00Z",
-      "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
-      "owner": {
-        "login": "bradautomates",
-        "avatar": "https://github.com/bradautomates.png",
-        "url": "https://github.com/bradautomates"
       }
     },
     {
@@ -243,7 +426,7 @@
       "language": "Python",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "kyutai-labs",
         "avatar": "https://github.com/kyutai-labs.png",
@@ -263,7 +446,7 @@
       "language": "Python",
       "created_at": "2026-07-08T00:00:00Z",
       "first_seen": "2026-07-08T09:07:51.586Z",
-      "last_seen": "2026-07-08T09:07:51.586Z",
+      "last_seen": "2026-07-08T16:00:02.977Z",
       "owner": {
         "login": "hesreallyhim",
         "avatar": "https://github.com/hesreallyhim.png",
