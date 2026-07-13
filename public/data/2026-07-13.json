@@ -1,0 +1,353 @@
+{
+  "date": "2026-07-13",
+  "since": "daily",
+  "fetched_at": "2026-07-13T08:00:02.339Z",
+  "first_fetched_at": "2026-07-13T08:00:02.339Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-13T08:00:02.339Z",
+  "total_count": 17,
+  "items": [
+    {
+      "id": "Dicklesworthstone/destructive_command_guard",
+      "name": "destructive_command_guard",
+      "full_name": "Dicklesworthstone/destructive_command_guard",
+      "html_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars": 3372,
+      "forks": 124,
+      "stars_today": 444,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "Dicklesworthstone",
+        "avatar": "https://github.com/Dicklesworthstone.png",
+        "url": "https://github.com/Dicklesworthstone"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1130004860/d884ccb9-be1a-4723-91b2-be115743c633"
+    },
+    {
+      "id": "wonderwhy-er/DesktopCommanderMCP",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "html_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 8082,
+      "forks": 992,
+      "stars_today": 210,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "wonderwhy-er",
+        "avatar": "https://github.com/wonderwhy-er.png",
+        "url": "https://github.com/wonderwhy-er"
+      }
+    },
+    {
+      "id": "HKUDS/Vibe-Trading",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 20977,
+      "forks": 3655,
+      "stars_today": 768,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "PrefectHQ/prefect",
+      "name": "prefect",
+      "full_name": "PrefectHQ/prefect",
+      "html_url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "stars": 23269,
+      "forks": 2402,
+      "stars_today": 66,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "PrefectHQ",
+        "avatar": "https://github.com/PrefectHQ.png",
+        "url": "https://github.com/PrefectHQ"
+      }
+    },
+    {
+      "id": "Shubhamsaboo/awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 118961,
+      "forks": 17679,
+      "stars_today": 408,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "Shubhamsaboo",
+        "avatar": "https://github.com/Shubhamsaboo.png",
+        "url": "https://github.com/Shubhamsaboo"
+      }
+    },
+    {
+      "id": "anthropics/claude-cookbooks",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "html_url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 48628,
+      "forks": 5746,
+      "stars_today": 459,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "home-assistant/core",
+      "name": "core",
+      "full_name": "home-assistant/core",
+      "html_url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "stars": 89244,
+      "forks": 38090,
+      "stars_today": 400,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "home-assistant",
+        "avatar": "https://github.com/home-assistant.png",
+        "url": "https://github.com/home-assistant"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/12888993/b7c31002-f51f-45b9-ae79-1c1fd52e84ab"
+    },
+    {
+      "id": "Crosstalk-Solutions/project-nomad",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "html_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 33944,
+      "forks": 3404,
+      "stars_today": 125,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "Crosstalk-Solutions",
+        "avatar": "https://github.com/Crosstalk-Solutions.png",
+        "url": "https://github.com/Crosstalk-Solutions"
+      }
+    },
+    {
+      "id": "ColeMurray/background-agents",
+      "name": "background-agents",
+      "full_name": "ColeMurray/background-agents",
+      "html_url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "stars": 2339,
+      "forks": 346,
+      "stars_today": 16,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "ColeMurray",
+        "avatar": "https://github.com/ColeMurray.png",
+        "url": "https://github.com/ColeMurray"
+      }
+    },
+    {
+      "id": "k1tbyte/Wand-Enhancer",
+      "name": "Wand-Enhancer",
+      "full_name": "k1tbyte/Wand-Enhancer",
+      "html_url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars": 7076,
+      "forks": 19771,
+      "stars_today": 609,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "k1tbyte",
+        "avatar": "https://github.com/k1tbyte.png",
+        "url": "https://github.com/k1tbyte"
+      }
+    },
+    {
+      "id": "pingdotgg/t3code",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": 13833,
+      "forks": 2903,
+      "stars_today": 75,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "pingdotgg",
+        "avatar": "https://github.com/pingdotgg.png",
+        "url": "https://github.com/pingdotgg"
+      }
+    },
+    {
+      "id": "virattt/ai-hedge-fund",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "html_url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 61522,
+      "forks": 10873,
+      "stars_today": 115,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "virattt",
+        "avatar": "https://github.com/virattt.png",
+        "url": "https://github.com/virattt"
+      }
+    },
+    {
+      "id": "chen08209/FlClash",
+      "name": "FlClash",
+      "full_name": "chen08209/FlClash",
+      "html_url": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "stars": 45360,
+      "forks": 2860,
+      "stars_today": 154,
+      "window": "today",
+      "language": "Dart",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "chen08209",
+        "avatar": "https://github.com/chen08209.png",
+        "url": "https://github.com/chen08209"
+      }
+    },
+    {
+      "id": "davila7/claude-code-templates",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 29319,
+      "forks": 3210,
+      "stars_today": 274,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "davila7",
+        "avatar": "https://github.com/davila7.png",
+        "url": "https://github.com/davila7"
+      }
+    },
+    {
+      "id": "par274/sharpemu",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "html_url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "stars": 1402,
+      "forks": 84,
+      "stars_today": 314,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "par274",
+        "avatar": "https://github.com/par274.png",
+        "url": "https://github.com/par274"
+      }
+    },
+    {
+      "id": "malisper/pgrust",
+      "name": "pgrust",
+      "full_name": "malisper/pgrust",
+      "html_url": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "stars": 2637,
+      "forks": 74,
+      "stars_today": 518,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "malisper",
+        "avatar": "https://github.com/malisper.png",
+        "url": "https://github.com/malisper"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 4557,
+      "forks": 258,
+      "stars_today": 155,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-07-13T00:00:00Z",
+      "first_seen": "2026-07-13T08:00:02.339Z",
+      "last_seen": "2026-07-13T08:00:02.339Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    }
+  ]
+}
