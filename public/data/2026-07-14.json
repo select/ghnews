@@ -1,30 +1,70 @@
 {
   "date": "2026-07-14",
   "since": "daily",
-  "fetched_at": "2026-07-14T08:25:12.522Z",
-  "first_fetched_at": "2026-07-14T08:00:03.229Z",
-  "snapshots": 2,
-  "updated_at": "2026-07-14T08:25:12.522Z",
-  "total_count": 11,
+  "fetched_at": "2026-07-14T16:00:03.327Z",
+  "first_fetched_at": "2026-07-14T08:25:12.522Z",
+  "snapshots": 3,
+  "updated_at": "2026-07-14T16:00:03.327Z",
+  "total_count": 19,
   "items": [
     {
-      "id": "OpenCut-app/OpenCut",
-      "name": "OpenCut",
-      "full_name": "OpenCut-app/OpenCut",
-      "html_url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 67963,
-      "forks": 7123,
-      "stars_today": 1229,
+      "id": "1c7/chinese-independent-developer",
+      "name": "chinese-independent-developer",
+      "full_name": "1c7/chinese-independent-developer",
+      "html_url": "https://github.com/1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+      "stars": 52936,
+      "forks": 4656,
+      "stars_today": 1194,
       "window": "today",
-      "language": "TypeScript",
+      "language": "Python",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "1c7",
+        "avatar": "https://github.com/1c7.png",
+        "url": "https://github.com/1c7"
+      }
+    },
+    {
+      "id": "Shubhamsaboo/awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 120506,
+      "forks": 17844,
+      "stars_today": 1104,
+      "window": "today",
+      "language": "Python",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
-        "login": "OpenCut-app",
-        "avatar": "https://github.com/OpenCut-app.png",
-        "url": "https://github.com/OpenCut-app"
+        "login": "Shubhamsaboo",
+        "avatar": "https://github.com/Shubhamsaboo.png",
+        "url": "https://github.com/Shubhamsaboo"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 169742,
+      "forks": 14611,
+      "stars_today": 1559,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
       }
     },
     {
@@ -33,14 +73,14 @@
       "full_name": "Dicklesworthstone/destructive_command_guard",
       "html_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "stars": 3970,
-      "forks": 145,
-      "stars_today": 1295,
+      "stars": 4207,
+      "forks": 158,
+      "stars_today": 481,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
         "login": "Dicklesworthstone",
         "avatar": "https://github.com/Dicklesworthstone.png",
@@ -49,23 +89,245 @@
       "banner_url": "https://repository-images.githubusercontent.com/1130004860/d884ccb9-be1a-4723-91b2-be115743c633"
     },
     {
+      "id": "OpenCut-app/OpenCut",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "html_url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 68831,
+      "forks": 7182,
+      "stars_today": 4349,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T08:00:03.229Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "OpenCut-app",
+        "avatar": "https://github.com/OpenCut-app.png",
+        "url": "https://github.com/OpenCut-app"
+      }
+    },
+    {
+      "id": "virattt/ai-hedge-fund",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "html_url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 61752,
+      "forks": 10901,
+      "stars_today": 156,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "virattt",
+        "avatar": "https://github.com/virattt.png",
+        "url": "https://github.com/virattt"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 5900,
+      "forks": 342,
+      "stars_today": 1010,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T08:00:03.229Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
       "id": "HKUDS/Vibe-Trading",
       "name": "Vibe-Trading",
       "full_name": "HKUDS/Vibe-Trading",
       "html_url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 22243,
-      "forks": 3830,
-      "stars_today": 1153,
+      "stars": 22610,
+      "forks": 3878,
+      "stars_today": 1265,
       "window": "today",
       "language": "Python",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
         "login": "HKUDS",
         "avatar": "https://github.com/HKUDS.png",
         "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "Raphire/Win11Debloat",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "html_url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "stars": 51383,
+      "forks": 2111,
+      "stars_today": 779,
+      "window": "today",
+      "language": "PowerShell",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T08:00:03.229Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "Raphire",
+        "avatar": "https://github.com/Raphire.png",
+        "url": "https://github.com/Raphire"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/307843105/73d2a8af-40d3-4fce-b9a3-3cfd1a24112a"
+    },
+    {
+      "id": "hasaneyldrm/exercises-dataset",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": 13198,
+      "forks": 1557,
+      "stars_today": 864,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T08:00:03.229Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "hasaneyldrm",
+        "avatar": "https://github.com/hasaneyldrm.png",
+        "url": "https://github.com/hasaneyldrm"
+      }
+    },
+    {
+      "id": "penpot/penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "html_url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "stars": 56004,
+      "forks": 3685,
+      "stars_today": 264,
+      "window": "today",
+      "language": "Clojure",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "penpot",
+        "avatar": "https://github.com/penpot.png",
+        "url": "https://github.com/penpot"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f"
+    },
+    {
+      "id": "AIEraDev/Clypra",
+      "name": "Clypra",
+      "full_name": "AIEraDev/Clypra",
+      "html_url": "https://github.com/AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "stars": 2517,
+      "forks": 273,
+      "stars_today": 66,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "AIEraDev",
+        "avatar": "https://github.com/AIEraDev.png",
+        "url": "https://github.com/AIEraDev"
+      }
+    },
+    {
+      "id": "par274/sharpemu",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "html_url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "stars": 1911,
+      "forks": 120,
+      "stars_today": 428,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "par274",
+        "avatar": "https://github.com/par274.png",
+        "url": "https://github.com/par274"
+      }
+    },
+    {
+      "id": "chenyme/grok2api",
+      "name": "grok2api",
+      "full_name": "chenyme/grok2api",
+      "html_url": "https://github.com/chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "stars": 5801,
+      "forks": 1924,
+      "stars_today": 179,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "chenyme",
+        "avatar": "https://github.com/chenyme.png",
+        "url": "https://github.com/chenyme"
+      }
+    },
+    {
+      "id": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": 85871,
+      "forks": 8460,
+      "stars_today": 1858,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T08:00:03.229Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "Graphify-Labs",
+        "avatar": "https://github.com/Graphify-Labs.png",
+        "url": "https://github.com/Graphify-Labs"
+      }
+    },
+    {
+      "id": "HenryNdubuaku/maths-cs-ai-compendium",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "html_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "stars": 5026,
+      "forks": 683,
+      "stars_today": 69,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-14T00:00:00Z",
+      "first_seen": "2026-07-14T16:00:03.327Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
+      "owner": {
+        "login": "HenryNdubuaku",
+        "avatar": "https://github.com/HenryNdubuaku.png",
+        "url": "https://github.com/HenryNdubuaku"
       }
     },
     {
@@ -81,114 +343,13 @@
       "language": "TypeScript",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
         "login": "moeru-ai",
         "avatar": "https://github.com/moeru-ai.png",
         "url": "https://github.com/moeru-ai"
       },
       "banner_url": "https://repository-images.githubusercontent.com/896924279/ab484a48-4af4-4127-af24-c589fd6da072"
-    },
-    {
-      "id": "Shubhamsaboo/awesome-llm-apps",
-      "name": "awesome-llm-apps",
-      "full_name": "Shubhamsaboo/awesome-llm-apps",
-      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": 120093,
-      "forks": 17810,
-      "stars_today": 996,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-14T00:00:00Z",
-      "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
-      "owner": {
-        "login": "Shubhamsaboo",
-        "avatar": "https://github.com/Shubhamsaboo.png",
-        "url": "https://github.com/Shubhamsaboo"
-      }
-    },
-    {
-      "id": "Nutlope/hallmark",
-      "name": "hallmark",
-      "full_name": "Nutlope/hallmark",
-      "html_url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 5525,
-      "forks": 325,
-      "stars_today": 794,
-      "window": "today",
-      "language": "CSS",
-      "created_at": "2026-07-14T00:00:00Z",
-      "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
-      "owner": {
-        "login": "Nutlope",
-        "avatar": "https://github.com/Nutlope.png",
-        "url": "https://github.com/Nutlope"
-      }
-    },
-    {
-      "id": "Raphire/Win11Debloat",
-      "name": "Win11Debloat",
-      "full_name": "Raphire/Win11Debloat",
-      "html_url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "stars": 51142,
-      "forks": 2105,
-      "stars_today": 118,
-      "window": "today",
-      "language": "PowerShell",
-      "created_at": "2026-07-14T00:00:00Z",
-      "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
-      "owner": {
-        "login": "Raphire",
-        "avatar": "https://github.com/Raphire.png",
-        "url": "https://github.com/Raphire"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/307843105/73d2a8af-40d3-4fce-b9a3-3cfd1a24112a"
-    },
-    {
-      "id": "Graphify-Labs/graphify",
-      "name": "graphify",
-      "full_name": "Graphify-Labs/graphify",
-      "html_url": "https://github.com/Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": 85326,
-      "forks": 8419,
-      "stars_today": 1095,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-14T00:00:00Z",
-      "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
-      "owner": {
-        "login": "Graphify-Labs",
-        "avatar": "https://github.com/Graphify-Labs.png",
-        "url": "https://github.com/Graphify-Labs"
-      }
-    },
-    {
-      "id": "hasaneyldrm/exercises-dataset",
-      "name": "exercises-dataset",
-      "full_name": "hasaneyldrm/exercises-dataset",
-      "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": 12949,
-      "forks": 1535,
-      "stars_today": 451,
-      "window": "today",
-      "language": "HTML",
-      "created_at": "2026-07-14T00:00:00Z",
-      "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
-      "owner": {
-        "login": "hasaneyldrm",
-        "avatar": "https://github.com/hasaneyldrm.png",
-        "url": "https://github.com/hasaneyldrm"
-      }
     },
     {
       "id": "github/spec-kit",
@@ -203,7 +364,7 @@
       "language": "Python",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
         "login": "github",
         "avatar": "https://github.com/github.png",
@@ -223,7 +384,7 @@
       "language": "JavaScript",
       "created_at": "2026-07-14T00:00:00Z",
       "first_seen": "2026-07-14T08:00:03.229Z",
-      "last_seen": "2026-07-14T08:25:12.522Z",
+      "last_seen": "2026-07-14T16:00:03.327Z",
       "owner": {
         "login": "coreyhaines31",
         "avatar": "https://github.com/coreyhaines31.png",
