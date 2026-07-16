@@ -1,0 +1,294 @@
+{
+  "date": "2026-07-16",
+  "since": "daily",
+  "fetched_at": "2026-07-16T09:05:53.534Z",
+  "first_fetched_at": "2026-07-16T09:05:53.534Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-16T09:05:53.534Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "OpenCut-app/OpenCut",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "html_url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 73097,
+      "forks": 7428,
+      "stars_today": 1664,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "OpenCut-app",
+        "avatar": "https://github.com/OpenCut-app.png",
+        "url": "https://github.com/OpenCut-app"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 9747,
+      "forks": 492,
+      "stars_today": 1277,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 173179,
+      "forks": 14860,
+      "stars_today": 2130,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "moeru-ai/airi",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "html_url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 42702,
+      "forks": 4265,
+      "stars_today": 110,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "moeru-ai",
+        "avatar": "https://github.com/moeru-ai.png",
+        "url": "https://github.com/moeru-ai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/896924279/ab484a48-4af4-4127-af24-c589fd6da072"
+    },
+    {
+      "id": "Dicklesworthstone/destructive_command_guard",
+      "name": "destructive_command_guard",
+      "full_name": "Dicklesworthstone/destructive_command_guard",
+      "html_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars": 4918,
+      "forks": 184,
+      "stars_today": 471,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "Dicklesworthstone",
+        "avatar": "https://github.com/Dicklesworthstone.png",
+        "url": "https://github.com/Dicklesworthstone"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1130004860/d884ccb9-be1a-4723-91b2-be115743c633"
+    },
+    {
+      "id": "HKUDS/Vibe-Trading",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 24032,
+      "forks": 4077,
+      "stars_today": 915,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "openinterpreter/openinterpreter",
+      "name": "openinterpreter",
+      "full_name": "openinterpreter/openinterpreter",
+      "html_url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for low-cost models",
+      "stars": 65715,
+      "forks": 5661,
+      "stars_today": 299,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "openinterpreter",
+        "avatar": "https://github.com/openinterpreter.png",
+        "url": "https://github.com/openinterpreter"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/666299222/30894a76-2a46-4988-a903-ababff8ac2fe"
+    },
+    {
+      "id": "HKUDS/DeepTutor",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "html_url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 26574,
+      "forks": 3589,
+      "stars_today": 172,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "HenryNdubuaku/maths-cs-ai-compendium",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "html_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "stars": 6127,
+      "forks": 762,
+      "stars_today": 725,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "HenryNdubuaku",
+        "avatar": "https://github.com/HenryNdubuaku.png",
+        "url": "https://github.com/HenryNdubuaku"
+      }
+    },
+    {
+      "id": "injaneity/pi-computer-use",
+      "name": "pi-computer-use",
+      "full_name": "injaneity/pi-computer-use",
+      "html_url": "https://github.com/injaneity/pi-computer-use",
+      "description": "Let Pi control your apps on MacOS & Windows",
+      "stars": 1362,
+      "forks": 86,
+      "stars_today": 103,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "injaneity",
+        "avatar": "https://github.com/injaneity.png",
+        "url": "https://github.com/injaneity"
+      }
+    },
+    {
+      "id": "Shubhamsaboo/awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 122287,
+      "forks": 18035,
+      "stars_today": 1236,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "Shubhamsaboo",
+        "avatar": "https://github.com/Shubhamsaboo.png",
+        "url": "https://github.com/Shubhamsaboo"
+      }
+    },
+    {
+      "id": "coreyhaines31/marketingskills",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "html_url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 40026,
+      "forks": 6333,
+      "stars_today": 340,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "coreyhaines31",
+        "avatar": "https://github.com/coreyhaines31.png",
+        "url": "https://github.com/coreyhaines31"
+      }
+    },
+    {
+      "id": "YimMenu/YimMenuV2",
+      "name": "YimMenuV2",
+      "full_name": "YimMenu/YimMenuV2",
+      "html_url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "stars": 1470,
+      "forks": 356,
+      "stars_today": 38,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "YimMenu",
+        "avatar": "https://github.com/YimMenu.png",
+        "url": "https://github.com/YimMenu"
+      }
+    },
+    {
+      "id": "hasaneyldrm/exercises-dataset",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": 14631,
+      "forks": 1755,
+      "stars_today": 949,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-16T00:00:00Z",
+      "first_seen": "2026-07-16T09:05:53.534Z",
+      "last_seen": "2026-07-16T09:05:53.534Z",
+      "owner": {
+        "login": "hasaneyldrm",
+        "avatar": "https://github.com/hasaneyldrm.png",
+        "url": "https://github.com/hasaneyldrm"
+      }
+    }
+  ]
+}
