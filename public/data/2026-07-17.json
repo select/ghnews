@@ -1,12 +1,297 @@
 {
   "date": "2026-07-17",
   "since": "daily",
-  "fetched_at": "2026-07-17T08:29:00.052Z",
-  "first_fetched_at": "2026-07-17T08:00:02.927Z",
-  "snapshots": 2,
-  "updated_at": "2026-07-17T08:29:00.052Z",
-  "total_count": 17,
+  "fetched_at": "2026-07-17T16:00:05.019Z",
+  "first_fetched_at": "2026-07-17T08:29:00.052Z",
+  "snapshots": 3,
+  "updated_at": "2026-07-17T16:00:05.019Z",
+  "total_count": 23,
   "items": [
+    {
+      "id": "codecrafters-io/build-your-own-x",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 527020,
+      "forks": 49879,
+      "stars_today": 1070,
+      "window": "today",
+      "language": "Markdown",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "codecrafters-io",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "url": "https://github.com/codecrafters-io"
+      }
+    },
+    {
+      "id": "PostHog/posthog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "html_url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 36089,
+      "forks": 3007,
+      "stars_today": 437,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "PostHog",
+        "avatar": "https://github.com/PostHog.png",
+        "url": "https://github.com/PostHog"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26"
+    },
+    {
+      "id": "HenryNdubuaku/maths-cs-ai-compendium",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "html_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "stars": 6472,
+      "forks": 800,
+      "stars_today": 248,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "HenryNdubuaku",
+        "avatar": "https://github.com/HenryNdubuaku.png",
+        "url": "https://github.com/HenryNdubuaku"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 11747,
+      "forks": 584,
+      "stars_today": 1486,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "github/copilot-sdk",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "html_url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9759,
+      "forks": 1325,
+      "stars_today": 234,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "github",
+        "avatar": "https://github.com/github.png",
+        "url": "https://github.com/github"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1133883850/75e3d158-e5cf-4bd2-8acc-c8cc937f39ed"
+    },
+    {
+      "id": "anthropics/cwc-workshops",
+      "name": "cwc-workshops",
+      "full_name": "anthropics/cwc-workshops",
+      "html_url": "https://github.com/anthropics/cwc-workshops",
+      "description": "",
+      "stars": 1522,
+      "forks": 481,
+      "stars_today": 37,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "PrismML-Eng/Bonsai-demo",
+      "name": "Bonsai-demo",
+      "full_name": "PrismML-Eng/Bonsai-demo",
+      "html_url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "stars": 1674,
+      "forks": 164,
+      "stars_today": 279,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "PrismML-Eng",
+        "avatar": "https://github.com/PrismML-Eng.png",
+        "url": "https://github.com/PrismML-Eng"
+      }
+    },
+    {
+      "id": "protocolbuffers/protobuf",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "html_url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "stars": 71518,
+      "forks": 16191,
+      "stars_today": 11,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "protocolbuffers",
+        "avatar": "https://github.com/protocolbuffers.png",
+        "url": "https://github.com/protocolbuffers"
+      }
+    },
+    {
+      "id": "tirth8205/code-review-graph",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "html_url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 19659,
+      "forks": 2103,
+      "stars_today": 57,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "tirth8205",
+        "avatar": "https://github.com/tirth8205.png",
+        "url": "https://github.com/tirth8205"
+      }
+    },
+    {
+      "id": "docusealco/docuseal",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "html_url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": 17746,
+      "forks": 1764,
+      "stars_today": 152,
+      "window": "today",
+      "language": "Ruby",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "docusealco",
+        "avatar": "https://github.com/docusealco.png",
+        "url": "https://github.com/docusealco"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/661850205/377ad724-388b-487b-a27a-a3c5373b4d65"
+    },
+    {
+      "id": "openinterpreter/openinterpreter",
+      "name": "openinterpreter",
+      "full_name": "openinterpreter/openinterpreter",
+      "html_url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "stars": 66243,
+      "forks": 5695,
+      "stars_today": 431,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "openinterpreter",
+        "avatar": "https://github.com/openinterpreter.png",
+        "url": "https://github.com/openinterpreter"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/666299222/30894a76-2a46-4988-a903-ababff8ac2fe"
+    },
+    {
+      "id": "RyanCodrai/turbovec",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "html_url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 13204,
+      "forks": 1173,
+      "stars_today": 280,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T16:00:05.019Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "RyanCodrai",
+        "avatar": "https://github.com/RyanCodrai.png",
+        "url": "https://github.com/RyanCodrai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1192555574/c9d82d4e-1a88-4201-a548-615cfbb0b16a"
+    },
+    {
+      "id": "HKUDS/DeepTutor",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "html_url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 27233,
+      "forks": 3639,
+      "stars_today": 528,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "OpenCut-app/OpenCut",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "html_url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 74643,
+      "forks": 7535,
+      "stars_today": 1077,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-17T00:00:00Z",
+      "first_seen": "2026-07-17T08:00:02.927Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
+      "owner": {
+        "login": "OpenCut-app",
+        "avatar": "https://github.com/OpenCut-app.png",
+        "url": "https://github.com/OpenCut-app"
+      }
+    },
     {
       "id": "apache/ossie",
       "name": "ossie",
@@ -20,113 +305,11 @@
       "language": "Python",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "apache",
         "avatar": "https://github.com/apache.png",
         "url": "https://github.com/apache"
-      }
-    },
-    {
-      "id": "Nutlope/hallmark",
-      "name": "hallmark",
-      "full_name": "Nutlope/hallmark",
-      "html_url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 11414,
-      "forks": 566,
-      "stars_today": 3372,
-      "window": "today",
-      "language": "CSS",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "Nutlope",
-        "avatar": "https://github.com/Nutlope.png",
-        "url": "https://github.com/Nutlope"
-      }
-    },
-    {
-      "id": "OpenCut-app/OpenCut",
-      "name": "OpenCut",
-      "full_name": "OpenCut-app/OpenCut",
-      "html_url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "stars": 74398,
-      "forks": 7515,
-      "stars_today": 3537,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "OpenCut-app",
-        "avatar": "https://github.com/OpenCut-app.png",
-        "url": "https://github.com/OpenCut-app"
-      }
-    },
-    {
-      "id": "PostHog/posthog",
-      "name": "posthog",
-      "full_name": "PostHog/posthog",
-      "html_url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": 35989,
-      "forks": 2999,
-      "stars_today": 77,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "PostHog",
-        "avatar": "https://github.com/PostHog.png",
-        "url": "https://github.com/PostHog"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26"
-    },
-    {
-      "id": "openinterpreter/openinterpreter",
-      "name": "openinterpreter",
-      "full_name": "openinterpreter/openinterpreter",
-      "html_url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "stars": 66149,
-      "forks": 5683,
-      "stars_today": 661,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "openinterpreter",
-        "avatar": "https://github.com/openinterpreter.png",
-        "url": "https://github.com/openinterpreter"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/666299222/30894a76-2a46-4988-a903-ababff8ac2fe"
-    },
-    {
-      "id": "PrismML-Eng/Bonsai-demo",
-      "name": "Bonsai-demo",
-      "full_name": "PrismML-Eng/Bonsai-demo",
-      "html_url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "stars": 1619,
-      "forks": 158,
-      "stars_today": 196,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "PrismML-Eng",
-        "avatar": "https://github.com/PrismML-Eng.png",
-        "url": "https://github.com/PrismML-Eng"
       }
     },
     {
@@ -142,7 +325,7 @@
       "language": "HTML",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "hasaneyldrm",
         "avatar": "https://github.com/hasaneyldrm.png",
@@ -162,7 +345,7 @@
       "language": "Python",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "Shubhamsaboo",
         "avatar": "https://github.com/Shubhamsaboo.png",
@@ -182,7 +365,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "lobehub",
         "avatar": "https://github.com/lobehub.png",
@@ -203,31 +386,11 @@
       "language": "C++",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "YimMenu",
         "avatar": "https://github.com/YimMenu.png",
         "url": "https://github.com/YimMenu"
-      }
-    },
-    {
-      "id": "HKUDS/DeepTutor",
-      "name": "DeepTutor",
-      "full_name": "HKUDS/DeepTutor",
-      "html_url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "stars": 27097,
-      "forks": 3630,
-      "stars_today": 656,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "HKUDS",
-        "avatar": "https://github.com/HKUDS.png",
-        "url": "https://github.com/HKUDS"
       }
     },
     {
@@ -243,33 +406,12 @@
       "language": "Shell",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "mattpocock",
         "avatar": "https://github.com/mattpocock.png",
         "url": "https://github.com/mattpocock"
       }
-    },
-    {
-      "id": "github/copilot-sdk",
-      "name": "copilot-sdk",
-      "full_name": "github/copilot-sdk",
-      "html_url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "stars": 9722,
-      "forks": 1322,
-      "stars_today": 13,
-      "window": "today",
-      "language": "Java",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "github",
-        "avatar": "https://github.com/github.png",
-        "url": "https://github.com/github"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1133883850/75e3d158-e5cf-4bd2-8acc-c8cc937f39ed"
     },
     {
       "id": "ibelick/ui-skills",
@@ -284,7 +426,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "ibelick",
         "avatar": "https://github.com/ibelick.png",
@@ -304,31 +446,11 @@
       "language": "Python",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "Graphify-Labs",
         "avatar": "https://github.com/Graphify-Labs.png",
         "url": "https://github.com/Graphify-Labs"
-      }
-    },
-    {
-      "id": "codecrafters-io/build-your-own-x",
-      "name": "build-your-own-x",
-      "full_name": "codecrafters-io/build-your-own-x",
-      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 526649,
-      "forks": 49839,
-      "stars_today": 435,
-      "window": "today",
-      "language": "Markdown",
-      "created_at": "2026-07-17T00:00:00Z",
-      "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
-      "owner": {
-        "login": "codecrafters-io",
-        "avatar": "https://github.com/codecrafters-io.png",
-        "url": "https://github.com/codecrafters-io"
       }
     },
     {
@@ -344,7 +466,7 @@
       "language": "HTML",
       "created_at": "2026-07-17T00:00:00Z",
       "first_seen": "2026-07-17T08:00:02.927Z",
-      "last_seen": "2026-07-17T08:29:00.052Z",
+      "last_seen": "2026-07-17T16:00:05.019Z",
       "owner": {
         "login": "ossu",
         "avatar": "https://github.com/ossu.png",
