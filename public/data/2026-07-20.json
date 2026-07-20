@@ -1,0 +1,375 @@
+{
+  "date": "2026-07-20",
+  "since": "daily",
+  "fetched_at": "2026-07-20T08:45:54.948Z",
+  "first_fetched_at": "2026-07-20T08:45:54.948Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-20T08:45:54.948Z",
+  "total_count": 18,
+  "items": [
+    {
+      "id": "tirth8205/code-review-graph",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "html_url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 22011,
+      "forks": 2217,
+      "stars_today": 663,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "tirth8205",
+        "avatar": "https://github.com/tirth8205.png",
+        "url": "https://github.com/tirth8205"
+      }
+    },
+    {
+      "id": "kvcache-ai/ktransformers",
+      "name": "ktransformers",
+      "full_name": "kvcache-ai/ktransformers",
+      "html_url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 18538,
+      "forks": 1459,
+      "stars_today": 360,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "kvcache-ai",
+        "avatar": "https://github.com/kvcache-ai.png",
+        "url": "https://github.com/kvcache-ai"
+      }
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 40024,
+      "forks": 6664,
+      "stars_today": 501,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": "jamiepine/voicebox",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 43695,
+      "forks": 5325,
+      "stars_today": 610,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "jamiepine",
+        "avatar": "https://github.com/jamiepine.png",
+        "url": "https://github.com/jamiepine"
+      }
+    },
+    {
+      "id": "KnockOutEZ/wigolo",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "html_url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 2133,
+      "forks": 135,
+      "stars_today": 595,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "KnockOutEZ",
+        "avatar": "https://github.com/KnockOutEZ.png",
+        "url": "https://github.com/KnockOutEZ"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1208642537/3c1c5337-b8b8-4977-a44e-f029908ab734"
+    },
+    {
+      "id": "andrewrabert/jellium-desktop",
+      "name": "jellium-desktop",
+      "full_name": "andrewrabert/jellium-desktop",
+      "html_url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "stars": 1356,
+      "forks": 112,
+      "stars_today": 43,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "andrewrabert",
+        "avatar": "https://github.com/andrewrabert.png",
+        "url": "https://github.com/andrewrabert"
+      }
+    },
+    {
+      "id": "github/copilot-sdk",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "html_url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 10011,
+      "forks": 1354,
+      "stars_today": 39,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "github",
+        "avatar": "https://github.com/github.png",
+        "url": "https://github.com/github"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1133883850/75e3d158-e5cf-4bd2-8acc-c8cc937f39ed"
+    },
+    {
+      "id": "PostHog/posthog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "html_url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 37050,
+      "forks": 3062,
+      "stars_today": 411,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "PostHog",
+        "avatar": "https://github.com/PostHog.png",
+        "url": "https://github.com/PostHog"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26"
+    },
+    {
+      "id": "microsoft/terminal",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "html_url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "stars": 104271,
+      "forks": 9445,
+      "stars_today": 59,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/100060912/dc77b180-764a-11e9-9e12-aace7d0ecd7d"
+    },
+    {
+      "id": "AstrBotDevs/AstrBot",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "html_url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 36833,
+      "forks": 2553,
+      "stars_today": 83,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "AstrBotDevs",
+        "avatar": "https://github.com/AstrBotDevs.png",
+        "url": "https://github.com/AstrBotDevs"
+      }
+    },
+    {
+      "id": "1jehuang/jcode",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 9123,
+      "forks": 1052,
+      "stars_today": 235,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "1jehuang",
+        "avatar": "https://github.com/1jehuang.png",
+        "url": "https://github.com/1jehuang"
+      }
+    },
+    {
+      "id": "trycua/cua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20309,
+      "forks": 1350,
+      "stars_today": 64,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "trycua",
+        "avatar": "https://github.com/trycua.png",
+        "url": "https://github.com/trycua"
+      }
+    },
+    {
+      "id": "MoonshotAI/kimi-cli",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "html_url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "stars": 10029,
+      "forks": 1205,
+      "stars_today": 410,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "MoonshotAI",
+        "avatar": "https://github.com/MoonshotAI.png",
+        "url": "https://github.com/MoonshotAI"
+      }
+    },
+    {
+      "id": "Flowseal/zapret-discord-youtube",
+      "name": "zapret-discord-youtube",
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "html_url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "stars": 31061,
+      "forks": 2378,
+      "stars_today": 106,
+      "window": "today",
+      "language": "Batchfile",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "Flowseal",
+        "avatar": "https://github.com/Flowseal.png",
+        "url": "https://github.com/Flowseal"
+      }
+    },
+    {
+      "id": "codecrafters-io/build-your-own-x",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 529163,
+      "forks": 50061,
+      "stars_today": 754,
+      "window": "today",
+      "language": "Markdown",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "codecrafters-io",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "url": "https://github.com/codecrafters-io"
+      }
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "html_url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 23762,
+      "forks": 2689,
+      "stars_today": 358,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "lyogavin",
+        "avatar": "https://github.com/lyogavin.png",
+        "url": "https://github.com/lyogavin"
+      }
+    },
+    {
+      "id": "Canner/WrenAI",
+      "name": "WrenAI",
+      "full_name": "Canner/WrenAI",
+      "html_url": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "stars": 16366,
+      "forks": 1851,
+      "stars_today": 121,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "Canner",
+        "avatar": "https://github.com/Canner.png",
+        "url": "https://github.com/Canner"
+      }
+    },
+    {
+      "id": "PKUFlyingPig/cs-self-learning",
+      "name": "cs-self-learning",
+      "full_name": "PKUFlyingPig/cs-self-learning",
+      "html_url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "description": "计算机自学指南",
+      "stars": 74330,
+      "forks": 7950,
+      "stars_today": 134,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-07-20T00:00:00Z",
+      "first_seen": "2026-07-20T08:45:54.948Z",
+      "last_seen": "2026-07-20T08:45:54.948Z",
+      "owner": {
+        "login": "PKUFlyingPig",
+        "avatar": "https://github.com/PKUFlyingPig.png",
+        "url": "https://github.com/PKUFlyingPig"
+      }
+    }
+  ]
+}
