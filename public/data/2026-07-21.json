@@ -1,26 +1,47 @@
 {
   "date": "2026-07-21",
   "since": "daily",
-  "fetched_at": "2026-07-21T08:48:26.450Z",
+  "fetched_at": "2026-07-21T16:00:05.200Z",
   "first_fetched_at": "2026-07-21T08:48:26.450Z",
-  "snapshots": 1,
-  "updated_at": "2026-07-21T08:48:26.450Z",
-  "total_count": 21,
+  "snapshots": 2,
+  "updated_at": "2026-07-21T16:00:05.200Z",
+  "total_count": 32,
   "items": [
+    {
+      "id": "koala73/worldmonitor",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "html_url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 64215,
+      "forks": 10038,
+      "stars_today": 1167,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "koala73",
+        "avatar": "https://github.com/koala73.png",
+        "url": "https://github.com/koala73"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417"
+    },
     {
       "id": "bojieli/ai-agent-book",
       "name": "ai-agent-book",
       "full_name": "bojieli/ai-agent-book",
       "html_url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 12432,
-      "forks": 1181,
+      "stars": 13931,
+      "forks": 1311,
       "stars_today": 4434,
       "window": "today",
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "bojieli",
         "avatar": "https://github.com/bojieli.png",
@@ -33,18 +54,58 @@
       "full_name": "tirth8205/code-review-graph",
       "html_url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": 23991,
-      "forks": 2315,
-      "stars_today": 1833,
+      "stars": 24333,
+      "forks": 2340,
+      "stars_today": 1921,
       "window": "today",
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "tirth8205",
         "avatar": "https://github.com/tirth8205.png",
         "url": "https://github.com/tirth8205"
+      }
+    },
+    {
+      "id": "ayghri/i-have-adhd",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars": 6324,
+      "forks": 248,
+      "stars_today": 1846,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "ayghri",
+        "avatar": "https://github.com/ayghri.png",
+        "url": "https://github.com/ayghri"
+      }
+    },
+    {
+      "id": "earthtojake/text-to-cad",
+      "name": "text-to-cad",
+      "full_name": "earthtojake/text-to-cad",
+      "html_url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": 8912,
+      "forks": 1012,
+      "stars_today": 297,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "earthtojake",
+        "avatar": "https://github.com/earthtojake.png",
+        "url": "https://github.com/earthtojake"
       }
     },
     {
@@ -53,18 +114,199 @@
       "full_name": "1jehuang/jcode",
       "html_url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
-      "stars": 9949,
-      "forks": 1100,
-      "stars_today": 568,
+      "stars": 10152,
+      "forks": 1121,
+      "stars_today": 835,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "1jehuang",
         "avatar": "https://github.com/1jehuang.png",
         "url": "https://github.com/1jehuang"
+      }
+    },
+    {
+      "id": "oblien/openship",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "html_url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 5757,
+      "forks": 407,
+      "stars_today": 1556,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "oblien",
+        "avatar": "https://github.com/oblien.png",
+        "url": "https://github.com/oblien"
+      }
+    },
+    {
+      "id": "AstrBotDevs/AstrBot",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "html_url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 37374,
+      "forks": 2603,
+      "stars_today": 416,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "AstrBotDevs",
+        "avatar": "https://github.com/AstrBotDevs.png",
+        "url": "https://github.com/AstrBotDevs"
+      }
+    },
+    {
+      "id": "every-app/open-seo",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "html_url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 6401,
+      "forks": 694,
+      "stars_today": 850,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "every-app",
+        "avatar": "https://github.com/every-app.png",
+        "url": "https://github.com/every-app"
+      }
+    },
+    {
+      "id": "tradesdontlie/tradingview-mcp",
+      "name": "tradingview-mcp",
+      "full_name": "tradesdontlie/tradingview-mcp",
+      "html_url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "stars": 4693,
+      "forks": 2166,
+      "stars_today": 28,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "tradesdontlie",
+        "avatar": "https://github.com/tradesdontlie.png",
+        "url": "https://github.com/tradesdontlie"
+      }
+    },
+    {
+      "id": "AlexsJones/llmfit",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "html_url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": 30056,
+      "forks": 1833,
+      "stars_today": 194,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "AlexsJones",
+        "avatar": "https://github.com/AlexsJones.png",
+        "url": "https://github.com/AlexsJones"
+      }
+    },
+    {
+      "id": "hyprwm/Hyprland",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "html_url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "stars": 36909,
+      "forks": 1858,
+      "stars_today": 88,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "hyprwm",
+        "avatar": "https://github.com/hyprwm.png",
+        "url": "https://github.com/hyprwm"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/470730648/62af9cdd-2851-437f-9250-05b8ae4a5bb0"
+    },
+    {
+      "id": "chrislgarry/Apollo-11",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "html_url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 69709,
+      "forks": 7821,
+      "stars_today": 1195,
+      "window": "today",
+      "language": "Assembly",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "chrislgarry",
+        "avatar": "https://github.com/chrislgarry.png",
+        "url": "https://github.com/chrislgarry"
+      }
+    },
+    {
+      "id": "DioxusLabs/dioxus",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "html_url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "stars": 37520,
+      "forks": 1767,
+      "stars_today": 261,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "DioxusLabs",
+        "avatar": "https://github.com/DioxusLabs.png",
+        "url": "https://github.com/DioxusLabs"
+      }
+    },
+    {
+      "id": "langchain-ai/open_deep_research",
+      "name": "open_deep_research",
+      "full_name": "langchain-ai/open_deep_research",
+      "html_url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "stars": 12128,
+      "forks": 1732,
+      "stars_today": 14,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "langchain-ai",
+        "avatar": "https://github.com/langchain-ai.png",
+        "url": "https://github.com/langchain-ai"
       }
     },
     {
@@ -73,19 +315,101 @@
       "full_name": "diegosouzapw/OmniRoute",
       "html_url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "stars": 22523,
-      "forks": 3028,
-      "stars_today": 1107,
+      "stars": 23016,
+      "forks": 3091,
+      "stars_today": 2040,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "diegosouzapw",
         "avatar": "https://github.com/diegosouzapw.png",
         "url": "https://github.com/diegosouzapw"
       }
+    },
+    {
+      "id": "schollz/croc",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "html_url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "stars": 36559,
+      "forks": 1443,
+      "stars_today": 396,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "schollz",
+        "avatar": "https://github.com/schollz.png",
+        "url": "https://github.com/schollz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/107286889/da3aec00-a78e-11e9-8627-46ec1ac39ae5"
+    },
+    {
+      "id": "microsoft/Ontology-Playground",
+      "name": "Ontology-Playground",
+      "full_name": "microsoft/Ontology-Playground",
+      "html_url": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "stars": 1927,
+      "forks": 241,
+      "stars_today": 355,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      }
+    },
+    {
+      "id": "dottxt-ai/outlines",
+      "name": "outlines",
+      "full_name": "dottxt-ai/outlines",
+      "html_url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "stars": 14711,
+      "forks": 793,
+      "stars_today": 49,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T16:00:05.200Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "dottxt-ai",
+        "avatar": "https://github.com/dottxt-ai.png",
+        "url": "https://github.com/dottxt-ai"
+      }
+    },
+    {
+      "id": "KnockOutEZ/wigolo",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "html_url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 2973,
+      "forks": 181,
+      "stars_today": 641,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-21T00:00:00Z",
+      "first_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
+      "owner": {
+        "login": "KnockOutEZ",
+        "avatar": "https://github.com/KnockOutEZ.png",
+        "url": "https://github.com/KnockOutEZ"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1208642537/3c1c5337-b8b8-4977-a44e-f029908ab734"
     },
     {
       "id": "rohitg00/ai-engineering-from-scratch",
@@ -100,7 +424,7 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "rohitg00",
         "avatar": "https://github.com/rohitg00.png",
@@ -120,7 +444,7 @@
       "language": "Shell",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "msitarzewski",
         "avatar": "https://github.com/msitarzewski.png",
@@ -140,7 +464,7 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "kvcache-ai",
         "avatar": "https://github.com/kvcache-ai.png",
@@ -160,7 +484,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "jamiepine",
         "avatar": "https://github.com/jamiepine.png",
@@ -180,7 +504,7 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "topoteretes",
         "avatar": "https://github.com/topoteretes.png",
@@ -200,31 +524,11 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "Robbyant",
         "avatar": "https://github.com/Robbyant.png",
         "url": "https://github.com/Robbyant"
-      }
-    },
-    {
-      "id": "every-app/open-seo",
-      "name": "open-seo",
-      "full_name": "every-app/open-seo",
-      "html_url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": 6162,
-      "forks": 675,
-      "stars_today": 939,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-21T00:00:00Z",
-      "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
-      "owner": {
-        "login": "every-app",
-        "avatar": "https://github.com/every-app.png",
-        "url": "https://github.com/every-app"
       }
     },
     {
@@ -240,31 +544,11 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "MoonshotAI",
         "avatar": "https://github.com/MoonshotAI.png",
         "url": "https://github.com/MoonshotAI"
-      }
-    },
-    {
-      "id": "AstrBotDevs/AstrBot",
-      "name": "AstrBot",
-      "full_name": "AstrBotDevs/AstrBot",
-      "html_url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 37258,
-      "forks": 2594,
-      "stars_today": 317,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-21T00:00:00Z",
-      "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
-      "owner": {
-        "login": "AstrBotDevs",
-        "avatar": "https://github.com/AstrBotDevs.png",
-        "url": "https://github.com/AstrBotDevs"
       }
     },
     {
@@ -280,33 +564,12 @@
       "language": "Python",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "PrefectHQ",
         "avatar": "https://github.com/PrefectHQ.png",
         "url": "https://github.com/PrefectHQ"
       }
-    },
-    {
-      "id": "KnockOutEZ/wigolo",
-      "name": "wigolo",
-      "full_name": "KnockOutEZ/wigolo",
-      "html_url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": 2769,
-      "forks": 170,
-      "stars_today": 689,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-21T00:00:00Z",
-      "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
-      "owner": {
-        "login": "KnockOutEZ",
-        "avatar": "https://github.com/KnockOutEZ.png",
-        "url": "https://github.com/KnockOutEZ"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1208642537/3c1c5337-b8b8-4977-a44e-f029908ab734"
     },
     {
       "id": "tokio-rs/topcoat",
@@ -321,7 +584,7 @@
       "language": "Rust",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "tokio-rs",
         "avatar": "https://github.com/tokio-rs.png",
@@ -341,51 +604,11 @@
       "language": "TypeScript",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "iptv-org",
         "avatar": "https://github.com/iptv-org.png",
         "url": "https://github.com/iptv-org"
-      }
-    },
-    {
-      "id": "oblien/openship",
-      "name": "openship",
-      "full_name": "oblien/openship",
-      "html_url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
-      "stars": 5297,
-      "forks": 368,
-      "stars_today": 1641,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-21T00:00:00Z",
-      "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
-      "owner": {
-        "login": "oblien",
-        "avatar": "https://github.com/oblien.png",
-        "url": "https://github.com/oblien"
-      }
-    },
-    {
-      "id": "microsoft/Ontology-Playground",
-      "name": "Ontology-Playground",
-      "full_name": "microsoft/Ontology-Playground",
-      "html_url": "https://github.com/microsoft/Ontology-Playground",
-      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "stars": 1845,
-      "forks": 238,
-      "stars_today": 464,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-21T00:00:00Z",
-      "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
-      "owner": {
-        "login": "microsoft",
-        "avatar": "https://github.com/microsoft.png",
-        "url": "https://github.com/microsoft"
       }
     },
     {
@@ -401,7 +624,7 @@
       "language": "C++",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "handy-computer",
         "avatar": "https://github.com/handy-computer.png",
@@ -421,7 +644,7 @@
       "language": "C++",
       "created_at": "2026-07-21T00:00:00Z",
       "first_seen": "2026-07-21T08:48:26.450Z",
-      "last_seen": "2026-07-21T08:48:26.450Z",
+      "last_seen": "2026-07-21T16:00:05.200Z",
       "owner": {
         "login": "moonshine-ai",
         "avatar": "https://github.com/moonshine-ai.png",
