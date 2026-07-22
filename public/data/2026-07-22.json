@@ -1,11 +1,11 @@
 {
   "date": "2026-07-22",
   "since": "daily",
-  "fetched_at": "2026-07-22T09:18:07.958Z",
+  "fetched_at": "2026-07-22T16:00:02.373Z",
   "first_fetched_at": "2026-07-22T09:18:07.958Z",
-  "snapshots": 1,
-  "updated_at": "2026-07-22T09:18:07.958Z",
-  "total_count": 21,
+  "snapshots": 2,
+  "updated_at": "2026-07-22T16:00:02.373Z",
+  "total_count": 29,
   "items": [
     {
       "id": "koala73/worldmonitor",
@@ -13,20 +13,384 @@
       "full_name": "koala73/worldmonitor",
       "html_url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 66987,
-      "forks": 10354,
-      "stars_today": 1295,
+      "stars": 68097,
+      "forks": 10463,
+      "stars_today": 4131,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "koala73",
         "avatar": "https://github.com/koala73.png",
         "url": "https://github.com/koala73"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417"
+    },
+    {
+      "id": "ruvnet/RuView",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "html_url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 83296,
+      "forks": 11202,
+      "stars_today": 875,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
+    },
+    {
+      "id": "ayghri/i-have-adhd",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "html_url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars": 7866,
+      "forks": 351,
+      "stars_today": 1682,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "ayghri",
+        "avatar": "https://github.com/ayghri.png",
+        "url": "https://github.com/ayghri"
+      }
+    },
+    {
+      "id": "schollz/croc",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "html_url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "stars": 37349,
+      "forks": 1477,
+      "stars_today": 737,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "schollz",
+        "avatar": "https://github.com/schollz.png",
+        "url": "https://github.com/schollz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/107286889/da3aec00-a78e-11e9-8627-46ec1ac39ae5"
+    },
+    {
+      "id": "likec4/likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "html_url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": 4160,
+      "forks": 295,
+      "stars_today": 58,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "likec4",
+        "avatar": "https://github.com/likec4.png",
+        "url": "https://github.com/likec4"
+      }
+    },
+    {
+      "id": "chrislgarry/Apollo-11",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "html_url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 70418,
+      "forks": 7872,
+      "stars_today": 766,
+      "window": "today",
+      "language": "Assembly",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "chrislgarry",
+        "avatar": "https://github.com/chrislgarry.png",
+        "url": "https://github.com/chrislgarry"
+      }
+    },
+    {
+      "id": "jamiepine/voicebox",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 45523,
+      "forks": 5563,
+      "stars_today": 565,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "jamiepine",
+        "avatar": "https://github.com/jamiepine.png",
+        "url": "https://github.com/jamiepine"
+      }
+    },
+    {
+      "id": "diegosouzapw/OmniRoute",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "html_url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 24674,
+      "forks": 3292,
+      "stars_today": 1648,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "diegosouzapw",
+        "avatar": "https://github.com/diegosouzapw.png",
+        "url": "https://github.com/diegosouzapw"
+      }
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 32493,
+      "forks": 5587,
+      "stars_today": 134,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 68605,
+      "forks": 7793,
+      "stars_today": 155,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "ComposioHQ",
+        "avatar": "https://github.com/ComposioHQ.png",
+        "url": "https://github.com/ComposioHQ"
+      }
+    },
+    {
+      "id": "oblien/openship",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "html_url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 7020,
+      "forks": 511,
+      "stars_today": 1304,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "oblien",
+        "avatar": "https://github.com/oblien.png",
+        "url": "https://github.com/oblien"
+      }
+    },
+    {
+      "id": "agegr/pi-web",
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "html_url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "stars": 1999,
+      "forks": 303,
+      "stars_today": 314,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "agegr",
+        "avatar": "https://github.com/agegr.png",
+        "url": "https://github.com/agegr"
+      }
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 42006,
+      "forks": 6991,
+      "stars_today": 688,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": "tirth8205/code-review-graph",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "html_url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 25152,
+      "forks": 2383,
+      "stars_today": 872,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "tirth8205",
+        "avatar": "https://github.com/tirth8205.png",
+        "url": "https://github.com/tirth8205"
+      }
+    },
+    {
+      "id": "dreamhunter2333/cloudflare_temp_email",
+      "name": "cloudflare_temp_email",
+      "full_name": "dreamhunter2333/cloudflare_temp_email",
+      "html_url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "stars": 10738,
+      "forks": 7278,
+      "stars_today": 60,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "dreamhunter2333",
+        "avatar": "https://github.com/dreamhunter2333.png",
+        "url": "https://github.com/dreamhunter2333"
+      }
+    },
+    {
+      "id": "DioxusLabs/dioxus",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "html_url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "stars": 37916,
+      "forks": 1781,
+      "stars_today": 411,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "DioxusLabs",
+        "avatar": "https://github.com/DioxusLabs.png",
+        "url": "https://github.com/DioxusLabs"
+      }
+    },
+    {
+      "id": "hyprwm/Hyprland",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "html_url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "stars": 37223,
+      "forks": 1870,
+      "stars_today": 353,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "hyprwm",
+        "avatar": "https://github.com/hyprwm.png",
+        "url": "https://github.com/hyprwm"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/470730648/62af9cdd-2851-437f-9250-05b8ae4a5bb0"
+    },
+    {
+      "id": "Pumpkin-MC/Pumpkin",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "html_url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 8223,
+      "forks": 580,
+      "stars_today": 96,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T16:00:02.373Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "Pumpkin-MC",
+        "avatar": "https://github.com/Pumpkin-MC.png",
+        "url": "https://github.com/Pumpkin-MC"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/834966974/c4bf220d-a446-4532-8c74-86df9695edd8"
+    },
+    {
+      "id": "dottxt-ai/outlines",
+      "name": "outlines",
+      "full_name": "dottxt-ai/outlines",
+      "html_url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "stars": 15034,
+      "forks": 802,
+      "stars_today": 362,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-22T00:00:00Z",
+      "first_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
+      "owner": {
+        "login": "dottxt-ai",
+        "avatar": "https://github.com/dottxt-ai.png",
+        "url": "https://github.com/dottxt-ai"
+      }
     },
     {
       "id": "bojieli/ai-agent-book",
@@ -41,51 +405,11 @@
       "language": "Python",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "bojieli",
         "avatar": "https://github.com/bojieli.png",
         "url": "https://github.com/bojieli"
-      }
-    },
-    {
-      "id": "tirth8205/code-review-graph",
-      "name": "code-review-graph",
-      "full_name": "tirth8205/code-review-graph",
-      "html_url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": 24951,
-      "forks": 2370,
-      "stars_today": 1925,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "tirth8205",
-        "avatar": "https://github.com/tirth8205.png",
-        "url": "https://github.com/tirth8205"
-      }
-    },
-    {
-      "id": "ayghri/i-have-adhd",
-      "name": "i-have-adhd",
-      "full_name": "ayghri/i-have-adhd",
-      "html_url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": 7445,
-      "forks": 317,
-      "stars_today": 1866,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "ayghri",
-        "avatar": "https://github.com/ayghri.png",
-        "url": "https://github.com/ayghri"
       }
     },
     {
@@ -101,7 +425,7 @@
       "language": "JavaScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "earthtojake",
         "avatar": "https://github.com/earthtojake.png",
@@ -121,31 +445,11 @@
       "language": "Rust",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "1jehuang",
         "avatar": "https://github.com/1jehuang.png",
         "url": "https://github.com/1jehuang"
-      }
-    },
-    {
-      "id": "oblien/openship",
-      "name": "openship",
-      "full_name": "oblien/openship",
-      "html_url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
-      "stars": 6639,
-      "forks": 482,
-      "stars_today": 1562,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "oblien",
-        "avatar": "https://github.com/oblien.png",
-        "url": "https://github.com/oblien"
       }
     },
     {
@@ -161,7 +465,7 @@
       "language": "Python",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "AstrBotDevs",
         "avatar": "https://github.com/AstrBotDevs.png",
@@ -181,7 +485,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "every-app",
         "avatar": "https://github.com/every-app.png",
@@ -201,7 +505,7 @@
       "language": "JavaScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "tradesdontlie",
         "avatar": "https://github.com/tradesdontlie.png",
@@ -221,72 +525,11 @@
       "language": "Rust",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "AlexsJones",
         "avatar": "https://github.com/AlexsJones.png",
         "url": "https://github.com/AlexsJones"
-      }
-    },
-    {
-      "id": "hyprwm/Hyprland",
-      "name": "Hyprland",
-      "full_name": "hyprwm/Hyprland",
-      "html_url": "https://github.com/hyprwm/Hyprland",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "stars": 37148,
-      "forks": 1865,
-      "stars_today": 58,
-      "window": "today",
-      "language": "C++",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "hyprwm",
-        "avatar": "https://github.com/hyprwm.png",
-        "url": "https://github.com/hyprwm"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/470730648/62af9cdd-2851-437f-9250-05b8ae4a5bb0"
-    },
-    {
-      "id": "chrislgarry/Apollo-11",
-      "name": "Apollo-11",
-      "full_name": "chrislgarry/Apollo-11",
-      "html_url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 70189,
-      "forks": 7857,
-      "stars_today": 1235,
-      "window": "today",
-      "language": "Assembly",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "chrislgarry",
-        "avatar": "https://github.com/chrislgarry.png",
-        "url": "https://github.com/chrislgarry"
-      }
-    },
-    {
-      "id": "DioxusLabs/dioxus",
-      "name": "dioxus",
-      "full_name": "DioxusLabs/dioxus",
-      "html_url": "https://github.com/DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "stars": 37815,
-      "forks": 1779,
-      "stars_today": 271,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "DioxusLabs",
-        "avatar": "https://github.com/DioxusLabs.png",
-        "url": "https://github.com/DioxusLabs"
       }
     },
     {
@@ -302,73 +545,12 @@
       "language": "Python",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "langchain-ai",
         "avatar": "https://github.com/langchain-ai.png",
         "url": "https://github.com/langchain-ai"
       }
-    },
-    {
-      "id": "diegosouzapw/OmniRoute",
-      "name": "OmniRoute",
-      "full_name": "diegosouzapw/OmniRoute",
-      "html_url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "stars": 24159,
-      "forks": 3230,
-      "stars_today": 2034,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "diegosouzapw",
-        "avatar": "https://github.com/diegosouzapw.png",
-        "url": "https://github.com/diegosouzapw"
-      }
-    },
-    {
-      "id": "agegr/pi-web",
-      "name": "pi-web",
-      "full_name": "agegr/pi-web",
-      "html_url": "https://github.com/agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
-      "stars": 1871,
-      "forks": 291,
-      "stars_today": 298,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "agegr",
-        "avatar": "https://github.com/agegr.png",
-        "url": "https://github.com/agegr"
-      }
-    },
-    {
-      "id": "schollz/croc",
-      "name": "croc",
-      "full_name": "schollz/croc",
-      "html_url": "https://github.com/schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "stars": 37073,
-      "forks": 1469,
-      "stars_today": 361,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "schollz",
-        "avatar": "https://github.com/schollz.png",
-        "url": "https://github.com/schollz"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/107286889/da3aec00-a78e-11e9-8627-46ec1ac39ae5"
     },
     {
       "id": "microsoft/Ontology-Playground",
@@ -383,31 +565,11 @@
       "language": "TypeScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "microsoft",
         "avatar": "https://github.com/microsoft.png",
         "url": "https://github.com/microsoft"
-      }
-    },
-    {
-      "id": "dottxt-ai/outlines",
-      "name": "outlines",
-      "full_name": "dottxt-ai/outlines",
-      "html_url": "https://github.com/dottxt-ai/outlines",
-      "description": "Structured Outputs",
-      "stars": 14953,
-      "forks": 801,
-      "stars_today": 65,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-22T00:00:00Z",
-      "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
-      "owner": {
-        "login": "dottxt-ai",
-        "avatar": "https://github.com/dottxt-ai.png",
-        "url": "https://github.com/dottxt-ai"
       }
     },
     {
@@ -423,7 +585,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-22T00:00:00Z",
       "first_seen": "2026-07-22T09:18:07.958Z",
-      "last_seen": "2026-07-22T09:18:07.958Z",
+      "last_seen": "2026-07-22T16:00:02.373Z",
       "owner": {
         "login": "KnockOutEZ",
         "avatar": "https://github.com/KnockOutEZ.png",
