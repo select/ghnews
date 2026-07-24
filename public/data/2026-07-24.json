@@ -1,0 +1,316 @@
+{
+  "date": "2026-07-24",
+  "since": "daily",
+  "fetched_at": "2026-07-24T08:00:03.067Z",
+  "first_fetched_at": "2026-07-24T08:00:03.067Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-24T08:00:03.067Z",
+  "total_count": 15,
+  "items": [
+    {
+      "id": "block/buzz",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "html_url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 7843,
+      "forks": 615,
+      "stars_today": 2162,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "block",
+        "avatar": "https://github.com/block.png",
+        "url": "https://github.com/block"
+      }
+    },
+    {
+      "id": "koala73/worldmonitor",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "html_url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 72300,
+      "forks": 10860,
+      "stars_today": 3175,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "koala73",
+        "avatar": "https://github.com/koala73.png",
+        "url": "https://github.com/koala73"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417"
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 33240,
+      "forks": 5660,
+      "stars_today": 401,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "Pumpkin-MC/Pumpkin",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "html_url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 9071,
+      "forks": 620,
+      "stars_today": 565,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "Pumpkin-MC",
+        "avatar": "https://github.com/Pumpkin-MC.png",
+        "url": "https://github.com/Pumpkin-MC"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/834966974/c4bf220d-a446-4532-8c74-86df9695edd8"
+    },
+    {
+      "id": "citrolabs/ego-lite",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "html_url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": 1976,
+      "forks": 102,
+      "stars_today": 247,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "citrolabs",
+        "avatar": "https://github.com/citrolabs.png",
+        "url": "https://github.com/citrolabs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726"
+    },
+    {
+      "id": "chrislgarry/Apollo-11",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "html_url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 71210,
+      "forks": 7926,
+      "stars_today": 592,
+      "window": "today",
+      "language": "Assembly",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "chrislgarry",
+        "avatar": "https://github.com/chrislgarry.png",
+        "url": "https://github.com/chrislgarry"
+      }
+    },
+    {
+      "id": "diegosouzapw/OmniRoute",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "html_url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": 27763,
+      "forks": 3646,
+      "stars_today": 1929,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "diegosouzapw",
+        "avatar": "https://github.com/diegosouzapw.png",
+        "url": "https://github.com/diegosouzapw"
+      }
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 69649,
+      "forks": 7865,
+      "stars_today": 636,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "ComposioHQ",
+        "avatar": "https://github.com/ComposioHQ.png",
+        "url": "https://github.com/ComposioHQ"
+      }
+    },
+    {
+      "id": "earthtojake/text-to-cad",
+      "name": "text-to-cad",
+      "full_name": "earthtojake/text-to-cad",
+      "html_url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": 10205,
+      "forks": 1116,
+      "stars_today": 230,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "earthtojake",
+        "avatar": "https://github.com/earthtojake.png",
+        "url": "https://github.com/earthtojake"
+      }
+    },
+    {
+      "id": "agegr/pi-web",
+      "name": "pi-web",
+      "full_name": "agegr/pi-web",
+      "html_url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "stars": 2501,
+      "forks": 336,
+      "stars_today": 315,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "agegr",
+        "avatar": "https://github.com/agegr.png",
+        "url": "https://github.com/agegr"
+      }
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 11927,
+      "forks": 816,
+      "stars_today": 180,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
+    {
+      "id": "ruvnet/RuView",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "html_url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 85460,
+      "forks": 11402,
+      "stars_today": 1708,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
+    },
+    {
+      "id": "likec4/likec4",
+      "name": "likec4",
+      "full_name": "likec4/likec4",
+      "html_url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": 4817,
+      "forks": 328,
+      "stars_today": 472,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "likec4",
+        "avatar": "https://github.com/likec4.png",
+        "url": "https://github.com/likec4"
+      }
+    },
+    {
+      "id": "Automattic/harper",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "html_url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars": 12572,
+      "forks": 467,
+      "stars_today": 624,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "Automattic",
+        "avatar": "https://github.com/Automattic.png",
+        "url": "https://github.com/Automattic"
+      }
+    },
+    {
+      "id": "jellyfin/jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "html_url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "stars": 54836,
+      "forks": 5169,
+      "stars_today": 66,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-24T00:00:00Z",
+      "first_seen": "2026-07-24T08:00:03.067Z",
+      "last_seen": "2026-07-24T08:00:03.067Z",
+      "owner": {
+        "login": "jellyfin",
+        "avatar": "https://github.com/jellyfin.png",
+        "url": "https://github.com/jellyfin"
+      }
+    }
+  ]
+}
