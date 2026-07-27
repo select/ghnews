@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-27",
+  "since": "daily",
+  "fetched_at": "2026-07-27T08:00:03.120Z",
+  "first_fetched_at": "2026-07-27T08:00:03.120Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-27T08:00:03.120Z",
+  "total_count": 17,
+  "items": [
+    {
+      "id": "permissionlesstech/bitchat",
+      "name": "bitchat",
+      "full_name": "permissionlesstech/bitchat",
+      "html_url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "stars": 31091,
+      "forks": 4875,
+      "stars_today": 1166,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "permissionlesstech",
+        "avatar": "https://github.com/permissionlesstech.png",
+        "url": "https://github.com/permissionlesstech"
+      }
+    },
+    {
+      "id": "citrolabs/ego-lite",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "html_url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 5088,
+      "forks": 242,
+      "stars_today": 900,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "citrolabs",
+        "avatar": "https://github.com/citrolabs.png",
+        "url": "https://github.com/citrolabs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726"
+    },
+    {
+      "id": "block/buzz",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "html_url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 13825,
+      "forks": 1141,
+      "stars_today": 1710,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "block",
+        "avatar": "https://github.com/block.png",
+        "url": "https://github.com/block"
+      }
+    },
+    {
+      "id": "pingdotgg/t3code",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "html_url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": 15157,
+      "forks": 3317,
+      "stars_today": 149,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "pingdotgg",
+        "avatar": "https://github.com/pingdotgg.png",
+        "url": "https://github.com/pingdotgg"
+      }
+    },
+    {
+      "id": "CoreBunch/Instatic",
+      "name": "Instatic",
+      "full_name": "CoreBunch/Instatic",
+      "html_url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 5896,
+      "forks": 528,
+      "stars_today": 888,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "CoreBunch",
+        "avatar": "https://github.com/CoreBunch.png",
+        "url": "https://github.com/CoreBunch"
+      }
+    },
+    {
+      "id": "yorukot/superfile",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "html_url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "stars": 20437,
+      "forks": 646,
+      "stars_today": 131,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "yorukot",
+        "avatar": "https://github.com/yorukot.png",
+        "url": "https://github.com/yorukot"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/774468912/855a6a21-013e-4024-b987-6f6ed18fca95"
+    },
+    {
+      "id": "nodejs/node",
+      "name": "node",
+      "full_name": "nodejs/node",
+      "html_url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 118532,
+      "forks": 36181,
+      "stars_today": 36,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "nodejs",
+        "avatar": "https://github.com/nodejs.png",
+        "url": "https://github.com/nodejs"
+      }
+    },
+    {
+      "id": "OtterMind/Chat2DB",
+      "name": "Chat2DB",
+      "full_name": "OtterMind/Chat2DB",
+      "html_url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "stars": 27309,
+      "forks": 2949,
+      "stars_today": 398,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "OtterMind",
+        "avatar": "https://github.com/OtterMind.png",
+        "url": "https://github.com/OtterMind"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 50955,
+      "forks": 3005,
+      "stars_today": 413,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 34307,
+      "forks": 5773,
+      "stars_today": 321,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 14216,
+      "forks": 962,
+      "stars_today": 832,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
+    {
+      "id": "andrewyng/aisuite",
+      "name": "aisuite",
+      "full_name": "andrewyng/aisuite",
+      "html_url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 15475,
+      "forks": 1639,
+      "stars_today": 187,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "andrewyng",
+        "avatar": "https://github.com/andrewyng.png",
+        "url": "https://github.com/andrewyng"
+      }
+    },
+    {
+      "id": "anthropics/claude-cookbooks",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "html_url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 50391,
+      "forks": 5935,
+      "stars_today": 379,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "Pumpkin-MC/Pumpkin",
+      "name": "Pumpkin",
+      "full_name": "Pumpkin-MC/Pumpkin",
+      "html_url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": 10127,
+      "forks": 677,
+      "stars_today": 338,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "Pumpkin-MC",
+        "avatar": "https://github.com/Pumpkin-MC.png",
+        "url": "https://github.com/Pumpkin-MC"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/834966974/c4bf220d-a446-4532-8c74-86df9695edd8"
+    },
+    {
+      "id": "permissionlesstech/bitchat-android",
+      "name": "bitchat-android",
+      "full_name": "permissionlesstech/bitchat-android",
+      "html_url": "https://github.com/permissionlesstech/bitchat-android",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "stars": 6858,
+      "forks": 1644,
+      "stars_today": 260,
+      "window": "today",
+      "language": "Kotlin",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "permissionlesstech",
+        "avatar": "https://github.com/permissionlesstech.png",
+        "url": "https://github.com/permissionlesstech"
+      }
+    },
+    {
+      "id": "jenkinsci/jenkins",
+      "name": "jenkins",
+      "full_name": "jenkinsci/jenkins",
+      "html_url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 25772,
+      "forks": 9664,
+      "stars_today": 18,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "jenkinsci",
+        "avatar": "https://github.com/jenkinsci.png",
+        "url": "https://github.com/jenkinsci"
+      }
+    },
+    {
+      "id": "amnezia-vpn/amnezia-client",
+      "name": "amnezia-client",
+      "full_name": "amnezia-vpn/amnezia-client",
+      "html_url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "stars": 13478,
+      "forks": 1014,
+      "stars_today": 35,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-07-27T00:00:00Z",
+      "first_seen": "2026-07-27T08:00:03.120Z",
+      "last_seen": "2026-07-27T08:00:03.120Z",
+      "owner": {
+        "login": "amnezia-vpn",
+        "avatar": "https://github.com/amnezia-vpn.png",
+        "url": "https://github.com/amnezia-vpn"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/315035371/b7ae5f23-4018-473d-8265-0d083e6ca777"
+    }
+  ]
+}
