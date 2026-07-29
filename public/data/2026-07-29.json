@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-29",
+  "since": "daily",
+  "fetched_at": "2026-07-29T08:00:02.906Z",
+  "first_fetched_at": "2026-07-29T08:00:02.906Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-29T08:00:02.906Z",
+  "total_count": 12,
+  "items": [
+    {
+      "id": "pascalorg/editor",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "html_url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 19078,
+      "forks": 2554,
+      "stars_today": 341,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "pascalorg",
+        "avatar": "https://github.com/pascalorg.png",
+        "url": "https://github.com/pascalorg"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260729T080004Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=aac1a42ca382f650bce7adf852c5cbea688505013962dfd55cd748e9c20e3e7d&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTMxMjMwNCwibmJmIjoxNzg1MzEyMDA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.0h2KjwJXQQTtyKnKmouLlt88S4T6vLSSx2hzjdovxGE"
+    },
+    {
+      "id": "jenkinsci/jenkins",
+      "name": "jenkins",
+      "full_name": "jenkinsci/jenkins",
+      "html_url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 26162,
+      "forks": 9699,
+      "stars_today": 180,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "jenkinsci",
+        "avatar": "https://github.com/jenkinsci.png",
+        "url": "https://github.com/jenkinsci"
+      }
+    },
+    {
+      "id": "moeru-ai/airi",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "html_url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 45030,
+      "forks": 4462,
+      "stars_today": 797,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "moeru-ai",
+        "avatar": "https://github.com/moeru-ai.png",
+        "url": "https://github.com/moeru-ai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/896924279/ab484a48-4af4-4127-af24-c589fd6da072?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260729T080004Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=2f8713303b8cc65c7a72399dc0817e9ba292052cb58d3cbd628871853891c214&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTMxMjMwNCwibmJmIjoxNzg1MzEyMDA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.0h2KjwJXQQTtyKnKmouLlt88S4T6vLSSx2hzjdovxGE"
+    },
+    {
+      "id": "andrewyng/aisuite",
+      "name": "aisuite",
+      "full_name": "andrewyng/aisuite",
+      "html_url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 15770,
+      "forks": 1661,
+      "stars_today": 62,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "andrewyng",
+        "avatar": "https://github.com/andrewyng.png",
+        "url": "https://github.com/andrewyng"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 235113,
+      "forks": 35817,
+      "stars_today": 636,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "huggingface/speech-to-speech",
+      "name": "speech-to-speech",
+      "full_name": "huggingface/speech-to-speech",
+      "html_url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 7496,
+      "forks": 973,
+      "stars_today": 227,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "huggingface",
+        "avatar": "https://github.com/huggingface.png",
+        "url": "https://github.com/huggingface"
+      }
+    },
+    {
+      "id": "virgiliojr94/book-to-skill",
+      "name": "book-to-skill",
+      "full_name": "virgiliojr94/book-to-skill",
+      "html_url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 11905,
+      "forks": 1369,
+      "stars_today": 423,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "virgiliojr94",
+        "avatar": "https://github.com/virgiliojr94.png",
+        "url": "https://github.com/virgiliojr94"
+      }
+    },
+    {
+      "id": "opengeos/GeoLibre",
+      "name": "GeoLibre",
+      "full_name": "opengeos/GeoLibre",
+      "html_url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars": 3607,
+      "forks": 405,
+      "stars_today": 607,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "opengeos",
+        "avatar": "https://github.com/opengeos.png",
+        "url": "https://github.com/opengeos"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1251648409/46a57aae-06f5-41e7-9dc4-aee72fc79022?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260729T080005Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7646618583c766c251b227df85f67810efcb5622e062510d308171da5f8955b2&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTMxMjMwNSwibmJmIjoxNzg1MzEyMDA1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.8y6D2hIy4vmHAX0nnD8jeDF8DHrR7nFSy7jsFnXn4a4"
+    },
+    {
+      "id": "paperswithbacktest/awesome-systematic-trading",
+      "name": "awesome-systematic-trading",
+      "full_name": "paperswithbacktest/awesome-systematic-trading",
+      "html_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": 9959,
+      "forks": 1316,
+      "stars_today": 309,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "paperswithbacktest",
+        "avatar": "https://github.com/paperswithbacktest.png",
+        "url": "https://github.com/paperswithbacktest"
+      }
+    },
+    {
+      "id": "microsoft/agent-governance-toolkit",
+      "name": "agent-governance-toolkit",
+      "full_name": "microsoft/agent-governance-toolkit",
+      "html_url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars": 5366,
+      "forks": 848,
+      "stars_today": 46,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      }
+    },
+    {
+      "id": "yorukot/superfile",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "html_url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "stars": 21686,
+      "forks": 708,
+      "stars_today": 662,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "yorukot",
+        "avatar": "https://github.com/yorukot.png",
+        "url": "https://github.com/yorukot"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/774468912/855a6a21-013e-4024-b987-6f6ed18fca95?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260729T080005Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ea5f872d30e2b006b07b33e080389172da724f52d4f76c7e750d5a9100497d64&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTMxMjMwNSwibmJmIjoxNzg1MzEyMDA1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.8y6D2hIy4vmHAX0nnD8jeDF8DHrR7nFSy7jsFnXn4a4"
+    },
+    {
+      "id": "bradautomates/claude-video",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "html_url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 12387,
+      "forks": 1232,
+      "stars_today": 988,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-29T00:00:00Z",
+      "first_seen": "2026-07-29T08:00:02.906Z",
+      "last_seen": "2026-07-29T08:00:02.906Z",
+      "owner": {
+        "login": "bradautomates",
+        "avatar": "https://github.com/bradautomates.png",
+        "url": "https://github.com/bradautomates"
+      }
+    }
+  ]
+}
