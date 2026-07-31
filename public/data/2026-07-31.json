@@ -1,0 +1,294 @@
+{
+  "date": "2026-07-31",
+  "since": "daily",
+  "fetched_at": "2026-07-31T08:00:03.597Z",
+  "first_fetched_at": "2026-07-31T08:00:03.597Z",
+  "snapshots": 1,
+  "updated_at": "2026-07-31T08:00:03.597Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "huggingface/speech-to-speech",
+      "name": "speech-to-speech",
+      "full_name": "huggingface/speech-to-speech",
+      "html_url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 9352,
+      "forks": 1150,
+      "stars_today": 628,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "huggingface",
+        "avatar": "https://github.com/huggingface.png",
+        "url": "https://github.com/huggingface"
+      }
+    },
+    {
+      "id": "microsoft/AI-For-Beginners",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "html_url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 54571,
+      "forks": 11038,
+      "stars_today": 155,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260731%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260731T080005Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=c8185384e7809ecc834df49192a160dcea9b10716a583e7b25ac4f04e718bf53&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ4NTEwNSwibmJmIjoxNzg1NDg0ODA1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.k9aGK7ooyufgZV8VhJYg4rOarljJ73jini14gpWizYY"
+    },
+    {
+      "id": "paperswithbacktest/awesome-systematic-trading",
+      "name": "awesome-systematic-trading",
+      "full_name": "paperswithbacktest/awesome-systematic-trading",
+      "html_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": 11333,
+      "forks": 1438,
+      "stars_today": 621,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "paperswithbacktest",
+        "avatar": "https://github.com/paperswithbacktest.png",
+        "url": "https://github.com/paperswithbacktest"
+      }
+    },
+    {
+      "id": "different-ai/openwork",
+      "name": "openwork",
+      "full_name": "different-ai/openwork",
+      "html_url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 18993,
+      "forks": 1927,
+      "stars_today": 915,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "different-ai",
+        "avatar": "https://github.com/different-ai.png",
+        "url": "https://github.com/different-ai"
+      }
+    },
+    {
+      "id": "WhiskeySockets/Baileys",
+      "name": "Baileys",
+      "full_name": "WhiskeySockets/Baileys",
+      "html_url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "stars": 10497,
+      "forks": 3259,
+      "stars_today": 19,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "WhiskeySockets",
+        "avatar": "https://github.com/WhiskeySockets.png",
+        "url": "https://github.com/WhiskeySockets"
+      }
+    },
+    {
+      "id": "pascalorg/editor",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "html_url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 20277,
+      "forks": 2632,
+      "stars_today": 625,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "pascalorg",
+        "avatar": "https://github.com/pascalorg.png",
+        "url": "https://github.com/pascalorg"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260731%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260731T080006Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a7c7b5a84992fae222ca5d4eed4f8859a81b7dbcb32cfa290c3d40f08a5375d4&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ4NTEwNiwibmJmIjoxNzg1NDg0ODA2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.WiidX6tOX5Ta7n55vywG26WZQh8m35gcyHnLhTQuGV8"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 55752,
+      "forks": 4798,
+      "stars_today": 378,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "dotnet/aspnetcore",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "html_url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "stars": 38323,
+      "forks": 10860,
+      "stars_today": 7,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "dotnet",
+        "avatar": "https://github.com/dotnet.png",
+        "url": "https://github.com/dotnet"
+      }
+    },
+    {
+      "id": "microsoft/PowerToys",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "html_url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars": 137252,
+      "forks": 8369,
+      "stars_today": 70,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/184456251/6fa0e600-b17f-11ea-9360-1f79417d8a69?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260731%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260731T080006Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e6083967ab9d6d64ca1d62c2c80a80ca578189283be75b21109445863b65ec89&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ4NTEwNiwibmJmIjoxNzg1NDg0ODA2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.WiidX6tOX5Ta7n55vywG26WZQh8m35gcyHnLhTQuGV8"
+    },
+    {
+      "id": "ansible/ansible",
+      "name": "ansible",
+      "full_name": "ansible/ansible",
+      "html_url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "stars": 69959,
+      "forks": 24256,
+      "stars_today": 29,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "ansible",
+        "avatar": "https://github.com/ansible.png",
+        "url": "https://github.com/ansible"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 48185,
+      "forks": 3270,
+      "stars_today": 80,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "jenkinsci/jenkins",
+      "name": "jenkins",
+      "full_name": "jenkinsci/jenkins",
+      "html_url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "stars": 26349,
+      "forks": 9722,
+      "stars_today": 25,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "jenkinsci",
+        "avatar": "https://github.com/jenkinsci.png",
+        "url": "https://github.com/jenkinsci"
+      }
+    },
+    {
+      "id": "agavra/tuicr",
+      "name": "tuicr",
+      "full_name": "agavra/tuicr",
+      "html_url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "stars": 1967,
+      "forks": 165,
+      "stars_today": 190,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "agavra",
+        "avatar": "https://github.com/agavra.png",
+        "url": "https://github.com/agavra"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 236415,
+      "forks": 35945,
+      "stars_today": 804,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-31T00:00:00Z",
+      "first_seen": "2026-07-31T08:00:03.597Z",
+      "last_seen": "2026-07-31T08:00:03.597Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    }
+  ]
+}
