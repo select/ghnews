@@ -1,72 +1,253 @@
 {
   "date": "2026-08-03",
   "since": "daily",
-  "fetched_at": "2026-08-03T08:40:27.954Z",
-  "first_fetched_at": "2026-08-03T08:00:02.913Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-03T08:40:27.954Z",
-  "total_count": 15,
+  "fetched_at": "2026-08-03T16:00:03.548Z",
+  "first_fetched_at": "2026-08-03T08:40:27.954Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-03T16:00:03.548Z",
+  "total_count": 21,
   "items": [
-    {
-      "id": "microsoft/AI-For-Beginners",
-      "name": "AI-For-Beginners",
-      "full_name": "microsoft/AI-For-Beginners",
-      "html_url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 59985,
-      "forks": 11751,
-      "stars_today": 2629,
-      "window": "today",
-      "language": "Jupyter Notebook",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "microsoft",
-        "avatar": "https://github.com/microsoft.png",
-        "url": "https://github.com/microsoft"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T084029Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=193832262541619ffa931c6492b05ca29f11a87de14fb52321a834719266dee5&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0NjcyOSwibmJmIjoxNzg1NzQ2NDI5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.YPw7j08YD6iK8_vXR3xrUhAtEqevQFfcrJQWRodmbhk"
-    },
-    {
-      "id": "usekaneo/kaneo",
-      "name": "kaneo",
-      "full_name": "usekaneo/kaneo",
-      "html_url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "stars": 6430,
-      "forks": 530,
-      "stars_today": 496,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "usekaneo",
-        "avatar": "https://github.com/usekaneo.png",
-        "url": "https://github.com/usekaneo"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/910422636/b462a171-cdec-46fb-8b48-40e4f5a5f4b2?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T084029Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d34c132f46aa3074ac5024b63bcc60a83bc4be32103924c61306eac59f9c215d&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0NjcyOSwibmJmIjoxNzg1NzQ2NDI5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.YPw7j08YD6iK8_vXR3xrUhAtEqevQFfcrJQWRodmbhk"
-    },
     {
       "id": "lyogavin/airllm",
       "name": "airllm",
       "full_name": "lyogavin/airllm",
       "html_url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 26076,
-      "forks": 2908,
-      "stars_today": 819,
+      "stars": 26620,
+      "forks": 2944,
+      "stars_today": 1081,
       "window": "today",
       "language": "Jupyter Notebook",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "lyogavin",
         "avatar": "https://github.com/lyogavin.png",
         "url": "https://github.com/lyogavin"
+      }
+    },
+    {
+      "id": "zhaoxuya520/reverse-skill",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "html_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": 15234,
+      "forks": 2239,
+      "stars_today": 2442,
+      "window": "today",
+      "language": "PowerShell",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "zhaoxuya520",
+        "avatar": "https://github.com/zhaoxuya520.png",
+        "url": "https://github.com/zhaoxuya520"
+      }
+    },
+    {
+      "id": "firecrawl/pdf-inspector",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "html_url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 7328,
+      "forks": 509,
+      "stars_today": 1769,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "https://github.com/firecrawl.png",
+        "url": "https://github.com/firecrawl"
+      }
+    },
+    {
+      "id": "esengine/DeepSeek-Reasonix",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 29717,
+      "forks": 1911,
+      "stars_today": 877,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "esengine",
+        "avatar": "https://github.com/esengine.png",
+        "url": "https://github.com/esengine"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216785679/7d891983-5b92-40d4-81e3-7ebc365ce645?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T160004Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=9aa05afd0f340b7657e0686db8cc76f23bb2021c94205aa2cbce92397d7ba519&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3MzEwNCwibmJmIjoxNzg1NzcyODA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.20W3Huap0VqmhbttDi8DF2wFWXPhD9hktbA3Qc9XdXk"
+    },
+    {
+      "id": "TencentCloud/TencentDB-Agent-Memory",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 11828,
+      "forks": 1124,
+      "stars_today": 1091,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "microsoft/AI-For-Beginners",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "html_url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 60490,
+      "forks": 11835,
+      "stars_today": 1902,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T160004Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=6e9b0884d4dec114c347f681d72b58e2a5457d014be32c959e060bff5ccf12cc&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3MzEwNCwibmJmIjoxNzg1NzcyODA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.20W3Huap0VqmhbttDi8DF2wFWXPhD9hktbA3Qc9XdXk"
+    },
+    {
+      "id": "microsoft/generative-ai-for-beginners",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "stars": 115352,
+      "forks": 61411,
+      "stars_today": 776,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/655806940/88f66022-a0f3-4ad7-b3c8-a0628db51c69?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T160004Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a2a40813553dbe7af74c0e5bfa9dfd258f9a7418791a8cb29738a20cff3254d4&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3MzEwNCwibmJmIjoxNzg1NzcyODA0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.20W3Huap0VqmhbttDi8DF2wFWXPhD9hktbA3Qc9XdXk"
+    },
+    {
+      "id": "donnemartin/system-design-primer",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "html_url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": 360357,
+      "forks": 57514,
+      "stars_today": 138,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "donnemartin",
+        "avatar": "https://github.com/donnemartin.png",
+        "url": "https://github.com/donnemartin"
+      }
+    },
+    {
+      "id": "antirez/ds4",
+      "name": "ds4",
+      "full_name": "antirez/ds4",
+      "html_url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars": 20261,
+      "forks": 1790,
+      "stars_today": 385,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "antirez",
+        "avatar": "https://github.com/antirez.png",
+        "url": "https://github.com/antirez"
+      }
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 35753,
+      "forks": 5958,
+      "stars_today": 217,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "Panniantong/Agent-Reach",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 65491,
+      "forks": 5426,
+      "stars_today": 1052,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "Panniantong",
+        "avatar": "https://github.com/Panniantong.png",
+        "url": "https://github.com/Panniantong"
+      }
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+      "stars": 43911,
+      "forks": 7247,
+      "stars_today": 291,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "Alishahryar1",
+        "avatar": "https://github.com/Alishahryar1.png",
+        "url": "https://github.com/Alishahryar1"
       }
     },
     {
@@ -75,18 +256,79 @@
       "full_name": "iv-org/invidious",
       "html_url": "https://github.com/iv-org/invidious",
       "description": "Invidious is an alternative front-end to YouTube",
-      "stars": 22096,
-      "forks": 2464,
-      "stars_today": 305,
+      "stars": 22174,
+      "forks": 2472,
+      "stars_today": 403,
       "window": "today",
       "language": "Crystal",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "iv-org",
         "avatar": "https://github.com/iv-org.png",
         "url": "https://github.com/iv-org"
+      }
+    },
+    {
+      "id": "livekit/agents",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "html_url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "stars": 11843,
+      "forks": 3453,
+      "stars_today": 129,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "livekit",
+        "avatar": "https://github.com/livekit.png",
+        "url": "https://github.com/livekit"
+      }
+    },
+    {
+      "id": "usekaneo/kaneo",
+      "name": "kaneo",
+      "full_name": "usekaneo/kaneo",
+      "html_url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": 6668,
+      "forks": 544,
+      "stars_today": 663,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T08:00:02.913Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "usekaneo",
+        "avatar": "https://github.com/usekaneo.png",
+        "url": "https://github.com/usekaneo"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/910422636/b462a171-cdec-46fb-8b48-40e4f5a5f4b2?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T160005Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a2e6b2847c1f9f7c7431166b67a88d42fa2c2e71ee41f31e7e62c55ceb546893&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3MzEwNSwibmJmIjoxNzg1NzcyODA1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.enU0RpgvUzP3IgKJ85Z-WQubTxDpDVi5a7Jo9Y1GsRM"
+    },
+    {
+      "id": "jamiepine/voicebox",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 48499,
+      "forks": 5978,
+      "stars_today": 225,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-03T00:00:00Z",
+      "first_seen": "2026-08-03T16:00:03.548Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
+      "owner": {
+        "login": "jamiepine",
+        "avatar": "https://github.com/jamiepine.png",
+        "url": "https://github.com/jamiepine"
       }
     },
     {
@@ -102,31 +344,11 @@
       "language": "Markdown",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "codecrafters-io",
         "avatar": "https://github.com/codecrafters-io.png",
         "url": "https://github.com/codecrafters-io"
-      }
-    },
-    {
-      "id": "zhaoxuya520/reverse-skill",
-      "name": "reverse-skill",
-      "full_name": "zhaoxuya520/reverse-skill",
-      "html_url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 14521,
-      "forks": 2146,
-      "stars_today": 1141,
-      "window": "today",
-      "language": "PowerShell",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "zhaoxuya520",
-        "avatar": "https://github.com/zhaoxuya520.png",
-        "url": "https://github.com/zhaoxuya520"
       }
     },
     {
@@ -142,72 +364,11 @@
       "language": "TypeScript",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "different-ai",
         "avatar": "https://github.com/different-ai.png",
         "url": "https://github.com/different-ai"
-      }
-    },
-    {
-      "id": "microsoft/generative-ai-for-beginners",
-      "name": "generative-ai-for-beginners",
-      "full_name": "microsoft/generative-ai-for-beginners",
-      "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "stars": 115107,
-      "forks": 61358,
-      "stars_today": 588,
-      "window": "today",
-      "language": "Jupyter Notebook",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "microsoft",
-        "avatar": "https://github.com/microsoft.png",
-        "url": "https://github.com/microsoft"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/655806940/88f66022-a0f3-4ad7-b3c8-a0628db51c69?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T084030Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=4276db1b3effe1674f79819dbe88410027a0d7e0578db8da9c518db7cbb6d464&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0NjczMCwibmJmIjoxNzg1NzQ2NDMwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.6-BTbi5jqOsbVawhR2bVvjRqiWy5DNp-H2i08hEtZpM"
-    },
-    {
-      "id": "Panniantong/Agent-Reach",
-      "name": "Agent-Reach",
-      "full_name": "Panniantong/Agent-Reach",
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 65162,
-      "forks": 5395,
-      "stars_today": 659,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "Panniantong",
-        "avatar": "https://github.com/Panniantong.png",
-        "url": "https://github.com/Panniantong"
-      }
-    },
-    {
-      "id": "TencentCloud/TencentDB-Agent-Memory",
-      "name": "TencentDB-Agent-Memory",
-      "full_name": "TencentCloud/TencentDB-Agent-Memory",
-      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 11521,
-      "forks": 1084,
-      "stars_today": 602,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "TencentCloud",
-        "avatar": "https://github.com/TencentCloud.png",
-        "url": "https://github.com/TencentCloud"
       }
     },
     {
@@ -223,7 +384,7 @@
       "language": "Python",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "mvanhorn",
         "avatar": "https://github.com/mvanhorn.png",
@@ -243,7 +404,7 @@
       "language": "JavaScript",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "NomaDamas",
         "avatar": "https://github.com/NomaDamas.png",
@@ -264,53 +425,12 @@
       "language": "C",
       "created_at": "2026-08-03T00:00:00Z",
       "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
+      "last_seen": "2026-08-03T16:00:03.548Z",
       "owner": {
         "login": "HarbourMasters",
         "avatar": "https://github.com/HarbourMasters.png",
         "url": "https://github.com/HarbourMasters"
       }
-    },
-    {
-      "id": "antirez/ds4",
-      "name": "ds4",
-      "full_name": "antirez/ds4",
-      "html_url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "stars": 20152,
-      "forks": 1786,
-      "stars_today": 139,
-      "window": "today",
-      "language": "C",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "antirez",
-        "avatar": "https://github.com/antirez.png",
-        "url": "https://github.com/antirez"
-      }
-    },
-    {
-      "id": "esengine/DeepSeek-Reasonix",
-      "name": "DeepSeek-Reasonix",
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29453,
-      "forks": 1898,
-      "stars_today": 333,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-08-03T00:00:00Z",
-      "first_seen": "2026-08-03T08:00:02.913Z",
-      "last_seen": "2026-08-03T08:40:27.954Z",
-      "owner": {
-        "login": "esengine",
-        "avatar": "https://github.com/esengine.png",
-        "url": "https://github.com/esengine"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216785679/7d891983-5b92-40d4-81e3-7ebc365ce645?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T084030Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ecfd87ea0700314e2b93dda516627c4d3c80e86824bf9e63a1a2c83ad08c35bf&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0NjczMCwibmJmIjoxNzg1NzQ2NDMwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.6-BTbi5jqOsbVawhR2bVvjRqiWy5DNp-H2i08hEtZpM"
     }
   ]
 }
