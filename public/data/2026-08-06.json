@@ -1,0 +1,274 @@
+{
+  "date": "2026-08-06",
+  "since": "daily",
+  "fetched_at": "2026-08-06T09:06:49.612Z",
+  "first_fetched_at": "2026-08-06T09:06:49.612Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-06T09:06:49.612Z",
+  "total_count": 13,
+  "items": [
+    {
+      "id": "cloudflare/computer",
+      "name": "computer",
+      "full_name": "cloudflare/computer",
+      "html_url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 4069,
+      "forks": 191,
+      "stars_today": 891,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "huangruiteng/loopx",
+      "name": "loopx",
+      "full_name": "huangruiteng/loopx",
+      "html_url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "stars": 2495,
+      "forks": 178,
+      "stars_today": 326,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "huangruiteng",
+        "avatar": "https://github.com/huangruiteng.png",
+        "url": "https://github.com/huangruiteng"
+      }
+    },
+    {
+      "id": "TencentCloud/TencentDB-Agent-Memory",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 15507,
+      "forks": 1399,
+      "stars_today": 1892,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "donnemartin/system-design-primer",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "html_url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": 361830,
+      "forks": 57667,
+      "stars_today": 303,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "donnemartin",
+        "avatar": "https://github.com/donnemartin.png",
+        "url": "https://github.com/donnemartin"
+      }
+    },
+    {
+      "id": "firecrawl/pdf-inspector",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "html_url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 11863,
+      "forks": 798,
+      "stars_today": 1582,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "https://github.com/firecrawl.png",
+        "url": "https://github.com/firecrawl"
+      }
+    },
+    {
+      "id": "esengine/DeepSeek-Reasonix",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 31989,
+      "forks": 2062,
+      "stars_today": 747,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "esengine",
+        "avatar": "https://github.com/esengine.png",
+        "url": "https://github.com/esengine"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216785679/7d891983-5b92-40d4-81e3-7ebc365ce645?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260806T090651Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=6052c44020b969560e608a16ab2466e4f64fb5807a7a7fc0cdfd38a876340d82&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAwNzUxMSwibmJmIjoxNzg2MDA3MjExLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.AM6-JQJdmDiLKZDYAVeyITJs6DoOlzXS0ceWqLuuOc4"
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 82218,
+      "forks": 8843,
+      "stars_today": 226,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 267634,
+      "forks": 23917,
+      "stars_today": 931,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "roboflow/supervision",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "html_url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": 49086,
+      "forks": 4623,
+      "stars_today": 146,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "roboflow",
+        "avatar": "https://github.com/roboflow.png",
+        "url": "https://github.com/roboflow"
+      }
+    },
+    {
+      "id": "vercel/next.js",
+      "name": "next.js",
+      "full_name": "vercel/next.js",
+      "html_url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "stars": 141628,
+      "forks": 31683,
+      "stars_today": 68,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "vercel",
+        "avatar": "https://github.com/vercel.png",
+        "url": "https://github.com/vercel"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/70107786/4602445c-10a2-4903-a360-c96d70531f67?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260806T090652Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=87d01e60724253ee87c362dad617d754b3770d962753edae73b98ddc458c4d88&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAwNzUxMiwibmJmIjoxNzg2MDA3MjEyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.WPWlgGR5bSMlZB2vE1SLXTlQQADCOkaQCFlpUbNDz1A"
+    },
+    {
+      "id": "tailwindlabs/tailwindcss",
+      "name": "tailwindcss",
+      "full_name": "tailwindlabs/tailwindcss",
+      "html_url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 96994,
+      "forks": 5555,
+      "stars_today": 408,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "tailwindlabs",
+        "avatar": "https://github.com/tailwindlabs.png",
+        "url": "https://github.com/tailwindlabs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/106017343/ff793d39-1c40-45cd-b73e-5a1ba288d97d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260806T090652Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7391b7a451d406380af1a5caf706e480ca2e30e7096ca51f3a6b3c7fc0510b09&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAwNzUxMiwibmJmIjoxNzg2MDA3MjEyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.WPWlgGR5bSMlZB2vE1SLXTlQQADCOkaQCFlpUbNDz1A"
+    },
+    {
+      "id": "uber/ADR",
+      "name": "ADR",
+      "full_name": "uber/ADR",
+      "html_url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "stars": 1156,
+      "forks": 91,
+      "stars_today": 354,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "uber",
+        "avatar": "https://github.com/uber.png",
+        "url": "https://github.com/uber"
+      }
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "html_url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 29342,
+      "forks": 3141,
+      "stars_today": 833,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-08-06T00:00:00Z",
+      "first_seen": "2026-08-06T09:06:49.612Z",
+      "last_seen": "2026-08-06T09:06:49.612Z",
+      "owner": {
+        "login": "lyogavin",
+        "avatar": "https://github.com/lyogavin.png",
+        "url": "https://github.com/lyogavin"
+      }
+    }
+  ]
+}
