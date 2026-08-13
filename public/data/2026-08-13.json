@@ -1,11 +1,11 @@
 {
   "date": "2026-08-13",
   "since": "daily",
-  "fetched_at": "2026-08-13T08:14:59.691Z",
-  "first_fetched_at": "2026-08-13T08:00:02.484Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-13T08:14:59.691Z",
-  "total_count": 17,
+  "fetched_at": "2026-08-13T16:00:03.492Z",
+  "first_fetched_at": "2026-08-13T08:14:59.691Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-13T16:00:03.492Z",
+  "total_count": 25,
   "items": [
     {
       "id": "cathrynlavery/diagram-design",
@@ -13,38 +13,18 @@
       "full_name": "cathrynlavery/diagram-design",
       "html_url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": 12038,
-      "forks": 751,
-      "stars_today": 2855,
+      "stars": 13436,
+      "forks": 809,
+      "stars_today": 4504,
       "window": "today",
       "language": "HTML",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "cathrynlavery",
         "avatar": "https://github.com/cathrynlavery.png",
         "url": "https://github.com/cathrynlavery"
-      }
-    },
-    {
-      "id": "macro-inc/macro",
-      "name": "macro",
-      "full_name": "macro-inc/macro",
-      "html_url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": 2216,
-      "forks": 251,
-      "stars_today": 227,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "macro-inc",
-        "avatar": "https://github.com/macro-inc.png",
-        "url": "https://github.com/macro-inc"
       }
     },
     {
@@ -53,18 +33,320 @@
       "full_name": "semantica-agi/semantica",
       "html_url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": 5971,
-      "forks": 641,
-      "stars_today": 845,
+      "stars": 6279,
+      "forks": 668,
+      "stars_today": 727,
       "window": "today",
       "language": "Python",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "semantica-agi",
         "avatar": "https://github.com/semantica-agi.png",
         "url": "https://github.com/semantica-agi"
+      }
+    },
+    {
+      "id": "anthropics/skills",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "html_url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 168846,
+      "forks": 20114,
+      "stars_today": 383,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "cactus-compute/needle",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "html_url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 4756,
+      "forks": 324,
+      "stars_today": 768,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "cactus-compute",
+        "avatar": "https://github.com/cactus-compute.png",
+        "url": "https://github.com/cactus-compute"
+      }
+    },
+    {
+      "id": "altic-dev/FluidVoice",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "html_url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "stars": 9742,
+      "forks": 655,
+      "stars_today": 83,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "altic-dev",
+        "avatar": "https://github.com/altic-dev.png",
+        "url": "https://github.com/altic-dev"
+      }
+    },
+    {
+      "id": "unslothai/unsloth",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "html_url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 70887,
+      "forks": 6397,
+      "stars_today": 354,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "unslothai",
+        "avatar": "https://github.com/unslothai.png",
+        "url": "https://github.com/unslothai"
+      }
+    },
+    {
+      "id": "macro-inc/macro",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 2470,
+      "forks": 265,
+      "stars_today": 1180,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "macro-inc",
+        "avatar": "https://github.com/macro-inc.png",
+        "url": "https://github.com/macro-inc"
+      }
+    },
+    {
+      "id": "megadose/holehe",
+      "name": "holehe",
+      "full_name": "megadose/holehe",
+      "html_url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": 12269,
+      "forks": 1654,
+      "stars_today": 166,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "megadose",
+        "avatar": "https://github.com/megadose.png",
+        "url": "https://github.com/megadose"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/275031765/68237c00-491c-11eb-86b6-05150f13a326"
+    },
+    {
+      "id": "smicallef/spiderfoot",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "html_url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": 20532,
+      "forks": 3309,
+      "stars_today": 278,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "smicallef",
+        "avatar": "https://github.com/smicallef.png",
+        "url": "https://github.com/smicallef"
+      }
+    },
+    {
+      "id": "NVIDIA-NeMo/Switchyard",
+      "name": "Switchyard",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "html_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "stars": 1087,
+      "forks": 102,
+      "stars_today": 408,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "NVIDIA-NeMo",
+        "avatar": "https://github.com/NVIDIA-NeMo.png",
+        "url": "https://github.com/NVIDIA-NeMo"
+      }
+    },
+    {
+      "id": "holaboss-ai/holaOS",
+      "name": "holaOS",
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "stars": 6326,
+      "forks": 534,
+      "stars_today": 258,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "holaboss-ai",
+        "avatar": "https://github.com/holaboss-ai.png",
+        "url": "https://github.com/holaboss-ai"
+      }
+    },
+    {
+      "id": "kepano/obsidian-skills",
+      "name": "obsidian-skills",
+      "full_name": "kepano/obsidian-skills",
+      "html_url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "stars": 45478,
+      "forks": 3283,
+      "stars_today": 252,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "kepano",
+        "avatar": "https://github.com/kepano.png",
+        "url": "https://github.com/kepano"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1126947080/074349e0-1fc4-47ce-a412-9b9eef6a81ab"
+    },
+    {
+      "id": "3b1b/manim",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "html_url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "stars": 90729,
+      "forks": 7521,
+      "stars_today": 204,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "3b1b",
+        "avatar": "https://github.com/3b1b.png",
+        "url": "https://github.com/3b1b"
+      }
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 145061,
+      "forks": 23472,
+      "stars_today": 762,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    },
+    {
+      "id": "Lightricks/LTX-2",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "html_url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 8843,
+      "forks": 1402,
+      "stars_today": 201,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "Lightricks",
+        "avatar": "https://github.com/Lightricks.png",
+        "url": "https://github.com/Lightricks"
+      }
+    },
+    {
+      "id": "lightningpixel/modly",
+      "name": "modly",
+      "full_name": "lightningpixel/modly",
+      "html_url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "stars": 5246,
+      "forks": 568,
+      "stars_today": 70,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T16:00:03.492Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "lightningpixel",
+        "avatar": "https://github.com/lightningpixel.png",
+        "url": "https://github.com/lightningpixel"
+      }
+    },
+    {
+      "id": "infiniflow/ragflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "html_url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87890,
+      "forks": 10342,
+      "stars_today": 473,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
+      "owner": {
+        "login": "infiniflow",
+        "avatar": "https://github.com/infiniflow.png",
+        "url": "https://github.com/infiniflow"
       }
     },
     {
@@ -80,31 +362,11 @@
       "language": "TypeScript",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "stablyai",
         "avatar": "https://github.com/stablyai.png",
         "url": "https://github.com/stablyai"
-      }
-    },
-    {
-      "id": "msitarzewski/agency-agents",
-      "name": "agency-agents",
-      "full_name": "msitarzewski/agency-agents",
-      "html_url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 144855,
-      "forks": 23444,
-      "stars_today": 1873,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "msitarzewski",
-        "avatar": "https://github.com/msitarzewski.png",
-        "url": "https://github.com/msitarzewski"
       }
     },
     {
@@ -120,7 +382,7 @@
       "language": "Python",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "shiyu-coder",
         "avatar": "https://github.com/shiyu-coder.png",
@@ -140,7 +402,7 @@
       "language": "Python",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "NanmiCoder",
         "avatar": "https://github.com/NanmiCoder.png",
@@ -160,31 +422,11 @@
       "language": "Python",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "hugohe3",
         "avatar": "https://github.com/hugohe3.png",
         "url": "https://github.com/hugohe3"
-      }
-    },
-    {
-      "id": "infiniflow/ragflow",
-      "name": "ragflow",
-      "full_name": "infiniflow/ragflow",
-      "html_url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": 87734,
-      "forks": 10330,
-      "stars_today": 139,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "infiniflow",
-        "avatar": "https://github.com/infiniflow.png",
-        "url": "https://github.com/infiniflow"
       }
     },
     {
@@ -200,31 +442,11 @@
       "language": "TypeScript",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "paperclipai",
         "avatar": "https://github.com/paperclipai.png",
         "url": "https://github.com/paperclipai"
-      }
-    },
-    {
-      "id": "NVIDIA-NeMo/Switchyard",
-      "name": "Switchyard",
-      "full_name": "NVIDIA-NeMo/Switchyard",
-      "html_url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "",
-      "stars": 967,
-      "forks": 97,
-      "stars_today": 421,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "NVIDIA-NeMo",
-        "avatar": "https://github.com/NVIDIA-NeMo.png",
-        "url": "https://github.com/NVIDIA-NeMo"
       }
     },
     {
@@ -240,31 +462,11 @@
       "language": "TypeScript",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "ZuodaoTech",
         "avatar": "https://github.com/ZuodaoTech.png",
         "url": "https://github.com/ZuodaoTech"
-      }
-    },
-    {
-      "id": "smicallef/spiderfoot",
-      "name": "spiderfoot",
-      "full_name": "smicallef/spiderfoot",
-      "html_url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "stars": 20444,
-      "forks": 3307,
-      "stars_today": 74,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "smicallef",
-        "avatar": "https://github.com/smicallef.png",
-        "url": "https://github.com/smicallef"
       }
     },
     {
@@ -280,33 +482,13 @@
       "language": "Dart",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "localsend",
         "avatar": "https://github.com/localsend.png",
         "url": "https://github.com/localsend"
       },
       "banner_url": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7"
-    },
-    {
-      "id": "Lightricks/LTX-2",
-      "name": "LTX-2",
-      "full_name": "Lightricks/LTX-2",
-      "html_url": "https://github.com/Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "stars": 8783,
-      "forks": 1400,
-      "stars_today": 65,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "Lightricks",
-        "avatar": "https://github.com/Lightricks.png",
-        "url": "https://github.com/Lightricks"
-      }
     },
     {
       "id": "embabel/embabel-agent",
@@ -321,31 +503,11 @@
       "language": "Kotlin",
       "created_at": "2026-08-13T00:00:00Z",
       "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
+      "last_seen": "2026-08-13T16:00:03.492Z",
       "owner": {
         "login": "embabel",
         "avatar": "https://github.com/embabel.png",
         "url": "https://github.com/embabel"
-      }
-    },
-    {
-      "id": "cactus-compute/needle",
-      "name": "needle",
-      "full_name": "cactus-compute/needle",
-      "html_url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": 4500,
-      "forks": 317,
-      "stars_today": 315,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-13T00:00:00Z",
-      "first_seen": "2026-08-13T08:00:02.484Z",
-      "last_seen": "2026-08-13T08:14:59.691Z",
-      "owner": {
-        "login": "cactus-compute",
-        "avatar": "https://github.com/cactus-compute.png",
-        "url": "https://github.com/cactus-compute"
       }
     }
   ]
