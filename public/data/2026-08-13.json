@@ -1,0 +1,352 @@
+{
+  "date": "2026-08-13",
+  "since": "daily",
+  "fetched_at": "2026-08-13T08:00:02.484Z",
+  "first_fetched_at": "2026-08-13T08:00:02.484Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-13T08:00:02.484Z",
+  "total_count": 17,
+  "items": [
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 11974,
+      "forks": 747,
+      "stars_today": 2855,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "macro-inc/macro",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 2205,
+      "forks": 250,
+      "stars_today": 227,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "macro-inc",
+        "avatar": "https://github.com/macro-inc.png",
+        "url": "https://github.com/macro-inc"
+      }
+    },
+    {
+      "id": "semantica-agi/semantica",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "html_url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 5964,
+      "forks": 641,
+      "stars_today": 845,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "semantica-agi",
+        "avatar": "https://github.com/semantica-agi.png",
+        "url": "https://github.com/semantica-agi"
+      }
+    },
+    {
+      "id": "stablyai/orca",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "html_url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": 44336,
+      "forks": 3087,
+      "stars_today": 1235,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "stablyai",
+        "avatar": "https://github.com/stablyai.png",
+        "url": "https://github.com/stablyai"
+      }
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 144846,
+      "forks": 23444,
+      "stars_today": 1873,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 37015,
+      "forks": 6155,
+      "stars_today": 266,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "NanmiCoder/MediaCrawler",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "html_url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars": 62184,
+      "forks": 12157,
+      "stars_today": 215,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "NanmiCoder",
+        "avatar": "https://github.com/NanmiCoder.png",
+        "url": "https://github.com/NanmiCoder"
+      }
+    },
+    {
+      "id": "hugohe3/ppt-master",
+      "name": "ppt-master",
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 46115,
+      "forks": 3747,
+      "stars_today": 476,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "hugohe3",
+        "avatar": "https://github.com/hugohe3.png",
+        "url": "https://github.com/hugohe3"
+      }
+    },
+    {
+      "id": "infiniflow/ragflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "html_url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87722,
+      "forks": 10330,
+      "stars_today": 139,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "infiniflow",
+        "avatar": "https://github.com/infiniflow.png",
+        "url": "https://github.com/infiniflow"
+      }
+    },
+    {
+      "id": "paperclipai/paperclip",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 77900,
+      "forks": 14302,
+      "stars_today": 571,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "paperclipai",
+        "avatar": "https://github.com/paperclipai.png",
+        "url": "https://github.com/paperclipai"
+      }
+    },
+    {
+      "id": "NVIDIA-NeMo/Switchyard",
+      "name": "Switchyard",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "html_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "stars": 963,
+      "forks": 97,
+      "stars_today": 421,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "NVIDIA-NeMo",
+        "avatar": "https://github.com/NVIDIA-NeMo.png",
+        "url": "https://github.com/NVIDIA-NeMo"
+      }
+    },
+    {
+      "id": "ZuodaoTech/everyone-can-use-english",
+      "name": "everyone-can-use-english",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "html_url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "stars": 36311,
+      "forks": 5037,
+      "stars_today": 86,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "ZuodaoTech",
+        "avatar": "https://github.com/ZuodaoTech.png",
+        "url": "https://github.com/ZuodaoTech"
+      }
+    },
+    {
+      "id": "smicallef/spiderfoot",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "html_url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": 20441,
+      "forks": 3307,
+      "stars_today": 74,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "smicallef",
+        "avatar": "https://github.com/smicallef.png",
+        "url": "https://github.com/smicallef"
+      }
+    },
+    {
+      "id": "localsend/localsend",
+      "name": "localsend",
+      "full_name": "localsend/localsend",
+      "html_url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "stars": 88039,
+      "forks": 4885,
+      "stars_today": 213,
+      "window": "today",
+      "language": "Dart",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "localsend",
+        "avatar": "https://github.com/localsend.png",
+        "url": "https://github.com/localsend"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7"
+    },
+    {
+      "id": "Lightricks/LTX-2",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "html_url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 8783,
+      "forks": 1400,
+      "stars_today": 65,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "Lightricks",
+        "avatar": "https://github.com/Lightricks.png",
+        "url": "https://github.com/Lightricks"
+      }
+    },
+    {
+      "id": "embabel/embabel-agent",
+      "name": "embabel-agent",
+      "full_name": "embabel/embabel-agent",
+      "html_url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "stars": 4264,
+      "forks": 413,
+      "stars_today": 40,
+      "window": "today",
+      "language": "Kotlin",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "embabel",
+        "avatar": "https://github.com/embabel.png",
+        "url": "https://github.com/embabel"
+      }
+    },
+    {
+      "id": "cactus-compute/needle",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "html_url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": 4494,
+      "forks": 317,
+      "stars_today": 315,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-13T00:00:00Z",
+      "first_seen": "2026-08-13T08:00:02.484Z",
+      "last_seen": "2026-08-13T08:00:02.484Z",
+      "owner": {
+        "login": "cactus-compute",
+        "avatar": "https://github.com/cactus-compute.png",
+        "url": "https://github.com/cactus-compute"
+      }
+    }
+  ]
+}
