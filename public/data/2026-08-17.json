@@ -1,31 +1,236 @@
 {
   "date": "2026-08-17",
   "since": "daily",
-  "fetched_at": "2026-08-17T08:26:57.479Z",
-  "first_fetched_at": "2026-08-17T08:00:10.021Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-17T08:26:57.479Z",
-  "total_count": 7,
+  "fetched_at": "2026-08-17T16:00:03.509Z",
+  "first_fetched_at": "2026-08-17T08:26:57.479Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-17T16:00:03.509Z",
+  "total_count": 17,
   "items": [
+    {
+      "id": "harry0703/MoneyPrinterTurbo",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 105538,
+      "forks": 16049,
+      "stars_today": 1275,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "harry0703",
+        "avatar": "https://github.com/harry0703.png",
+        "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "usestrix/strix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 53807,
+      "forks": 5761,
+      "stars_today": 656,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "usestrix",
+        "avatar": "https://github.com/usestrix.png",
+        "url": "https://github.com/usestrix"
+      }
+    },
+    {
+      "id": "nautechsystems/nautilus_trader",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "html_url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars": 25739,
+      "forks": 3364,
+      "stars_today": 115,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "nautechsystems",
+        "avatar": "https://github.com/nautechsystems.png",
+        "url": "https://github.com/nautechsystems"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/138552196/e0c7ff3a-dc3f-42ad-97a3-8460ef632068"
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 1854,
+      "forks": 183,
+      "stars_today": 207,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "mukul975/Anthropic-Cybersecurity-Skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 28181,
+      "forks": 3429,
+      "stars_today": 156,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "mukul975",
+        "avatar": "https://github.com/mukul975.png",
+        "url": "https://github.com/mukul975"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be"
+    },
+    {
+      "id": "AlexsJones/llmfit",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "html_url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": 32087,
+      "forks": 1990,
+      "stars_today": 239,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "AlexsJones",
+        "avatar": "https://github.com/AlexsJones.png",
+        "url": "https://github.com/AlexsJones"
+      }
+    },
+    {
+      "id": "santifer/career-ops",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 64333,
+      "forks": 12642,
+      "stars_today": 147,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "santifer",
+        "avatar": "https://github.com/santifer.png",
+        "url": "https://github.com/santifer"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
+    },
+    {
+      "id": "jundot/omlx",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "html_url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 18882,
+      "forks": 1642,
+      "stars_today": 96,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "jundot",
+        "avatar": "https://github.com/jundot.png",
+        "url": "https://github.com/jundot"
+      }
+    },
+    {
+      "id": "immich-app/immich",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "html_url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "stars": 110920,
+      "forks": 6565,
+      "stars_today": 140,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "immich-app",
+        "avatar": "https://github.com/immich-app.png",
+        "url": "https://github.com/immich-app"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/455229168/ebba3238-9ef5-4891-ad58-a3b0223b12bd"
+    },
     {
       "id": "cordiverse/cordis",
       "name": "cordis",
       "full_name": "cordiverse/cordis",
       "html_url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
-      "stars": 5228,
-      "forks": 281,
-      "stars_today": 720,
+      "stars": 5450,
+      "forks": 291,
+      "stars_today": 959,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "cordiverse",
         "avatar": "https://github.com/cordiverse.png",
         "url": "https://github.com/cordiverse"
       }
+    },
+    {
+      "id": "agalwood/Motrix",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "html_url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": 52905,
+      "forks": 4919,
+      "stars_today": 295,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-17T00:00:00Z",
+      "first_seen": "2026-08-17T16:00:03.509Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
+      "owner": {
+        "login": "agalwood",
+        "avatar": "https://github.com/agalwood.png",
+        "url": "https://github.com/agalwood"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/162279822/2b98b880-b650-11eb-8dcb-655455193733"
     },
     {
       "id": "basecamp/omarchy",
@@ -40,7 +245,7 @@
       "language": "Shell",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "basecamp",
         "avatar": "https://github.com/basecamp.png",
@@ -60,7 +265,7 @@
       "language": "Python",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "unslothai",
         "avatar": "https://github.com/unslothai.png",
@@ -80,7 +285,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "OpenCut-app",
         "avatar": "https://github.com/OpenCut-app.png",
@@ -100,7 +305,7 @@
       "language": "Python",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "public-apis",
         "avatar": "https://github.com/public-apis.png",
@@ -121,7 +326,7 @@
       "language": "JavaScript",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "ToolJet",
         "avatar": "https://github.com/ToolJet.png",
@@ -142,7 +347,7 @@
       "language": "Python",
       "created_at": "2026-08-17T00:00:00Z",
       "first_seen": "2026-08-17T08:00:10.021Z",
-      "last_seen": "2026-08-17T08:26:57.479Z",
+      "last_seen": "2026-08-17T16:00:03.509Z",
       "owner": {
         "login": "cactus-compute",
         "avatar": "https://github.com/cactus-compute.png",
