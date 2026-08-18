@@ -1,11 +1,11 @@
 {
   "date": "2026-08-18",
   "since": "daily",
-  "fetched_at": "2026-08-18T08:00:07.598Z",
-  "first_fetched_at": "2026-08-18T07:42:25.605Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-18T08:00:07.598Z",
-  "total_count": 11,
+  "fetched_at": "2026-08-18T16:00:03.674Z",
+  "first_fetched_at": "2026-08-18T08:00:07.598Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-18T16:00:03.674Z",
+  "total_count": 19,
   "items": [
     {
       "id": "harry0703/MoneyPrinterTurbo",
@@ -13,18 +13,261 @@
       "full_name": "harry0703/MoneyPrinterTurbo",
       "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 106972,
-      "forks": 16223,
-      "stars_today": 1189,
+      "stars": 108022,
+      "forks": 16386,
+      "stars_today": 2306,
       "window": "today",
       "language": "Python",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "harry0703",
         "avatar": "https://github.com/harry0703.png",
         "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "chaitanyagiri/munder-difflin",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": 1800,
+      "forks": 221,
+      "stars_today": 256,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "chaitanyagiri",
+        "avatar": "https://github.com/chaitanyagiri.png",
+        "url": "https://github.com/chaitanyagiri"
+      }
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 2564,
+      "forks": 224,
+      "stars_today": 730,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "volcengine/OpenViking",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "html_url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 29164,
+      "forks": 2292,
+      "stars_today": 298,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "volcengine",
+        "avatar": "https://github.com/volcengine.png",
+        "url": "https://github.com/volcengine"
+      }
+    },
+    {
+      "id": "mukul975/Anthropic-Cybersecurity-Skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 28934,
+      "forks": 3476,
+      "stars_today": 726,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "mukul975",
+        "avatar": "https://github.com/mukul975.png",
+        "url": "https://github.com/mukul975"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be"
+    },
+    {
+      "id": "public-apis/public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "html_url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 464048,
+      "forks": 51281,
+      "stars_today": 1139,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "public-apis",
+        "avatar": "https://github.com/public-apis.png",
+        "url": "https://github.com/public-apis"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/54346799/e5ee272c-dfe1-40e5-b66b-b0a36e815254"
+    },
+    {
+      "id": "basecamp/omarchy",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "html_url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": 26264,
+      "forks": 2676,
+      "stars_today": 710,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "basecamp",
+        "avatar": "https://github.com/basecamp.png",
+        "url": "https://github.com/basecamp"
+      }
+    },
+    {
+      "id": "agalwood/Motrix",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "html_url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": 53510,
+      "forks": 4945,
+      "stars_today": 607,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "agalwood",
+        "avatar": "https://github.com/agalwood.png",
+        "url": "https://github.com/agalwood"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/162279822/2b98b880-b650-11eb-8dcb-655455193733"
+    },
+    {
+      "id": "NawfalMotii79/PLFM_RADAR",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "html_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": 24215,
+      "forks": 5575,
+      "stars_today": 204,
+      "window": "today",
+      "language": "PLSQL",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "NawfalMotii79",
+        "avatar": "https://github.com/NawfalMotii79.png",
+        "url": "https://github.com/NawfalMotii79"
+      }
+    },
+    {
+      "id": "jundot/omlx",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "html_url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 19284,
+      "forks": 1656,
+      "stars_today": 366,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "jundot",
+        "avatar": "https://github.com/jundot.png",
+        "url": "https://github.com/jundot"
+      }
+    },
+    {
+      "id": "bojieli/ai-agent-book",
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "html_url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 38964,
+      "forks": 4299,
+      "stars_today": 556,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "bojieli",
+        "avatar": "https://github.com/bojieli.png",
+        "url": "https://github.com/bojieli"
+      }
+    },
+    {
+      "id": "genlayerlabs/genlayer-project-boilerplate",
+      "name": "genlayer-project-boilerplate",
+      "full_name": "genlayerlabs/genlayer-project-boilerplate",
+      "html_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "stars": 15855,
+      "forks": 797,
+      "stars_today": 543,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "genlayerlabs",
+        "avatar": "https://github.com/genlayerlabs.png",
+        "url": "https://github.com/genlayerlabs"
+      }
+    },
+    {
+      "id": "OpenCut-app/OpenCut",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "html_url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": 84589,
+      "forks": 8339,
+      "stars_today": 682,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T16:00:03.674Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
+      "owner": {
+        "login": "OpenCut-app",
+        "avatar": "https://github.com/OpenCut-app.png",
+        "url": "https://github.com/OpenCut-app"
       }
     },
     {
@@ -40,7 +283,7 @@
       "language": "Python",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "usestrix",
         "avatar": "https://github.com/usestrix.png",
@@ -60,54 +303,13 @@
       "language": "Rust",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "nautechsystems",
         "avatar": "https://github.com/nautechsystems.png",
         "url": "https://github.com/nautechsystems"
       },
       "banner_url": "https://repository-images.githubusercontent.com/138552196/e0c7ff3a-dc3f-42ad-97a3-8460ef632068"
-    },
-    {
-      "id": "akitaonrails/ai-memory",
-      "name": "ai-memory",
-      "full_name": "akitaonrails/ai-memory",
-      "html_url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 2336,
-      "forks": 210,
-      "stars_today": 207,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-08-18T00:00:00Z",
-      "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
-      "owner": {
-        "login": "akitaonrails",
-        "avatar": "https://github.com/akitaonrails.png",
-        "url": "https://github.com/akitaonrails"
-      }
-    },
-    {
-      "id": "mukul975/Anthropic-Cybersecurity-Skills",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "stars": 28673,
-      "forks": 3460,
-      "stars_today": 198,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-18T00:00:00Z",
-      "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
-      "owner": {
-        "login": "mukul975",
-        "avatar": "https://github.com/mukul975.png",
-        "url": "https://github.com/mukul975"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be"
     },
     {
       "id": "AlexsJones/llmfit",
@@ -122,7 +324,7 @@
       "language": "Rust",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "AlexsJones",
         "avatar": "https://github.com/AlexsJones.png",
@@ -142,33 +344,13 @@
       "language": "JavaScript",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "santifer",
         "avatar": "https://github.com/santifer.png",
         "url": "https://github.com/santifer"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
-    },
-    {
-      "id": "jundot/omlx",
-      "name": "omlx",
-      "full_name": "jundot/omlx",
-      "html_url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "stars": 19119,
-      "forks": 1647,
-      "stars_today": 78,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-18T00:00:00Z",
-      "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
-      "owner": {
-        "login": "jundot",
-        "avatar": "https://github.com/jundot.png",
-        "url": "https://github.com/jundot"
-      }
     },
     {
       "id": "immich-app/immich",
@@ -183,7 +365,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "immich-app",
         "avatar": "https://github.com/immich-app.png",
@@ -204,33 +386,12 @@
       "language": "TypeScript",
       "created_at": "2026-08-18T00:00:00Z",
       "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
+      "last_seen": "2026-08-18T16:00:03.674Z",
       "owner": {
         "login": "cordiverse",
         "avatar": "https://github.com/cordiverse.png",
         "url": "https://github.com/cordiverse"
       }
-    },
-    {
-      "id": "agalwood/Motrix",
-      "name": "Motrix",
-      "full_name": "agalwood/Motrix",
-      "html_url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "stars": 53307,
-      "forks": 4933,
-      "stars_today": 344,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-08-18T00:00:00Z",
-      "first_seen": "2026-08-18T07:42:25.605Z",
-      "last_seen": "2026-08-18T08:00:07.598Z",
-      "owner": {
-        "login": "agalwood",
-        "avatar": "https://github.com/agalwood.png",
-        "url": "https://github.com/agalwood"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/162279822/2b98b880-b650-11eb-8dcb-655455193733"
     }
   ]
 }
