@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-18",
+  "since": "daily",
+  "fetched_at": "2026-08-18T07:42:25.605Z",
+  "first_fetched_at": "2026-08-18T07:42:25.605Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-18T07:42:25.605Z",
+  "total_count": 11,
+  "items": [
+    {
+      "id": "harry0703/MoneyPrinterTurbo",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 106943,
+      "forks": 16218,
+      "stars_today": 1189,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "harry0703",
+        "avatar": "https://github.com/harry0703.png",
+        "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "usestrix/strix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "html_url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 54594,
+      "forks": 5830,
+      "stars_today": 598,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "usestrix",
+        "avatar": "https://github.com/usestrix.png",
+        "url": "https://github.com/usestrix"
+      }
+    },
+    {
+      "id": "nautechsystems/nautilus_trader",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "html_url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars": 26110,
+      "forks": 3388,
+      "stars_today": 120,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "nautechsystems",
+        "avatar": "https://github.com/nautechsystems.png",
+        "url": "https://github.com/nautechsystems"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/138552196/e0c7ff3a-dc3f-42ad-97a3-8460ef632068"
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 2329,
+      "forks": 209,
+      "stars_today": 207,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "mukul975/Anthropic-Cybersecurity-Skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "html_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 28664,
+      "forks": 3459,
+      "stars_today": 198,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "mukul975",
+        "avatar": "https://github.com/mukul975.png",
+        "url": "https://github.com/mukul975"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1166506614/38d9aad0-5e51-43d0-8567-21443768d1be"
+    },
+    {
+      "id": "AlexsJones/llmfit",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "html_url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": 32502,
+      "forks": 2007,
+      "stars_today": 198,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "AlexsJones",
+        "avatar": "https://github.com/AlexsJones.png",
+        "url": "https://github.com/AlexsJones"
+      }
+    },
+    {
+      "id": "santifer/career-ops",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 65070,
+      "forks": 12670,
+      "stars_today": 218,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "santifer",
+        "avatar": "https://github.com/santifer.png",
+        "url": "https://github.com/santifer"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
+    },
+    {
+      "id": "jundot/omlx",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "html_url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 19114,
+      "forks": 1647,
+      "stars_today": 78,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "jundot",
+        "avatar": "https://github.com/jundot.png",
+        "url": "https://github.com/jundot"
+      }
+    },
+    {
+      "id": "immich-app/immich",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "html_url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "stars": 111380,
+      "forks": 6588,
+      "stars_today": 175,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "immich-app",
+        "avatar": "https://github.com/immich-app.png",
+        "url": "https://github.com/immich-app"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/455229168/ebba3238-9ef5-4891-ad58-a3b0223b12bd"
+    },
+    {
+      "id": "cordiverse/cordis",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "html_url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "stars": 5852,
+      "forks": 316,
+      "stars_today": 957,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "cordiverse",
+        "avatar": "https://github.com/cordiverse.png",
+        "url": "https://github.com/cordiverse"
+      }
+    },
+    {
+      "id": "agalwood/Motrix",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "html_url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": 53296,
+      "forks": 4933,
+      "stars_today": 344,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-18T00:00:00Z",
+      "first_seen": "2026-08-18T07:42:25.605Z",
+      "last_seen": "2026-08-18T07:42:25.605Z",
+      "owner": {
+        "login": "agalwood",
+        "avatar": "https://github.com/agalwood.png",
+        "url": "https://github.com/agalwood"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/162279822/2b98b880-b650-11eb-8dcb-655455193733"
+    }
+  ]
+}
