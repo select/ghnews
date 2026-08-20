@@ -1,30 +1,254 @@
 {
   "date": "2026-08-20",
   "since": "daily",
-  "fetched_at": "2026-08-20T08:00:07.018Z",
-  "first_fetched_at": "2026-08-20T07:44:47.127Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-20T08:00:07.018Z",
-  "total_count": 13,
+  "fetched_at": "2026-08-20T16:00:03.642Z",
+  "first_fetched_at": "2026-08-20T08:00:07.018Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-20T16:00:03.642Z",
+  "total_count": 24,
   "items": [
+    {
+      "id": "modular/modular",
+      "name": "modular",
+      "full_name": "modular/modular",
+      "html_url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "stars": 27664,
+      "forks": 2986,
+      "stars_today": 340,
+      "window": "today",
+      "language": "Mojo",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "modular",
+        "avatar": "https://github.com/modular.png",
+        "url": "https://github.com/modular"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 225515,
+      "forks": 19359,
+      "stars_today": 2267,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T07:44:47.127Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "AprilNEA/OpenLogi",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "html_url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": 11409,
+      "forks": 314,
+      "stars_today": 1225,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "AprilNEA",
+        "avatar": "https://github.com/AprilNEA.png",
+        "url": "https://github.com/AprilNEA"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1248194723/027636c2-3777-4a45-b2f4-e64950b94a13"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 274766,
+      "forks": 24585,
+      "stars_today": 749,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T07:44:47.127Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 3925,
+      "forks": 327,
+      "stars_today": 473,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "santifer/career-ops",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 66385,
+      "forks": 12791,
+      "stars_today": 855,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T07:44:47.127Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "santifer",
+        "avatar": "https://github.com/santifer.png",
+        "url": "https://github.com/santifer"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 3444,
+      "forks": 275,
+      "stars_today": 335,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
     {
       "id": "harry0703/MoneyPrinterTurbo",
       "name": "MoneyPrinterTurbo",
       "full_name": "harry0703/MoneyPrinterTurbo",
       "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 111854,
-      "forks": 16944,
-      "stars_today": 2221,
+      "stars": 112586,
+      "forks": 17053,
+      "stars_today": 2774,
       "window": "today",
       "language": "Python",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "harry0703",
         "avatar": "https://github.com/harry0703.png",
         "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "agent-substrate/substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": 1328,
+      "forks": 247,
+      "stars_today": 26,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "agent-substrate",
+        "avatar": "https://github.com/agent-substrate.png",
+        "url": "https://github.com/agent-substrate"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1238047523/94704880-cdf5-49d0-8074-39ab6ab792d4"
+    },
+    {
+      "id": "chaitanyagiri/munder-difflin",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": 3024,
+      "forks": 345,
+      "stars_today": 517,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T07:44:47.127Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "chaitanyagiri",
+        "avatar": "https://github.com/chaitanyagiri.png",
+        "url": "https://github.com/chaitanyagiri"
+      }
+    },
+    {
+      "id": "PostHog/posthog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "html_url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": 37870,
+      "forks": 3209,
+      "stars_today": 100,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "PostHog",
+        "avatar": "https://github.com/PostHog.png",
+        "url": "https://github.com/PostHog"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26"
+    },
+    {
+      "id": "mahlernim/google-timeline-visualizer",
+      "name": "google-timeline-visualizer",
+      "full_name": "mahlernim/google-timeline-visualizer",
+      "html_url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "stars": 1233,
+      "forks": 140,
+      "stars_today": 575,
+      "window": "today",
+      "language": "Kotlin",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "mahlernim",
+        "avatar": "https://github.com/mahlernim.png",
+        "url": "https://github.com/mahlernim"
       }
     },
     {
@@ -33,14 +257,14 @@
       "full_name": "volcengine/OpenViking",
       "html_url": "https://github.com/volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 30584,
-      "forks": 2365,
-      "stars_today": 804,
+      "stars": 30854,
+      "forks": 2379,
+      "stars_today": 955,
       "window": "today",
       "language": "Python",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "volcengine",
         "avatar": "https://github.com/volcengine.png",
@@ -48,24 +272,86 @@
       }
     },
     {
-      "id": "chaitanyagiri/munder-difflin",
-      "name": "munder-difflin",
-      "full_name": "chaitanyagiri/munder-difflin",
-      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "stars": 2855,
-      "forks": 333,
-      "stars_today": 795,
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 99454,
+      "forks": 5764,
+      "stars_today": 286,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "makeplane/plane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "html_url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars": 56308,
+      "forks": 5384,
+      "stars_today": 54,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-08-20T00:00:00Z",
-      "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
-        "login": "chaitanyagiri",
-        "avatar": "https://github.com/chaitanyagiri.png",
-        "url": "https://github.com/chaitanyagiri"
+        "login": "makeplane",
+        "avatar": "https://github.com/makeplane.png",
+        "url": "https://github.com/makeplane"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/568098118/a2d75f51-b51a-4a79-9364-b04f3778102e"
+    },
+    {
+      "id": "Tencent/AI-Infra-Guard",
+      "name": "AI-Infra-Guard",
+      "full_name": "Tencent/AI-Infra-Guard",
+      "html_url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "stars": 4831,
+      "forks": 477,
+      "stars_today": 28,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
       }
+    },
+    {
+      "id": "RyanCodrai/turbovec",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "html_url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 15832,
+      "forks": 1378,
+      "stars_today": 736,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-20T00:00:00Z",
+      "first_seen": "2026-08-20T16:00:03.642Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
+      "owner": {
+        "login": "RyanCodrai",
+        "avatar": "https://github.com/RyanCodrai.png",
+        "url": "https://github.com/RyanCodrai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1192555574/000b661c-3519-42a5-9609-d5051c50c2f0"
     },
     {
       "id": "mukul975/Anthropic-Cybersecurity-Skills",
@@ -80,7 +366,7 @@
       "language": "Python",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "mukul975",
         "avatar": "https://github.com/mukul975.png",
@@ -101,53 +387,13 @@
       "language": "Rust",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "nautechsystems",
         "avatar": "https://github.com/nautechsystems.png",
         "url": "https://github.com/nautechsystems"
       },
       "banner_url": "https://repository-images.githubusercontent.com/138552196/e0c7ff3a-dc3f-42ad-97a3-8460ef632068"
-    },
-    {
-      "id": "mattpocock/skills",
-      "name": "skills",
-      "full_name": "mattpocock/skills",
-      "html_url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 224398,
-      "forks": 19285,
-      "stars_today": 1894,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-08-20T00:00:00Z",
-      "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
-      "owner": {
-        "login": "mattpocock",
-        "avatar": "https://github.com/mattpocock.png",
-        "url": "https://github.com/mattpocock"
-      }
-    },
-    {
-      "id": "obra/superpowers",
-      "name": "superpowers",
-      "full_name": "obra/superpowers",
-      "html_url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 274511,
-      "forks": 24573,
-      "stars_today": 557,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-08-20T00:00:00Z",
-      "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
-      "owner": {
-        "login": "obra",
-        "avatar": "https://github.com/obra.png",
-        "url": "https://github.com/obra"
-      }
     },
     {
       "id": "jundot/omlx",
@@ -162,33 +408,12 @@
       "language": "Python",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "jundot",
         "avatar": "https://github.com/jundot.png",
         "url": "https://github.com/jundot"
       }
-    },
-    {
-      "id": "santifer/career-ops",
-      "name": "career-ops",
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 66059,
-      "forks": 12770,
-      "stars_today": 198,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-08-20T00:00:00Z",
-      "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
-      "owner": {
-        "login": "santifer",
-        "avatar": "https://github.com/santifer.png",
-        "url": "https://github.com/santifer"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
     },
     {
       "id": "immich-app/immich",
@@ -203,7 +428,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "immich-app",
         "avatar": "https://github.com/immich-app.png",
@@ -224,7 +449,7 @@
       "language": "Rust",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "amadeusprotocol",
         "avatar": "https://github.com/amadeusprotocol.png",
@@ -244,7 +469,7 @@
       "language": "Python",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "marceloprates",
         "avatar": "https://github.com/marceloprates.png",
@@ -265,7 +490,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-20T00:00:00Z",
       "first_seen": "2026-08-20T07:44:47.127Z",
-      "last_seen": "2026-08-20T08:00:07.018Z",
+      "last_seen": "2026-08-20T16:00:03.642Z",
       "owner": {
         "login": "genlayerlabs",
         "avatar": "https://github.com/genlayerlabs.png",
