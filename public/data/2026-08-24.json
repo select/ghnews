@@ -1,0 +1,374 @@
+{
+  "date": "2026-08-24",
+  "since": "daily",
+  "fetched_at": "2026-08-24T08:00:03.052Z",
+  "first_fetched_at": "2026-08-24T08:00:03.052Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-24T08:00:03.052Z",
+  "total_count": 18,
+  "items": [
+    {
+      "id": "openai/codex",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 116296,
+      "forks": 17731,
+      "stars_today": 2715,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "freestylefly/awesome-gpt-image-2",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 14197,
+      "forks": 1530,
+      "stars_today": 401,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "freestylefly",
+        "avatar": "https://github.com/freestylefly.png",
+        "url": "https://github.com/freestylefly"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 234443,
+      "forks": 19995,
+      "stars_today": 2447,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "basecamp/omarchy",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "html_url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": 29486,
+      "forks": 2980,
+      "stars_today": 750,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "basecamp",
+        "avatar": "https://github.com/basecamp.png",
+        "url": "https://github.com/basecamp"
+      }
+    },
+    {
+      "id": "AprilNEA/OpenLogi",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "html_url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": 15280,
+      "forks": 411,
+      "stars_today": 1009,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "AprilNEA",
+        "avatar": "https://github.com/AprilNEA.png",
+        "url": "https://github.com/AprilNEA"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1248194723/027636c2-3777-4a45-b2f4-e64950b94a13"
+    },
+    {
+      "id": "block/buzz",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "html_url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": 30283,
+      "forks": 3840,
+      "stars_today": 410,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "block",
+        "avatar": "https://github.com/block.png",
+        "url": "https://github.com/block"
+      }
+    },
+    {
+      "id": "apache/maka",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 2480,
+      "forks": 278,
+      "stars_today": 51,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "apache",
+        "avatar": "https://github.com/apache.png",
+        "url": "https://github.com/apache"
+      }
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": 48253,
+      "forks": 7911,
+      "stars_today": 1081,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "Alishahryar1",
+        "avatar": "https://github.com/Alishahryar1.png",
+        "url": "https://github.com/Alishahryar1"
+      }
+    },
+    {
+      "id": "tinyhumansai/openhuman",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "html_url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 36925,
+      "forks": 3676,
+      "stars_today": 39,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "tinyhumansai",
+        "avatar": "https://github.com/tinyhumansai.png",
+        "url": "https://github.com/tinyhumansai"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 242691,
+      "forks": 36734,
+      "stars_today": 427,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 69187,
+      "forks": 8280,
+      "stars_today": 131,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    },
+    {
+      "id": "VoltAgent/awesome-agent-skills",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "html_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": 31492,
+      "forks": 3370,
+      "stars_today": 156,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "VoltAgent",
+        "avatar": "https://github.com/VoltAgent.png",
+        "url": "https://github.com/VoltAgent"
+      }
+    },
+    {
+      "id": "virgiliojr94/book-to-skill",
+      "name": "book-to-skill",
+      "full_name": "virgiliojr94/book-to-skill",
+      "html_url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 24926,
+      "forks": 2599,
+      "stars_today": 417,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "virgiliojr94",
+        "avatar": "https://github.com/virgiliojr94.png",
+        "url": "https://github.com/virgiliojr94"
+      }
+    },
+    {
+      "id": "dani-garcia/vaultwarden",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "html_url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": 66003,
+      "forks": 3129,
+      "stars_today": 78,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "dani-garcia",
+        "avatar": "https://github.com/dani-garcia.png",
+        "url": "https://github.com/dani-garcia"
+      }
+    },
+    {
+      "id": "anthropics/claude-plugins-community",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "html_url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 1115,
+      "forks": 138,
+      "stars_today": 225,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "ripienaar/free-for-dev",
+      "name": "free-for-dev",
+      "full_name": "ripienaar/free-for-dev",
+      "html_url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 134689,
+      "forks": 14086,
+      "stars_today": 615,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "ripienaar",
+        "avatar": "https://github.com/ripienaar.png",
+        "url": "https://github.com/ripienaar"
+      }
+    },
+    {
+      "id": "Comfy-Org/ComfyUI",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 129601,
+      "forks": 15272,
+      "stars_today": 201,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "Comfy-Org",
+        "avatar": "https://github.com/Comfy-Org.png",
+        "url": "https://github.com/Comfy-Org"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b"
+    },
+    {
+      "id": "NousResearch/hermes-agent",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 235275,
+      "forks": 47410,
+      "stars_today": 454,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-24T00:00:00Z",
+      "first_seen": "2026-08-24T08:00:03.052Z",
+      "last_seen": "2026-08-24T08:00:03.052Z",
+      "owner": {
+        "login": "NousResearch",
+        "avatar": "https://github.com/NousResearch.png",
+        "url": "https://github.com/NousResearch"
+      }
+    }
+  ]
+}
