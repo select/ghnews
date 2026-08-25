@@ -1,46 +1,26 @@
 {
   "date": "2026-07-02",
   "since": "daily",
-  "fetched_at": "2026-07-02T08:43:01.332Z",
-  "first_fetched_at": "2026-07-02T08:41:07.376Z",
-  "snapshots": 3,
-  "updated_at": "2026-07-02T08:43:01.332Z",
-  "total_count": 20,
+  "fetched_at": "2026-07-02T18:00:02.864Z",
+  "first_fetched_at": "2026-07-02T08:43:01.332Z",
+  "snapshots": 4,
+  "updated_at": "2026-07-02T18:00:02.864Z",
+  "total_count": 32,
   "items": [
-    {
-      "id": "msitarzewski/agency-agents",
-      "name": "agency-agents",
-      "full_name": "msitarzewski/agency-agents",
-      "html_url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 124557,
-      "forks": 20214,
-      "stars_today": 2114,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-07-02T00:00:00Z",
-      "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
-      "owner": {
-        "login": "msitarzewski",
-        "avatar": "https://github.com/msitarzewski.png",
-        "url": "https://github.com/msitarzewski"
-      }
-    },
     {
       "id": "usestrix/strix",
       "name": "strix",
       "full_name": "usestrix/strix",
       "html_url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 30428,
-      "forks": 3262,
-      "stars_today": 1211,
+      "stars": 31598,
+      "forks": 3336,
+      "stars_today": 2167,
       "window": "today",
       "language": "Python",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "usestrix",
         "avatar": "https://github.com/usestrix.png",
@@ -48,23 +28,43 @@
       }
     },
     {
-      "id": "HKUDS/Vibe-Trading",
-      "name": "Vibe-Trading",
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 16974,
-      "forks": 2842,
-      "stars_today": 694,
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 80330,
+      "forks": 4509,
+      "stars_today": 866,
       "window": "today",
-      "language": "Python",
+      "language": "JavaScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 125290,
+      "forks": 20328,
+      "stars_today": 2925,
+      "window": "today",
+      "language": "Shell",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
-        "login": "HKUDS",
-        "avatar": "https://github.com/HKUDS.png",
-        "url": "https://github.com/HKUDS"
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
       }
     },
     {
@@ -73,18 +73,280 @@
       "full_name": "hasaneyldrm/exercises-dataset",
       "html_url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": 8765,
-      "forks": 982,
-      "stars_today": 2470,
+      "stars": 9124,
+      "forks": 1014,
+      "stars_today": 942,
       "window": "today",
       "language": "HTML",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "hasaneyldrm",
         "avatar": "https://github.com/hasaneyldrm.png",
         "url": "https://github.com/hasaneyldrm"
+      }
+    },
+    {
+      "id": "santifer/career-ops",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 57612,
+      "forks": 11364,
+      "stars_today": 322,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "santifer",
+        "avatar": "https://github.com/santifer.png",
+        "url": "https://github.com/santifer"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1201476594/7d3a70f0-f4ed-4e14-844b-58265706d512"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 244236,
+      "forks": 21673,
+      "stars_today": 1047,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45027,
+      "forks": 2929,
+      "stars_today": 141,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "browser-use/video-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "html_url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 13680,
+      "forks": 1684,
+      "stars_today": 550,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://github.com/browser-use.png",
+        "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": "actions/checkout",
+      "name": "checkout",
+      "full_name": "actions/checkout",
+      "html_url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "stars": 8123,
+      "forks": 2525,
+      "stars_today": 5,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "actions",
+        "avatar": "https://github.com/actions.png",
+        "url": "https://github.com/actions"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225049,
+      "forks": 34446,
+      "stars_today": 508,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "HKUDS/Vibe-Trading",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17242,
+      "forks": 2876,
+      "stars_today": 918,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T08:40:55.009Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "agentskills/agentskills",
+      "name": "agentskills",
+      "full_name": "agentskills/agentskills",
+      "html_url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 21520,
+      "forks": 1372,
+      "stars_today": 47,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "agentskills",
+        "avatar": "https://github.com/agentskills.png",
+        "url": "https://github.com/agentskills"
+      }
+    },
+    {
+      "id": "openai/codex-plugin-cc",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "html_url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 22476,
+      "forks": 1369,
+      "stars_today": 448,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "langflow-ai/langflow",
+      "name": "langflow",
+      "full_name": "langflow-ai/langflow",
+      "html_url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150588,
+      "forks": 9393,
+      "stars_today": 74,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "langflow-ai",
+        "avatar": "https://github.com/langflow-ai.png",
+        "url": "https://github.com/langflow-ai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/599320067/a9637c6a-7347-4a7a-8bf3-7bbdae6974b6"
+    },
+    {
+      "id": "pytorch/pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101166,
+      "forks": 28223,
+      "stars_today": 45,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "pytorch",
+        "avatar": "https://github.com/pytorch.png",
+        "url": "https://github.com/pytorch"
+      }
+    },
+    {
+      "id": "harvard-edge/cs249r_book",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "html_url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "stars": 25423,
+      "forks": 3050,
+      "stars_today": 33,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "harvard-edge",
+        "avatar": "https://github.com/harvard-edge.png",
+        "url": "https://github.com/harvard-edge"
+      }
+    },
+    {
+      "id": "ryanmcdermott/clean-code-javascript",
+      "name": "clean-code-javascript",
+      "full_name": "ryanmcdermott/clean-code-javascript",
+      "html_url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "description": "Clean Code concepts adapted for JavaScript",
+      "stars": 94523,
+      "forks": 12471,
+      "stars_today": 11,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-07-02T00:00:00Z",
+      "first_seen": "2026-07-02T18:00:02.864Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
+      "owner": {
+        "login": "ryanmcdermott",
+        "avatar": "https://github.com/ryanmcdermott.png",
+        "url": "https://github.com/ryanmcdermott"
       }
     },
     {
@@ -100,7 +362,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "facebook",
         "avatar": "https://github.com/facebook.png",
@@ -120,7 +382,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "diegosouzapw",
         "avatar": "https://github.com/diegosouzapw.png",
@@ -140,7 +402,7 @@
       "language": "Python",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "allenai",
         "avatar": "https://github.com/allenai.png",
@@ -160,7 +422,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "logto-io",
         "avatar": "https://github.com/logto-io.png",
@@ -181,7 +443,7 @@
       "language": "Rust",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "togatoga",
         "avatar": "https://github.com/togatoga.png",
@@ -201,7 +463,7 @@
       "language": "Python",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "Mebus",
         "avatar": "https://github.com/Mebus.png",
@@ -221,7 +483,7 @@
       "language": "Python",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "Unclecheng-li",
         "avatar": "https://github.com/Unclecheng-li.png",
@@ -241,7 +503,7 @@
       "language": "Jupyter Notebook",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "microsoft",
         "avatar": "https://github.com/microsoft.png",
@@ -262,7 +524,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "refactoringhq",
         "avatar": "https://github.com/refactoringhq.png",
@@ -282,7 +544,7 @@
       "language": "Rust",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "ogulcancelik",
         "avatar": "https://github.com/ogulcancelik.png",
@@ -302,7 +564,7 @@
       "language": "Shell",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "0xNyk",
         "avatar": "https://github.com/0xNyk.png",
@@ -322,7 +584,7 @@
       "language": "Swift",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "altic-dev",
         "avatar": "https://github.com/altic-dev.png",
@@ -342,7 +604,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "CoreBunch",
         "avatar": "https://github.com/CoreBunch.png",
@@ -362,31 +624,11 @@
       "language": "Rust",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "TencentCloud",
         "avatar": "https://github.com/TencentCloud.png",
         "url": "https://github.com/TencentCloud"
-      }
-    },
-    {
-      "id": "browser-use/video-use",
-      "name": "video-use",
-      "full_name": "browser-use/video-use",
-      "html_url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 13425,
-      "forks": 1663,
-      "stars_today": 693,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-07-02T00:00:00Z",
-      "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
-      "owner": {
-        "login": "browser-use",
-        "avatar": "https://github.com/browser-use.png",
-        "url": "https://github.com/browser-use"
       }
     },
     {
@@ -402,7 +644,7 @@
       "language": "TypeScript",
       "created_at": "2026-07-02T00:00:00Z",
       "first_seen": "2026-07-02T08:40:55.009Z",
-      "last_seen": "2026-07-02T08:43:01.332Z",
+      "last_seen": "2026-07-02T18:00:02.864Z",
       "owner": {
         "login": "yikart",
         "avatar": "https://github.com/yikart.png",

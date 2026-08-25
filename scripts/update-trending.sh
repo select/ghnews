@@ -56,7 +56,9 @@ if [ -s "$NVM_DIR/nvm.sh" ]; then
 fi
 
 # Ensure pnpm is in PATH
-export PATH="$HOME/.local/share/pnpm:$PATH"
+if ! command -v pnpm >/dev/null 2>&1; then
+    export PATH="$HOME/.local/share/pnpm:$PATH"
+fi
 
 cleanup_handler() {
     local exit_code=$?

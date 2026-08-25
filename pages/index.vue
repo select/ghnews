@@ -39,8 +39,21 @@
 		</div>
 
 		<main>
-			<div v-if="error" class="text-red-600">Error: {{ error }}</div>
-			<div v-if="!items.length && !error" class="text-gray-500">Loading...</div>
+			<div
+				v-if="initError"
+				class="my-4 p-4 rounded-lg bg-red-50 border border-red-200 text-red-700 text-center"
+			>
+				<p class="font-medium">Error loading data</p>
+				<p class="text-sm mt-1">{{ initError }}</p>
+				<button
+					type="button"
+					class="mt-3 px-3 py-1.5 bg-red-600 text-white rounded text-sm hover:bg-red-700 transition"
+					@click="init"
+				>
+					Retry
+				</button>
+			</div>
+			<div v-if="!items.length && !initError" class="text-gray-500 py-4">Loading...</div>
 
 			<ol v-if="items.length" class="divide-y divide-gray-200 list-none pl-0">
 				<template v-for="(repo, i) in items" :key="repo.id">
@@ -118,6 +131,30 @@
 			</ol>
 
 			<div ref="sentinel" class="h-1"></div>
+
+			<div
+				v-if="chunkError"
+				class="my-4 p-4 rounded-lg bg-amber-50 border border-amber-200 text-amber-800 text-center text-sm space-y-2"
+			>
+				<div>{{ chunkError }}</div>
+				<div class="flex justify-center gap-3 pt-1">
+					<button
+						type="button"
+						class="px-3 py-1 bg-amber-600 text-white rounded hover:bg-amber-700 transition text-xs font-medium"
+						@click="loadNextChunk()"
+					>
+						Retry
+					</button>
+					<button
+						type="button"
+						class="px-3 py-1 bg-white border border-gray-300 text-gray-700 rounded hover:bg-gray-50 transition text-xs font-medium"
+						@click="skipChunk"
+					>
+						Skip date
+					</button>
+				</div>
+			</div>
+
 			<div v-if="loadingMore" class="text-center text-sm text-gray-400 py-4">
 				Loading more…
 			</div>
@@ -132,10 +169,11 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, onBeforeUnmount } from "vue";
+import { ref, computed, nextTick, onMounted, onBeforeUnmount } from "vue";
 
 const items = ref<any[]>([]);
-const error = ref<string | null>(null);
+const initError = ref<string | null>(null);
+const chunkError = ref<string | null>(null);
 const refreshing = ref(false);
 const loadingMore = ref(false);
 const allDates = ref<string[]>([]);
@@ -143,6 +181,7 @@ const chunkIndex = ref(0);
 const sentinel = ref<HTMLElement | null>(null);
 const failedImgs = ref(new Set<string | number>());
 let observer: IntersectionObserver | null = null;
+let scrollThrottleTimer: ReturnType<typeof setTimeout> | null = null;
 
 const mounted = ref(false);
 const isLocalhost = computed(() => {
@@ -161,60 +200,127 @@ function pushChunk(itemsIn: any[]) {
 	}
 }
 
-async function loadNextChunk() {
-	if (loadingMore.value || error.value) return;
+function isSentinelInView(margin = 800): boolean {
+	if (!sentinel.value || typeof window === "undefined") return false;
+	const rect = sentinel.value.getBoundingClientRect();
+	return rect.top <= (window.innerHeight || document.documentElement.clientHeight) + margin;
+}
+
+async function loadNextChunk(retryCount = 0) {
+	if (loadingMore.value) return;
 	if (chunkIndex.value >= allDates.value.length) return;
+
 	loadingMore.value = true;
+	chunkError.value = null;
+
+	const date = allDates.value[chunkIndex.value];
+	let success = false;
+
 	try {
-		const date = allDates.value[chunkIndex.value];
 		const data = await $fetch<{ items: any[] }>(`data/${date}.json`);
-		if (data.items) {
+		if (data && Array.isArray(data.items)) {
 			// keep archive order (already sorted by stars in-file); dedup
 			pushChunk(data.items);
 		}
 		chunkIndex.value++;
+		success = true;
 	} catch (err: any) {
-		error.value = err.message || String(err);
+		if (retryCount < 2) {
+			// Transient network retry
+			loadingMore.value = false;
+			await new Promise((r) => setTimeout(r, 600));
+			return loadNextChunk(retryCount + 1);
+		}
+		chunkError.value = `Failed to load ${date || "archive"}: ${err?.message || String(err)}`;
 	} finally {
 		loadingMore.value = false;
 	}
+
+	// If sentinel is still in/near viewport (e.g. high-res screen, filtered items, or duplicates), keep loading
+	if (success && chunkIndex.value < allDates.value.length) {
+		await nextTick();
+		if (isSentinelInView(800)) {
+			requestAnimationFrame(() => {
+				if (!loadingMore.value && !chunkError.value && isSentinelInView(800)) {
+					loadNextChunk();
+				}
+			});
+		}
+	}
+}
+
+function skipChunk() {
+	chunkError.value = null;
+	chunkIndex.value++;
+	loadNextChunk();
 }
 
 async function init() {
 	items.value = [];
-	error.value = null;
+	initError.value = null;
+	chunkError.value = null;
 	seen.clear();
 	chunkIndex.value = 0;
 	try {
 		const index = await $fetch<{ dates: string[] }>("data/index.json");
 		if (!index.dates || index.dates.length === 0) {
-			error.value = "No data available.";
+			initError.value = "No data available.";
 			return;
 		}
 		allDates.value = index.dates;
 		await loadNextChunk();
-		setupObserver();
 	} catch (err: any) {
-		error.value = err.message || String(err);
+		initError.value = err.message || String(err);
 	}
 }
 
 function setupObserver() {
-	if (observer || !sentinel.value || import.meta.server) return;
+	if (observer || !sentinel.value || typeof IntersectionObserver === "undefined") return;
 	observer = new IntersectionObserver(
 		(entries) => {
-			if (entries[0]?.isIntersecting) loadNextChunk();
+			if (entries[0]?.isIntersecting) {
+				loadNextChunk();
+			}
 		},
-		{ rootMargin: "600px" },
+		{ rootMargin: "800px" },
 	);
 	observer.observe(sentinel.value);
 }
 
+function onScrollOrResize() {
+	if (
+		scrollThrottleTimer ||
+		loadingMore.value ||
+		chunkError.value ||
+		chunkIndex.value >= allDates.value.length
+	) {
+		return;
+	}
+	scrollThrottleTimer = setTimeout(() => {
+		scrollThrottleTimer = null;
+		if (isSentinelInView(800)) {
+			loadNextChunk();
+		}
+	}, 100);
+}
+
 onMounted(() => {
 	mounted.value = true;
+	setupObserver();
+	window.addEventListener("scroll", onScrollOrResize, { passive: true });
+	window.addEventListener("resize", onScrollOrResize, { passive: true });
 	init();
 });
-onBeforeUnmount(() => observer?.disconnect());
+
+onBeforeUnmount(() => {
+	observer?.disconnect();
+	observer = null;
+	if (scrollThrottleTimer) clearTimeout(scrollThrottleTimer);
+	if (typeof window !== "undefined") {
+		window.removeEventListener("scroll", onScrollOrResize);
+		window.removeEventListener("resize", onScrollOrResize);
+	}
+});
 
 async function refresh() {
 	if (refreshing.value) return;
@@ -225,7 +331,7 @@ async function refresh() {
 			{ method: "POST" },
 		);
 		if (!res.ok) {
-			error.value =
+			initError.value =
 				"Refresh failed: " + (res.stderr || res.stdout || "unknown error");
 		} else {
 			// Bust cache and reload from scratch
@@ -233,7 +339,7 @@ async function refresh() {
 			await init();
 		}
 	} catch (err: any) {
-		error.value = err.message || String(err);
+		initError.value = err.message || String(err);
 	} finally {
 		refreshing.value = false;
 	}
