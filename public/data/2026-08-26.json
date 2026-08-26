@@ -1,0 +1,335 @@
+{
+  "date": "2026-08-26",
+  "since": "daily",
+  "fetched_at": "2026-08-26T08:00:02.927Z",
+  "first_fetched_at": "2026-08-26T08:00:02.927Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-26T08:00:02.927Z",
+  "total_count": 16,
+  "items": [
+    {
+      "id": "freestylefly/awesome-gpt-image-2",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 19651,
+      "forks": 1999,
+      "stars_today": 1698,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "freestylefly",
+        "avatar": "https://github.com/freestylefly.png",
+        "url": "https://github.com/freestylefly"
+      }
+    },
+    {
+      "id": "anthropics/claude-plugins-community",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "html_url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 1925,
+      "forks": 182,
+      "stars_today": 351,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "MadsLorentzen/ai-job-search",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "html_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 35702,
+      "forks": 12212,
+      "stars_today": 1265,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "MadsLorentzen",
+        "avatar": "https://github.com/MadsLorentzen.png",
+        "url": "https://github.com/MadsLorentzen"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697"
+    },
+    {
+      "id": "apache/maka",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 3490,
+      "forks": 343,
+      "stars_today": 543,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "apache",
+        "avatar": "https://github.com/apache.png",
+        "url": "https://github.com/apache"
+      }
+    },
+    {
+      "id": "TauricResearch/TradingAgents",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 100521,
+      "forks": 19389,
+      "stars_today": 218,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "TauricResearch",
+        "avatar": "https://github.com/TauricResearch.png",
+        "url": "https://github.com/TauricResearch"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1"
+    },
+    {
+      "id": "AgriciDaniel/claude-obsidian",
+      "name": "claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": 12978,
+      "forks": 1388,
+      "stars_today": 813,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "AgriciDaniel",
+        "avatar": "https://github.com/AgriciDaniel.png",
+        "url": "https://github.com/AgriciDaniel"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1203670949/42f543a9-2bfa-4769-bc33-4f5d8a4364f9"
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 49284,
+      "forks": 8598,
+      "stars_today": 569,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": "tinyhumansai/openhuman",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "html_url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 37937,
+      "forks": 3740,
+      "stars_today": 542,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "tinyhumansai",
+        "avatar": "https://github.com/tinyhumansai.png",
+        "url": "https://github.com/tinyhumansai"
+      }
+    },
+    {
+      "id": "basecamp/omarchy",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "html_url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": 31550,
+      "forks": 3206,
+      "stars_today": 1083,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "basecamp",
+        "avatar": "https://github.com/basecamp.png",
+        "url": "https://github.com/basecamp"
+      }
+    },
+    {
+      "id": "Shubhamsaboo/awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 134407,
+      "forks": 19760,
+      "stars_today": 161,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "Shubhamsaboo",
+        "avatar": "https://github.com/Shubhamsaboo.png",
+        "url": "https://github.com/Shubhamsaboo"
+      }
+    },
+    {
+      "id": "multica-ai/andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 207408,
+      "forks": 21152,
+      "stars_today": 830,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "multica-ai",
+        "avatar": "https://github.com/multica-ai.png",
+        "url": "https://github.com/multica-ai"
+      }
+    },
+    {
+      "id": "openai/codex",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 118470,
+      "forks": 18054,
+      "stars_today": 1181,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "marin-community/marin",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "html_url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": 2279,
+      "forks": 203,
+      "stars_today": 231,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "marin-community",
+        "avatar": "https://github.com/marin-community.png",
+        "url": "https://github.com/marin-community"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 111557,
+      "forks": 6129,
+      "stars_today": 982,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34182,
+      "forks": 3876,
+      "stars_today": 55,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "asciimoo/hister",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "html_url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "stars": 2947,
+      "forks": 132,
+      "stars_today": 98,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-26T00:00:00Z",
+      "first_seen": "2026-08-26T08:00:02.927Z",
+      "last_seen": "2026-08-26T08:00:02.927Z",
+      "owner": {
+        "login": "asciimoo",
+        "avatar": "https://github.com/asciimoo.png",
+        "url": "https://github.com/asciimoo"
+      }
+    }
+  ]
+}
