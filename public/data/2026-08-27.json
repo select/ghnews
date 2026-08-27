@@ -1,0 +1,336 @@
+{
+  "date": "2026-08-27",
+  "since": "daily",
+  "fetched_at": "2026-08-27T08:00:02.852Z",
+  "first_fetched_at": "2026-08-27T08:00:02.852Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-27T08:00:02.852Z",
+  "total_count": 16,
+  "items": [
+    {
+      "id": "tt-a1i/archify",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "html_url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 19839,
+      "forks": 1336,
+      "stars_today": 1035,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "tt-a1i",
+        "avatar": "https://github.com/tt-a1i.png",
+        "url": "https://github.com/tt-a1i"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1"
+    },
+    {
+      "id": "freestylefly/awesome-gpt-image-2",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 22161,
+      "forks": 2198,
+      "stars_today": 4050,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "freestylefly",
+        "avatar": "https://github.com/freestylefly.png",
+        "url": "https://github.com/freestylefly"
+      }
+    },
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34461,
+      "forks": 3894,
+      "stars_today": 308,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": 50604,
+      "forks": 8183,
+      "stars_today": 536,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "Alishahryar1",
+        "avatar": "https://github.com/Alishahryar1.png",
+        "url": "https://github.com/Alishahryar1"
+      }
+    },
+    {
+      "id": "MadsLorentzen/ai-job-search",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "html_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 36810,
+      "forks": 12493,
+      "stars_today": 1300,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "MadsLorentzen",
+        "avatar": "https://github.com/MadsLorentzen.png",
+        "url": "https://github.com/MadsLorentzen"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697"
+    },
+    {
+      "id": "AgriciDaniel/claude-obsidian",
+      "name": "claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": 13624,
+      "forks": 1412,
+      "stars_today": 810,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "AgriciDaniel",
+        "avatar": "https://github.com/AgriciDaniel.png",
+        "url": "https://github.com/AgriciDaniel"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1203670949/42f543a9-2bfa-4769-bc33-4f5d8a4364f9"
+    },
+    {
+      "id": "basecamp/omarchy",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "html_url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": 32237,
+      "forks": 3290,
+      "stars_today": 1024,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "basecamp",
+        "avatar": "https://github.com/basecamp.png",
+        "url": "https://github.com/basecamp"
+      }
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 49782,
+      "forks": 8653,
+      "stars_today": 838,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": "tinyhumansai/openhuman",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "html_url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 38368,
+      "forks": 3769,
+      "stars_today": 525,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "tinyhumansai",
+        "avatar": "https://github.com/tinyhumansai.png",
+        "url": "https://github.com/tinyhumansai"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 113130,
+      "forks": 6186,
+      "stars_today": 1598,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "anthropics/claude-plugins-community",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "html_url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 2294,
+      "forks": 195,
+      "stars_today": 538,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "ConardLi/garden-skills",
+      "name": "garden-skills",
+      "full_name": "ConardLi/garden-skills",
+      "html_url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": 11084,
+      "forks": 1398,
+      "stars_today": 113,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "ConardLi",
+        "avatar": "https://github.com/ConardLi.png",
+        "url": "https://github.com/ConardLi"
+      }
+    },
+    {
+      "id": "browser-use/browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 111253,
+      "forks": 12198,
+      "stars_today": 149,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "browser-use",
+        "avatar": "https://github.com/browser-use.png",
+        "url": "https://github.com/browser-use"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/881458615/fddb1de9-5742-4037-8ea9-bf8f1cfd2f58"
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 34911,
+      "forks": 3370,
+      "stars_today": 138,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "marin-community/marin",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "html_url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": 2549,
+      "forks": 218,
+      "stars_today": 441,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "marin-community",
+        "avatar": "https://github.com/marin-community.png",
+        "url": "https://github.com/marin-community"
+      }
+    },
+    {
+      "id": "VoltAgent/awesome-agent-skills",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "html_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": 32806,
+      "forks": 3470,
+      "stars_today": 242,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-08-27T00:00:00Z",
+      "first_seen": "2026-08-27T08:00:02.852Z",
+      "last_seen": "2026-08-27T08:00:02.852Z",
+      "owner": {
+        "login": "VoltAgent",
+        "avatar": "https://github.com/VoltAgent.png",
+        "url": "https://github.com/VoltAgent"
+      }
+    }
+  ]
+}
