@@ -1,30 +1,413 @@
 {
   "date": "2026-08-28",
   "since": "daily",
-  "fetched_at": "2026-08-28T08:30:59.328Z",
-  "first_fetched_at": "2026-08-28T08:00:03.814Z",
-  "snapshots": 2,
-  "updated_at": "2026-08-28T08:30:59.328Z",
-  "total_count": 19,
+  "fetched_at": "2026-08-28T16:00:03.942Z",
+  "first_fetched_at": "2026-08-28T08:30:59.328Z",
+  "snapshots": 3,
+  "updated_at": "2026-08-28T16:00:03.942Z",
+  "total_count": 28,
   "items": [
+    {
+      "id": "tt-a1i/archify",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "html_url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 26252,
+      "forks": 1673,
+      "stars_today": 4561,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "tt-a1i",
+        "avatar": "https://github.com/tt-a1i.png",
+        "url": "https://github.com/tt-a1i"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1"
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 36086,
+      "forks": 3452,
+      "stars_today": 720,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34908,
+      "forks": 3926,
+      "stars_today": 457,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
     {
       "id": "bilawalsidhu/gods-eye-view",
       "name": "gods-eye-view",
       "full_name": "bilawalsidhu/gods-eye-view",
       "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 9394,
-      "forks": 1998,
+      "stars": 10420,
+      "forks": 2140,
       "stars_today": 1984,
       "window": "today",
       "language": "JavaScript",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "bilawalsidhu",
         "avatar": "https://github.com/bilawalsidhu.png",
         "url": "https://github.com/bilawalsidhu"
+      }
+    },
+    {
+      "id": "abhigyanpatwari/GitNexus",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "html_url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 46079,
+      "forks": 5090,
+      "stars_today": 189,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "abhigyanpatwari",
+        "avatar": "https://github.com/abhigyanpatwari.png",
+        "url": "https://github.com/abhigyanpatwari"
+      }
+    },
+    {
+      "id": "JetBrains/go-modern-guidelines",
+      "name": "go-modern-guidelines",
+      "full_name": "JetBrains/go-modern-guidelines",
+      "html_url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "stars": 2494,
+      "forks": 76,
+      "stars_today": 574,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "url": "https://github.com/JetBrains"
+      }
+    },
+    {
+      "id": "calesthio/OpenMontage",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "html_url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 53056,
+      "forks": 6617,
+      "stars_today": 1144,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "calesthio",
+        "avatar": "https://github.com/calesthio.png",
+        "url": "https://github.com/calesthio"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d"
+    },
+    {
+      "id": "abi/screenshot-to-code",
+      "name": "screenshot-to-code",
+      "full_name": "abi/screenshot-to-code",
+      "html_url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "stars": 75381,
+      "forks": 9206,
+      "stars_today": 309,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "abi",
+        "avatar": "https://github.com/abi.png",
+        "url": "https://github.com/abi"
+      }
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 5871,
+      "forks": 473,
+      "stars_today": 257,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "freestylefly/awesome-gpt-image-2",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 24090,
+      "forks": 2384,
+      "stars_today": 1687,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "freestylefly",
+        "avatar": "https://github.com/freestylefly.png",
+        "url": "https://github.com/freestylefly"
+      }
+    },
+    {
+      "id": "tailscale/tailcat",
+      "name": "tailcat",
+      "full_name": "tailscale/tailcat",
+      "html_url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": 2441,
+      "forks": 65,
+      "stars_today": 986,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "tailscale",
+        "avatar": "https://github.com/tailscale.png",
+        "url": "https://github.com/tailscale"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 73205,
+      "forks": 8003,
+      "stars_today": 205,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "swoole/typephp",
+      "name": "typephp",
+      "full_name": "swoole/typephp",
+      "html_url": "https://github.com/swoole/typephp",
+      "description": "Compile PHP to Native Binaries",
+      "stars": 746,
+      "forks": 37,
+      "stars_today": 188,
+      "window": "today",
+      "language": "PHP",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "swoole",
+        "avatar": "https://github.com/swoole.png",
+        "url": "https://github.com/swoole"
+      }
+    },
+    {
+      "id": "marin-community/marin",
+      "name": "marin",
+      "full_name": "marin-community/marin",
+      "html_url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": 2833,
+      "forks": 235,
+      "stars_today": 236,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "marin-community",
+        "avatar": "https://github.com/marin-community.png",
+        "url": "https://github.com/marin-community"
+      }
+    },
+    {
+      "id": "tashfeenahmed/freellmapi",
+      "name": "freellmapi",
+      "full_name": "tashfeenahmed/freellmapi",
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 21413,
+      "forks": 3040,
+      "stars_today": 477,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "tashfeenahmed",
+        "avatar": "https://github.com/tashfeenahmed.png",
+        "url": "https://github.com/tashfeenahmed"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 49904,
+      "forks": 3501,
+      "stars_today": 61,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 50509,
+      "forks": 8773,
+      "stars_today": 703,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 115011,
+      "forks": 6283,
+      "stars_today": 1396,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "google/googletest",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "html_url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "stars": 39138,
+      "forks": 10869,
+      "stars_today": 156,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T08:00:03.814Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "google",
+        "avatar": "https://github.com/google.png",
+        "url": "https://github.com/google"
+      }
+    },
+    {
+      "id": "livekit/agents",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "html_url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "stars": 13253,
+      "forks": 3625,
+      "stars_today": 14,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-28T00:00:00Z",
+      "first_seen": "2026-08-28T16:00:03.942Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
+      "owner": {
+        "login": "livekit",
+        "avatar": "https://github.com/livekit.png",
+        "url": "https://github.com/livekit"
       }
     },
     {
@@ -40,174 +423,11 @@
       "language": "Nim",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "zedeus",
         "avatar": "https://github.com/zedeus.png",
         "url": "https://github.com/zedeus"
-      }
-    },
-    {
-      "id": "freestylefly/awesome-gpt-image-2",
-      "name": "awesome-gpt-image-2",
-      "full_name": "freestylefly/awesome-gpt-image-2",
-      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 23730,
-      "forks": 2356,
-      "stars_today": 2096,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "freestylefly",
-        "avatar": "https://github.com/freestylefly.png",
-        "url": "https://github.com/freestylefly"
-      }
-    },
-    {
-      "id": "tt-a1i/archify",
-      "name": "archify",
-      "full_name": "tt-a1i/archify",
-      "html_url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "stars": 24885,
-      "forks": 1600,
-      "stars_today": 4239,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "tt-a1i",
-        "avatar": "https://github.com/tt-a1i.png",
-        "url": "https://github.com/tt-a1i"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1"
-    },
-    {
-      "id": "JetBrains/go-modern-guidelines",
-      "name": "go-modern-guidelines",
-      "full_name": "JetBrains/go-modern-guidelines",
-      "html_url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "stars": 2345,
-      "forks": 70,
-      "stars_today": 300,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "JetBrains",
-        "avatar": "https://github.com/JetBrains.png",
-        "url": "https://github.com/JetBrains"
-      }
-    },
-    {
-      "id": "anthropics/claude-plugins-official",
-      "name": "claude-plugins-official",
-      "full_name": "anthropics/claude-plugins-official",
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 34801,
-      "forks": 3920,
-      "stars_today": 292,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "anthropics",
-        "avatar": "https://github.com/anthropics.png",
-        "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "K-Dense-AI/scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 35564,
-      "forks": 3419,
-      "stars_today": 498,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "K-Dense-AI",
-        "avatar": "https://github.com/K-Dense-AI.png",
-        "url": "https://github.com/K-Dense-AI"
-      }
-    },
-    {
-      "id": "DietrichGebert/ponytail",
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 114549,
-      "forks": 6259,
-      "stars_today": 1613,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "DietrichGebert",
-        "avatar": "https://github.com/DietrichGebert.png",
-        "url": "https://github.com/DietrichGebert"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
-    },
-    {
-      "id": "calesthio/OpenMontage",
-      "name": "OpenMontage",
-      "full_name": "calesthio/OpenMontage",
-      "html_url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 52745,
-      "forks": 6585,
-      "stars_today": 1292,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "calesthio",
-        "avatar": "https://github.com/calesthio.png",
-        "url": "https://github.com/calesthio"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d"
-    },
-    {
-      "id": "rohitg00/ai-engineering-from-scratch",
-      "name": "ai-engineering-from-scratch",
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 50378,
-      "forks": 8751,
-      "stars_today": 552,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "rohitg00",
-        "avatar": "https://github.com/rohitg00.png",
-        "url": "https://github.com/rohitg00"
       }
     },
     {
@@ -223,7 +443,7 @@
       "language": "CSS",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "ConardLi",
         "avatar": "https://github.com/ConardLi.png",
@@ -243,33 +463,13 @@
       "language": "JavaScript",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "thedotmack",
         "avatar": "https://github.com/thedotmack.png",
         "url": "https://github.com/thedotmack"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba"
-    },
-    {
-      "id": "google/googletest",
-      "name": "googletest",
-      "full_name": "google/googletest",
-      "html_url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "stars": 39090,
-      "forks": 10866,
-      "stars_today": 9,
-      "window": "today",
-      "language": "C++",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "google",
-        "avatar": "https://github.com/google.png",
-        "url": "https://github.com/google"
-      }
     },
     {
       "id": "AgriciDaniel/claude-obsidian",
@@ -284,33 +484,13 @@
       "language": "Python",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "AgriciDaniel",
         "avatar": "https://github.com/AgriciDaniel.png",
         "url": "https://github.com/AgriciDaniel"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1203670949/42f543a9-2bfa-4769-bc33-4f5d8a4364f9"
-    },
-    {
-      "id": "marin-community/marin",
-      "name": "marin",
-      "full_name": "marin-community/marin",
-      "html_url": "https://github.com/marin-community/marin",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "stars": 2760,
-      "forks": 232,
-      "stars_today": 255,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-08-28T00:00:00Z",
-      "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
-      "owner": {
-        "login": "marin-community",
-        "avatar": "https://github.com/marin-community.png",
-        "url": "https://github.com/marin-community"
-      }
     },
     {
       "id": "ComposioHQ/awesome-claude-skills",
@@ -325,7 +505,7 @@
       "language": "Python",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "ComposioHQ",
         "avatar": "https://github.com/ComposioHQ.png",
@@ -345,7 +525,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "actions",
         "avatar": "https://github.com/actions.png",
@@ -365,7 +545,7 @@
       "language": "TypeScript",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "OpenCut-app",
         "avatar": "https://github.com/OpenCut-app.png",
@@ -385,7 +565,7 @@
       "language": "Python",
       "created_at": "2026-08-28T00:00:00Z",
       "first_seen": "2026-08-28T08:00:03.814Z",
-      "last_seen": "2026-08-28T08:30:59.328Z",
+      "last_seen": "2026-08-28T16:00:03.942Z",
       "owner": {
         "login": "TauricResearch",
         "avatar": "https://github.com/TauricResearch.png",
