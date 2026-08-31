@@ -1,0 +1,394 @@
+{
+  "date": "2026-08-31",
+  "since": "daily",
+  "fetched_at": "2026-08-31T08:00:06.142Z",
+  "first_fetched_at": "2026-08-31T08:00:06.142Z",
+  "snapshots": 1,
+  "updated_at": "2026-08-31T08:00:06.142Z",
+  "total_count": 19,
+  "items": [
+    {
+      "id": "THU-MAIC/OpenMAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 25133,
+      "forks": 4586,
+      "stars_today": 1370,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "THU-MAIC",
+        "avatar": "https://github.com/THU-MAIC.png",
+        "url": "https://github.com/THU-MAIC"
+      }
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 39993,
+      "forks": 3713,
+      "stars_today": 1114,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "Lakr233/vphone-cli",
+      "name": "vphone-cli",
+      "full_name": "Lakr233/vphone-cli",
+      "html_url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "stars": 9857,
+      "forks": 1297,
+      "stars_today": 361,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "Lakr233",
+        "avatar": "https://github.com/Lakr233.png",
+        "url": "https://github.com/Lakr233"
+      }
+    },
+    {
+      "id": "tt-a1i/archify",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "html_url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 36168,
+      "forks": 2315,
+      "stars_today": 3722,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "tt-a1i",
+        "avatar": "https://github.com/tt-a1i.png",
+        "url": "https://github.com/tt-a1i"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1211139949/484a27cf-6888-472b-9f58-46615a4429b1"
+    },
+    {
+      "id": "p-e-w/heretic",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "html_url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": 29347,
+      "forks": 3220,
+      "stars_today": 369,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "p-e-w",
+        "avatar": "https://github.com/p-e-w.png",
+        "url": "https://github.com/p-e-w"
+      }
+    },
+    {
+      "id": "unclecode/crawl4ai",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "html_url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": 80445,
+      "forks": 8325,
+      "stars_today": 221,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "unclecode",
+        "avatar": "https://github.com/unclecode.png",
+        "url": "https://github.com/unclecode"
+      }
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 60672,
+      "forks": 5305,
+      "stars_today": 230,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "majd/ipatool",
+      "name": "ipatool",
+      "full_name": "majd/ipatool",
+      "html_url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars": 10339,
+      "forks": 887,
+      "stars_today": 58,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "majd",
+        "avatar": "https://github.com/majd.png",
+        "url": "https://github.com/majd"
+      }
+    },
+    {
+      "id": "punkpeye/awesome-mcp-servers",
+      "name": "awesome-mcp-servers",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": 93500,
+      "forks": 15330,
+      "stars_today": 96,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "punkpeye",
+        "avatar": "https://github.com/punkpeye.png",
+        "url": "https://github.com/punkpeye"
+      }
+    },
+    {
+      "id": "checkstyle/checkstyle",
+      "name": "checkstyle",
+      "full_name": "checkstyle/checkstyle",
+      "html_url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "stars": 9263,
+      "forks": 4199,
+      "stars_today": 115,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "checkstyle",
+        "avatar": "https://github.com/checkstyle.png",
+        "url": "https://github.com/checkstyle"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/12499251/d6fc7800-95b5-11e9-9d28-95750b8352e9"
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 74054,
+      "forks": 8074,
+      "stars_today": 198,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "pollen-robotics/microduck_rl",
+      "name": "microduck_rl",
+      "full_name": "pollen-robotics/microduck_rl",
+      "html_url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "stars": 937,
+      "forks": 159,
+      "stars_today": 168,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "pollen-robotics",
+        "avatar": "https://github.com/pollen-robotics.png",
+        "url": "https://github.com/pollen-robotics"
+      }
+    },
+    {
+      "id": "handsomestWei/patent-disclosure-skill",
+      "name": "patent-disclosure-skill",
+      "full_name": "handsomestWei/patent-disclosure-skill",
+      "html_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "stars": 5957,
+      "forks": 714,
+      "stars_today": 62,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "handsomestWei",
+        "avatar": "https://github.com/handsomestWei.png",
+        "url": "https://github.com/handsomestWei"
+      }
+    },
+    {
+      "id": "corsairdev/corsair",
+      "name": "corsair",
+      "full_name": "corsairdev/corsair",
+      "html_url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "stars": 11069,
+      "forks": 529,
+      "stars_today": 126,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "corsairdev",
+        "avatar": "https://github.com/corsairdev.png",
+        "url": "https://github.com/corsairdev"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1076362809/24a6b4dd-5586-4d95-82c7-9c40e783792c"
+    },
+    {
+      "id": "every-app/open-seo",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "html_url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": 15380,
+      "forks": 1838,
+      "stars_today": 469,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "every-app",
+        "avatar": "https://github.com/every-app.png",
+        "url": "https://github.com/every-app"
+      }
+    },
+    {
+      "id": "colinhacks/zod",
+      "name": "zod",
+      "full_name": "colinhacks/zod",
+      "html_url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "stars": 43699,
+      "forks": 2160,
+      "stars_today": 31,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "colinhacks",
+        "avatar": "https://github.com/colinhacks.png",
+        "url": "https://github.com/colinhacks"
+      }
+    },
+    {
+      "id": "tashfeenahmed/freellmapi",
+      "name": "freellmapi",
+      "full_name": "tashfeenahmed/freellmapi",
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": 23069,
+      "forks": 3172,
+      "stars_today": 504,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "tashfeenahmed",
+        "avatar": "https://github.com/tashfeenahmed.png",
+        "url": "https://github.com/tashfeenahmed"
+      }
+    },
+    {
+      "id": "livekit/agents",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "html_url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "stars": 13866,
+      "forks": 3663,
+      "stars_today": 132,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "livekit",
+        "avatar": "https://github.com/livekit.png",
+        "url": "https://github.com/livekit"
+      }
+    },
+    {
+      "id": "abhigyanpatwari/GitNexus",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "html_url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 46670,
+      "forks": 5130,
+      "stars_today": 182,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-08-31T00:00:00Z",
+      "first_seen": "2026-08-31T08:00:06.142Z",
+      "last_seen": "2026-08-31T08:00:06.142Z",
+      "owner": {
+        "login": "abhigyanpatwari",
+        "avatar": "https://github.com/abhigyanpatwari.png",
+        "url": "https://github.com/abhigyanpatwari"
+      }
+    }
+  ]
+}
