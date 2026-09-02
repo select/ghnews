@@ -1,30 +1,212 @@
 {
   "date": "2026-09-02",
   "since": "daily",
-  "fetched_at": "2026-09-02T08:35:44.864Z",
-  "first_fetched_at": "2026-09-02T08:00:09.298Z",
-  "snapshots": 2,
-  "updated_at": "2026-09-02T08:35:44.864Z",
-  "total_count": 14,
+  "fetched_at": "2026-09-02T16:00:05.417Z",
+  "first_fetched_at": "2026-09-02T08:35:44.864Z",
+  "snapshots": 3,
+  "updated_at": "2026-09-02T16:00:05.417Z",
+  "total_count": 29,
   "items": [
     {
-      "id": "Gitlawb/openclaude",
-      "name": "openclaude",
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 31631,
-      "forks": 8974,
-      "stars_today": 80,
+      "id": "fmtlib/fmt",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "html_url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "stars": 23978,
+      "forks": 2972,
+      "stars_today": 3,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "fmtlib",
+        "avatar": "https://github.com/fmtlib.png",
+        "url": "https://github.com/fmtlib"
+      }
+    },
+    {
+      "id": "google-research/timesfm",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "html_url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 29273,
+      "forks": 2835,
+      "stars_today": 326,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "google-research",
+        "avatar": "https://github.com/google-research.png",
+        "url": "https://github.com/google-research"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 120962,
+      "forks": 6541,
+      "stars_today": 1364,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 14196,
+      "forks": 2081,
+      "stars_today": 834,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "sngyai/Sequoia-X",
+      "name": "Sequoia-X",
+      "full_name": "sngyai/Sequoia-X",
+      "html_url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "stars": 5986,
+      "forks": 1243,
+      "stars_today": 195,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "sngyai",
+        "avatar": "https://github.com/sngyai.png",
+        "url": "https://github.com/sngyai"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 50542,
+      "forks": 3552,
+      "stars_today": 140,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-09-02T00:00:00Z",
-      "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
-        "login": "Gitlawb",
-        "avatar": "https://github.com/Gitlawb.png",
-        "url": "https://github.com/Gitlawb"
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "NousResearch/hermes-agent",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 239923,
+      "forks": 49076,
+      "stars_today": 529,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "NousResearch",
+        "avatar": "https://github.com/NousResearch.png",
+        "url": "https://github.com/NousResearch"
+      }
+    },
+    {
+      "id": "superlinked/sie",
+      "name": "sie",
+      "full_name": "superlinked/sie",
+      "html_url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "stars": 2998,
+      "forks": 299,
+      "stars_today": 61,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "superlinked",
+        "avatar": "https://github.com/superlinked.png",
+        "url": "https://github.com/superlinked"
+      }
+    },
+    {
+      "id": "pacifio/atlas",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "html_url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 2711,
+      "forks": 181,
+      "stars_today": 895,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "pacifio",
+        "avatar": "https://github.com/pacifio.png",
+        "url": "https://github.com/pacifio"
+      }
+    },
+    {
+      "id": "zyronon/TypeWords",
+      "name": "TypeWords",
+      "full_name": "zyronon/TypeWords",
+      "html_url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "stars": 9255,
+      "forks": 1125,
+      "stars_today": 68,
+      "window": "today",
+      "language": "Vue",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "zyronon",
+        "avatar": "https://github.com/zyronon.png",
+        "url": "https://github.com/zyronon"
       }
     },
     {
@@ -33,18 +215,178 @@
       "full_name": "Imbad0202/academic-research-skills",
       "html_url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 45233,
-      "forks": 3564,
-      "stars_today": 193,
+      "stars": 45446,
+      "forks": 3575,
+      "stars_today": 801,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "Imbad0202",
         "avatar": "https://github.com/Imbad0202.png",
         "url": "https://github.com/Imbad0202"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 246093,
+      "forks": 37116,
+      "stars_today": 516,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T08:00:09.298Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "protocolbuffers/protobuf",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "html_url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "stars": 71897,
+      "forks": 16271,
+      "stars_today": 16,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "protocolbuffers",
+        "avatar": "https://github.com/protocolbuffers.png",
+        "url": "https://github.com/protocolbuffers"
+      }
+    },
+    {
+      "id": "vercel-labs/portless",
+      "name": "portless",
+      "full_name": "vercel-labs/portless",
+      "html_url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "stars": 11578,
+      "forks": 379,
+      "stars_today": 69,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "blader/humanizer",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "html_url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 40052,
+      "forks": 3486,
+      "stars_today": 366,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "blader",
+        "avatar": "https://github.com/blader.png",
+        "url": "https://github.com/blader"
+      }
+    },
+    {
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 102471,
+      "forks": 5966,
+      "stars_today": 234,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 244861,
+      "forks": 20821,
+      "stars_today": 1103,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T16:00:05.417Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "Gitlawb/openclaude",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 31826,
+      "forks": 8985,
+      "stars_today": 776,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T08:00:09.298Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "Gitlawb",
+        "avatar": "https://github.com/Gitlawb.png",
+        "url": "https://github.com/Gitlawb"
+      }
+    },
+    {
+      "id": "firecrawl/pdf-inspector",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "html_url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 18346,
+      "forks": 1242,
+      "stars_today": 589,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-02T00:00:00Z",
+      "first_seen": "2026-09-02T08:00:09.298Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "https://github.com/firecrawl.png",
+        "url": "https://github.com/firecrawl"
       }
     },
     {
@@ -60,7 +402,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "THU-MAIC",
         "avatar": "https://github.com/THU-MAIC.png",
@@ -80,7 +422,7 @@
       "language": "Crystal",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "iv-org",
         "avatar": "https://github.com/iv-org.png",
@@ -100,7 +442,7 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "jingyaogong",
         "avatar": "https://github.com/jingyaogong.png",
@@ -120,31 +462,11 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "3b1b",
         "avatar": "https://github.com/3b1b.png",
         "url": "https://github.com/3b1b"
-      }
-    },
-    {
-      "id": "firecrawl/pdf-inspector",
-      "name": "pdf-inspector",
-      "full_name": "firecrawl/pdf-inspector",
-      "html_url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": 18160,
-      "forks": 1232,
-      "stars_today": 541,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-09-02T00:00:00Z",
-      "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
-      "owner": {
-        "login": "firecrawl",
-        "avatar": "https://github.com/firecrawl.png",
-        "url": "https://github.com/firecrawl"
       }
     },
     {
@@ -160,7 +482,7 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "browser-use",
         "avatar": "https://github.com/browser-use.png",
@@ -180,7 +502,7 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "K-Dense-AI",
         "avatar": "https://github.com/K-Dense-AI.png",
@@ -200,7 +522,7 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "handsomestWei",
         "avatar": "https://github.com/handsomestWei.png",
@@ -220,7 +542,7 @@
       "language": null,
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "VoltAgent",
         "avatar": "https://github.com/VoltAgent.png",
@@ -240,31 +562,11 @@
       "language": "HTML",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "averygan",
         "avatar": "https://github.com/averygan.png",
         "url": "https://github.com/averygan"
-      }
-    },
-    {
-      "id": "affaan-m/ECC",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 245921,
-      "forks": 37105,
-      "stars_today": 623,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-09-02T00:00:00Z",
-      "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
-      "owner": {
-        "login": "affaan-m",
-        "avatar": "https://github.com/affaan-m.png",
-        "url": "https://github.com/affaan-m"
       }
     },
     {
@@ -280,7 +582,7 @@
       "language": "Python",
       "created_at": "2026-09-02T00:00:00Z",
       "first_seen": "2026-09-02T08:00:09.298Z",
-      "last_seen": "2026-09-02T08:35:44.864Z",
+      "last_seen": "2026-09-02T16:00:05.417Z",
       "owner": {
         "login": "unclecode",
         "avatar": "https://github.com/unclecode.png",
