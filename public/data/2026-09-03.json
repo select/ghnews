@@ -1,0 +1,393 @@
+{
+  "date": "2026-09-03",
+  "since": "daily",
+  "fetched_at": "2026-09-03T08:00:04.548Z",
+  "first_fetched_at": "2026-09-03T08:00:04.548Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-03T08:00:04.548Z",
+  "total_count": 19,
+  "items": [
+    {
+      "id": "fmtlib/fmt",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "html_url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "stars": 24548,
+      "forks": 2996,
+      "stars_today": 14,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "fmtlib",
+        "avatar": "https://github.com/fmtlib.png",
+        "url": "https://github.com/fmtlib"
+      }
+    },
+    {
+      "id": "google-research/timesfm",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "html_url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 30304,
+      "forks": 2903,
+      "stars_today": 343,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "google-research",
+        "avatar": "https://github.com/google-research.png",
+        "url": "https://github.com/google-research"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 122367,
+      "forks": 6614,
+      "stars_today": 1354,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 15351,
+      "forks": 2152,
+      "stars_today": 832,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "sngyai/Sequoia-X",
+      "name": "Sequoia-X",
+      "full_name": "sngyai/Sequoia-X",
+      "html_url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "stars": 6344,
+      "forks": 1297,
+      "stars_today": 63,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "sngyai",
+        "avatar": "https://github.com/sngyai.png",
+        "url": "https://github.com/sngyai"
+      }
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 50762,
+      "forks": 3560,
+      "stars_today": 148,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "ChromeDevTools",
+        "avatar": "https://github.com/ChromeDevTools.png",
+        "url": "https://github.com/ChromeDevTools"
+      }
+    },
+    {
+      "id": "NousResearch/hermes-agent",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 240356,
+      "forks": 49206,
+      "stars_today": 533,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "NousResearch",
+        "avatar": "https://github.com/NousResearch.png",
+        "url": "https://github.com/NousResearch"
+      }
+    },
+    {
+      "id": "superlinked/sie",
+      "name": "sie",
+      "full_name": "superlinked/sie",
+      "html_url": "https://github.com/superlinked/sie",
+      "description": "Open-source inference server and production cluster for all the models your agent needs.",
+      "stars": 3147,
+      "forks": 301,
+      "stars_today": 60,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "superlinked",
+        "avatar": "https://github.com/superlinked.png",
+        "url": "https://github.com/superlinked"
+      }
+    },
+    {
+      "id": "pacifio/atlas",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "html_url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 3047,
+      "forks": 196,
+      "stars_today": 888,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "pacifio",
+        "avatar": "https://github.com/pacifio.png",
+        "url": "https://github.com/pacifio"
+      }
+    },
+    {
+      "id": "zyronon/TypeWords",
+      "name": "TypeWords",
+      "full_name": "zyronon/TypeWords",
+      "html_url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "stars": 9489,
+      "forks": 1145,
+      "stars_today": 21,
+      "window": "today",
+      "language": "Vue",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "zyronon",
+        "avatar": "https://github.com/zyronon.png",
+        "url": "https://github.com/zyronon"
+      }
+    },
+    {
+      "id": "Imbad0202/academic-research-skills",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "html_url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 45741,
+      "forks": 3591,
+      "stars_today": 799,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "Imbad0202",
+        "avatar": "https://github.com/Imbad0202.png",
+        "url": "https://github.com/Imbad0202"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 246584,
+      "forks": 37173,
+      "stars_today": 516,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "protocolbuffers/protobuf",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "html_url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "stars": 71975,
+      "forks": 16271,
+      "stars_today": 18,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "protocolbuffers",
+        "avatar": "https://github.com/protocolbuffers.png",
+        "url": "https://github.com/protocolbuffers"
+      }
+    },
+    {
+      "id": "vercel-labs/portless",
+      "name": "portless",
+      "full_name": "vercel-labs/portless",
+      "html_url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "stars": 11937,
+      "forks": 388,
+      "stars_today": 73,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "blader/humanizer",
+      "name": "humanizer",
+      "full_name": "blader/humanizer",
+      "html_url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 40803,
+      "forks": 3517,
+      "stars_today": 374,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "blader",
+        "avatar": "https://github.com/blader.png",
+        "url": "https://github.com/blader"
+      }
+    },
+    {
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 102799,
+      "forks": 5975,
+      "stars_today": 238,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 245705,
+      "forks": 20878,
+      "stars_today": 1166,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "Gitlawb/openclaude",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 32118,
+      "forks": 9010,
+      "stars_today": 775,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "Gitlawb",
+        "avatar": "https://github.com/Gitlawb.png",
+        "url": "https://github.com/Gitlawb"
+      }
+    },
+    {
+      "id": "firecrawl/pdf-inspector",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "html_url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": 18662,
+      "forks": 1249,
+      "stars_today": 586,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-03T00:00:00Z",
+      "first_seen": "2026-09-03T08:00:04.548Z",
+      "last_seen": "2026-09-03T08:00:04.548Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "https://github.com/firecrawl.png",
+        "url": "https://github.com/firecrawl"
+      }
+    }
+  ]
+}
