@@ -1,0 +1,293 @@
+{
+  "date": "2026-09-07",
+  "since": "daily",
+  "fetched_at": "2026-09-07T15:20:02.225Z",
+  "first_fetched_at": "2026-09-07T15:20:02.225Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-07T15:20:02.225Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 45111,
+      "forks": 4282,
+      "stars_today": 734,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "heygen-com",
+        "avatar": "https://github.com/heygen-com.png",
+        "url": "https://github.com/heygen-com"
+      }
+    },
+    {
+      "id": "microsoft/markitdown",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "html_url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": 179607,
+      "forks": 13229,
+      "stars_today": 771,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 20625,
+      "forks": 1514,
+      "stars_today": 147,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "jo-inc/camofox-browser",
+      "name": "camofox-browser",
+      "full_name": "jo-inc/camofox-browser",
+      "html_url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 9424,
+      "forks": 1004,
+      "stars_today": 117,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "jo-inc",
+        "avatar": "https://github.com/jo-inc.png",
+        "url": "https://github.com/jo-inc"
+      }
+    },
+    {
+      "id": "MoonTechLab/LunaTV",
+      "name": "LunaTV",
+      "full_name": "MoonTechLab/LunaTV",
+      "html_url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "stars": 9628,
+      "forks": 8980,
+      "stars_today": 171,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "MoonTechLab",
+        "avatar": "https://github.com/MoonTechLab.png",
+        "url": "https://github.com/MoonTechLab"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 252449,
+      "forks": 37881,
+      "stars_today": 1905,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "coreyhaines31/marketingskills",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "html_url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 47917,
+      "forks": 7417,
+      "stars_today": 602,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "coreyhaines31",
+        "avatar": "https://github.com/coreyhaines31.png",
+        "url": "https://github.com/coreyhaines31"
+      }
+    },
+    {
+      "id": "The-Swarm-Corporation/AutoHedge",
+      "name": "AutoHedge",
+      "full_name": "The-Swarm-Corporation/AutoHedge",
+      "html_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": 5071,
+      "forks": 793,
+      "stars_today": 541,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "The-Swarm-Corporation",
+        "avatar": "https://github.com/The-Swarm-Corporation.png",
+        "url": "https://github.com/The-Swarm-Corporation"
+      }
+    },
+    {
+      "id": "BraveOPotato/FckSignups",
+      "name": "FckSignups",
+      "full_name": "BraveOPotato/FckSignups",
+      "html_url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": 3652,
+      "forks": 217,
+      "stars_today": 497,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "BraveOPotato",
+        "avatar": "https://github.com/BraveOPotato.png",
+        "url": "https://github.com/BraveOPotato"
+      }
+    },
+    {
+      "id": "bytedance/deer-flow",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 81724,
+      "forks": 11285,
+      "stars_today": 188,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "bytedance",
+        "avatar": "https://github.com/bytedance.png",
+        "url": "https://github.com/bytedance"
+      }
+    },
+    {
+      "id": "openai/skills",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "html_url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": 25871,
+      "forks": 1741,
+      "stars_today": 372,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "lightpanda-io/browser",
+      "name": "browser",
+      "full_name": "lightpanda-io/browser",
+      "html_url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 34698,
+      "forks": 1643,
+      "stars_today": 116,
+      "window": "today",
+      "language": "Zig",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "lightpanda-io",
+        "avatar": "https://github.com/lightpanda-io.png",
+        "url": "https://github.com/lightpanda-io"
+      }
+    },
+    {
+      "id": "pascalorg/editor",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "html_url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": 22146,
+      "forks": 2850,
+      "stars_today": 136,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "pascalorg",
+        "avatar": "https://github.com/pascalorg.png",
+        "url": "https://github.com/pascalorg"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759"
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 71251,
+      "forks": 8451,
+      "stars_today": 392,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-07T00:00:00Z",
+      "first_seen": "2026-09-07T15:20:02.225Z",
+      "last_seen": "2026-09-07T15:20:02.225Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    }
+  ]
+}
