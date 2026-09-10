@@ -1,11 +1,11 @@
 {
   "date": "2026-09-10",
   "since": "daily",
-  "fetched_at": "2026-09-10T09:20:04.405Z",
+  "fetched_at": "2026-09-10T16:00:02.912Z",
   "first_fetched_at": "2026-09-10T09:20:04.405Z",
-  "snapshots": 1,
-  "updated_at": "2026-09-10T09:20:04.405Z",
-  "total_count": 13,
+  "snapshots": 2,
+  "updated_at": "2026-09-10T16:00:02.912Z",
+  "total_count": 22,
   "items": [
     {
       "id": "ayghri/i-have-adhd",
@@ -13,14 +13,14 @@
       "full_name": "ayghri/i-have-adhd",
       "html_url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 36096,
-      "forks": 2097,
-      "stars_today": 4650,
+      "stars": 37273,
+      "forks": 2162,
+      "stars_today": 3854,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "ayghri",
         "avatar": "https://github.com/ayghri.png",
@@ -28,23 +28,23 @@
       }
     },
     {
-      "id": "Tencent/teamai-cli",
-      "name": "teamai-cli",
-      "full_name": "Tencent/teamai-cli",
-      "html_url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "stars": 3392,
-      "forks": 214,
-      "stars_today": 556,
+      "id": "bilawalsidhu/gods-eye-view",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 22989,
+      "forks": 4826,
+      "stars_today": 1588,
       "window": "today",
-      "language": "TypeScript",
+      "language": "JavaScript",
       "created_at": "2026-09-10T00:00:00Z",
-      "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
-        "login": "Tencent",
-        "avatar": "https://github.com/Tencent.png",
-        "url": "https://github.com/Tencent"
+        "login": "bilawalsidhu",
+        "avatar": "https://github.com/bilawalsidhu.png",
+        "url": "https://github.com/bilawalsidhu"
       }
     },
     {
@@ -53,18 +53,278 @@
       "full_name": "obra/superpowers",
       "html_url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 284311,
-      "forks": 25429,
-      "stars_today": 688,
+      "stars": 284511,
+      "forks": 25445,
+      "stars_today": 731,
       "window": "today",
       "language": "Shell",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "obra",
         "avatar": "https://github.com/obra.png",
         "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "alsk1992/CloddsBot",
+      "name": "CloddsBot",
+      "full_name": "alsk1992/CloddsBot",
+      "html_url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "stars": 1433,
+      "forks": 245,
+      "stars_today": 299,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "alsk1992",
+        "avatar": "https://github.com/alsk1992.png",
+        "url": "https://github.com/alsk1992"
+      }
+    },
+    {
+      "id": "Tencent/teamai-cli",
+      "name": "teamai-cli",
+      "full_name": "Tencent/teamai-cli",
+      "html_url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "stars": 3622,
+      "forks": 231,
+      "stars_today": 837,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
+      }
+    },
+    {
+      "id": "AlexsJones/llmfit",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "html_url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": 35588,
+      "forks": 2259,
+      "stars_today": 247,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "AlexsJones",
+        "avatar": "https://github.com/AlexsJones.png",
+        "url": "https://github.com/AlexsJones"
+      }
+    },
+    {
+      "id": "liquidslr/system-design-notes",
+      "name": "system-design-notes",
+      "full_name": "liquidslr/system-design-notes",
+      "html_url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": 18545,
+      "forks": 3462,
+      "stars_today": 891,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "liquidslr",
+        "avatar": "https://github.com/liquidslr.png",
+        "url": "https://github.com/liquidslr"
+      }
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 37453,
+      "forks": 2377,
+      "stars_today": 1287,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "freestylefly/awesome-gpt-image-2",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": 30726,
+      "forks": 2977,
+      "stars_today": 957,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "freestylefly",
+        "avatar": "https://github.com/freestylefly.png",
+        "url": "https://github.com/freestylefly"
+      }
+    },
+    {
+      "id": "armory3d/armorpaint",
+      "name": "armorpaint",
+      "full_name": "armory3d/armorpaint",
+      "html_url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "stars": 4299,
+      "forks": 512,
+      "stars_today": 87,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "armory3d",
+        "avatar": "https://github.com/armory3d.png",
+        "url": "https://github.com/armory3d"
+      }
+    },
+    {
+      "id": "diegosouzapw/OmniRoute",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "html_url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "stars": 63972,
+      "forks": 8961,
+      "stars_today": 591,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "diegosouzapw",
+        "avatar": "https://github.com/diegosouzapw.png",
+        "url": "https://github.com/diegosouzapw"
+      }
+    },
+    {
+      "id": "JustVugg/colibri",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "html_url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 27341,
+      "forks": 2999,
+      "stars_today": 157,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "JustVugg",
+        "avatar": "https://github.com/JustVugg.png",
+        "url": "https://github.com/JustVugg"
+      }
+    },
+    {
+      "id": "THU-MAIC/OpenMAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 35089,
+      "forks": 5613,
+      "stars_today": 806,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "THU-MAIC",
+        "avatar": "https://github.com/THU-MAIC.png",
+        "url": "https://github.com/THU-MAIC"
+      }
+    },
+    {
+      "id": "nashsu/llm_wiki",
+      "name": "llm_wiki",
+      "full_name": "nashsu/llm_wiki",
+      "html_url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "stars": 17913,
+      "forks": 2094,
+      "stars_today": 94,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "nashsu",
+        "avatar": "https://github.com/nashsu.png",
+        "url": "https://github.com/nashsu"
+      }
+    },
+    {
+      "id": "vercel-labs/skills",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "html_url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 30987,
+      "forks": 2651,
+      "stars_today": 175,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T16:00:02.912Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "vastsa/PI-Desktop",
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "html_url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 2153,
+      "forks": 184,
+      "stars_today": 636,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-10T00:00:00Z",
+      "first_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
+      "owner": {
+        "login": "vastsa",
+        "avatar": "https://github.com/vastsa.png",
+        "url": "https://github.com/vastsa"
       }
     },
     {
@@ -80,7 +340,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "pascalorg",
         "avatar": "https://github.com/pascalorg.png",
@@ -101,31 +361,11 @@
       "language": "Python",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "earthtojake",
         "avatar": "https://github.com/earthtojake.png",
         "url": "https://github.com/earthtojake"
-      }
-    },
-    {
-      "id": "cathrynlavery/diagram-design",
-      "name": "diagram-design",
-      "full_name": "cathrynlavery/diagram-design",
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 37108,
-      "forks": 2356,
-      "stars_today": 2249,
-      "window": "today",
-      "language": "HTML",
-      "created_at": "2026-09-10T00:00:00Z",
-      "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
-      "owner": {
-        "login": "cathrynlavery",
-        "avatar": "https://github.com/cathrynlavery.png",
-        "url": "https://github.com/cathrynlavery"
       }
     },
     {
@@ -141,33 +381,13 @@
       "language": "Python",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "TauricResearch",
         "avatar": "https://github.com/TauricResearch.png",
         "url": "https://github.com/TauricResearch"
       },
       "banner_url": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1"
-    },
-    {
-      "id": "liquidslr/system-design-notes",
-      "name": "system-design-notes",
-      "full_name": "liquidslr/system-design-notes",
-      "html_url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "stars": 18344,
-      "forks": 3444,
-      "stars_today": 1397,
-      "window": "today",
-      "language": null,
-      "created_at": "2026-09-10T00:00:00Z",
-      "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
-      "owner": {
-        "login": "liquidslr",
-        "avatar": "https://github.com/liquidslr.png",
-        "url": "https://github.com/liquidslr"
-      }
     },
     {
       "id": "openai/plugins",
@@ -182,31 +402,11 @@
       "language": "JavaScript",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "openai",
         "avatar": "https://github.com/openai.png",
         "url": "https://github.com/openai"
-      }
-    },
-    {
-      "id": "freestylefly/awesome-gpt-image-2",
-      "name": "awesome-gpt-image-2",
-      "full_name": "freestylefly/awesome-gpt-image-2",
-      "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "stars": 30495,
-      "forks": 2950,
-      "stars_today": 705,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-09-10T00:00:00Z",
-      "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
-      "owner": {
-        "login": "freestylefly",
-        "avatar": "https://github.com/freestylefly.png",
-        "url": "https://github.com/freestylefly"
       }
     },
     {
@@ -222,33 +422,13 @@
       "language": "Python",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "rohitg00",
         "avatar": "https://github.com/rohitg00.png",
         "url": "https://github.com/rohitg00"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c"
-    },
-    {
-      "id": "vastsa/PI-Desktop",
-      "name": "PI-Desktop",
-      "full_name": "vastsa/PI-Desktop",
-      "html_url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 1973,
-      "forks": 172,
-      "stars_today": 417,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-10T00:00:00Z",
-      "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
-      "owner": {
-        "login": "vastsa",
-        "avatar": "https://github.com/vastsa.png",
-        "url": "https://github.com/vastsa"
-      }
     },
     {
       "id": "affaan-m/ECC",
@@ -263,7 +443,7 @@
       "language": "JavaScript",
       "created_at": "2026-09-10T00:00:00Z",
       "first_seen": "2026-09-10T09:20:04.405Z",
-      "last_seen": "2026-09-10T09:20:04.405Z",
+      "last_seen": "2026-09-10T16:00:02.912Z",
       "owner": {
         "login": "affaan-m",
         "avatar": "https://github.com/affaan-m.png",
