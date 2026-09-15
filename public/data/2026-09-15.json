@@ -1,26 +1,47 @@
 {
   "date": "2026-09-15",
   "since": "daily",
-  "fetched_at": "2026-09-15T08:57:32.210Z",
+  "fetched_at": "2026-09-15T16:00:07.847Z",
   "first_fetched_at": "2026-09-15T08:57:32.210Z",
-  "snapshots": 1,
-  "updated_at": "2026-09-15T08:57:32.210Z",
-  "total_count": 20,
+  "snapshots": 2,
+  "updated_at": "2026-09-15T16:00:07.847Z",
+  "total_count": 30,
   "items": [
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 27726,
+      "forks": 1999,
+      "stars_today": 2751,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
     {
       "id": "JustVugg/colibri",
       "name": "colibri",
       "full_name": "JustVugg/colibri",
       "html_url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": 32780,
-      "forks": 3444,
-      "stars_today": 2173,
+      "stars": 33312,
+      "forks": 3491,
+      "stars_today": 2035,
       "window": "today",
       "language": "C",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "JustVugg",
         "avatar": "https://github.com/JustVugg.png",
@@ -28,25 +49,248 @@
       }
     },
     {
-      "id": "alibaba/open-code-review",
-      "name": "open-code-review",
-      "full_name": "alibaba/open-code-review",
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 26742,
-      "forks": 1920,
-      "stars_today": 1571,
+      "id": "ever-co/ever-gauzy",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 6402,
+      "forks": 1011,
+      "stars_today": 632,
       "window": "today",
-      "language": "Go",
+      "language": "TypeScript",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
-        "login": "alibaba",
-        "avatar": "https://github.com/alibaba.png",
-        "url": "https://github.com/alibaba"
+        "login": "ever-co",
+        "avatar": "https://github.com/ever-co.png",
+        "url": "https://github.com/ever-co"
       },
-      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 30493,
+      "forks": 3665,
+      "stars_today": 2081,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "Homebrew/BrewUI",
+      "name": "BrewUI",
+      "full_name": "Homebrew/BrewUI",
+      "html_url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "stars": 1164,
+      "forks": 23,
+      "stars_today": 388,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "Homebrew",
+        "avatar": "https://github.com/Homebrew.png",
+        "url": "https://github.com/Homebrew"
+      }
+    },
+    {
+      "id": "melgarafael/DeskcommCRM",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "html_url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": 2673,
+      "forks": 663,
+      "stars_today": 205,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "melgarafael",
+        "avatar": "https://github.com/melgarafael.png",
+        "url": "https://github.com/melgarafael"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325"
+    },
+    {
+      "id": "alphaXiv/OpenResearch",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 3072,
+      "forks": 211,
+      "stars_today": 593,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "alphaXiv",
+        "avatar": "https://github.com/alphaXiv.png",
+        "url": "https://github.com/alphaXiv"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 76459,
+      "forks": 8433,
+      "stars_today": 755,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "danny-avila/LibreChat",
+      "name": "LibreChat",
+      "full_name": "danny-avila/LibreChat",
+      "html_url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "stars": 43688,
+      "forks": 9014,
+      "stars_today": 261,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "danny-avila",
+        "avatar": "https://github.com/danny-avila.png",
+        "url": "https://github.com/danny-avila"
+      }
+    },
+    {
+      "id": "pacifio/atlas",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "html_url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 4513,
+      "forks": 276,
+      "stars_today": 102,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "pacifio",
+        "avatar": "https://github.com/pacifio.png",
+        "url": "https://github.com/pacifio"
+      }
+    },
+    {
+      "id": "MG1937/ASC",
+      "name": "ASC",
+      "full_name": "MG1937/ASC",
+      "html_url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "stars": 1064,
+      "forks": 186,
+      "stars_today": 122,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "MG1937",
+        "avatar": "https://github.com/MG1937.png",
+        "url": "https://github.com/MG1937"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 94594,
+      "forks": 10049,
+      "stars_today": 354,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "tonhowtf/omniget",
+      "name": "omniget",
+      "full_name": "tonhowtf/omniget",
+      "html_url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "stars": 12607,
+      "forks": 1086,
+      "stars_today": 318,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "tonhowtf",
+        "avatar": "https://github.com/tonhowtf.png",
+        "url": "https://github.com/tonhowtf"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1155787322/0502eadc-9518-4486-a96d-3b344eba7276"
+    },
+    {
+      "id": "earendil-works/pi",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "html_url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 105535,
+      "forks": 13269,
+      "stars_today": 437,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-15T00:00:00Z",
+      "first_seen": "2026-09-15T16:00:07.847Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
+      "owner": {
+        "login": "earendil-works",
+        "avatar": "https://github.com/earendil-works.png",
+        "url": "https://github.com/earendil-works"
+      }
     },
     {
       "id": "multimodal-art-projection/YuE",
@@ -61,33 +305,12 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "multimodal-art-projection",
         "avatar": "https://github.com/multimodal-art-projection.png",
         "url": "https://github.com/multimodal-art-projection"
       }
-    },
-    {
-      "id": "debpalash/VoiceStudio",
-      "name": "VoiceStudio",
-      "full_name": "debpalash/VoiceStudio",
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 29974,
-      "forks": 3617,
-      "stars_today": 2776,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-09-15T00:00:00Z",
-      "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
-      "owner": {
-        "login": "debpalash",
-        "avatar": "https://github.com/debpalash.png",
-        "url": "https://github.com/debpalash"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
     },
     {
       "id": "666ghj/MiroFish",
@@ -102,7 +325,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "666ghj",
         "avatar": "https://github.com/666ghj.png",
@@ -123,7 +346,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "Panniantong",
         "avatar": "https://github.com/Panniantong.png",
@@ -143,7 +366,7 @@
       "language": "JavaScript",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "asgeirtj",
         "avatar": "https://github.com/asgeirtj.png",
@@ -164,7 +387,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "rlaope",
         "avatar": "https://github.com/rlaope.png",
@@ -184,7 +407,7 @@
       "language": "Dart",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "localsend",
         "avatar": "https://github.com/localsend.png",
@@ -205,7 +428,7 @@
       "language": "Rust",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "dani-garcia",
         "avatar": "https://github.com/dani-garcia.png",
@@ -225,7 +448,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "TauricResearch",
         "avatar": "https://github.com/TauricResearch.png",
@@ -246,7 +469,7 @@
       "language": "Rust",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "ruvnet",
         "avatar": "https://github.com/ruvnet.png",
@@ -267,7 +490,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "tech-leads-club",
         "avatar": "https://github.com/tech-leads-club.png",
@@ -287,7 +510,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "OpenBMB",
         "avatar": "https://github.com/OpenBMB.png",
@@ -307,34 +530,13 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "huggingface",
         "avatar": "https://github.com/huggingface.png",
         "url": "https://github.com/huggingface"
       },
       "banner_url": "https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e"
-    },
-    {
-      "id": "ever-co/ever-gauzy",
-      "name": "ever-gauzy",
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 6196,
-      "forks": 999,
-      "stars_today": 1130,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-15T00:00:00Z",
-      "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
-      "owner": {
-        "login": "ever-co",
-        "avatar": "https://github.com/ever-co.png",
-        "url": "https://github.com/ever-co"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
     },
     {
       "id": "Crosstalk-Solutions/project-nomad",
@@ -349,7 +551,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "Crosstalk-Solutions",
         "avatar": "https://github.com/Crosstalk-Solutions.png",
@@ -369,7 +571,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "reconurge",
         "avatar": "https://github.com/reconurge.png",
@@ -389,7 +591,7 @@
       "language": "Swift",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "peetzweg",
         "avatar": "https://github.com/peetzweg.png",
@@ -409,7 +611,7 @@
       "language": "Python",
       "created_at": "2026-09-15T00:00:00Z",
       "first_seen": "2026-09-15T08:57:32.210Z",
-      "last_seen": "2026-09-15T08:57:32.210Z",
+      "last_seen": "2026-09-15T16:00:07.847Z",
       "owner": {
         "login": "SnailSploit",
         "avatar": "https://github.com/SnailSploit.png",
