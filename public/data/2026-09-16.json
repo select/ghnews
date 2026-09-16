@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-16",
+  "since": "daily",
+  "fetched_at": "2026-09-16T09:54:59.594Z",
+  "first_fetched_at": "2026-09-16T09:54:59.594Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-16T09:54:59.594Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 30004,
+      "forks": 2138,
+      "stars_today": 2756,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
+    {
+      "id": "JustVugg/colibri",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "html_url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 34454,
+      "forks": 3606,
+      "stars_today": 2026,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "JustVugg",
+        "avatar": "https://github.com/JustVugg.png",
+        "url": "https://github.com/JustVugg"
+      }
+    },
+    {
+      "id": "ever-co/ever-gauzy",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 7002,
+      "forks": 1066,
+      "stars_today": 634,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "ever-co",
+        "avatar": "https://github.com/ever-co.png",
+        "url": "https://github.com/ever-co"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 31607,
+      "forks": 3745,
+      "stars_today": 2072,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "Homebrew/BrewUI",
+      "name": "BrewUI",
+      "full_name": "Homebrew/BrewUI",
+      "html_url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "stars": 1677,
+      "forks": 41,
+      "stars_today": 271,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "Homebrew",
+        "avatar": "https://github.com/Homebrew.png",
+        "url": "https://github.com/Homebrew"
+      }
+    },
+    {
+      "id": "melgarafael/DeskcommCRM",
+      "name": "DeskcommCRM",
+      "full_name": "melgarafael/DeskcommCRM",
+      "html_url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": 3008,
+      "forks": 698,
+      "stars_today": 193,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "melgarafael",
+        "avatar": "https://github.com/melgarafael.png",
+        "url": "https://github.com/melgarafael"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325"
+    },
+    {
+      "id": "alphaXiv/OpenResearch",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 3771,
+      "forks": 241,
+      "stars_today": 531,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "alphaXiv",
+        "avatar": "https://github.com/alphaXiv.png",
+        "url": "https://github.com/alphaXiv"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 77196,
+      "forks": 8523,
+      "stars_today": 725,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "danny-avila/LibreChat",
+      "name": "LibreChat",
+      "full_name": "danny-avila/LibreChat",
+      "html_url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "stars": 44036,
+      "forks": 9042,
+      "stars_today": 254,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "danny-avila",
+        "avatar": "https://github.com/danny-avila.png",
+        "url": "https://github.com/danny-avila"
+      }
+    },
+    {
+      "id": "pacifio/atlas",
+      "name": "atlas",
+      "full_name": "pacifio/atlas",
+      "html_url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 4770,
+      "forks": 286,
+      "stars_today": 91,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "pacifio",
+        "avatar": "https://github.com/pacifio.png",
+        "url": "https://github.com/pacifio"
+      }
+    },
+    {
+      "id": "MG1937/ASC",
+      "name": "ASC",
+      "full_name": "MG1937/ASC",
+      "html_url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "stars": 1347,
+      "forks": 208,
+      "stars_today": 129,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "MG1937",
+        "avatar": "https://github.com/MG1937.png",
+        "url": "https://github.com/MG1937"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95080,
+      "forks": 10084,
+      "stars_today": 307,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "tonhowtf/omniget",
+      "name": "omniget",
+      "full_name": "tonhowtf/omniget",
+      "html_url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "stars": 13345,
+      "forks": 1125,
+      "stars_today": 258,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "tonhowtf",
+        "avatar": "https://github.com/tonhowtf.png",
+        "url": "https://github.com/tonhowtf"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1155787322/0502eadc-9518-4486-a96d-3b344eba7276"
+    },
+    {
+      "id": "earendil-works/pi",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "html_url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 106091,
+      "forks": 13340,
+      "stars_today": 458,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-16T00:00:00Z",
+      "first_seen": "2026-09-16T09:54:59.594Z",
+      "last_seen": "2026-09-16T09:54:59.594Z",
+      "owner": {
+        "login": "earendil-works",
+        "avatar": "https://github.com/earendil-works.png",
+        "url": "https://github.com/earendil-works"
+      }
+    }
+  ]
+}
