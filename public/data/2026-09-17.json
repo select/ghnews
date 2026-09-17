@@ -1,11 +1,11 @@
 {
   "date": "2026-09-17",
   "since": "daily",
-  "fetched_at": "2026-09-17T08:35:09.224Z",
-  "first_fetched_at": "2026-09-17T08:00:03.156Z",
-  "snapshots": 2,
-  "updated_at": "2026-09-17T08:35:09.224Z",
-  "total_count": 21,
+  "fetched_at": "2026-09-17T16:00:07.929Z",
+  "first_fetched_at": "2026-09-17T08:35:09.224Z",
+  "snapshots": 3,
+  "updated_at": "2026-09-17T16:00:07.929Z",
+  "total_count": 26,
   "items": [
     {
       "id": "alibaba/open-code-review",
@@ -13,14 +13,14 @@
       "full_name": "alibaba/open-code-review",
       "html_url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 33094,
-      "forks": 2353,
-      "stars_today": 3231,
+      "stars": 34104,
+      "forks": 2424,
+      "stars_today": 3290,
       "window": "today",
       "language": "Go",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "alibaba",
         "avatar": "https://github.com/alibaba.png",
@@ -34,14 +34,14 @@
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 8388,
-      "forks": 463,
-      "stars_today": 927,
+      "stars": 9846,
+      "forks": 522,
+      "stars_today": 3606,
       "window": "today",
       "language": "JavaScript",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "cloudflare",
         "avatar": "https://github.com/cloudflare.png",
@@ -49,23 +49,143 @@
       }
     },
     {
-      "id": "JustVugg/colibri",
-      "name": "colibri",
-      "full_name": "JustVugg/colibri",
-      "html_url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": 35301,
-      "forks": 3711,
-      "stars_today": 1546,
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95940,
+      "forks": 10137,
+      "stars_today": 680,
       "window": "today",
-      "language": "C",
+      "language": "JavaScript",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
-        "login": "JustVugg",
-        "avatar": "https://github.com/JustVugg.png",
-        "url": "https://github.com/JustVugg"
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "Tencent/BrowserSkill",
+      "name": "BrowserSkill",
+      "full_name": "Tencent/BrowserSkill",
+      "html_url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 3869,
+      "forks": 276,
+      "stars_today": 1350,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T16:00:07.929Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
+      }
+    },
+    {
+      "id": "alphaXiv/OpenResearch",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 4966,
+      "forks": 295,
+      "stars_today": 940,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "alphaXiv",
+        "avatar": "https://github.com/alphaXiv.png",
+        "url": "https://github.com/alphaXiv"
+      }
+    },
+    {
+      "id": "anthropics/claude-code",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145850,
+      "forks": 23538,
+      "stars_today": 538,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 78308,
+      "forks": 8671,
+      "stars_today": 912,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "anthropics/knowledge-work-plugins",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 24469,
+      "forks": 2934,
+      "stars_today": 287,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "Tencent/WeKnora",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 26130,
+      "forks": 3543,
+      "stars_today": 1123,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
       }
     },
     {
@@ -74,18 +194,38 @@
       "full_name": "abue-ammar/tinycast",
       "html_url": "https://github.com/abue-ammar/tinycast",
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "stars": 5840,
-      "forks": 273,
-      "stars_today": 1179,
+      "stars": 6004,
+      "forks": 278,
+      "stars_today": 738,
       "window": "today",
       "language": "Swift",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "abue-ammar",
         "avatar": "https://github.com/abue-ammar.png",
         "url": "https://github.com/abue-ammar"
+      }
+    },
+    {
+      "id": "cilium/cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "html_url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "stars": 25310,
+      "forks": 4068,
+      "stars_today": 20,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T16:00:07.929Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "cilium",
+        "avatar": "https://github.com/cilium.png",
+        "url": "https://github.com/cilium"
       }
     },
     {
@@ -94,19 +234,182 @@
       "full_name": "jamiepine/voicebox",
       "html_url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 54629,
-      "forks": 6800,
-      "stars_today": 417,
+      "stars": 54814,
+      "forks": 6808,
+      "stars_today": 665,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "jamiepine",
         "avatar": "https://github.com/jamiepine.png",
         "url": "https://github.com/jamiepine"
       }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 261015,
+      "forks": 39057,
+      "stars_today": 1173,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "roboflow/supervision",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "html_url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": 50781,
+      "forks": 4825,
+      "stars_today": 327,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "roboflow",
+        "avatar": "https://github.com/roboflow.png",
+        "url": "https://github.com/roboflow"
+      }
+    },
+    {
+      "id": "JustVugg/colibri",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "html_url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 35540,
+      "forks": 3734,
+      "stars_today": 872,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "JustVugg",
+        "avatar": "https://github.com/JustVugg.png",
+        "url": "https://github.com/JustVugg"
+      }
+    },
+    {
+      "id": "TencentCloud/Octop",
+      "name": "Octop",
+      "full_name": "TencentCloud/Octop",
+      "html_url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 3302,
+      "forks": 346,
+      "stars_today": 386,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T16:00:07.929Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "TencentCloud",
+        "avatar": "https://github.com/TencentCloud.png",
+        "url": "https://github.com/TencentCloud"
+      }
+    },
+    {
+      "id": "ever-co/ever-gauzy",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 7600,
+      "forks": 1111,
+      "stars_today": 469,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "ever-co",
+        "avatar": "https://github.com/ever-co.png",
+        "url": "https://github.com/ever-co"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
+    },
+    {
+      "id": "cline/cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": 68618,
+      "forks": 7408,
+      "stars_today": 381,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "cline",
+        "avatar": "https://github.com/cline.png",
+        "url": "https://github.com/cline"
+      }
+    },
+    {
+      "id": "coder/coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "html_url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 14796,
+      "forks": 1482,
+      "stars_today": 204,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T16:00:07.929Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "coder",
+        "avatar": "https://github.com/coder.png",
+        "url": "https://github.com/coder"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1"
+    },
+    {
+      "id": "n8n-io/n8n",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "html_url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 204916,
+      "forks": 60733,
+      "stars_today": 319,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T16:00:07.929Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
+      "owner": {
+        "login": "n8n-io",
+        "avatar": "https://github.com/n8n-io.png",
+        "url": "https://github.com/n8n-io"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/193215554/df34b36d-279c-496c-91c2-959dd9c9f13d"
     },
     {
       "id": "Lakr233/vphone-cli",
@@ -121,53 +424,12 @@
       "language": "Swift",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "Lakr233",
         "avatar": "https://github.com/Lakr233.png",
         "url": "https://github.com/Lakr233"
       }
-    },
-    {
-      "id": "anthropics/knowledge-work-plugins",
-      "name": "knowledge-work-plugins",
-      "full_name": "anthropics/knowledge-work-plugins",
-      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 24389,
-      "forks": 2928,
-      "stars_today": 110,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "anthropics",
-        "avatar": "https://github.com/anthropics.png",
-        "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "ever-co/ever-gauzy",
-      "name": "ever-gauzy",
-      "full_name": "ever-co/ever-gauzy",
-      "html_url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": 7476,
-      "forks": 1101,
-      "stars_today": 778,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "ever-co",
-        "avatar": "https://github.com/ever-co.png",
-        "url": "https://github.com/ever-co"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
     },
     {
       "id": "ankitects/anki",
@@ -182,91 +444,11 @@
       "language": "Rust",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "ankitects",
         "avatar": "https://github.com/ankitects.png",
         "url": "https://github.com/ankitects"
-      }
-    },
-    {
-      "id": "NationalSecurityAgency/ghidra",
-      "name": "ghidra",
-      "full_name": "NationalSecurityAgency/ghidra",
-      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": 78094,
-      "forks": 8641,
-      "stars_today": 1059,
-      "window": "today",
-      "language": "Java",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "NationalSecurityAgency",
-        "avatar": "https://github.com/NationalSecurityAgency.png",
-        "url": "https://github.com/NationalSecurityAgency"
-      }
-    },
-    {
-      "id": "anthropics/claude-code",
-      "name": "claude-code",
-      "full_name": "anthropics/claude-code",
-      "html_url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": 145702,
-      "forks": 23510,
-      "stars_today": 165,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "anthropics",
-        "avatar": "https://github.com/anthropics.png",
-        "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "roboflow/supervision",
-      "name": "supervision",
-      "full_name": "roboflow/supervision",
-      "html_url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "stars": 50704,
-      "forks": 4817,
-      "stars_today": 260,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "roboflow",
-        "avatar": "https://github.com/roboflow.png",
-        "url": "https://github.com/roboflow"
-      }
-    },
-    {
-      "id": "alphaXiv/OpenResearch",
-      "name": "OpenResearch",
-      "full_name": "alphaXiv/OpenResearch",
-      "html_url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "stars": 4724,
-      "forks": 285,
-      "stars_today": 1017,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "alphaXiv",
-        "avatar": "https://github.com/alphaXiv.png",
-        "url": "https://github.com/alphaXiv"
       }
     },
     {
@@ -282,7 +464,7 @@
       "language": "TypeScript",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "supabase",
         "avatar": "https://github.com/supabase.png",
@@ -303,31 +485,11 @@
       "language": "Python",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "rlaope",
         "avatar": "https://github.com/rlaope.png",
         "url": "https://github.com/rlaope"
-      }
-    },
-    {
-      "id": "Tencent/WeKnora",
-      "name": "WeKnora",
-      "full_name": "Tencent/WeKnora",
-      "html_url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 25781,
-      "forks": 3518,
-      "stars_today": 1197,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "Tencent",
-        "avatar": "https://github.com/Tencent.png",
-        "url": "https://github.com/Tencent"
       }
     },
     {
@@ -343,7 +505,7 @@
       "language": "Python",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "SnailSploit",
         "avatar": "https://github.com/SnailSploit.png",
@@ -363,71 +525,11 @@
       "language": "Python",
       "created_at": "2026-09-17T00:00:00Z",
       "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
+      "last_seen": "2026-09-17T16:00:07.929Z",
       "owner": {
         "login": "multimodal-art-projection",
         "avatar": "https://github.com/multimodal-art-projection.png",
         "url": "https://github.com/multimodal-art-projection"
-      }
-    },
-    {
-      "id": "addyosmani/agent-skills",
-      "name": "agent-skills",
-      "full_name": "addyosmani/agent-skills",
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 95683,
-      "forks": 10125,
-      "stars_today": 658,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "addyosmani",
-        "avatar": "https://github.com/addyosmani.png",
-        "url": "https://github.com/addyosmani"
-      }
-    },
-    {
-      "id": "cline/cline",
-      "name": "cline",
-      "full_name": "cline/cline",
-      "html_url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "stars": 68497,
-      "forks": 7398,
-      "stars_today": 112,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "cline",
-        "avatar": "https://github.com/cline.png",
-        "url": "https://github.com/cline"
-      }
-    },
-    {
-      "id": "affaan-m/ECC",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 260657,
-      "forks": 39014,
-      "stars_today": 1057,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-09-17T00:00:00Z",
-      "first_seen": "2026-09-17T08:00:03.156Z",
-      "last_seen": "2026-09-17T08:35:09.224Z",
-      "owner": {
-        "login": "affaan-m",
-        "avatar": "https://github.com/affaan-m.png",
-        "url": "https://github.com/affaan-m"
       }
     }
   ]
