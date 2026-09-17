@@ -1,0 +1,434 @@
+{
+  "date": "2026-09-17",
+  "since": "daily",
+  "fetched_at": "2026-09-17T08:00:03.156Z",
+  "first_fetched_at": "2026-09-17T08:00:03.156Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-17T08:00:03.156Z",
+  "total_count": 21,
+  "items": [
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 32998,
+      "forks": 2343,
+      "stars_today": 3231,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 8243,
+      "forks": 459,
+      "stars_today": 927,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "JustVugg/colibri",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "html_url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": 35274,
+      "forks": 3708,
+      "stars_today": 1546,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "JustVugg",
+        "avatar": "https://github.com/JustVugg.png",
+        "url": "https://github.com/JustVugg"
+      }
+    },
+    {
+      "id": "abue-ammar/tinycast",
+      "name": "tinycast",
+      "full_name": "abue-ammar/tinycast",
+      "html_url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "stars": 5818,
+      "forks": 274,
+      "stars_today": 1179,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "abue-ammar",
+        "avatar": "https://github.com/abue-ammar.png",
+        "url": "https://github.com/abue-ammar"
+      }
+    },
+    {
+      "id": "jamiepine/voicebox",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "html_url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 54609,
+      "forks": 6800,
+      "stars_today": 417,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "jamiepine",
+        "avatar": "https://github.com/jamiepine.png",
+        "url": "https://github.com/jamiepine"
+      }
+    },
+    {
+      "id": "Lakr233/vphone-cli",
+      "name": "vphone-cli",
+      "full_name": "Lakr233/vphone-cli",
+      "html_url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "stars": 13506,
+      "forks": 1601,
+      "stars_today": 547,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "Lakr233",
+        "avatar": "https://github.com/Lakr233.png",
+        "url": "https://github.com/Lakr233"
+      }
+    },
+    {
+      "id": "anthropics/knowledge-work-plugins",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 24381,
+      "forks": 2928,
+      "stars_today": 110,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "ever-co/ever-gauzy",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "html_url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": 7458,
+      "forks": 1100,
+      "stars_today": 778,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "ever-co",
+        "avatar": "https://github.com/ever-co.png",
+        "url": "https://github.com/ever-co"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7"
+    },
+    {
+      "id": "ankitects/anki",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "html_url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "stars": 31000,
+      "forks": 3214,
+      "stars_today": 58,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "ankitects",
+        "avatar": "https://github.com/ankitects.png",
+        "url": "https://github.com/ankitects"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 78079,
+      "forks": 8640,
+      "stars_today": 1059,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "anthropics/claude-code",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145693,
+      "forks": 23510,
+      "stars_today": 165,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "roboflow/supervision",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "html_url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": 50700,
+      "forks": 4816,
+      "stars_today": 260,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "roboflow",
+        "avatar": "https://github.com/roboflow.png",
+        "url": "https://github.com/roboflow"
+      }
+    },
+    {
+      "id": "alphaXiv/OpenResearch",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "html_url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 4691,
+      "forks": 284,
+      "stars_today": 1017,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "alphaXiv",
+        "avatar": "https://github.com/alphaXiv.png",
+        "url": "https://github.com/alphaXiv"
+      }
+    },
+    {
+      "id": "supabase/supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "html_url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 109921,
+      "forks": 14068,
+      "stars_today": 120,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "supabase",
+        "avatar": "https://github.com/supabase.png",
+        "url": "https://github.com/supabase"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/214587193/00f59f00-90a6-11eb-8764-f49e3f731458"
+    },
+    {
+      "id": "rlaope/oh-my-hermes",
+      "name": "oh-my-hermes",
+      "full_name": "rlaope/oh-my-hermes",
+      "html_url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "stars": 2641,
+      "forks": 189,
+      "stars_today": 80,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "rlaope",
+        "avatar": "https://github.com/rlaope.png",
+        "url": "https://github.com/rlaope"
+      }
+    },
+    {
+      "id": "Tencent/WeKnora",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 25754,
+      "forks": 3516,
+      "stars_today": 1197,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
+      }
+    },
+    {
+      "id": "SnailSploit/Claude-Red",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "html_url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 5921,
+      "forks": 753,
+      "stars_today": 367,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "SnailSploit",
+        "avatar": "https://github.com/SnailSploit.png",
+        "url": "https://github.com/SnailSploit"
+      }
+    },
+    {
+      "id": "multimodal-art-projection/YuE",
+      "name": "YuE",
+      "full_name": "multimodal-art-projection/YuE",
+      "html_url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 9504,
+      "forks": 1023,
+      "stars_today": 332,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "multimodal-art-projection",
+        "avatar": "https://github.com/multimodal-art-projection.png",
+        "url": "https://github.com/multimodal-art-projection"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95663,
+      "forks": 10122,
+      "stars_today": 658,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "cline/cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": 68493,
+      "forks": 7396,
+      "stars_today": 112,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "cline",
+        "avatar": "https://github.com/cline.png",
+        "url": "https://github.com/cline"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 260626,
+      "forks": 39008,
+      "stars_today": 1057,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-17T00:00:00Z",
+      "first_seen": "2026-09-17T08:00:03.156Z",
+      "last_seen": "2026-09-17T08:00:03.156Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    }
+  ]
+}
