@@ -225,13 +225,18 @@ async function loadNextChunk(retryCount = 0) {
 		chunkIndex.value++;
 		success = true;
 	} catch (err: any) {
-		if (retryCount < 2) {
+		if (err?.response?.status === 404 || err?.statusCode === 404) {
+			// Missing archive days are expected; move on without prompting or retrying.
+			chunkIndex.value++;
+			success = true;
+		} else if (retryCount < 2) {
 			// Transient network retry
 			loadingMore.value = false;
 			await new Promise((r) => setTimeout(r, 600));
 			return loadNextChunk(retryCount + 1);
+		} else {
+			chunkError.value = `Failed to load ${date || "archive"}: ${err?.message || String(err)}`;
 		}
-		chunkError.value = `Failed to load ${date || "archive"}: ${err?.message || String(err)}`;
 	} finally {
 		loadingMore.value = false;
 	}
