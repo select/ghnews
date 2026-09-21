@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-21",
+  "since": "daily",
+  "fetched_at": "2026-09-21T08:00:02.627Z",
+  "first_fetched_at": "2026-09-21T08:00:02.627Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-21T08:00:02.627Z",
+  "total_count": 13,
+  "items": [
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 264113,
+      "forks": 39492,
+      "stars_today": 826,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "BuilderIO/agent-native",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": 5460,
+      "forks": 505,
+      "stars_today": 98,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "BuilderIO",
+        "avatar": "https://github.com/BuilderIO.png",
+        "url": "https://github.com/BuilderIO"
+      }
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 18414,
+      "forks": 1028,
+      "stars_today": 2428,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "trycua/cua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 25366,
+      "forks": 1744,
+      "stars_today": 1018,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "trycua",
+        "avatar": "https://github.com/trycua.png",
+        "url": "https://github.com/trycua"
+      }
+    },
+    {
+      "id": "anthropics/financial-services",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "html_url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 35541,
+      "forks": 5259,
+      "stars_today": 260,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "paperless-ngx/paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "html_url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": 45721,
+      "forks": 3159,
+      "stars_today": 57,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "paperless-ngx",
+        "avatar": "https://github.com/paperless-ngx.png",
+        "url": "https://github.com/paperless-ngx"
+      }
+    },
+    {
+      "id": "anthropics/claude-code",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 147311,
+      "forks": 24094,
+      "stars_today": 419,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "mihail911/modern-software-dev-assignments",
+      "name": "modern-software-dev-assignments",
+      "full_name": "mihail911/modern-software-dev-assignments",
+      "html_url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "stars": 4666,
+      "forks": 1017,
+      "stars_today": 172,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "mihail911",
+        "avatar": "https://github.com/mihail911.png",
+        "url": "https://github.com/mihail911"
+      }
+    },
+    {
+      "id": "higgsfield-ai/higgsfield",
+      "name": "higgsfield",
+      "full_name": "higgsfield-ai/higgsfield",
+      "html_url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars": 5517,
+      "forks": 964,
+      "stars_today": 465,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "higgsfield-ai",
+        "avatar": "https://github.com/higgsfield-ai.png",
+        "url": "https://github.com/higgsfield-ai"
+      }
+    },
+    {
+      "id": "Open-Dev-Society/OpenStock",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "html_url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": 17104,
+      "forks": 2148,
+      "stars_today": 755,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "Open-Dev-Society",
+        "avatar": "https://github.com/Open-Dev-Society.png",
+        "url": "https://github.com/Open-Dev-Society"
+      }
+    },
+    {
+      "id": "coder/coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "html_url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 16190,
+      "forks": 1549,
+      "stars_today": 379,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "coder",
+        "avatar": "https://github.com/coder.png",
+        "url": "https://github.com/coder"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1"
+    },
+    {
+      "id": "vercel-labs/json-render",
+      "name": "json-render",
+      "full_name": "vercel-labs/json-render",
+      "html_url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "stars": 17628,
+      "forks": 928,
+      "stars_today": 291,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 97886,
+      "forks": 10304,
+      "stars_today": 736,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-21T00:00:00Z",
+      "first_seen": "2026-09-21T08:00:02.627Z",
+      "last_seen": "2026-09-21T08:00:02.627Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    }
+  ]
+}
