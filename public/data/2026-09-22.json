@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-22",
+  "since": "daily",
+  "fetched_at": "2026-09-22T08:00:02.914Z",
+  "first_fetched_at": "2026-09-22T08:00:02.914Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-22T08:00:02.914Z",
+  "total_count": 12,
+  "items": [
+    {
+      "id": "BuilderIO/agent-native",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": 6181,
+      "forks": 558,
+      "stars_today": 607,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "BuilderIO",
+        "avatar": "https://github.com/BuilderIO.png",
+        "url": "https://github.com/BuilderIO"
+      }
+    },
+    {
+      "id": "trycua/cua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 25850,
+      "forks": 1778,
+      "stars_today": 609,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "trycua",
+        "avatar": "https://github.com/trycua.png",
+        "url": "https://github.com/trycua"
+      }
+    },
+    {
+      "id": "Open-Dev-Society/OpenStock",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "html_url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": 18092,
+      "forks": 2225,
+      "stars_today": 844,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "Open-Dev-Society",
+        "avatar": "https://github.com/Open-Dev-Society.png",
+        "url": "https://github.com/Open-Dev-Society"
+      }
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 7893,
+      "forks": 530,
+      "stars_today": 167,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "coder/coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "html_url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": 16535,
+      "forks": 1572,
+      "stars_today": 460,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "coder",
+        "avatar": "https://github.com/coder.png",
+        "url": "https://github.com/coder"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1"
+    },
+    {
+      "id": "anthropics/financial-services",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "html_url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": 35969,
+      "forks": 5278,
+      "stars_today": 424,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "cloudflare/quiche",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "html_url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": 12441,
+      "forks": 1139,
+      "stars_today": 32,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5"
+    },
+    {
+      "id": "mvt-project/mvt",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "html_url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": 13729,
+      "forks": 1335,
+      "stars_today": 169,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "mvt-project",
+        "avatar": "https://github.com/mvt-project.png",
+        "url": "https://github.com/mvt-project"
+      }
+    },
+    {
+      "id": "zhouxiaoka/autoclip",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "html_url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": 8531,
+      "forks": 1589,
+      "stars_today": 250,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "zhouxiaoka",
+        "avatar": "https://github.com/zhouxiaoka.png",
+        "url": "https://github.com/zhouxiaoka"
+      }
+    },
+    {
+      "id": "ruanyf/weekly",
+      "name": "weekly",
+      "full_name": "ruanyf/weekly",
+      "html_url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "stars": 104285,
+      "forks": 4460,
+      "stars_today": 182,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "ruanyf",
+        "avatar": "https://github.com/ruanyf.png",
+        "url": "https://github.com/ruanyf"
+      }
+    },
+    {
+      "id": "Crosstalk-Solutions/project-nomad",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "html_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": 38022,
+      "forks": 3776,
+      "stars_today": 394,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "Crosstalk-Solutions",
+        "avatar": "https://github.com/Crosstalk-Solutions.png",
+        "url": "https://github.com/Crosstalk-Solutions"
+      }
+    },
+    {
+      "id": "yynxxxxx/Codex-X",
+      "name": "Codex-X",
+      "full_name": "yynxxxxx/Codex-X",
+      "html_url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": 3800,
+      "forks": 468,
+      "stars_today": 50,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-22T00:00:00Z",
+      "first_seen": "2026-09-22T08:00:02.914Z",
+      "last_seen": "2026-09-22T08:00:02.914Z",
+      "owner": {
+        "login": "yynxxxxx",
+        "avatar": "https://github.com/yynxxxxx.png",
+        "url": "https://github.com/yynxxxxx"
+      }
+    }
+  ]
+}
