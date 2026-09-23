@@ -1,11 +1,11 @@
 {
   "date": "2026-09-23",
   "since": "daily",
-  "fetched_at": "2026-09-23T08:14:53.961Z",
-  "first_fetched_at": "2026-09-23T08:00:02.095Z",
-  "snapshots": 2,
-  "updated_at": "2026-09-23T08:14:53.961Z",
-  "total_count": 8,
+  "fetched_at": "2026-09-23T16:00:03.692Z",
+  "first_fetched_at": "2026-09-23T08:14:53.961Z",
+  "snapshots": 3,
+  "updated_at": "2026-09-23T16:00:03.692Z",
+  "total_count": 17,
   "items": [
     {
       "id": "anthropics/financial-services",
@@ -13,80 +13,18 @@
       "full_name": "anthropics/financial-services",
       "html_url": "https://github.com/anthropics/financial-services",
       "description": "",
-      "stars": 36603,
-      "forks": 5346,
-      "stars_today": 438,
+      "stars": 36792,
+      "forks": 5362,
+      "stars_today": 665,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-23T00:00:00Z",
       "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
         "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "agent-substrate/substrate",
-      "name": "substrate",
-      "full_name": "agent-substrate/substrate",
-      "html_url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "stars": 3153,
-      "forks": 394,
-      "stars_today": 245,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-09-23T00:00:00Z",
-      "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
-      "owner": {
-        "login": "agent-substrate",
-        "avatar": "https://github.com/agent-substrate.png",
-        "url": "https://github.com/agent-substrate"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1238047523/09992d05-46f0-4ac2-8c40-db761076e3a5"
-    },
-    {
-      "id": "dream-num/univer",
-      "name": "univer",
-      "full_name": "dream-num/univer",
-      "html_url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 15887,
-      "forks": 1408,
-      "stars_today": 255,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-23T00:00:00Z",
-      "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
-      "owner": {
-        "login": "dream-num",
-        "avatar": "https://github.com/dream-num.png",
-        "url": "https://github.com/dream-num"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
-    },
-    {
-      "id": "davila7/claude-code-templates",
-      "name": "claude-code-templates",
-      "full_name": "davila7/claude-code-templates",
-      "html_url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 31250,
-      "forks": 3552,
-      "stars_today": 64,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-09-23T00:00:00Z",
-      "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
-      "owner": {
-        "login": "davila7",
-        "avatar": "https://github.com/davila7.png",
-        "url": "https://github.com/davila7"
       }
     },
     {
@@ -95,14 +33,14 @@
       "full_name": "google/ax",
       "html_url": "https://github.com/google/ax",
       "description": "Google's open agentic orchestration runtime",
-      "stars": 8106,
-      "forks": 375,
-      "stars_today": 2305,
+      "stars": 8626,
+      "forks": 397,
+      "stars_today": 1542,
       "window": "today",
       "language": "Go",
       "created_at": "2026-09-23T00:00:00Z",
       "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
       "owner": {
         "login": "google",
         "avatar": "https://github.com/google.png",
@@ -110,23 +48,165 @@
       }
     },
     {
-      "id": "mvt-project/mvt",
-      "name": "mvt",
-      "full_name": "mvt-project/mvt",
-      "html_url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": 14270,
-      "forks": 1367,
-      "stars_today": 441,
+      "id": "davila7/claude-code-templates",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "html_url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 31384,
+      "forks": 3559,
+      "stars_today": 393,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-23T00:00:00Z",
       "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
       "owner": {
-        "login": "mvt-project",
-        "avatar": "https://github.com/mvt-project.png",
-        "url": "https://github.com/mvt-project"
+        "login": "davila7",
+        "avatar": "https://github.com/davila7.png",
+        "url": "https://github.com/davila7"
+      }
+    },
+    {
+      "id": "BuilderIO/agent-native",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": 6431,
+      "forks": 577,
+      "stars_today": 609,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "BuilderIO",
+        "avatar": "https://github.com/BuilderIO.png",
+        "url": "https://github.com/BuilderIO"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 290522,
+      "forks": 26001,
+      "stars_today": 528,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "html_url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 16151,
+      "forks": 1424,
+      "stars_today": 1140,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T08:00:02.095Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "dream-num",
+        "avatar": "https://github.com/dream-num.png",
+        "url": "https://github.com/dream-num"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
+    },
+    {
+      "id": "Open-Dev-Society/OpenStock",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "html_url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": 18648,
+      "forks": 2274,
+      "stars_today": 832,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "Open-Dev-Society",
+        "avatar": "https://github.com/Open-Dev-Society.png",
+        "url": "https://github.com/Open-Dev-Society"
+      }
+    },
+    {
+      "id": "agent-substrate/substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "html_url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": 3339,
+      "forks": 402,
+      "stars_today": 560,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T08:00:02.095Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "agent-substrate",
+        "avatar": "https://github.com/agent-substrate.png",
+        "url": "https://github.com/agent-substrate"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1238047523/09992d05-46f0-4ac2-8c40-db761076e3a5"
+    },
+    {
+      "id": "strands-agents/harness-sdk",
+      "name": "harness-sdk",
+      "full_name": "strands-agents/harness-sdk",
+      "html_url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": 7705,
+      "forks": 1192,
+      "stars_today": 96,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "strands-agents",
+        "avatar": "https://github.com/strands-agents.png",
+        "url": "https://github.com/strands-agents"
+      }
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 49797,
+      "forks": 4594,
+      "stars_today": 41,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
       }
     },
     {
@@ -135,18 +215,99 @@
       "full_name": "superdesigndev/treg",
       "html_url": "https://github.com/superdesigndev/treg",
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 2382,
-      "forks": 228,
-      "stars_today": 230,
+      "stars": 2561,
+      "forks": 234,
+      "stars_today": 502,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-23T00:00:00Z",
       "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
       "owner": {
         "login": "superdesigndev",
         "avatar": "https://github.com/superdesigndev.png",
         "url": "https://github.com/superdesigndev"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 70166,
+      "forks": 4264,
+      "stars_today": 287,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "mvt-project/mvt",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "html_url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": 14380,
+      "forks": 1376,
+      "stars_today": 546,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T08:00:02.095Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "mvt-project",
+        "avatar": "https://github.com/mvt-project.png",
+        "url": "https://github.com/mvt-project"
+      }
+    },
+    {
+      "id": "DeusData/codebase-memory-mcp",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "html_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 44399,
+      "forks": 3628,
+      "stars_today": 201,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "DeusData",
+        "avatar": "https://github.com/DeusData.png",
+        "url": "https://github.com/DeusData"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1166102148/c6b6a073-5cad-4f9a-81c4-16018827c144"
+    },
+    {
+      "id": "harry7557558/spirula-studio",
+      "name": "spirula-studio",
+      "full_name": "harry7557558/spirula-studio",
+      "html_url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "stars": 677,
+      "forks": 52,
+      "stars_today": 99,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "harry7557558",
+        "avatar": "https://github.com/harry7557558.png",
+        "url": "https://github.com/harry7557558"
       }
     },
     {
@@ -155,18 +316,38 @@
       "full_name": "browser-use/video-use",
       "html_url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
-      "stars": 26127,
-      "forks": 3137,
-      "stars_today": 191,
+      "stars": 26337,
+      "forks": 3154,
+      "stars_today": 745,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-23T00:00:00Z",
       "first_seen": "2026-09-23T08:00:02.095Z",
-      "last_seen": "2026-09-23T08:14:53.961Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
       "owner": {
         "login": "browser-use",
         "avatar": "https://github.com/browser-use.png",
         "url": "https://github.com/browser-use"
+      }
+    },
+    {
+      "id": "TNT-Likely/PanWatch",
+      "name": "PanWatch",
+      "full_name": "TNT-Likely/PanWatch",
+      "html_url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "stars": 1435,
+      "forks": 291,
+      "stars_today": 142,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-23T00:00:00Z",
+      "first_seen": "2026-09-23T16:00:03.692Z",
+      "last_seen": "2026-09-23T16:00:03.692Z",
+      "owner": {
+        "login": "TNT-Likely",
+        "avatar": "https://github.com/TNT-Likely.png",
+        "url": "https://github.com/TNT-Likely"
       }
     }
   ]
