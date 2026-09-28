@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-28",
+  "since": "daily",
+  "fetched_at": "2026-09-28T08:00:02.530Z",
+  "first_fetched_at": "2026-09-28T08:00:02.530Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-28T08:00:02.530Z",
+  "total_count": 9,
+  "items": [
+    {
+      "id": "paperclipai/paperclip",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 90977,
+      "forks": 15745,
+      "stars_today": 2401,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "paperclipai",
+        "avatar": "https://github.com/paperclipai.png",
+        "url": "https://github.com/paperclipai"
+      }
+    },
+    {
+      "id": "vectorize-io/hindsight",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "html_url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 38686,
+      "forks": 5073,
+      "stars_today": 4520,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "vectorize-io",
+        "avatar": "https://github.com/vectorize-io.png",
+        "url": "https://github.com/vectorize-io"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 41055,
+      "forks": 4873,
+      "stars_today": 3086,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 59823,
+      "forks": 10287,
+      "stars_today": 790,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c"
+    },
+    {
+      "id": "InfinityLoop1308/PipePipe",
+      "name": "PipePipe",
+      "full_name": "InfinityLoop1308/PipePipe",
+      "html_url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "stars": 6714,
+      "forks": 225,
+      "stars_today": 242,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "InfinityLoop1308",
+        "avatar": "https://github.com/InfinityLoop1308.png",
+        "url": "https://github.com/InfinityLoop1308"
+      }
+    },
+    {
+      "id": "vercel-labs/scriptc",
+      "name": "scriptc",
+      "full_name": "vercel-labs/scriptc",
+      "html_url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "stars": 5521,
+      "forks": 143,
+      "stars_today": 102,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 1225,
+      "forks": 112,
+      "stars_today": 114,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "html_url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 20820,
+      "forks": 1767,
+      "stars_today": 895,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "dream-num",
+        "avatar": "https://github.com/dream-num.png",
+        "url": "https://github.com/dream-num"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
+    },
+    {
+      "id": "willfaust/Madeira",
+      "name": "Madeira",
+      "full_name": "willfaust/Madeira",
+      "html_url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": 894,
+      "forks": 155,
+      "stars_today": 83,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-28T00:00:00Z",
+      "first_seen": "2026-09-28T08:00:02.530Z",
+      "last_seen": "2026-09-28T08:00:02.530Z",
+      "owner": {
+        "login": "willfaust",
+        "avatar": "https://github.com/willfaust.png",
+        "url": "https://github.com/willfaust"
+      }
+    }
+  ]
+}
