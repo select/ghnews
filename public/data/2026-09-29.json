@@ -1,11 +1,11 @@
 {
   "date": "2026-09-29",
   "since": "daily",
-  "fetched_at": "2026-09-29T08:00:03.707Z",
-  "first_fetched_at": "2026-09-29T07:54:14.941Z",
-  "snapshots": 2,
-  "updated_at": "2026-09-29T08:00:03.707Z",
-  "total_count": 8,
+  "fetched_at": "2026-09-29T16:00:03.434Z",
+  "first_fetched_at": "2026-09-29T08:00:03.707Z",
+  "snapshots": 3,
+  "updated_at": "2026-09-29T16:00:03.434Z",
+  "total_count": 16,
   "items": [
     {
       "id": "debpalash/VoiceStudio",
@@ -13,14 +13,14 @@
       "full_name": "debpalash/VoiceStudio",
       "html_url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 45486,
-      "forks": 5191,
-      "stars_today": 3221,
+      "stars": 47041,
+      "forks": 5309,
+      "stars_today": 4712,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-29T00:00:00Z",
       "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
       "owner": {
         "login": "debpalash",
         "avatar": "https://github.com/debpalash.png",
@@ -29,23 +29,23 @@
       "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
     },
     {
-      "id": "paperclipai/paperclip",
-      "name": "paperclip",
-      "full_name": "paperclipai/paperclip",
-      "html_url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 93534,
-      "forks": 15946,
-      "stars_today": 3197,
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 10220,
+      "forks": 1393,
+      "stars_today": 978,
       "window": "today",
-      "language": "TypeScript",
+      "language": "Rust",
       "created_at": "2026-09-29T00:00:00Z",
-      "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
       "owner": {
-        "login": "paperclipai",
-        "avatar": "https://github.com/paperclipai.png",
-        "url": "https://github.com/paperclipai"
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
       }
     },
     {
@@ -54,18 +54,243 @@
       "full_name": "vectorize-io/hindsight",
       "html_url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
-      "stars": 41644,
-      "forks": 5595,
-      "stars_today": 4561,
+      "stars": 42348,
+      "forks": 5699,
+      "stars_today": 2541,
       "window": "today",
       "language": "Python",
       "created_at": "2026-09-29T00:00:00Z",
       "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
       "owner": {
         "login": "vectorize-io",
         "avatar": "https://github.com/vectorize-io.png",
         "url": "https://github.com/vectorize-io"
+      }
+    },
+    {
+      "id": "paperclipai/paperclip",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 94132,
+      "forks": 16010,
+      "stars_today": 2412,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T07:54:14.941Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "paperclipai",
+        "avatar": "https://github.com/paperclipai.png",
+        "url": "https://github.com/paperclipai"
+      }
+    },
+    {
+      "id": "t8y2/dbx",
+      "name": "dbx",
+      "full_name": "t8y2/dbx",
+      "html_url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": 21774,
+      "forks": 2078,
+      "stars_today": 460,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "t8y2",
+        "avatar": "https://github.com/t8y2.png",
+        "url": "https://github.com/t8y2"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1224172037/32bdb2d1-cbb6-4a47-8743-150c311fbb1b"
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 2197,
+      "forks": 161,
+      "stars_today": 733,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T07:54:14.941Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "oblien/openship",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "html_url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 13662,
+      "forks": 1222,
+      "stars_today": 436,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "oblien",
+        "avatar": "https://github.com/oblien.png",
+        "url": "https://github.com/oblien"
+      }
+    },
+    {
+      "id": "averygan/reclip",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "html_url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": 9908,
+      "forks": 1516,
+      "stars_today": 114,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "averygan",
+        "avatar": "https://github.com/averygan.png",
+        "url": "https://github.com/averygan"
+      }
+    },
+    {
+      "id": "cs341-illinois/coursebook",
+      "name": "coursebook",
+      "full_name": "cs341-illinois/coursebook",
+      "html_url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": 2933,
+      "forks": 262,
+      "stars_today": 569,
+      "window": "today",
+      "language": "TeX",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T07:54:14.941Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "cs341-illinois",
+        "avatar": "https://github.com/cs341-illinois.png",
+        "url": "https://github.com/cs341-illinois"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/119068473/55b87800-b155-11e9-9a92-38d9bdc9bd55"
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 61024,
+      "forks": 10496,
+      "stars_today": 855,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c"
+    },
+    {
+      "id": "VectifyAI/PageIndex",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "html_url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 36979,
+      "forks": 3236,
+      "stars_today": 822,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "VectifyAI",
+        "avatar": "https://github.com/VectifyAI.png",
+        "url": "https://github.com/VectifyAI"
+      }
+    },
+    {
+      "id": "willfaust/Madeira",
+      "name": "Madeira",
+      "full_name": "willfaust/Madeira",
+      "html_url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": 1048,
+      "forks": 183,
+      "stars_today": 229,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "willfaust",
+        "avatar": "https://github.com/willfaust.png",
+        "url": "https://github.com/willfaust"
+      }
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "html_url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 21688,
+      "forks": 1829,
+      "stars_today": 692,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T07:54:14.941Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "dream-num",
+        "avatar": "https://github.com/dream-num.png",
+        "url": "https://github.com/dream-num"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
+    },
+    {
+      "id": "rakyll/hey",
+      "name": "hey",
+      "full_name": "rakyll/hey",
+      "html_url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "stars": 20417,
+      "forks": 1310,
+      "stars_today": 31,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-29T00:00:00Z",
+      "first_seen": "2026-09-29T16:00:03.434Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
+      "owner": {
+        "login": "rakyll",
+        "avatar": "https://github.com/rakyll.png",
+        "url": "https://github.com/rakyll"
       }
     },
     {
@@ -81,33 +306,12 @@
       "language": "PLSQL",
       "created_at": "2026-09-29T00:00:00Z",
       "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
       "owner": {
         "login": "NawfalMotii79",
         "avatar": "https://github.com/NawfalMotii79.png",
         "url": "https://github.com/NawfalMotii79"
       }
-    },
-    {
-      "id": "cs341-illinois/coursebook",
-      "name": "coursebook",
-      "full_name": "cs341-illinois/coursebook",
-      "html_url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "stars": 2673,
-      "forks": 247,
-      "stars_today": 195,
-      "window": "today",
-      "language": "TeX",
-      "created_at": "2026-09-29T00:00:00Z",
-      "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
-      "owner": {
-        "login": "cs341-illinois",
-        "avatar": "https://github.com/cs341-illinois.png",
-        "url": "https://github.com/cs341-illinois"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/119068473/55b87800-b155-11e9-9a92-38d9bdc9bd55"
     },
     {
       "id": "byoungd/up",
@@ -122,54 +326,12 @@
       "language": "JavaScript",
       "created_at": "2026-09-29T00:00:00Z",
       "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
+      "last_seen": "2026-09-29T16:00:03.434Z",
       "owner": {
         "login": "byoungd",
         "avatar": "https://github.com/byoungd.png",
         "url": "https://github.com/byoungd"
       }
-    },
-    {
-      "id": "mvschwarz/openrig",
-      "name": "openrig",
-      "full_name": "mvschwarz/openrig",
-      "html_url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 1956,
-      "forks": 147,
-      "stars_today": 734,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-29T00:00:00Z",
-      "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
-      "owner": {
-        "login": "mvschwarz",
-        "avatar": "https://github.com/mvschwarz.png",
-        "url": "https://github.com/mvschwarz"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
-    },
-    {
-      "id": "dream-num/univer",
-      "name": "univer",
-      "full_name": "dream-num/univer",
-      "html_url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 21491,
-      "forks": 1818,
-      "stars_today": 1099,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-09-29T00:00:00Z",
-      "first_seen": "2026-09-29T07:54:14.941Z",
-      "last_seen": "2026-09-29T08:00:03.707Z",
-      "owner": {
-        "login": "dream-num",
-        "avatar": "https://github.com/dream-num.png",
-        "url": "https://github.com/dream-num"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
     }
   ]
 }
