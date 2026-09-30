@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-30",
+  "since": "daily",
+  "fetched_at": "2026-09-30T08:00:03.508Z",
+  "first_fetched_at": "2026-09-30T08:00:03.508Z",
+  "snapshots": 1,
+  "updated_at": "2026-09-30T08:00:03.508Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 49128,
+      "forks": 5480,
+      "stars_today": 4758,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 10967,
+      "forks": 1442,
+      "stars_today": 990,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "vectorize-io/hindsight",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "html_url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 43272,
+      "forks": 5812,
+      "stars_today": 2575,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "vectorize-io",
+        "avatar": "https://github.com/vectorize-io.png",
+        "url": "https://github.com/vectorize-io"
+      }
+    },
+    {
+      "id": "paperclipai/paperclip",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "html_url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 94817,
+      "forks": 16096,
+      "stars_today": 2458,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "paperclipai",
+        "avatar": "https://github.com/paperclipai.png",
+        "url": "https://github.com/paperclipai"
+      }
+    },
+    {
+      "id": "t8y2/dbx",
+      "name": "dbx",
+      "full_name": "t8y2/dbx",
+      "html_url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": 22547,
+      "forks": 2107,
+      "stars_today": 232,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "t8y2",
+        "avatar": "https://github.com/t8y2.png",
+        "url": "https://github.com/t8y2"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1224172037/32bdb2d1-cbb6-4a47-8743-150c311fbb1b"
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 2595,
+      "forks": 183,
+      "stars_today": 737,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "oblien/openship",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "html_url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": 14043,
+      "forks": 1255,
+      "stars_today": 437,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "oblien",
+        "avatar": "https://github.com/oblien.png",
+        "url": "https://github.com/oblien"
+      }
+    },
+    {
+      "id": "averygan/reclip",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "html_url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": 10391,
+      "forks": 1552,
+      "stars_today": 113,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "averygan",
+        "avatar": "https://github.com/averygan.png",
+        "url": "https://github.com/averygan"
+      }
+    },
+    {
+      "id": "cs341-illinois/coursebook",
+      "name": "coursebook",
+      "full_name": "cs341-illinois/coursebook",
+      "html_url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": 3230,
+      "forks": 280,
+      "stars_today": 572,
+      "window": "today",
+      "language": "TeX",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "cs341-illinois",
+        "avatar": "https://github.com/cs341-illinois.png",
+        "url": "https://github.com/cs341-illinois"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/119068473/55b87800-b155-11e9-9a92-38d9bdc9bd55"
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 61772,
+      "forks": 10568,
+      "stars_today": 786,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "rohitg00",
+        "avatar": "https://github.com/rohitg00.png",
+        "url": "https://github.com/rohitg00"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c"
+    },
+    {
+      "id": "VectifyAI/PageIndex",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "html_url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 37676,
+      "forks": 3277,
+      "stars_today": 835,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "VectifyAI",
+        "avatar": "https://github.com/VectifyAI.png",
+        "url": "https://github.com/VectifyAI"
+      }
+    },
+    {
+      "id": "willfaust/Madeira",
+      "name": "Madeira",
+      "full_name": "willfaust/Madeira",
+      "html_url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": 1152,
+      "forks": 192,
+      "stars_today": 81,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "willfaust",
+        "avatar": "https://github.com/willfaust.png",
+        "url": "https://github.com/willfaust"
+      }
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "html_url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 22008,
+      "forks": 1861,
+      "stars_today": 696,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "dream-num",
+        "avatar": "https://github.com/dream-num.png",
+        "url": "https://github.com/dream-num"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0"
+    },
+    {
+      "id": "rakyll/hey",
+      "name": "hey",
+      "full_name": "rakyll/hey",
+      "html_url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "stars": 20556,
+      "forks": 1316,
+      "stars_today": 34,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-09-30T00:00:00Z",
+      "first_seen": "2026-09-30T08:00:03.508Z",
+      "last_seen": "2026-09-30T08:00:03.508Z",
+      "owner": {
+        "login": "rakyll",
+        "avatar": "https://github.com/rakyll.png",
+        "url": "https://github.com/rakyll"
+      }
+    }
+  ]
+}
