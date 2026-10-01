@@ -1,30 +1,312 @@
 {
   "date": "2026-10-01",
   "since": "daily",
-  "fetched_at": "2026-10-01T08:51:40.310Z",
+  "fetched_at": "2026-10-01T16:00:03.044Z",
   "first_fetched_at": "2026-10-01T08:51:40.310Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-01T08:51:40.310Z",
-  "total_count": 17,
+  "snapshots": 2,
+  "updated_at": "2026-10-01T16:00:03.044Z",
+  "total_count": 25,
   "items": [
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 150045,
+      "forks": 8059,
+      "stars_today": 1179,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 273583,
+      "forks": 22985,
+      "stars_today": 888,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
     {
       "id": "NVIDIA/OpenShell",
       "name": "OpenShell",
       "full_name": "NVIDIA/OpenShell",
       "html_url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 13388,
-      "forks": 1581,
-      "stars_today": 1281,
+      "stars": 13809,
+      "forks": 1609,
+      "stars_today": 2503,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "NVIDIA",
         "avatar": "https://github.com/NVIDIA.png",
         "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "firebase/firebase-ios-sdk",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "html_url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "stars": 6830,
+      "forks": 1804,
+      "stars_today": 112,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "firebase",
+        "avatar": "https://github.com/firebase.png",
+        "url": "https://github.com/firebase"
+      }
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "stars": 3468,
+      "forks": 236,
+      "stars_today": 640,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 9273,
+      "forks": 877,
+      "stars_today": 157,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 293790,
+      "forks": 26275,
+      "stars_today": 476,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 24701,
+      "forks": 1777,
+      "stars_today": 357,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 55152,
+      "forks": 5005,
+      "stars_today": 624,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "heygen-com",
+        "avatar": "https://github.com/heygen-com.png",
+        "url": "https://github.com/heygen-com"
+      }
+    },
+    {
+      "id": "earendil-works/pi",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "html_url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 111015,
+      "forks": 14115,
+      "stars_today": 294,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "earendil-works",
+        "avatar": "https://github.com/earendil-works.png",
+        "url": "https://github.com/earendil-works"
+      }
+    },
+    {
+      "id": "tile-ai/tilelang",
+      "name": "tilelang",
+      "full_name": "tile-ai/tilelang",
+      "html_url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "stars": 8017,
+      "forks": 811,
+      "stars_today": 157,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "tile-ai",
+        "avatar": "https://github.com/tile-ai.png",
+        "url": "https://github.com/tile-ai"
+      }
+    },
+    {
+      "id": "pablostanley/yoinks",
+      "name": "yoinks",
+      "full_name": "pablostanley/yoinks",
+      "html_url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "stars": 2732,
+      "forks": 259,
+      "stars_today": 356,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "pablostanley",
+        "avatar": "https://github.com/pablostanley.png",
+        "url": "https://github.com/pablostanley"
+      }
+    },
+    {
+      "id": "HunxByts/GhostTrack",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 16248,
+      "forks": 2239,
+      "stars_today": 635,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "HunxByts",
+        "avatar": "https://github.com/HunxByts.png",
+        "url": "https://github.com/HunxByts"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 73424,
+      "forks": 4429,
+      "stars_today": 463,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "Friedrich-M/UniMate",
+      "name": "UniMate",
+      "full_name": "Friedrich-M/UniMate",
+      "html_url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "stars": 995,
+      "forks": 96,
+      "stars_today": 225,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T16:00:03.044Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
+      "owner": {
+        "login": "Friedrich-M",
+        "avatar": "https://github.com/Friedrich-M.png",
+        "url": "https://github.com/Friedrich-M"
       }
     },
     {
@@ -40,75 +322,13 @@
       "language": "Python",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "debpalash",
         "avatar": "https://github.com/debpalash.png",
         "url": "https://github.com/debpalash"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
-    },
-    {
-      "id": "mvschwarz/openrig",
-      "name": "openrig",
-      "full_name": "mvschwarz/openrig",
-      "html_url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 3236,
-      "forks": 221,
-      "stars_today": 624,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "mvschwarz",
-        "avatar": "https://github.com/mvschwarz.png",
-        "url": "https://github.com/mvschwarz"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
-    },
-    {
-      "id": "mksglu/context-mode",
-      "name": "context-mode",
-      "full_name": "mksglu/context-mode",
-      "html_url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 24600,
-      "forks": 1774,
-      "stars_today": 90,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "mksglu",
-        "avatar": "https://github.com/mksglu.png",
-        "url": "https://github.com/mksglu"
-      }
-    },
-    {
-      "id": "DietrichGebert/ponytail",
-      "name": "ponytail",
-      "full_name": "DietrichGebert/ponytail",
-      "html_url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 149579,
-      "forks": 8036,
-      "stars_today": 743,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "DietrichGebert",
-        "avatar": "https://github.com/DietrichGebert.png",
-        "url": "https://github.com/DietrichGebert"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
     },
     {
       "id": "harry0703/MoneyPrinterTurbo",
@@ -123,7 +343,7 @@
       "language": "Python",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "harry0703",
         "avatar": "https://github.com/harry0703.png",
@@ -143,7 +363,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "openclaw",
         "avatar": "https://github.com/openclaw.png",
@@ -163,71 +383,11 @@
       "language": "Python",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "ComposioHQ",
         "avatar": "https://github.com/ComposioHQ.png",
         "url": "https://github.com/ComposioHQ"
-      }
-    },
-    {
-      "id": "mattpocock/skills",
-      "name": "skills",
-      "full_name": "mattpocock/skills",
-      "html_url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 273297,
-      "forks": 22969,
-      "stars_today": 876,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "mattpocock",
-        "avatar": "https://github.com/mattpocock.png",
-        "url": "https://github.com/mattpocock"
-      }
-    },
-    {
-      "id": "heygen-com/hyperframes",
-      "name": "hyperframes",
-      "full_name": "heygen-com/hyperframes",
-      "html_url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "stars": 54940,
-      "forks": 4993,
-      "stars_today": 349,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "heygen-com",
-        "avatar": "https://github.com/heygen-com.png",
-        "url": "https://github.com/heygen-com"
-      }
-    },
-    {
-      "id": "firebase/firebase-ios-sdk",
-      "name": "firebase-ios-sdk",
-      "full_name": "firebase/firebase-ios-sdk",
-      "html_url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "stars": 6793,
-      "forks": 1801,
-      "stars_today": 8,
-      "window": "today",
-      "language": "C++",
-      "created_at": "2026-10-01T00:00:00Z",
-      "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
-      "owner": {
-        "login": "firebase",
-        "avatar": "https://github.com/firebase.png",
-        "url": "https://github.com/firebase"
       }
     },
     {
@@ -243,7 +403,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "modelcontextprotocol",
         "avatar": "https://github.com/modelcontextprotocol.png",
@@ -263,7 +423,7 @@
       "language": "JavaScript",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "byoungd",
         "avatar": "https://github.com/byoungd.png",
@@ -283,7 +443,7 @@
       "language": "C",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "colbymchenry",
         "avatar": "https://github.com/colbymchenry.png",
@@ -303,7 +463,7 @@
       "language": "Rust",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "t8y2",
         "avatar": "https://github.com/t8y2.png",
@@ -324,7 +484,7 @@
       "language": "PLSQL",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "NawfalMotii79",
         "avatar": "https://github.com/NawfalMotii79.png",
@@ -344,7 +504,7 @@
       "language": "Python",
       "created_at": "2026-10-01T00:00:00Z",
       "first_seen": "2026-10-01T08:51:40.310Z",
-      "last_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T16:00:03.044Z",
       "owner": {
         "login": "VectifyAI",
         "avatar": "https://github.com/VectifyAI.png",
