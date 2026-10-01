@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-01",
+  "since": "daily",
+  "fetched_at": "2026-10-01T08:51:40.310Z",
+  "first_fetched_at": "2026-10-01T08:51:40.310Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-01T08:51:40.310Z",
+  "total_count": 17,
+  "items": [
+    {
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 13388,
+      "forks": 1581,
+      "stars_today": 1281,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 50864,
+      "forks": 5636,
+      "stars_today": 3483,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 3236,
+      "forks": 221,
+      "stars_today": 624,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 24600,
+      "forks": 1774,
+      "stars_today": 90,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 149579,
+      "forks": 8036,
+      "stars_today": 743,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "harry0703/MoneyPrinterTurbo",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 127742,
+      "forks": 19980,
+      "stars_today": 431,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "harry0703",
+        "avatar": "https://github.com/harry0703.png",
+        "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "openclaw/openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "html_url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 391077,
+      "forks": 82233,
+      "stars_today": 136,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "openclaw",
+        "avatar": "https://github.com/openclaw.png",
+        "url": "https://github.com/openclaw"
+      }
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 76240,
+      "forks": 8886,
+      "stars_today": 123,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "ComposioHQ",
+        "avatar": "https://github.com/ComposioHQ.png",
+        "url": "https://github.com/ComposioHQ"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 273297,
+      "forks": 22969,
+      "stars_today": 876,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 54940,
+      "forks": 4993,
+      "stars_today": 349,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "heygen-com",
+        "avatar": "https://github.com/heygen-com.png",
+        "url": "https://github.com/heygen-com"
+      }
+    },
+    {
+      "id": "firebase/firebase-ios-sdk",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "html_url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "stars": 6793,
+      "forks": 1801,
+      "stars_today": 8,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "firebase",
+        "avatar": "https://github.com/firebase.png",
+        "url": "https://github.com/firebase"
+      }
+    },
+    {
+      "id": "modelcontextprotocol/servers",
+      "name": "servers",
+      "full_name": "modelcontextprotocol/servers",
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "stars": 90881,
+      "forks": 11732,
+      "stars_today": 50,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "modelcontextprotocol",
+        "avatar": "https://github.com/modelcontextprotocol.png",
+        "url": "https://github.com/modelcontextprotocol"
+      }
+    },
+    {
+      "id": "byoungd/up",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "html_url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 66524,
+      "forks": 6646,
+      "stars_today": 743,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "byoungd",
+        "avatar": "https://github.com/byoungd.png",
+        "url": "https://github.com/byoungd"
+      }
+    },
+    {
+      "id": "colbymchenry/codegraph",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "html_url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": 72700,
+      "forks": 4665,
+      "stars_today": 118,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "colbymchenry",
+        "avatar": "https://github.com/colbymchenry.png",
+        "url": "https://github.com/colbymchenry"
+      }
+    },
+    {
+      "id": "t8y2/dbx",
+      "name": "dbx",
+      "full_name": "t8y2/dbx",
+      "html_url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": 23495,
+      "forks": 2165,
+      "stars_today": 1138,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "t8y2",
+        "avatar": "https://github.com/t8y2.png",
+        "url": "https://github.com/t8y2"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1224172037/32bdb2d1-cbb6-4a47-8743-150c311fbb1b"
+    },
+    {
+      "id": "NawfalMotii79/PLFM_RADAR",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "html_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": 26485,
+      "forks": 5981,
+      "stars_today": 263,
+      "window": "today",
+      "language": "PLSQL",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "NawfalMotii79",
+        "avatar": "https://github.com/NawfalMotii79.png",
+        "url": "https://github.com/NawfalMotii79"
+      }
+    },
+    {
+      "id": "VectifyAI/PageIndex",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "html_url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 38277,
+      "forks": 3320,
+      "stars_today": 1097,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-01T00:00:00Z",
+      "first_seen": "2026-10-01T08:51:40.310Z",
+      "last_seen": "2026-10-01T08:51:40.310Z",
+      "owner": {
+        "login": "VectifyAI",
+        "avatar": "https://github.com/VectifyAI.png",
+        "url": "https://github.com/VectifyAI"
+      }
+    }
+  ]
+}
