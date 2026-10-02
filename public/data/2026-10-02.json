@@ -1,0 +1,313 @@
+{
+  "date": "2026-10-02",
+  "since": "daily",
+  "fetched_at": "2026-10-02T08:00:07.976Z",
+  "first_fetched_at": "2026-10-02T08:00:07.976Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-02T08:00:07.976Z",
+  "total_count": 15,
+  "items": [
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 150931,
+      "forks": 8103,
+      "stars_today": 1194,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 274170,
+      "forks": 23028,
+      "stars_today": 883,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 14164,
+      "forks": 1637,
+      "stars_today": 2456,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "firebase/firebase-ios-sdk",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "html_url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "stars": 6897,
+      "forks": 1808,
+      "stars_today": 112,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "firebase",
+        "avatar": "https://github.com/firebase.png",
+        "url": "https://github.com/firebase"
+      }
+    },
+    {
+      "id": "mvschwarz/openrig",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "html_url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "stars": 3897,
+      "forks": 260,
+      "stars_today": 642,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "mvschwarz",
+        "avatar": "https://github.com/mvschwarz.png",
+        "url": "https://github.com/mvschwarz"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1198124295/1af4015a-ccfc-48e2-9d75-81ff3f15e3a1"
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 9364,
+      "forks": 887,
+      "stars_today": 150,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 294114,
+      "forks": 26303,
+      "stars_today": 455,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 24867,
+      "forks": 1788,
+      "stars_today": 362,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "html_url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 55503,
+      "forks": 5026,
+      "stars_today": 627,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "heygen-com",
+        "avatar": "https://github.com/heygen-com.png",
+        "url": "https://github.com/heygen-com"
+      }
+    },
+    {
+      "id": "earendil-works/pi",
+      "name": "pi",
+      "full_name": "earendil-works/pi",
+      "html_url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 111451,
+      "forks": 14144,
+      "stars_today": 298,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "earendil-works",
+        "avatar": "https://github.com/earendil-works.png",
+        "url": "https://github.com/earendil-works"
+      }
+    },
+    {
+      "id": "tile-ai/tilelang",
+      "name": "tilelang",
+      "full_name": "tile-ai/tilelang",
+      "html_url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "stars": 8178,
+      "forks": 822,
+      "stars_today": 163,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "tile-ai",
+        "avatar": "https://github.com/tile-ai.png",
+        "url": "https://github.com/tile-ai"
+      }
+    },
+    {
+      "id": "pablostanley/yoinks",
+      "name": "yoinks",
+      "full_name": "pablostanley/yoinks",
+      "html_url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "stars": 3102,
+      "forks": 291,
+      "stars_today": 361,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "pablostanley",
+        "avatar": "https://github.com/pablostanley.png",
+        "url": "https://github.com/pablostanley"
+      }
+    },
+    {
+      "id": "HunxByts/GhostTrack",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "html_url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 16555,
+      "forks": 2266,
+      "stars_today": 368,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "HunxByts",
+        "avatar": "https://github.com/HunxByts.png",
+        "url": "https://github.com/HunxByts"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 73880,
+      "forks": 4449,
+      "stars_today": 495,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "Friedrich-M/UniMate",
+      "name": "UniMate",
+      "full_name": "Friedrich-M/UniMate",
+      "html_url": "https://github.com/Friedrich-M/UniMate",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "stars": 1144,
+      "forks": 102,
+      "stars_today": 217,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-02T00:00:00Z",
+      "first_seen": "2026-10-02T08:00:07.976Z",
+      "last_seen": "2026-10-02T08:00:07.976Z",
+      "owner": {
+        "login": "Friedrich-M",
+        "avatar": "https://github.com/Friedrich-M.png",
+        "url": "https://github.com/Friedrich-M"
+      }
+    }
+  ]
+}
