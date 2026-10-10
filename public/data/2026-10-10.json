@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-10",
+  "since": "daily",
+  "fetched_at": "2026-10-10T18:24:32.916Z",
+  "first_fetched_at": "2026-10-10T18:24:32.916Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-10T18:24:32.916Z",
+  "total_count": 13,
+  "items": [
+    {
+      "id": "morluto/rea",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "html_url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 67395,
+      "forks": 14215,
+      "stars_today": 25784,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "morluto",
+        "avatar": "https://github.com/morluto.png",
+        "url": "https://github.com/morluto"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc"
+    },
+    {
+      "id": "boykopovar/AnyPS5",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "html_url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": 25793,
+      "forks": 2150,
+      "stars_today": 5831,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "boykopovar",
+        "avatar": "https://github.com/boykopovar.png",
+        "url": "https://github.com/boykopovar"
+      }
+    },
+    {
+      "id": "storytold/artcraft",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "html_url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 13746,
+      "forks": 2135,
+      "stars_today": 3217,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "storytold",
+        "avatar": "https://github.com/storytold.png",
+        "url": "https://github.com/storytold"
+      }
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 48715,
+      "forks": 3074,
+      "stars_today": 1189,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 26191,
+      "forks": 1884,
+      "stars_today": 178,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 284104,
+      "forks": 23790,
+      "stars_today": 1737,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "flutter/flutter",
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "html_url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars": 179397,
+      "forks": 33553,
+      "stars_today": 164,
+      "window": "today",
+      "language": "Dart",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "flutter",
+        "avatar": "https://github.com/flutter.png",
+        "url": "https://github.com/flutter"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1"
+    },
+    {
+      "id": "tensorflow/tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "html_url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 200669,
+      "forks": 78915,
+      "stars_today": 24,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "tensorflow",
+        "avatar": "https://github.com/tensorflow.png",
+        "url": "https://github.com/tensorflow"
+      }
+    },
+    {
+      "id": "hugohe3/ppt-master",
+      "name": "ppt-master",
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 59247,
+      "forks": 4669,
+      "stars_today": 515,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "hugohe3",
+        "avatar": "https://github.com/hugohe3.png",
+        "url": "https://github.com/hugohe3"
+      }
+    },
+    {
+      "id": "pytorch/pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 104089,
+      "forks": 31913,
+      "stars_today": 81,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "pytorch",
+        "avatar": "https://github.com/pytorch.png",
+        "url": "https://github.com/pytorch"
+      }
+    },
+    {
+      "id": "huggingface/transformers",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 167127,
+      "forks": 34795,
+      "stars_today": 94,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "huggingface",
+        "avatar": "https://github.com/huggingface.png",
+        "url": "https://github.com/huggingface"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e"
+    },
+    {
+      "id": "anthropics/knowledge-work-plugins",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 28695,
+      "forks": 3269,
+      "stars_today": 626,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "multica-ai/andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 218069,
+      "forks": 21971,
+      "stars_today": 279,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-10-10T00:00:00Z",
+      "first_seen": "2026-10-10T18:24:32.916Z",
+      "last_seen": "2026-10-10T18:24:32.916Z",
+      "owner": {
+        "login": "multica-ai",
+        "avatar": "https://github.com/multica-ai.png",
+        "url": "https://github.com/multica-ai"
+      }
+    }
+  ]
+}
