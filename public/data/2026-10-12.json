@@ -1,11 +1,11 @@
 {
   "date": "2026-10-12",
   "since": "daily",
-  "fetched_at": "2026-10-12T08:49:45.199Z",
+  "fetched_at": "2026-10-12T16:00:02.983Z",
   "first_fetched_at": "2026-10-12T08:49:45.199Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-12T08:49:45.199Z",
-  "total_count": 8,
+  "snapshots": 2,
+  "updated_at": "2026-10-12T16:00:02.983Z",
+  "total_count": 12,
   "items": [
     {
       "id": "morluto/rea",
@@ -13,20 +13,181 @@
       "full_name": "morluto/rea",
       "html_url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 124774,
-      "forks": 28047,
-      "stars_today": 25599,
+      "stars": 141377,
+      "forks": 32437,
+      "stars_today": 45495,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-12T00:00:00Z",
       "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
       "owner": {
         "login": "morluto",
         "avatar": "https://github.com/morluto.png",
         "url": "https://github.com/morluto"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc"
+    },
+    {
+      "id": "bilawalsidhu/gods-eye-view",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 53014,
+      "forks": 10532,
+      "stars_today": 1903,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "bilawalsidhu",
+        "avatar": "https://github.com/bilawalsidhu.png",
+        "url": "https://github.com/bilawalsidhu"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 26984,
+      "forks": 1932,
+      "stars_today": 394,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T16:00:02.983Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "storytold/artcraft",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "html_url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 20608,
+      "forks": 3337,
+      "stars_today": 4106,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "storytold",
+        "avatar": "https://github.com/storytold.png",
+        "url": "https://github.com/storytold"
+      }
+    },
+    {
+      "id": "open-webui/open-webui",
+      "name": "open-webui",
+      "full_name": "open-webui/open-webui",
+      "html_url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 154633,
+      "forks": 22621,
+      "stars_today": 142,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T16:00:02.983Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "open-webui",
+        "avatar": "https://github.com/open-webui.png",
+        "url": "https://github.com/open-webui"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/701547123/275da62f-2139-4d2b-bcac-57c82872dd30"
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 52062,
+      "forks": 3279,
+      "stars_today": 2100,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "html_url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 37211,
+      "forks": 3855,
+      "stars_today": 886,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "lyogavin",
+        "avatar": "https://github.com/lyogavin.png",
+        "url": "https://github.com/lyogavin"
+      }
+    },
+    {
+      "id": "microsoft/BitNet",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "html_url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 40796,
+      "forks": 3801,
+      "stars_today": 195,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T16:00:02.983Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      }
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 58580,
+      "forks": 9270,
+      "stars_today": 705,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-12T00:00:00Z",
+      "first_seen": "2026-10-12T16:00:02.983Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
+      "owner": {
+        "login": "Alishahryar1",
+        "avatar": "https://github.com/Alishahryar1.png",
+        "url": "https://github.com/Alishahryar1"
+      }
     },
     {
       "id": "boykopovar/AnyPS5",
@@ -41,71 +202,11 @@
       "language": "C++",
       "created_at": "2026-10-12T00:00:00Z",
       "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
       "owner": {
         "login": "boykopovar",
         "avatar": "https://github.com/boykopovar.png",
         "url": "https://github.com/boykopovar"
-      }
-    },
-    {
-      "id": "storytold/artcraft",
-      "name": "artcraft",
-      "full_name": "storytold/artcraft",
-      "html_url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": 19391,
-      "forks": 3154,
-      "stars_today": 2957,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-10-12T00:00:00Z",
-      "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
-      "owner": {
-        "login": "storytold",
-        "avatar": "https://github.com/storytold.png",
-        "url": "https://github.com/storytold"
-      }
-    },
-    {
-      "id": "cathrynlavery/diagram-design",
-      "name": "diagram-design",
-      "full_name": "cathrynlavery/diagram-design",
-      "html_url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 51270,
-      "forks": 3244,
-      "stars_today": 1083,
-      "window": "today",
-      "language": "HTML",
-      "created_at": "2026-10-12T00:00:00Z",
-      "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
-      "owner": {
-        "login": "cathrynlavery",
-        "avatar": "https://github.com/cathrynlavery.png",
-        "url": "https://github.com/cathrynlavery"
-      }
-    },
-    {
-      "id": "bilawalsidhu/gods-eye-view",
-      "name": "gods-eye-view",
-      "full_name": "bilawalsidhu/gods-eye-view",
-      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": 52392,
-      "forks": 10458,
-      "stars_today": 886,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-10-12T00:00:00Z",
-      "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
-      "owner": {
-        "login": "bilawalsidhu",
-        "avatar": "https://github.com/bilawalsidhu.png",
-        "url": "https://github.com/bilawalsidhu"
       }
     },
     {
@@ -121,31 +222,11 @@
       "language": "Python",
       "created_at": "2026-10-12T00:00:00Z",
       "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
       "owner": {
         "login": "pytorch",
         "avatar": "https://github.com/pytorch.png",
         "url": "https://github.com/pytorch"
-      }
-    },
-    {
-      "id": "lyogavin/airllm",
-      "name": "airllm",
-      "full_name": "lyogavin/airllm",
-      "html_url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 36860,
-      "forks": 3834,
-      "stars_today": 548,
-      "window": "today",
-      "language": "Jupyter Notebook",
-      "created_at": "2026-10-12T00:00:00Z",
-      "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
-      "owner": {
-        "login": "lyogavin",
-        "avatar": "https://github.com/lyogavin.png",
-        "url": "https://github.com/lyogavin"
       }
     },
     {
@@ -161,7 +242,7 @@
       "language": "Assembly",
       "created_at": "2026-10-12T00:00:00Z",
       "first_seen": "2026-10-12T08:49:45.199Z",
-      "last_seen": "2026-10-12T08:49:45.199Z",
+      "last_seen": "2026-10-12T16:00:02.983Z",
       "owner": {
         "login": "chrislgarry",
         "avatar": "https://github.com/chrislgarry.png",
