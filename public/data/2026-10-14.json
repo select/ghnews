@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-14",
+  "since": "daily",
+  "fetched_at": "2026-10-14T08:00:02.162Z",
+  "first_fetched_at": "2026-10-14T08:00:02.162Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-14T08:00:02.162Z",
+  "total_count": 9,
+  "items": [
+    {
+      "id": "morluto/rea",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "html_url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 220248,
+      "forks": 54537,
+      "stars_today": 54679,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "morluto",
+        "avatar": "https://github.com/morluto.png",
+        "url": "https://github.com/morluto"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc"
+    },
+    {
+      "id": "bilawalsidhu/gods-eye-view",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": 55933,
+      "forks": 10898,
+      "stars_today": 1961,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "bilawalsidhu",
+        "avatar": "https://github.com/bilawalsidhu.png",
+        "url": "https://github.com/bilawalsidhu"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 64350,
+      "forks": 7145,
+      "stars_today": 1748,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 28542,
+      "forks": 2012,
+      "stars_today": 969,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 54707,
+      "forks": 3455,
+      "stars_today": 1815,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "vercel-labs/skills",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "html_url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 34739,
+      "forks": 2966,
+      "stars_today": 190,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "lyogavin/airllm",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "html_url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": 38511,
+      "forks": 3933,
+      "stars_today": 1001,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "lyogavin",
+        "avatar": "https://github.com/lyogavin.png",
+        "url": "https://github.com/lyogavin"
+      }
+    },
+    {
+      "id": "storytold/artcraft",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "html_url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": 26570,
+      "forks": 4148,
+      "stars_today": 4081,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "storytold",
+        "avatar": "https://github.com/storytold.png",
+        "url": "https://github.com/storytold"
+      }
+    },
+    {
+      "id": "xtool-org/xtool",
+      "name": "xtool",
+      "full_name": "xtool-org/xtool",
+      "html_url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": 9856,
+      "forks": 414,
+      "stars_today": 1198,
+      "window": "today",
+      "language": "Swift",
+      "created_at": "2026-10-14T00:00:00Z",
+      "first_seen": "2026-10-14T08:00:02.162Z",
+      "last_seen": "2026-10-14T08:00:02.162Z",
+      "owner": {
+        "login": "xtool-org",
+        "avatar": "https://github.com/xtool-org.png",
+        "url": "https://github.com/xtool-org"
+      }
+    }
+  ]
+}
