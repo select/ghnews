@@ -1,11 +1,11 @@
 {
   "date": "2026-10-15",
   "since": "daily",
-  "fetched_at": "2026-10-15T08:21:28.776Z",
-  "first_fetched_at": "2026-10-15T08:00:02.370Z",
-  "snapshots": 2,
-  "updated_at": "2026-10-15T08:21:28.776Z",
-  "total_count": 12,
+  "fetched_at": "2026-10-15T16:00:03.930Z",
+  "first_fetched_at": "2026-10-15T08:21:28.776Z",
+  "snapshots": 3,
+  "updated_at": "2026-10-15T16:00:03.930Z",
+  "total_count": 19,
   "items": [
     {
       "id": "morluto/rea",
@@ -13,14 +13,14 @@
       "full_name": "morluto/rea",
       "html_url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 253495,
-      "forks": 63689,
-      "stars_today": 41034,
+      "stars": 263173,
+      "forks": 66199,
+      "stars_today": 32282,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "morluto",
         "avatar": "https://github.com/morluto.png",
@@ -29,19 +29,79 @@
       "banner_url": "https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc"
     },
     {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 38603,
+      "forks": 4297,
+      "stars_today": 525,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 50170,
+      "forks": 4467,
+      "stars_today": 1091,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T08:00:02.370Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "JuliusBrussee/caveman",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "html_url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 112270,
+      "forks": 6509,
+      "stars_today": 398,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "JuliusBrussee",
+        "avatar": "https://github.com/JuliusBrussee.png",
+        "url": "https://github.com/JuliusBrussee"
+      }
+    },
+    {
       "id": "debpalash/VoiceStudio",
       "name": "VoiceStudio",
       "full_name": "debpalash/VoiceStudio",
       "html_url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 67418,
-      "forks": 7398,
-      "stars_today": 3538,
+      "stars": 68313,
+      "forks": 7475,
+      "stars_today": 3027,
       "window": "today",
       "language": "Python",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "debpalash",
         "avatar": "https://github.com/debpalash.png",
@@ -50,23 +110,144 @@
       "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
     },
     {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 299631,
+      "forks": 26763,
+      "stars_today": 534,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 74888,
+      "forks": 8907,
+      "stars_today": 224,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    },
+    {
       "id": "mksglu/context-mode",
       "name": "context-mode",
       "full_name": "mksglu/context-mode",
       "html_url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 29448,
-      "forks": 2059,
-      "stars_today": 947,
+      "stars": 29661,
+      "forks": 2067,
+      "stars_today": 902,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "mksglu",
         "avatar": "https://github.com/mksglu.png",
         "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "NationalSecurityAgency/ghidra",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": 88351,
+      "forks": 9854,
+      "stars_today": 1366,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T08:00:02.370Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "url": "https://github.com/NationalSecurityAgency"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 280029,
+      "forks": 41654,
+      "stars_today": 1015,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "lightseekorg/tokenspeed",
+      "name": "tokenspeed",
+      "full_name": "lightseekorg/tokenspeed",
+      "html_url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 2369,
+      "forks": 331,
+      "stars_today": 25,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "lightseekorg",
+        "avatar": "https://github.com/lightseekorg.png",
+        "url": "https://github.com/lightseekorg"
+      }
+    },
+    {
+      "id": "xerj-org/xerj",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "html_url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 5325,
+      "forks": 299,
+      "stars_today": 725,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T16:00:03.930Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
+      "owner": {
+        "login": "xerj-org",
+        "avatar": "https://github.com/xerj-org.png",
+        "url": "https://github.com/xerj-org"
       }
     },
     {
@@ -82,33 +263,13 @@
       "language": "Shell",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "nvm-sh",
         "avatar": "https://github.com/nvm-sh.png",
         "url": "https://github.com/nvm-sh"
       },
       "banner_url": "https://repository-images.githubusercontent.com/612230/53a0c44a-1f6e-4f8d-918f-89762fafe369"
-    },
-    {
-      "id": "K-Dense-AI/scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 49750,
-      "forks": 4442,
-      "stars_today": 163,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-15T00:00:00Z",
-      "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
-      "owner": {
-        "login": "K-Dense-AI",
-        "avatar": "https://github.com/K-Dense-AI.png",
-        "url": "https://github.com/K-Dense-AI"
-      }
     },
     {
       "id": "HKUDS/CLI-Anything",
@@ -123,7 +284,7 @@
       "language": "Python",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "HKUDS",
         "avatar": "https://github.com/HKUDS.png",
@@ -143,7 +304,7 @@
       "language": "Python",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "ifixai-ai",
         "avatar": "https://github.com/ifixai-ai.png",
@@ -164,7 +325,7 @@
       "language": "Go",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "vxcontrol",
         "avatar": "https://github.com/vxcontrol.png",
@@ -185,7 +346,7 @@
       "language": "Rust",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "rust-lang",
         "avatar": "https://github.com/rust-lang.png",
@@ -205,7 +366,7 @@
       "language": "Swift",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "xtool-org",
         "avatar": "https://github.com/xtool-org.png",
@@ -225,31 +386,11 @@
       "language": "C#",
       "created_at": "2026-10-15T00:00:00Z",
       "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
+      "last_seen": "2026-10-15T16:00:03.930Z",
       "owner": {
         "login": "ntdevlabs",
         "avatar": "https://github.com/ntdevlabs.png",
         "url": "https://github.com/ntdevlabs"
-      }
-    },
-    {
-      "id": "NationalSecurityAgency/ghidra",
-      "name": "ghidra",
-      "full_name": "NationalSecurityAgency/ghidra",
-      "html_url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": 87940,
-      "forks": 9812,
-      "stars_today": 1008,
-      "window": "today",
-      "language": "Java",
-      "created_at": "2026-10-15T00:00:00Z",
-      "first_seen": "2026-10-15T08:00:02.370Z",
-      "last_seen": "2026-10-15T08:21:28.776Z",
-      "owner": {
-        "login": "NationalSecurityAgency",
-        "avatar": "https://github.com/NationalSecurityAgency.png",
-        "url": "https://github.com/NationalSecurityAgency"
       }
     }
   ]
