@@ -1,12 +1,276 @@
 {
   "date": "2026-10-16",
   "since": "daily",
-  "fetched_at": "2026-10-16T08:00:03.379Z",
-  "first_fetched_at": "2026-10-16T07:51:11.449Z",
-  "snapshots": 2,
-  "updated_at": "2026-10-16T08:00:03.379Z",
-  "total_count": 13,
+  "fetched_at": "2026-10-16T16:00:04.672Z",
+  "first_fetched_at": "2026-10-16T08:00:03.379Z",
+  "snapshots": 3,
+  "updated_at": "2026-10-16T16:00:04.672Z",
+  "total_count": 18,
   "items": [
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 40102,
+      "forks": 4371,
+      "stars_today": 1552,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 51226,
+      "forks": 4541,
+      "stars_today": 1158,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 281094,
+      "forks": 41801,
+      "stars_today": 1057,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 53307,
+      "forks": 4831,
+      "stars_today": 323,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T16:00:04.672Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "mksglu/context-mode",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "html_url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 30075,
+      "forks": 2116,
+      "stars_today": 449,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "mksglu",
+        "avatar": "https://github.com/mksglu.png",
+        "url": "https://github.com/mksglu"
+      }
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 75490,
+      "forks": 8955,
+      "stars_today": 672,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    },
+    {
+      "id": "android/skills",
+      "name": "skills",
+      "full_name": "android/skills",
+      "html_url": "https://github.com/android/skills",
+      "description": "",
+      "stars": 7931,
+      "forks": 525,
+      "stars_today": 35,
+      "window": "today",
+      "language": "Kotlin",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T16:00:04.672Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "android",
+        "avatar": "https://github.com/android.png",
+        "url": "https://github.com/android"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 300496,
+      "forks": 26829,
+      "stars_today": 973,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 11819,
+      "forks": 1150,
+      "stars_today": 214,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T16:00:04.672Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 70441,
+      "forks": 7715,
+      "stars_today": 2301,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "MadsLorentzen/ai-job-search",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "html_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 48011,
+      "forks": 16537,
+      "stars_today": 879,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T16:00:04.672Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "MadsLorentzen",
+        "avatar": "https://github.com/MadsLorentzen.png",
+        "url": "https://github.com/MadsLorentzen"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697"
+    },
+    {
+      "id": "hmjz100/LinkSwift",
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "html_url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": 23475,
+      "forks": 1423,
+      "stars_today": 592,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T16:00:04.672Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "hmjz100",
+        "avatar": "https://github.com/hmjz100.png",
+        "url": "https://github.com/hmjz100"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/523325759/b9811cf2-d96d-49ea-b693-dad00c287f6a"
+    },
+    {
+      "id": "xerj-org/xerj",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "html_url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 6631,
+      "forks": 335,
+      "stars_today": 1647,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-16T00:00:00Z",
+      "first_seen": "2026-10-16T07:51:11.449Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
+      "owner": {
+        "login": "xerj-org",
+        "avatar": "https://github.com/xerj-org.png",
+        "url": "https://github.com/xerj-org"
+      }
+    },
     {
       "id": "morluto/rea",
       "name": "rea",
@@ -20,53 +284,13 @@
       "language": "TypeScript",
       "created_at": "2026-10-16T00:00:00Z",
       "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
       "owner": {
         "login": "morluto",
         "avatar": "https://github.com/morluto.png",
         "url": "https://github.com/morluto"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc"
-    },
-    {
-      "id": "anthropics/claude-plugins-official",
-      "name": "claude-plugins-official",
-      "full_name": "anthropics/claude-plugins-official",
-      "html_url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 39536,
-      "forks": 4352,
-      "stars_today": 307,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "anthropics",
-        "avatar": "https://github.com/anthropics.png",
-        "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "K-Dense-AI/scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "full_name": "K-Dense-AI/scientific-agent-skills",
-      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": 50859,
-      "forks": 4518,
-      "stars_today": 1091,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "K-Dense-AI",
-        "avatar": "https://github.com/K-Dense-AI.png",
-        "url": "https://github.com/K-Dense-AI"
-      }
     },
     {
       "id": "JuliusBrussee/caveman",
@@ -81,93 +305,11 @@
       "language": "Go",
       "created_at": "2026-10-16T00:00:00Z",
       "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
       "owner": {
         "login": "JuliusBrussee",
         "avatar": "https://github.com/JuliusBrussee.png",
         "url": "https://github.com/JuliusBrussee"
-      }
-    },
-    {
-      "id": "debpalash/VoiceStudio",
-      "name": "VoiceStudio",
-      "full_name": "debpalash/VoiceStudio",
-      "html_url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 69731,
-      "forks": 7634,
-      "stars_today": 3024,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "debpalash",
-        "avatar": "https://github.com/debpalash.png",
-        "url": "https://github.com/debpalash"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
-    },
-    {
-      "id": "obra/superpowers",
-      "name": "superpowers",
-      "full_name": "obra/superpowers",
-      "html_url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 300199,
-      "forks": 26811,
-      "stars_today": 582,
-      "window": "today",
-      "language": "Shell",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "obra",
-        "avatar": "https://github.com/obra.png",
-        "url": "https://github.com/obra"
-      }
-    },
-    {
-      "id": "ruvnet/ruflo",
-      "name": "ruflo",
-      "full_name": "ruvnet/ruflo",
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 75316,
-      "forks": 8943,
-      "stars_today": 147,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "ruvnet",
-        "avatar": "https://github.com/ruvnet.png",
-        "url": "https://github.com/ruvnet"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
-    },
-    {
-      "id": "mksglu/context-mode",
-      "name": "context-mode",
-      "full_name": "mksglu/context-mode",
-      "html_url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 29928,
-      "forks": 2092,
-      "stars_today": 904,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "mksglu",
-        "avatar": "https://github.com/mksglu.png",
-        "url": "https://github.com/mksglu"
       }
     },
     {
@@ -183,31 +325,11 @@
       "language": "Java",
       "created_at": "2026-10-16T00:00:00Z",
       "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
       "owner": {
         "login": "NationalSecurityAgency",
         "avatar": "https://github.com/NationalSecurityAgency.png",
         "url": "https://github.com/NationalSecurityAgency"
-      }
-    },
-    {
-      "id": "affaan-m/ECC",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 280689,
-      "forks": 41742,
-      "stars_today": 1013,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "affaan-m",
-        "avatar": "https://github.com/affaan-m.png",
-        "url": "https://github.com/affaan-m"
       }
     },
     {
@@ -223,31 +345,11 @@
       "language": "Python",
       "created_at": "2026-10-16T00:00:00Z",
       "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
       "owner": {
         "login": "lightseekorg",
         "avatar": "https://github.com/lightseekorg.png",
         "url": "https://github.com/lightseekorg"
-      }
-    },
-    {
-      "id": "xerj-org/xerj",
-      "name": "xerj",
-      "full_name": "xerj-org/xerj",
-      "html_url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "stars": 6048,
-      "forks": 323,
-      "stars_today": 715,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-10-16T00:00:00Z",
-      "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
-      "owner": {
-        "login": "xerj-org",
-        "avatar": "https://github.com/xerj-org.png",
-        "url": "https://github.com/xerj-org"
       }
     },
     {
@@ -263,7 +365,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-16T00:00:00Z",
       "first_seen": "2026-10-16T07:51:11.449Z",
-      "last_seen": "2026-10-16T08:00:03.379Z",
+      "last_seen": "2026-10-16T16:00:04.672Z",
       "owner": {
         "login": "LibreSpark",
         "avatar": "https://github.com/LibreSpark.png",
