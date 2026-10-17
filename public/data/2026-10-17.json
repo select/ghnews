@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-17",
+  "since": "daily",
+  "fetched_at": "2026-10-17T11:19:50.744Z",
+  "first_fetched_at": "2026-10-17T11:19:50.744Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-17T11:19:50.744Z",
+  "total_count": 13,
+  "items": [
+    {
+      "id": "anthropics/claude-plugins-official",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "html_url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 41108,
+      "forks": 4432,
+      "stars_today": 1383,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "MadsLorentzen/ai-job-search",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "html_url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 49133,
+      "forks": 16730,
+      "stars_today": 1397,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "MadsLorentzen",
+        "avatar": "https://github.com/MadsLorentzen.png",
+        "url": "https://github.com/MadsLorentzen"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697"
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 281903,
+      "forks": 41921,
+      "stars_today": 1145,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 53743,
+      "forks": 4881,
+      "stars_today": 580,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 51896,
+      "forks": 4596,
+      "stars_today": 879,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "K-Dense-AI",
+        "avatar": "https://github.com/K-Dense-AI.png",
+        "url": "https://github.com/K-Dense-AI"
+      }
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 9662,
+      "forks": 692,
+      "stars_today": 159,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "android/skills",
+      "name": "skills",
+      "full_name": "android/skills",
+      "html_url": "https://github.com/android/skills",
+      "description": "",
+      "stars": 8232,
+      "forks": 542,
+      "stars_today": 368,
+      "window": "today",
+      "language": "Kotlin",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "android",
+        "avatar": "https://github.com/android.png",
+        "url": "https://github.com/android"
+      }
+    },
+    {
+      "id": "stablyai/orca",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "html_url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 94798,
+      "forks": 6064,
+      "stars_today": 1102,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "stablyai",
+        "avatar": "https://github.com/stablyai.png",
+        "url": "https://github.com/stablyai"
+      }
+    },
+    {
+      "id": "anthropics/claude-code",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 151342,
+      "forks": 26857,
+      "stars_today": 168,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 72111,
+      "forks": 7878,
+      "stars_today": 2135,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "anomalyco/opencode",
+      "name": "opencode",
+      "full_name": "anomalyco/opencode",
+      "html_url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 214544,
+      "forks": 28796,
+      "stars_today": 488,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "anomalyco",
+        "avatar": "https://github.com/anomalyco.png",
+        "url": "https://github.com/anomalyco"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277"
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 75796,
+      "forks": 8979,
+      "stars_today": 406,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    },
+    {
+      "id": "xerj-org/xerj",
+      "name": "xerj",
+      "full_name": "xerj-org/xerj",
+      "html_url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": 7333,
+      "forks": 382,
+      "stars_today": 1102,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-17T00:00:00Z",
+      "first_seen": "2026-10-17T11:19:50.744Z",
+      "last_seen": "2026-10-17T11:19:50.744Z",
+      "owner": {
+        "login": "xerj-org",
+        "avatar": "https://github.com/xerj-org.png",
+        "url": "https://github.com/xerj-org"
+      }
+    }
+  ]
+}
