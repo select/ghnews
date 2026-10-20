@@ -1,11 +1,11 @@
 {
   "date": "2026-10-20",
   "since": "daily",
-  "fetched_at": "2026-10-20T09:53:13.967Z",
+  "fetched_at": "2026-10-20T16:00:13.202Z",
   "first_fetched_at": "2026-10-20T09:53:13.967Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-20T09:53:13.967Z",
-  "total_count": 12,
+  "snapshots": 2,
+  "updated_at": "2026-10-20T16:00:13.202Z",
+  "total_count": 20,
   "items": [
     {
       "id": "MadsLorentzen/ai-job-search",
@@ -13,14 +13,14 @@
       "full_name": "MadsLorentzen/ai-job-search",
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 58765,
-      "forks": 18490,
-      "stars_today": 3856,
+      "stars": 59696,
+      "forks": 18698,
+      "stars_today": 3890,
       "window": "today",
       "language": "Python",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "MadsLorentzen",
         "avatar": "https://github.com/MadsLorentzen.png",
@@ -29,25 +29,288 @@
       "banner_url": "https://repository-images.githubusercontent.com/1185389803/271a94f5-52ea-4327-87ea-135166c3c697"
     },
     {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 33489,
+      "forks": 2103,
+      "stars_today": 849,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "stablyai/orca",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "html_url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 99328,
+      "forks": 6322,
+      "stars_today": 1559,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "stablyai",
+        "avatar": "https://github.com/stablyai.png",
+        "url": "https://github.com/stablyai"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 169086,
+      "forks": 9192,
+      "stars_today": 1007,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "Comfy-Org/ComfyUI",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 140513,
+      "forks": 16637,
+      "stars_today": 1201,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "Comfy-Org",
+        "avatar": "https://github.com/Comfy-Org.png",
+        "url": "https://github.com/Comfy-Org"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b"
+    },
+    {
+      "id": "ruvnet/ruflo",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": 77634,
+      "forks": 9136,
+      "stars_today": 683,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
+    },
+    {
+      "id": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 129801,
+      "forks": 12498,
+      "stars_today": 906,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "Graphify-Labs",
+        "avatar": "https://github.com/Graphify-Labs.png",
+        "url": "https://github.com/Graphify-Labs"
+      }
+    },
+    {
+      "id": "YuJunZhiXue/dsh-purge",
+      "name": "dsh-purge",
+      "full_name": "YuJunZhiXue/dsh-purge",
+      "html_url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "stars": 11039,
+      "forks": 2530,
+      "stars_today": 1168,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "YuJunZhiXue",
+        "avatar": "https://github.com/YuJunZhiXue.png",
+        "url": "https://github.com/YuJunZhiXue"
+      }
+    },
+    {
       "id": "anomalyco/opencode",
       "name": "opencode",
       "full_name": "anomalyco/opencode",
       "html_url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
-      "stars": 218284,
-      "forks": 29155,
-      "stars_today": 1311,
+      "stars": 218603,
+      "forks": 29177,
+      "stars_today": 1256,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "anomalyco",
         "avatar": "https://github.com/anomalyco.png",
         "url": "https://github.com/anomalyco"
       },
       "banner_url": "https://repository-images.githubusercontent.com/975734319/2c2c3389-c647-405c-a499-f80e4d521277"
+    },
+    {
+      "id": "msitarzewski/agency-agents",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "html_url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 162108,
+      "forks": 26236,
+      "stars_today": 590,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "msitarzewski",
+        "avatar": "https://github.com/msitarzewski.png",
+        "url": "https://github.com/msitarzewski"
+      }
+    },
+    {
+      "id": "headroomlabs-ai/headroom",
+      "name": "headroom",
+      "full_name": "headroomlabs-ai/headroom",
+      "html_url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 76606,
+      "forks": 5949,
+      "stars_today": 555,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "headroomlabs-ai",
+        "avatar": "https://github.com/headroomlabs-ai.png",
+        "url": "https://github.com/headroomlabs-ai"
+      }
+    },
+    {
+      "id": "anthropics/knowledge-work-plugins",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 30667,
+      "forks": 3460,
+      "stars_today": 262,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "sickn33/agentic-awesome-skills",
+      "name": "agentic-awesome-skills",
+      "full_name": "sickn33/agentic-awesome-skills",
+      "html_url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "stars": 48071,
+      "forks": 7014,
+      "stars_today": 58,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "sickn33",
+        "avatar": "https://github.com/sickn33.png",
+        "url": "https://github.com/sickn33"
+      }
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 42151,
+      "forks": 6984,
+      "stars_today": 719,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "vllm-project/vllm",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 94321,
+      "forks": 23655,
+      "stars_today": 98,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-20T00:00:00Z",
+      "first_seen": "2026-10-20T16:00:13.202Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
+      "owner": {
+        "login": "vllm-project",
+        "avatar": "https://github.com/vllm-project.png",
+        "url": "https://github.com/vllm-project"
+      }
     },
     {
       "id": "akitaonrails/ai-memory",
@@ -62,93 +325,11 @@
       "language": "Rust",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "akitaonrails",
         "avatar": "https://github.com/akitaonrails.png",
         "url": "https://github.com/akitaonrails"
-      }
-    },
-    {
-      "id": "Comfy-Org/ComfyUI",
-      "name": "ComfyUI",
-      "full_name": "Comfy-Org/ComfyUI",
-      "html_url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 140234,
-      "forks": 16616,
-      "stars_today": 1011,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-20T00:00:00Z",
-      "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
-      "owner": {
-        "login": "Comfy-Org",
-        "avatar": "https://github.com/Comfy-Org.png",
-        "url": "https://github.com/Comfy-Org"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b"
-    },
-    {
-      "id": "ruvnet/ruflo",
-      "name": "ruflo",
-      "full_name": "ruvnet/ruflo",
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": 77468,
-      "forks": 9121,
-      "stars_today": 564,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-20T00:00:00Z",
-      "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
-      "owner": {
-        "login": "ruvnet",
-        "avatar": "https://github.com/ruvnet.png",
-        "url": "https://github.com/ruvnet"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
-    },
-    {
-      "id": "stablyai/orca",
-      "name": "orca",
-      "full_name": "stablyai/orca",
-      "html_url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 98890,
-      "forks": 6300,
-      "stars_today": 1590,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-20T00:00:00Z",
-      "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
-      "owner": {
-        "login": "stablyai",
-        "avatar": "https://github.com/stablyai.png",
-        "url": "https://github.com/stablyai"
-      }
-    },
-    {
-      "id": "headroomlabs-ai/headroom",
-      "name": "headroom",
-      "full_name": "headroomlabs-ai/headroom",
-      "html_url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 76471,
-      "forks": 5938,
-      "stars_today": 310,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-20T00:00:00Z",
-      "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
-      "owner": {
-        "login": "headroomlabs-ai",
-        "avatar": "https://github.com/headroomlabs-ai.png",
-        "url": "https://github.com/headroomlabs-ai"
       }
     },
     {
@@ -164,7 +345,7 @@
       "language": "JavaScript",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "withmarbleapp",
         "avatar": "https://github.com/withmarbleapp.png",
@@ -184,7 +365,7 @@
       "language": "Python",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "Kruk2",
         "avatar": "https://github.com/Kruk2.png",
@@ -204,7 +385,7 @@
       "language": "Python",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "HKUDS",
         "avatar": "https://github.com/HKUDS.png",
@@ -224,31 +405,11 @@
       "language": "TypeScript",
       "created_at": "2026-10-20T00:00:00Z",
       "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
+      "last_seen": "2026-10-20T16:00:13.202Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
         "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "shiyu-coder/Kronos",
-      "name": "Kronos",
-      "full_name": "shiyu-coder/Kronos",
-      "html_url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 41964,
-      "forks": 6957,
-      "stars_today": 363,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-20T00:00:00Z",
-      "first_seen": "2026-10-20T09:53:13.967Z",
-      "last_seen": "2026-10-20T09:53:13.967Z",
-      "owner": {
-        "login": "shiyu-coder",
-        "avatar": "https://github.com/shiyu-coder.png",
-        "url": "https://github.com/shiyu-coder"
       }
     }
   ]
