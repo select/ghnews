@@ -1,11 +1,11 @@
 {
   "date": "2026-10-21",
   "since": "daily",
-  "fetched_at": "2026-10-21T09:19:23.527Z",
+  "fetched_at": "2026-10-21T16:00:04.689Z",
   "first_fetched_at": "2026-10-21T09:19:23.527Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-21T09:19:23.527Z",
-  "total_count": 14,
+  "snapshots": 2,
+  "updated_at": "2026-10-21T16:00:04.689Z",
+  "total_count": 18,
   "items": [
     {
       "id": "MadsLorentzen/ai-job-search",
@@ -13,14 +13,14 @@
       "full_name": "MadsLorentzen/ai-job-search",
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 61792,
-      "forks": 19121,
-      "stars_today": 3861,
+      "stars": 62596,
+      "forks": 19322,
+      "stars_today": 3131,
       "window": "today",
       "language": "Python",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "MadsLorentzen",
         "avatar": "https://github.com/MadsLorentzen.png",
@@ -34,18 +34,38 @@
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 34888,
-      "forks": 2194,
-      "stars_today": 1712,
+      "stars": 35388,
+      "forks": 2223,
+      "stars_today": 1997,
       "window": "today",
       "language": "JavaScript",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "cloudflare",
         "avatar": "https://github.com/cloudflare.png",
         "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "vllm-project/vllm",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 94748,
+      "forks": 23722,
+      "stars_today": 439,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "vllm-project",
+        "avatar": "https://github.com/vllm-project.png",
+        "url": "https://github.com/vllm-project"
       }
     },
     {
@@ -54,18 +74,38 @@
       "full_name": "stablyai/orca",
       "html_url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 100341,
-      "forks": 6358,
-      "stars_today": 1565,
+      "stars": 100800,
+      "forks": 6375,
+      "stars_today": 1543,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "stablyai",
         "avatar": "https://github.com/stablyai.png",
         "url": "https://github.com/stablyai"
+      }
+    },
+    {
+      "id": "headroomlabs-ai/headroom",
+      "name": "headroom",
+      "full_name": "headroomlabs-ai/headroom",
+      "html_url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 77090,
+      "forks": 5981,
+      "stars_today": 477,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "headroomlabs-ai",
+        "avatar": "https://github.com/headroomlabs-ai.png",
+        "url": "https://github.com/headroomlabs-ai"
       }
     },
     {
@@ -74,14 +114,14 @@
       "full_name": "DietrichGebert/ponytail",
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 170486,
-      "forks": 9277,
-      "stars_today": 1208,
+      "stars": 171019,
+      "forks": 9307,
+      "stars_today": 2051,
       "window": "today",
       "language": "JavaScript",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "DietrichGebert",
         "avatar": "https://github.com/DietrichGebert.png",
@@ -95,20 +135,142 @@
       "full_name": "Comfy-Org/ComfyUI",
       "html_url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "stars": 141111,
-      "forks": 16694,
-      "stars_today": 1206,
+      "stars": 141307,
+      "forks": 16706,
+      "stars_today": 914,
       "window": "today",
       "language": "Python",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "Comfy-Org",
         "avatar": "https://github.com/Comfy-Org.png",
         "url": "https://github.com/Comfy-Org"
       },
       "banner_url": "https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b"
+    },
+    {
+      "id": "supabase/supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "html_url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 112756,
+      "forks": 16852,
+      "stars_today": 509,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T16:00:04.689Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "supabase",
+        "avatar": "https://github.com/supabase.png",
+        "url": "https://github.com/supabase"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/214587193/00f59f00-90a6-11eb-8764-f49e3f731458"
+    },
+    {
+      "id": "twentyhq/twenty",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "html_url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 58915,
+      "forks": 9649,
+      "stars_today": 105,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T16:00:04.689Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "twentyhq",
+        "avatar": "https://github.com/twentyhq.png",
+        "url": "https://github.com/twentyhq"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/572984571/ef151ee9-3060-418b-bf88-cb689ab78c7b"
+    },
+    {
+      "id": "shiyu-coder/Kronos",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "html_url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 42675,
+      "forks": 7052,
+      "stars_today": 570,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "shiyu-coder",
+        "avatar": "https://github.com/shiyu-coder.png",
+        "url": "https://github.com/shiyu-coder"
+      }
+    },
+    {
+      "id": "strelov1/freehire",
+      "name": "freehire",
+      "full_name": "strelov1/freehire",
+      "html_url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "stars": 2146,
+      "forks": 232,
+      "stars_today": 405,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T16:00:04.689Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "strelov1",
+        "avatar": "https://github.com/strelov1.png",
+        "url": "https://github.com/strelov1"
+      }
+    },
+    {
+      "id": "akitaonrails/ai-memory",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "html_url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 12121,
+      "forks": 858,
+      "stars_today": 303,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T16:00:04.689Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "akitaonrails",
+        "avatar": "https://github.com/akitaonrails.png",
+        "url": "https://github.com/akitaonrails"
+      }
+    },
+    {
+      "id": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 131181,
+      "forks": 12605,
+      "stars_today": 1434,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-21T00:00:00Z",
+      "first_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
+      "owner": {
+        "login": "Graphify-Labs",
+        "avatar": "https://github.com/Graphify-Labs.png",
+        "url": "https://github.com/Graphify-Labs"
+      }
     },
     {
       "id": "ruvnet/ruflo",
@@ -123,33 +285,13 @@
       "language": "TypeScript",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "ruvnet",
         "avatar": "https://github.com/ruvnet.png",
         "url": "https://github.com/ruvnet"
       },
       "banner_url": "https://repository-images.githubusercontent.com/995029641/095f6349-c2bf-4850-b1bf-87ebfa3091db"
-    },
-    {
-      "id": "Graphify-Labs/graphify",
-      "name": "graphify",
-      "full_name": "Graphify-Labs/graphify",
-      "html_url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": 130758,
-      "forks": 12570,
-      "stars_today": 802,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-21T00:00:00Z",
-      "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
-      "owner": {
-        "login": "Graphify-Labs",
-        "avatar": "https://github.com/Graphify-Labs.png",
-        "url": "https://github.com/Graphify-Labs"
-      }
     },
     {
       "id": "anomalyco/opencode",
@@ -164,7 +306,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "anomalyco",
         "avatar": "https://github.com/anomalyco.png",
@@ -185,31 +327,11 @@
       "language": "Shell",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "msitarzewski",
         "avatar": "https://github.com/msitarzewski.png",
         "url": "https://github.com/msitarzewski"
-      }
-    },
-    {
-      "id": "headroomlabs-ai/headroom",
-      "name": "headroom",
-      "full_name": "headroomlabs-ai/headroom",
-      "html_url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 76935,
-      "forks": 5971,
-      "stars_today": 549,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-21T00:00:00Z",
-      "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
-      "owner": {
-        "login": "headroomlabs-ai",
-        "avatar": "https://github.com/headroomlabs-ai.png",
-        "url": "https://github.com/headroomlabs-ai"
       }
     },
     {
@@ -225,7 +347,7 @@
       "language": "Python",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
@@ -245,51 +367,11 @@
       "language": "Python",
       "created_at": "2026-10-21T00:00:00Z",
       "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
+      "last_seen": "2026-10-21T16:00:04.689Z",
       "owner": {
         "login": "wshobson",
         "avatar": "https://github.com/wshobson.png",
         "url": "https://github.com/wshobson"
-      }
-    },
-    {
-      "id": "shiyu-coder/Kronos",
-      "name": "Kronos",
-      "full_name": "shiyu-coder/Kronos",
-      "html_url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 42529,
-      "forks": 7033,
-      "stars_today": 733,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-21T00:00:00Z",
-      "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
-      "owner": {
-        "login": "shiyu-coder",
-        "avatar": "https://github.com/shiyu-coder.png",
-        "url": "https://github.com/shiyu-coder"
-      }
-    },
-    {
-      "id": "vllm-project/vllm",
-      "name": "vllm",
-      "full_name": "vllm-project/vllm",
-      "html_url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 94616,
-      "forks": 23700,
-      "stars_today": 128,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-21T00:00:00Z",
-      "first_seen": "2026-10-21T09:19:23.527Z",
-      "last_seen": "2026-10-21T09:19:23.527Z",
-      "owner": {
-        "login": "vllm-project",
-        "avatar": "https://github.com/vllm-project.png",
-        "url": "https://github.com/vllm-project"
       }
     }
   ]
