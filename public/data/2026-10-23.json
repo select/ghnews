@@ -1,26 +1,46 @@
 {
   "date": "2026-10-23",
   "since": "daily",
-  "fetched_at": "2026-10-23T09:15:18.027Z",
+  "fetched_at": "2026-10-23T16:00:08.833Z",
   "first_fetched_at": "2026-10-23T09:15:18.027Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-23T09:15:18.027Z",
-  "total_count": 9,
+  "snapshots": 2,
+  "updated_at": "2026-10-23T16:00:08.833Z",
+  "total_count": 14,
   "items": [
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 41298,
+      "forks": 2577,
+      "stars_today": 2706,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
     {
       "id": "php/php-src",
       "name": "php-src",
       "full_name": "php/php-src",
       "html_url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
-      "stars": 41390,
-      "forks": 8333,
-      "stars_today": 287,
+      "stars": 41492,
+      "forks": 8348,
+      "stars_today": 722,
       "window": "today",
       "language": "C",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "php",
         "avatar": "https://github.com/php.png",
@@ -33,18 +53,118 @@
       "full_name": "anthropics/knowledge-work-plugins",
       "html_url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 31854,
-      "forks": 3546,
-      "stars_today": 303,
+      "stars": 32032,
+      "forks": 3559,
+      "stars_today": 643,
       "window": "today",
       "language": "Python",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
         "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 18474,
+      "forks": 1862,
+      "stars_today": 1240,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T16:00:08.833Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "Renhuai123/ziwei-doushu",
+      "name": "ziwei-doushu",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 6733,
+      "forks": 1380,
+      "stars_today": 547,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T16:00:08.833Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "Renhuai123",
+        "avatar": "https://github.com/Renhuai123.png",
+        "url": "https://github.com/Renhuai123"
+      }
+    },
+    {
+      "id": "SnailSploit/Claude-Red",
+      "name": "Claude-Red",
+      "full_name": "SnailSploit/Claude-Red",
+      "html_url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 8179,
+      "forks": 1080,
+      "stars_today": 209,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T16:00:08.833Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "SnailSploit",
+        "avatar": "https://github.com/SnailSploit.png",
+        "url": "https://github.com/SnailSploit"
+      }
+    },
+    {
+      "id": "OpenBMB/VoxCPM",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "html_url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 40092,
+      "forks": 4559,
+      "stars_today": 144,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T16:00:08.833Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "OpenBMB",
+        "avatar": "https://github.com/OpenBMB.png",
+        "url": "https://github.com/OpenBMB"
+      }
+    },
+    {
+      "id": "nodejs/node",
+      "name": "node",
+      "full_name": "nodejs/node",
+      "html_url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 122680,
+      "forks": 39940,
+      "stars_today": 93,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T16:00:08.833Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
+      "owner": {
+        "login": "nodejs",
+        "avatar": "https://github.com/nodejs.png",
+        "url": "https://github.com/nodejs"
       }
     },
     {
@@ -60,33 +180,13 @@
       "language": "JavaScript",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "DietrichGebert",
         "avatar": "https://github.com/DietrichGebert.png",
         "url": "https://github.com/DietrichGebert"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
-    },
-    {
-      "id": "cloudflare/security-audit-skill",
-      "name": "security-audit-skill",
-      "full_name": "cloudflare/security-audit-skill",
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 40419,
-      "forks": 2521,
-      "stars_today": 2979,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-10-23T00:00:00Z",
-      "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
-      "owner": {
-        "login": "cloudflare",
-        "avatar": "https://github.com/cloudflare.png",
-        "url": "https://github.com/cloudflare"
-      }
     },
     {
       "id": "Graphify-Labs/graphify",
@@ -101,7 +201,7 @@
       "language": "Python",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "Graphify-Labs",
         "avatar": "https://github.com/Graphify-Labs.png",
@@ -121,7 +221,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "supabase",
         "avatar": "https://github.com/supabase.png",
@@ -142,7 +242,7 @@
       "language": "Python",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "fastapi",
         "avatar": "https://github.com/fastapi.png",
@@ -163,7 +263,7 @@
       "language": "Python",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "luongnv89",
         "avatar": "https://github.com/luongnv89.png",
@@ -183,7 +283,7 @@
       "language": "Visual Basic .NET",
       "created_at": "2026-10-23T00:00:00Z",
       "first_seen": "2026-10-23T09:15:18.027Z",
-      "last_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T16:00:08.833Z",
       "owner": {
         "login": "Meloong-Git",
         "avatar": "https://github.com/Meloong-Git.png",
