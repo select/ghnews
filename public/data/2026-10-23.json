@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-23",
+  "since": "daily",
+  "fetched_at": "2026-10-23T09:15:18.027Z",
+  "first_fetched_at": "2026-10-23T09:15:18.027Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-23T09:15:18.027Z",
+  "total_count": 9,
+  "items": [
+    {
+      "id": "php/php-src",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "html_url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "stars": 41390,
+      "forks": 8333,
+      "stars_today": 287,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "php",
+        "avatar": "https://github.com/php.png",
+        "url": "https://github.com/php"
+      }
+    },
+    {
+      "id": "anthropics/knowledge-work-plugins",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 31854,
+      "forks": 3546,
+      "stars_today": 303,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 174182,
+      "forks": 9483,
+      "stars_today": 1948,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "DietrichGebert",
+        "avatar": "https://github.com/DietrichGebert.png",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 40419,
+      "forks": 2521,
+      "stars_today": 2979,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "Graphify-Labs/graphify",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 133446,
+      "forks": 12750,
+      "stars_today": 1408,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "Graphify-Labs",
+        "avatar": "https://github.com/Graphify-Labs.png",
+        "url": "https://github.com/Graphify-Labs"
+      }
+    },
+    {
+      "id": "supabase/supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "html_url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 113645,
+      "forks": 17021,
+      "stars_today": 693,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "supabase",
+        "avatar": "https://github.com/supabase.png",
+        "url": "https://github.com/supabase"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/214587193/00f59f00-90a6-11eb-8764-f49e3f731458"
+    },
+    {
+      "id": "fastapi/fastapi",
+      "name": "fastapi",
+      "full_name": "fastapi/fastapi",
+      "html_url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "stars": 103994,
+      "forks": 10104,
+      "stars_today": 101,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "fastapi",
+        "avatar": "https://github.com/fastapi.png",
+        "url": "https://github.com/fastapi"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/160919119/6cdf567d-4310-4737-800f-345e50aec38f"
+    },
+    {
+      "id": "luongnv89/claude-howto",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "html_url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 43644,
+      "forks": 5418,
+      "stars_today": 177,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "luongnv89",
+        "avatar": "https://github.com/luongnv89.png",
+        "url": "https://github.com/luongnv89"
+      }
+    },
+    {
+      "id": "Meloong-Git/PCL",
+      "name": "PCL",
+      "full_name": "Meloong-Git/PCL",
+      "html_url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "stars": 8844,
+      "forks": 1231,
+      "stars_today": 119,
+      "window": "today",
+      "language": "Visual Basic .NET",
+      "created_at": "2026-10-23T00:00:00Z",
+      "first_seen": "2026-10-23T09:15:18.027Z",
+      "last_seen": "2026-10-23T09:15:18.027Z",
+      "owner": {
+        "login": "Meloong-Git",
+        "avatar": "https://github.com/Meloong-Git.png",
+        "url": "https://github.com/Meloong-Git"
+      }
+    }
+  ]
+}
