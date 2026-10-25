@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-25",
+  "since": "daily",
+  "fetched_at": "2026-10-25T00:00:06.330Z",
+  "first_fetched_at": "2026-10-25T00:00:06.330Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-25T00:00:06.330Z",
+  "total_count": 10,
+  "items": [
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 44510,
+      "forks": 2767,
+      "stars_today": 2264,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "NVIDIA/OpenShell",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "html_url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 19467,
+      "forks": 1930,
+      "stars_today": 896,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "aws/agent-toolkit-for-aws",
+      "name": "agent-toolkit-for-aws",
+      "full_name": "aws/agent-toolkit-for-aws",
+      "html_url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 3122,
+      "forks": 397,
+      "stars_today": 13,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "aws",
+        "avatar": "https://github.com/aws.png",
+        "url": "https://github.com/aws"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 32122,
+      "forks": 1647,
+      "stars_today": 455,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "luongnv89/claude-howto",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "html_url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 44546,
+      "forks": 5490,
+      "stars_today": 392,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "luongnv89",
+        "avatar": "https://github.com/luongnv89.png",
+        "url": "https://github.com/luongnv89"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 86387,
+      "forks": 5153,
+      "stars_today": 619,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "pollen-robotics/microduck",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "html_url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 10972,
+      "forks": 1405,
+      "stars_today": 319,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "pollen-robotics",
+        "avatar": "https://github.com/pollen-robotics.png",
+        "url": "https://github.com/pollen-robotics"
+      }
+    },
+    {
+      "id": "google-gemini/gemini-cli",
+      "name": "gemini-cli",
+      "full_name": "google-gemini/gemini-cli",
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 108040,
+      "forks": 14807,
+      "stars_today": 44,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "google-gemini",
+        "avatar": "https://github.com/google-gemini.png",
+        "url": "https://github.com/google-gemini"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/968197216/8522a757-5632-4fa4-8d01-fcc121390cb1"
+    },
+    {
+      "id": "jbiaojerry/ebook-treasure-chest",
+      "name": "ebook-treasure-chest",
+      "full_name": "jbiaojerry/ebook-treasure-chest",
+      "html_url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "stars": 22592,
+      "forks": 3189,
+      "stars_today": 227,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "jbiaojerry",
+        "avatar": "https://github.com/jbiaojerry.png",
+        "url": "https://github.com/jbiaojerry"
+      }
+    },
+    {
+      "id": "makecindy/cindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4085,
+      "forks": 584,
+      "stars_today": 477,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T00:00:06.330Z",
+      "owner": {
+        "login": "makecindy",
+        "avatar": "https://github.com/makecindy.png",
+        "url": "https://github.com/makecindy"
+      }
+    }
+  ]
+}
