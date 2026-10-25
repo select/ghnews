@@ -1,31 +1,235 @@
 {
   "date": "2026-10-25",
   "since": "daily",
-  "fetched_at": "2026-10-25T00:00:06.330Z",
+  "fetched_at": "2026-10-25T17:00:05.214Z",
   "first_fetched_at": "2026-10-25T00:00:06.330Z",
-  "snapshots": 1,
-  "updated_at": "2026-10-25T00:00:06.330Z",
-  "total_count": 10,
+  "snapshots": 2,
+  "updated_at": "2026-10-25T17:00:05.214Z",
+  "total_count": 16,
   "items": [
+    {
+      "id": "makecindy/cindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 4650,
+      "forks": 648,
+      "stars_today": 677,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "makecindy",
+        "avatar": "https://github.com/makecindy.png",
+        "url": "https://github.com/makecindy"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 33287,
+      "forks": 1731,
+      "stars_today": 1359,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 86220,
+      "forks": 9556,
+      "stars_today": 1588,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 87339,
+      "forks": 5217,
+      "stars_today": 1113,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "pollen-robotics/microduck",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "html_url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 11460,
+      "forks": 1465,
+      "stars_today": 657,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "pollen-robotics",
+        "avatar": "https://github.com/pollen-robotics.png",
+        "url": "https://github.com/pollen-robotics"
+      }
+    },
+    {
+      "id": "TauricResearch/TradingAgents",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 114220,
+      "forks": 22102,
+      "stars_today": 636,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "TauricResearch",
+        "avatar": "https://github.com/TauricResearch.png",
+        "url": "https://github.com/TauricResearch"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1"
+    },
+    {
+      "id": "Renhuai123/ziwei-doushu",
+      "name": "ziwei-doushu",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": 7483,
+      "forks": 1532,
+      "stars_today": 255,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "Renhuai123",
+        "avatar": "https://github.com/Renhuai123.png",
+        "url": "https://github.com/Renhuai123"
+      }
+    },
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 1257,
+      "forks": 88,
+      "stars_today": 52,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "url": "https://github.com/JetBrains"
+      }
+    },
+    {
+      "id": "coollabsio/coolify",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "html_url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "stars": 64061,
+      "forks": 5761,
+      "stars_today": 192,
+      "window": "today",
+      "language": "PHP",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "coollabsio",
+        "avatar": "https://github.com/coollabsio.png",
+        "url": "https://github.com/coollabsio"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/332880689/2061f103-12bd-421a-90dc-3bbea15766d0"
+    },
     {
       "id": "cloudflare/security-audit-skill",
       "name": "security-audit-skill",
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": 44510,
-      "forks": 2767,
-      "stars_today": 2264,
+      "stars": 46298,
+      "forks": 2877,
+      "stars_today": 2874,
       "window": "today",
       "language": "JavaScript",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "cloudflare",
         "avatar": "https://github.com/cloudflare.png",
         "url": "https://github.com/cloudflare"
       }
+    },
+    {
+      "id": "AgriciDaniel/claude-seo",
+      "name": "claude-seo",
+      "full_name": "AgriciDaniel/claude-seo",
+      "html_url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "stars": 20482,
+      "forks": 2929,
+      "stars_today": 179,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-25T00:00:00Z",
+      "first_seen": "2026-10-25T17:00:05.214Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
+      "owner": {
+        "login": "AgriciDaniel",
+        "avatar": "https://github.com/AgriciDaniel.png",
+        "url": "https://github.com/AgriciDaniel"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1152014594/0e048e51-24ae-435b-9b32-cc6b3def5356"
     },
     {
       "id": "NVIDIA/OpenShell",
@@ -40,7 +244,7 @@
       "language": "Rust",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "NVIDIA",
         "avatar": "https://github.com/NVIDIA.png",
@@ -60,31 +264,11 @@
       "language": "Python",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "aws",
         "avatar": "https://github.com/aws.png",
         "url": "https://github.com/aws"
-      }
-    },
-    {
-      "id": "Nutlope/hallmark",
-      "name": "hallmark",
-      "full_name": "Nutlope/hallmark",
-      "html_url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 32122,
-      "forks": 1647,
-      "stars_today": 455,
-      "window": "today",
-      "language": "CSS",
-      "created_at": "2026-10-25T00:00:00Z",
-      "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
-      "owner": {
-        "login": "Nutlope",
-        "avatar": "https://github.com/Nutlope.png",
-        "url": "https://github.com/Nutlope"
       }
     },
     {
@@ -100,51 +284,11 @@
       "language": "Python",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "luongnv89",
         "avatar": "https://github.com/luongnv89.png",
         "url": "https://github.com/luongnv89"
-      }
-    },
-    {
-      "id": "pbakaus/impeccable",
-      "name": "impeccable",
-      "full_name": "pbakaus/impeccable",
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 86387,
-      "forks": 5153,
-      "stars_today": 619,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-10-25T00:00:00Z",
-      "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
-      "owner": {
-        "login": "pbakaus",
-        "avatar": "https://github.com/pbakaus.png",
-        "url": "https://github.com/pbakaus"
-      }
-    },
-    {
-      "id": "pollen-robotics/microduck",
-      "name": "microduck",
-      "full_name": "pollen-robotics/microduck",
-      "html_url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "stars": 10972,
-      "forks": 1405,
-      "stars_today": 319,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-10-25T00:00:00Z",
-      "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
-      "owner": {
-        "login": "pollen-robotics",
-        "avatar": "https://github.com/pollen-robotics.png",
-        "url": "https://github.com/pollen-robotics"
       }
     },
     {
@@ -160,7 +304,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "google-gemini",
         "avatar": "https://github.com/google-gemini.png",
@@ -181,31 +325,11 @@
       "language": "Python",
       "created_at": "2026-10-25T00:00:00Z",
       "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
+      "last_seen": "2026-10-25T17:00:05.214Z",
       "owner": {
         "login": "jbiaojerry",
         "avatar": "https://github.com/jbiaojerry.png",
         "url": "https://github.com/jbiaojerry"
-      }
-    },
-    {
-      "id": "makecindy/cindy",
-      "name": "cindy",
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 4085,
-      "forks": 584,
-      "stars_today": 477,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-25T00:00:00Z",
-      "first_seen": "2026-10-25T00:00:06.330Z",
-      "last_seen": "2026-10-25T00:00:06.330Z",
-      "owner": {
-        "login": "makecindy",
-        "avatar": "https://github.com/makecindy.png",
-        "url": "https://github.com/makecindy"
       }
     }
   ]
