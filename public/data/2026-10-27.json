@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-27",
+  "since": "daily",
+  "fetched_at": "2026-10-27T09:00:05.018Z",
+  "first_fetched_at": "2026-10-27T09:00:05.018Z",
+  "snapshots": 1,
+  "updated_at": "2026-10-27T09:00:05.018Z",
+  "total_count": 14,
+  "items": [
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 37486,
+      "forks": 1953,
+      "stars_today": 2244,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "TauricResearch/TradingAgents",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 116744,
+      "forks": 22364,
+      "stars_today": 1395,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "TauricResearch",
+        "avatar": "https://github.com/TauricResearch.png",
+        "url": "https://github.com/TauricResearch"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1"
+    },
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 3353,
+      "forks": 179,
+      "stars_today": 1173,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "url": "https://github.com/JetBrains"
+      }
+    },
+    {
+      "id": "makecindy/cindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 6989,
+      "forks": 841,
+      "stars_today": 1296,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "makecindy",
+        "avatar": "https://github.com/makecindy.png",
+        "url": "https://github.com/makecindy"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 290187,
+      "forks": 43006,
+      "stars_today": 896,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 89671,
+      "forks": 5329,
+      "stars_today": 1506,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "NVIDIA/SkillSpector",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "html_url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "stars": 22552,
+      "forks": 1960,
+      "stars_today": 214,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "pollen-robotics/microduck",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "html_url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": 12618,
+      "forks": 1564,
+      "stars_today": 843,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "pollen-robotics",
+        "avatar": "https://github.com/pollen-robotics.png",
+        "url": "https://github.com/pollen-robotics"
+      }
+    },
+    {
+      "id": "nightly-labs/openbot",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "html_url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 1759,
+      "forks": 206,
+      "stars_today": 176,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "nightly-labs",
+        "avatar": "https://github.com/nightly-labs.png",
+        "url": "https://github.com/nightly-labs"
+      }
+    },
+    {
+      "id": "Panniantong/Agent-Reach",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 104301,
+      "forks": 9246,
+      "stars_today": 746,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "Panniantong",
+        "avatar": "https://github.com/Panniantong.png",
+        "url": "https://github.com/Panniantong"
+      }
+    },
+    {
+      "id": "debpalash/VoiceStudio",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "html_url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": 90173,
+      "forks": 9940,
+      "stars_today": 2297,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "debpalash",
+        "avatar": "https://github.com/debpalash.png",
+        "url": "https://github.com/debpalash"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
+    },
+    {
+      "id": "gitroomhq/postiz-app",
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "html_url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 38761,
+      "forks": 7467,
+      "stars_today": 188,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "gitroomhq",
+        "avatar": "https://github.com/gitroomhq.png",
+        "url": "https://github.com/gitroomhq"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/664013991/8b16b484-683a-4ed9-a132-6d070704cc12"
+    },
+    {
+      "id": "alchaincyf/huashu-design",
+      "name": "huashu-design",
+      "full_name": "alchaincyf/huashu-design",
+      "html_url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "stars": 27468,
+      "forks": 2997,
+      "stars_today": 251,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "alchaincyf",
+        "avatar": "https://github.com/alchaincyf.png",
+        "url": "https://github.com/alchaincyf"
+      }
+    },
+    {
+      "id": "multica-ai/andrej-karpathy-skills",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 225039,
+      "forks": 22498,
+      "stars_today": 638,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T09:00:05.018Z",
+      "owner": {
+        "login": "multica-ai",
+        "avatar": "https://github.com/multica-ai.png",
+        "url": "https://github.com/multica-ai"
+      }
+    }
+  ]
+}
