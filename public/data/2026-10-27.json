@@ -1,11 +1,11 @@
 {
   "date": "2026-10-27",
   "since": "daily",
-  "fetched_at": "2026-10-27T09:19:55.201Z",
-  "first_fetched_at": "2026-10-27T09:00:05.018Z",
-  "snapshots": 2,
-  "updated_at": "2026-10-27T09:19:55.201Z",
-  "total_count": 14,
+  "fetched_at": "2026-10-27T17:00:06.219Z",
+  "first_fetched_at": "2026-10-27T09:19:55.201Z",
+  "snapshots": 3,
+  "updated_at": "2026-10-27T17:00:06.219Z",
+  "total_count": 17,
   "items": [
     {
       "id": "Nutlope/hallmark",
@@ -13,18 +13,199 @@
       "full_name": "Nutlope/hallmark",
       "html_url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 37527,
-      "forks": 1955,
-      "stars_today": 2244,
+      "stars": 38446,
+      "forks": 2007,
+      "stars_today": 2859,
       "window": "today",
       "language": "CSS",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "Nutlope",
         "avatar": "https://github.com/Nutlope.png",
         "url": "https://github.com/Nutlope"
+      }
+    },
+    {
+      "id": "nightly-labs/openbot",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "html_url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 2146,
+      "forks": 229,
+      "stars_today": 794,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "nightly-labs",
+        "avatar": "https://github.com/nightly-labs.png",
+        "url": "https://github.com/nightly-labs"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 306168,
+      "forks": 27261,
+      "stars_today": 608,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T17:00:06.219Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "pbakaus/impeccable",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "html_url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 90195,
+      "forks": 5360,
+      "stars_today": 1458,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "pbakaus",
+        "avatar": "https://github.com/pbakaus.png",
+        "url": "https://github.com/pbakaus"
+      }
+    },
+    {
+      "id": "makecindy/cindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 7292,
+      "forks": 872,
+      "stars_today": 1446,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "makecindy",
+        "avatar": "https://github.com/makecindy.png",
+        "url": "https://github.com/makecindy"
+      }
+    },
+    {
+      "id": "gitroomhq/postiz-app",
+      "name": "postiz-app",
+      "full_name": "gitroomhq/postiz-app",
+      "html_url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 39087,
+      "forks": 7479,
+      "stars_today": 953,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "gitroomhq",
+        "avatar": "https://github.com/gitroomhq.png",
+        "url": "https://github.com/gitroomhq"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/664013991/8b16b484-683a-4ed9-a132-6d070704cc12"
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 290571,
+      "forks": 43043,
+      "stars_today": 1183,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "HKUDS/DeepTutor",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "html_url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 45446,
+      "forks": 5716,
+      "stars_today": 1587,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T17:00:06.219Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 3749,
+      "forks": 197,
+      "stars_today": 1211,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T09:00:05.018Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "url": "https://github.com/JetBrains"
+      }
+    },
+    {
+      "id": "togg53192-cmd/jailbreaks",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "html_url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 5172,
+      "forks": 800,
+      "stars_today": 890,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-10-27T00:00:00Z",
+      "first_seen": "2026-10-27T17:00:06.219Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
+      "owner": {
+        "login": "togg53192-cmd",
+        "avatar": "https://github.com/togg53192-cmd.png",
+        "url": "https://github.com/togg53192-cmd"
       }
     },
     {
@@ -40,93 +221,13 @@
       "language": "Python",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "TauricResearch",
         "avatar": "https://github.com/TauricResearch.png",
         "url": "https://github.com/TauricResearch"
       },
       "banner_url": "https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1"
-    },
-    {
-      "id": "JetBrains/thinkrail",
-      "name": "thinkrail",
-      "full_name": "JetBrains/thinkrail",
-      "html_url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 3373,
-      "forks": 179,
-      "stars_today": 1173,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "JetBrains",
-        "avatar": "https://github.com/JetBrains.png",
-        "url": "https://github.com/JetBrains"
-      }
-    },
-    {
-      "id": "makecindy/cindy",
-      "name": "cindy",
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 7009,
-      "forks": 841,
-      "stars_today": 1296,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "makecindy",
-        "avatar": "https://github.com/makecindy.png",
-        "url": "https://github.com/makecindy"
-      }
-    },
-    {
-      "id": "affaan-m/ECC",
-      "name": "ECC",
-      "full_name": "affaan-m/ECC",
-      "html_url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 290208,
-      "forks": 43009,
-      "stars_today": 896,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "affaan-m",
-        "avatar": "https://github.com/affaan-m.png",
-        "url": "https://github.com/affaan-m"
-      }
-    },
-    {
-      "id": "pbakaus/impeccable",
-      "name": "impeccable",
-      "full_name": "pbakaus/impeccable",
-      "html_url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 89697,
-      "forks": 5330,
-      "stars_today": 1506,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "pbakaus",
-        "avatar": "https://github.com/pbakaus.png",
-        "url": "https://github.com/pbakaus"
-      }
     },
     {
       "id": "NVIDIA/SkillSpector",
@@ -141,7 +242,7 @@
       "language": "Python",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "NVIDIA",
         "avatar": "https://github.com/NVIDIA.png",
@@ -161,31 +262,11 @@
       "language": "Rust",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "pollen-robotics",
         "avatar": "https://github.com/pollen-robotics.png",
         "url": "https://github.com/pollen-robotics"
-      }
-    },
-    {
-      "id": "nightly-labs/openbot",
-      "name": "openbot",
-      "full_name": "nightly-labs/openbot",
-      "html_url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "stars": 1769,
-      "forks": 207,
-      "stars_today": 176,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "nightly-labs",
-        "avatar": "https://github.com/nightly-labs.png",
-        "url": "https://github.com/nightly-labs"
       }
     },
     {
@@ -201,7 +282,7 @@
       "language": "Python",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "Panniantong",
         "avatar": "https://github.com/Panniantong.png",
@@ -221,34 +302,13 @@
       "language": "Python",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "debpalash",
         "avatar": "https://github.com/debpalash.png",
         "url": "https://github.com/debpalash"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc"
-    },
-    {
-      "id": "gitroomhq/postiz-app",
-      "name": "postiz-app",
-      "full_name": "gitroomhq/postiz-app",
-      "html_url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "stars": 38769,
-      "forks": 7467,
-      "stars_today": 188,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-27T00:00:00Z",
-      "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
-      "owner": {
-        "login": "gitroomhq",
-        "avatar": "https://github.com/gitroomhq.png",
-        "url": "https://github.com/gitroomhq"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/664013991/8b16b484-683a-4ed9-a132-6d070704cc12"
     },
     {
       "id": "alchaincyf/huashu-design",
@@ -263,7 +323,7 @@
       "language": "HTML",
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "alchaincyf",
         "avatar": "https://github.com/alchaincyf.png",
@@ -283,7 +343,7 @@
       "language": null,
       "created_at": "2026-10-27T00:00:00Z",
       "first_seen": "2026-10-27T09:00:05.018Z",
-      "last_seen": "2026-10-27T09:19:55.201Z",
+      "last_seen": "2026-10-27T17:00:06.219Z",
       "owner": {
         "login": "multica-ai",
         "avatar": "https://github.com/multica-ai.png",
