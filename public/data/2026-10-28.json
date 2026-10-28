@@ -1,70 +1,50 @@
 {
   "date": "2026-10-28",
   "since": "daily",
-  "fetched_at": "2026-10-28T09:27:48.973Z",
-  "first_fetched_at": "2026-10-28T09:00:03.040Z",
-  "snapshots": 2,
-  "updated_at": "2026-10-28T09:27:48.973Z",
-  "total_count": 11,
+  "fetched_at": "2026-10-28T17:00:03.448Z",
+  "first_fetched_at": "2026-10-28T09:27:48.973Z",
+  "snapshots": 3,
+  "updated_at": "2026-10-28T17:00:03.448Z",
+  "total_count": 16,
   "items": [
+    {
+      "id": "JetBrains/thinkrail",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "html_url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": 4774,
+      "forks": 247,
+      "stars_today": 1075,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T09:00:03.040Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "url": "https://github.com/JetBrains"
+      }
+    },
     {
       "id": "elayadesign/ai-design-skills",
       "name": "ai-design-skills",
       "full_name": "elayadesign/ai-design-skills",
       "html_url": "https://github.com/elayadesign/ai-design-skills",
       "description": "",
-      "stars": 10326,
-      "forks": 741,
+      "stars": 10858,
+      "forks": 773,
       "stars_today": 1395,
       "window": "today",
       "language": null,
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "elayadesign",
         "avatar": "https://github.com/elayadesign.png",
         "url": "https://github.com/elayadesign"
-      }
-    },
-    {
-      "id": "Nutlope/hallmark",
-      "name": "hallmark",
-      "full_name": "Nutlope/hallmark",
-      "html_url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": 39687,
-      "forks": 2075,
-      "stars_today": 2830,
-      "window": "today",
-      "language": "CSS",
-      "created_at": "2026-10-28T00:00:00Z",
-      "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
-      "owner": {
-        "login": "Nutlope",
-        "avatar": "https://github.com/Nutlope.png",
-        "url": "https://github.com/Nutlope"
-      }
-    },
-    {
-      "id": "nightly-labs/openbot",
-      "name": "openbot",
-      "full_name": "nightly-labs/openbot",
-      "html_url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "stars": 2799,
-      "forks": 281,
-      "stars_today": 777,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-28T00:00:00Z",
-      "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
-      "owner": {
-        "login": "nightly-labs",
-        "avatar": "https://github.com/nightly-labs.png",
-        "url": "https://github.com/nightly-labs"
       }
     },
     {
@@ -73,18 +53,78 @@
       "full_name": "obra/superpowers",
       "html_url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 306810,
-      "forks": 27309,
-      "stars_today": 617,
+      "stars": 307203,
+      "forks": 27334,
+      "stars_today": 1096,
       "window": "today",
       "language": "Shell",
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "obra",
         "avatar": "https://github.com/obra.png",
         "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "HKUDS/DeepTutor",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "html_url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 47632,
+      "forks": 5921,
+      "stars_today": 2376,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T09:00:03.040Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "macro-inc/macro",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "html_url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": 5288,
+      "forks": 513,
+      "stars_today": 106,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T17:00:03.448Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "macro-inc",
+        "avatar": "https://github.com/macro-inc.png",
+        "url": "https://github.com/macro-inc"
+      }
+    },
+    {
+      "id": "Nutlope/hallmark",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "html_url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 40343,
+      "forks": 2096,
+      "stars_today": 2109,
+      "window": "today",
+      "language": "CSS",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T09:00:03.040Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "Nutlope",
+        "avatar": "https://github.com/Nutlope.png",
+        "url": "https://github.com/Nutlope"
       }
     },
     {
@@ -93,14 +133,14 @@
       "full_name": "pbakaus/impeccable",
       "html_url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "stars": 91143,
-      "forks": 5399,
-      "stars_today": 1449,
+      "stars": 92089,
+      "forks": 5443,
+      "stars_today": 1471,
       "window": "today",
       "language": "Rust",
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "pbakaus",
         "avatar": "https://github.com/pbakaus.png",
@@ -113,18 +153,140 @@
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 7766,
-      "forks": 921,
-      "stars_today": 1465,
+      "stars": 7924,
+      "forks": 928,
+      "stars_today": 740,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "makecindy",
         "avatar": "https://github.com/makecindy.png",
         "url": "https://github.com/makecindy"
+      }
+    },
+    {
+      "id": "nightly-labs/openbot",
+      "name": "openbot",
+      "full_name": "nightly-labs/openbot",
+      "html_url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": 3054,
+      "forks": 301,
+      "stars_today": 1053,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T09:00:03.040Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "nightly-labs",
+        "avatar": "https://github.com/nightly-labs.png",
+        "url": "https://github.com/nightly-labs"
+      }
+    },
+    {
+      "id": "togg53192-cmd/jailbreaks",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "html_url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": 6730,
+      "forks": 974,
+      "stars_today": 1478,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T09:00:03.040Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "togg53192-cmd",
+        "avatar": "https://github.com/togg53192-cmd.png",
+        "url": "https://github.com/togg53192-cmd"
+      }
+    },
+    {
+      "id": "hmjz100/LinkSwift",
+      "name": "LinkSwift",
+      "full_name": "hmjz100/LinkSwift",
+      "html_url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": 34086,
+      "forks": 2402,
+      "stars_today": 3209,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T17:00:03.448Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "hmjz100",
+        "avatar": "https://github.com/hmjz100.png",
+        "url": "https://github.com/hmjz100"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/523325759/b9811cf2-d96d-49ea-b693-dad00c287f6a"
+    },
+    {
+      "id": "expo/skills",
+      "name": "skills",
+      "full_name": "expo/skills",
+      "html_url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "stars": 3447,
+      "forks": 219,
+      "stars_today": 212,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T17:00:03.448Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "expo",
+        "avatar": "https://github.com/expo.png",
+        "url": "https://github.com/expo"
+      }
+    },
+    {
+      "id": "ruvnet/RuView",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "html_url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 100763,
+      "forks": 13140,
+      "stars_today": 596,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T17:00:03.448Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "ruvnet",
+        "avatar": "https://github.com/ruvnet.png",
+        "url": "https://github.com/ruvnet"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/997737944/2860500f-6e90-47c1-a59a-1c83e376e5cf"
+    },
+    {
+      "id": "xiaolai/the-craft-of-selfteaching",
+      "name": "the-craft-of-selfteaching",
+      "full_name": "xiaolai/the-craft-of-selfteaching",
+      "html_url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "stars": 18400,
+      "forks": 17879,
+      "stars_today": 143,
+      "window": "today",
+      "language": "Jupyter Notebook",
+      "created_at": "2026-10-28T00:00:00Z",
+      "first_seen": "2026-10-28T17:00:03.448Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
+      "owner": {
+        "login": "xiaolai",
+        "avatar": "https://github.com/xiaolai.png",
+        "url": "https://github.com/xiaolai"
       }
     },
     {
@@ -140,7 +302,7 @@
       "language": "TypeScript",
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "gitroomhq",
         "avatar": "https://github.com/gitroomhq.png",
@@ -161,71 +323,11 @@
       "language": "JavaScript",
       "created_at": "2026-10-28T00:00:00Z",
       "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
+      "last_seen": "2026-10-28T17:00:03.448Z",
       "owner": {
         "login": "affaan-m",
         "avatar": "https://github.com/affaan-m.png",
         "url": "https://github.com/affaan-m"
-      }
-    },
-    {
-      "id": "HKUDS/DeepTutor",
-      "name": "DeepTutor",
-      "full_name": "HKUDS/DeepTutor",
-      "html_url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "stars": 46929,
-      "forks": 5854,
-      "stars_today": 1598,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-10-28T00:00:00Z",
-      "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
-      "owner": {
-        "login": "HKUDS",
-        "avatar": "https://github.com/HKUDS.png",
-        "url": "https://github.com/HKUDS"
-      }
-    },
-    {
-      "id": "JetBrains/thinkrail",
-      "name": "thinkrail",
-      "full_name": "JetBrains/thinkrail",
-      "html_url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 4445,
-      "forks": 236,
-      "stars_today": 1204,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-10-28T00:00:00Z",
-      "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
-      "owner": {
-        "login": "JetBrains",
-        "avatar": "https://github.com/JetBrains.png",
-        "url": "https://github.com/JetBrains"
-      }
-    },
-    {
-      "id": "togg53192-cmd/jailbreaks",
-      "name": "jailbreaks",
-      "full_name": "togg53192-cmd/jailbreaks",
-      "html_url": "https://github.com/togg53192-cmd/jailbreaks",
-      "description": "LIST OF ALL MY JAILBREAKS",
-      "stars": 6175,
-      "forks": 892,
-      "stars_today": 902,
-      "window": "today",
-      "language": null,
-      "created_at": "2026-10-28T00:00:00Z",
-      "first_seen": "2026-10-28T09:00:03.040Z",
-      "last_seen": "2026-10-28T09:27:48.973Z",
-      "owner": {
-        "login": "togg53192-cmd",
-        "avatar": "https://github.com/togg53192-cmd.png",
-        "url": "https://github.com/togg53192-cmd"
       }
     }
   ]
