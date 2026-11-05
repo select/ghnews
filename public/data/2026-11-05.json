@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-05",
+  "since": "daily",
+  "fetched_at": "2026-11-05T09:41:23.657Z",
+  "first_fetched_at": "2026-11-05T09:41:23.657Z",
+  "snapshots": 1,
+  "updated_at": "2026-11-05T09:41:23.657Z",
+  "total_count": 16,
+  "items": [
+    {
+      "id": "NVIDIA/auto-ontology",
+      "name": "auto-ontology",
+      "full_name": "NVIDIA/auto-ontology",
+      "html_url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": 6101,
+      "forks": 482,
+      "stars_today": 2050,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "max-sixty/worktrunk",
+      "name": "worktrunk",
+      "full_name": "max-sixty/worktrunk",
+      "html_url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 11262,
+      "forks": 423,
+      "stars_today": 531,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "max-sixty",
+        "avatar": "https://github.com/max-sixty.png",
+        "url": "https://github.com/max-sixty"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b"
+    },
+    {
+      "id": "mattpocock/skills",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "html_url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 313953,
+      "forks": 26324,
+      "stars_today": 1379,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "mattpocock",
+        "avatar": "https://github.com/mattpocock.png",
+        "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "floci-io/floci",
+      "name": "floci",
+      "full_name": "floci-io/floci",
+      "html_url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "stars": 29932,
+      "forks": 3298,
+      "stars_today": 1090,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "floci-io",
+        "avatar": "https://github.com/floci-io.png",
+        "url": "https://github.com/floci-io"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1160497244/00f67cdf-0dcc-4e40-80ec-3905735f19df"
+    },
+    {
+      "id": "thedotmack/claude-mem",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "html_url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 113208,
+      "forks": 9823,
+      "stars_today": 1172,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "thedotmack",
+        "avatar": "https://github.com/thedotmack.png",
+        "url": "https://github.com/thedotmack"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1048065319/62ccff98-4c97-4bab-97b7-ed6e1995cfba"
+    },
+    {
+      "id": "vercel-labs/agent-desktop",
+      "name": "agent-desktop",
+      "full_name": "vercel-labs/agent-desktop",
+      "html_url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 15959,
+      "forks": 1115,
+      "stars_today": 2470,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1161958643/83055b28-992e-4176-b5d6-89b56aa22dde"
+    },
+    {
+      "id": "github/spec-kit",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "html_url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "stars": 147575,
+      "forks": 13240,
+      "stars_today": 808,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "github",
+        "avatar": "https://github.com/github.png",
+        "url": "https://github.com/github"
+      }
+    },
+    {
+      "id": "The-PR-Agent/pr-agent",
+      "name": "pr-agent",
+      "full_name": "The-PR-Agent/pr-agent",
+      "html_url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "stars": 14965,
+      "forks": 2103,
+      "stars_today": 280,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "The-PR-Agent",
+        "avatar": "https://github.com/The-PR-Agent.png",
+        "url": "https://github.com/The-PR-Agent"
+      }
+    },
+    {
+      "id": "harry0703/MoneyPrinterTurbo",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 139454,
+      "forks": 22238,
+      "stars_today": 617,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "harry0703",
+        "avatar": "https://github.com/harry0703.png",
+        "url": "https://github.com/harry0703"
+      }
+    },
+    {
+      "id": "garrytan/gstack",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "html_url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 139564,
+      "forks": 20658,
+      "stars_today": 290,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "garrytan",
+        "avatar": "https://github.com/garrytan.png",
+        "url": "https://github.com/garrytan"
+      }
+    },
+    {
+      "id": "FareedKhan-dev/kimi-k3-in-c",
+      "name": "kimi-k3-in-c",
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": 10596,
+      "forks": 1654,
+      "stars_today": 351,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "FareedKhan-dev",
+        "avatar": "https://github.com/FareedKhan-dev.png",
+        "url": "https://github.com/FareedKhan-dev"
+      }
+    },
+    {
+      "id": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "name": "DiscImageStudio",
+      "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "html_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "stars": 6902,
+      "forks": 245,
+      "stars_today": 1778,
+      "window": "today",
+      "language": "C#",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "JiaFeiMiao-K-Cat",
+        "avatar": "https://github.com/JiaFeiMiao-K-Cat.png",
+        "url": "https://github.com/JiaFeiMiao-K-Cat"
+      }
+    },
+    {
+      "id": "MichaelCade/90DaysOfDevOps",
+      "name": "90DaysOfDevOps",
+      "full_name": "MichaelCade/90DaysOfDevOps",
+      "html_url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "stars": 30704,
+      "forks": 6802,
+      "stars_today": 97,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "MichaelCade",
+        "avatar": "https://github.com/MichaelCade.png",
+        "url": "https://github.com/MichaelCade"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/441903012/5a26a00b-f955-437b-b10b-1d102b0f5c4e"
+    },
+    {
+      "id": "D4Vinci/Scrapling",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "html_url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "stars": 97164,
+      "forks": 10179,
+      "stars_today": 2005,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "D4Vinci",
+        "avatar": "https://github.com/D4Vinci.png",
+        "url": "https://github.com/D4Vinci"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/872119017/65c3a8e0-207a-4834-8b43-01119c0834ce"
+    },
+    {
+      "id": "Thysrael/Horizon",
+      "name": "Horizon",
+      "full_name": "Thysrael/Horizon",
+      "html_url": "https://github.com/Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "stars": 12787,
+      "forks": 1836,
+      "stars_today": 121,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "Thysrael",
+        "avatar": "https://github.com/Thysrael.png",
+        "url": "https://github.com/Thysrael"
+      }
+    },
+    {
+      "id": "scenario-labs/skills",
+      "name": "skills",
+      "full_name": "scenario-labs/skills",
+      "html_url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "stars": 2686,
+      "forks": 253,
+      "stars_today": 224,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-05T00:00:00Z",
+      "first_seen": "2026-11-05T09:41:23.657Z",
+      "last_seen": "2026-11-05T09:41:23.657Z",
+      "owner": {
+        "login": "scenario-labs",
+        "avatar": "https://github.com/scenario-labs.png",
+        "url": "https://github.com/scenario-labs"
+      }
+    }
+  ]
+}
