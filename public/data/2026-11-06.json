@@ -1,30 +1,312 @@
 {
   "date": "2026-11-06",
   "since": "daily",
-  "fetched_at": "2026-11-06T10:06:09.820Z",
+  "fetched_at": "2026-11-06T17:00:03.407Z",
   "first_fetched_at": "2026-11-06T10:06:09.820Z",
-  "snapshots": 1,
-  "updated_at": "2026-11-06T10:06:09.820Z",
-  "total_count": 15,
+  "snapshots": 2,
+  "updated_at": "2026-11-06T17:00:03.407Z",
+  "total_count": 29,
   "items": [
+    {
+      "id": "zed-industries/zed",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "html_url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": 93273,
+      "forks": 11474,
+      "stars_today": 292,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "zed-industries",
+        "avatar": "https://github.com/zed-industries.png",
+        "url": "https://github.com/zed-industries"
+      }
+    },
     {
       "id": "NVIDIA/auto-ontology",
       "name": "auto-ontology",
       "full_name": "NVIDIA/auto-ontology",
       "html_url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "stars": 8158,
-      "forks": 654,
-      "stars_today": 2679,
+      "stars": 8626,
+      "forks": 698,
+      "stars_today": 2005,
       "window": "today",
       "language": "Python",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "NVIDIA",
         "avatar": "https://github.com/NVIDIA.png",
         "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "rails/rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "html_url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "stars": 58935,
+      "forks": 23824,
+      "stars_today": 152,
+      "window": "today",
+      "language": "Ruby",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "rails",
+        "avatar": "https://github.com/rails.png",
+        "url": "https://github.com/rails"
+      }
+    },
+    {
+      "id": "mpv-player/mpv",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "html_url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "stars": 37810,
+      "forks": 3630,
+      "stars_today": 36,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "mpv-player",
+        "avatar": "https://github.com/mpv-player.png",
+        "url": "https://github.com/mpv-player"
+      }
+    },
+    {
+      "id": "rust-lang/rust",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "html_url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": 121282,
+      "forks": 17357,
+      "stars_today": 186,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "rust-lang",
+        "avatar": "https://github.com/rust-lang.png",
+        "url": "https://github.com/rust-lang"
+      }
+    },
+    {
+      "id": "react/react",
+      "name": "react",
+      "full_name": "react/react",
+      "html_url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 252132,
+      "forks": 51800,
+      "stars_today": 244,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "react",
+        "avatar": "https://github.com/react.png",
+        "url": "https://github.com/react"
+      }
+    },
+    {
+      "id": "angular/angular",
+      "name": "angular",
+      "full_name": "angular/angular",
+      "html_url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "stars": 101210,
+      "forks": 28906,
+      "stars_today": 128,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "angular",
+        "avatar": "https://github.com/angular.png",
+        "url": "https://github.com/angular"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/24195339/d4194dc2-d880-43f7-960c-ea30e05c6531"
+    },
+    {
+      "id": "symfony/symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "html_url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "stars": 31304,
+      "forks": 9942,
+      "stars_today": 89,
+      "window": "today",
+      "language": "PHP",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "symfony",
+        "avatar": "https://github.com/symfony.png",
+        "url": "https://github.com/symfony"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/458058/af6a9d00-9374-11e9-887c-917673d9fe68"
+    },
+    {
+      "id": "prometheus/prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "html_url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": 67051,
+      "forks": 10979,
+      "stars_today": 140,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "prometheus",
+        "avatar": "https://github.com/prometheus.png",
+        "url": "https://github.com/prometheus"
+      }
+    },
+    {
+      "id": "google/skills",
+      "name": "skills",
+      "full_name": "google/skills",
+      "html_url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 22716,
+      "forks": 1910,
+      "stars_today": 532,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "google",
+        "avatar": "https://github.com/google.png",
+        "url": "https://github.com/google"
+      }
+    },
+    {
+      "id": "microsoft/vscode",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "html_url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "stars": 194890,
+      "forks": 44410,
+      "stars_today": 295,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "url": "https://github.com/microsoft"
+      }
+    },
+    {
+      "id": "lz4/lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "html_url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "stars": 12592,
+      "forks": 1641,
+      "stars_today": 313,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "lz4",
+        "avatar": "https://github.com/lz4.png",
+        "url": "https://github.com/lz4"
+      }
+    },
+    {
+      "id": "nushell/nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "html_url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "stars": 40852,
+      "forks": 2334,
+      "stars_today": 88,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "nushell",
+        "avatar": "https://github.com/nushell.png",
+        "url": "https://github.com/nushell"
+      }
+    },
+    {
+      "id": "etcd-io/etcd",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "html_url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": 52533,
+      "forks": 10577,
+      "stars_today": 123,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "etcd-io",
+        "avatar": "https://github.com/etcd-io.png",
+        "url": "https://github.com/etcd-io"
+      }
+    },
+    {
+      "id": "openssl/openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "html_url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "stars": 31238,
+      "forks": 11580,
+      "stars_today": 24,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "openssl",
+        "avatar": "https://github.com/openssl.png",
+        "url": "https://github.com/openssl"
       }
     },
     {
@@ -33,18 +315,58 @@
       "full_name": "mattpocock/skills",
       "html_url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 315985,
-      "forks": 26440,
-      "stars_today": 2071,
+      "stars": 316372,
+      "forks": 26463,
+      "stars_today": 2058,
       "window": "today",
       "language": "Shell",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "mattpocock",
         "avatar": "https://github.com/mattpocock.png",
         "url": "https://github.com/mattpocock"
+      }
+    },
+    {
+      "id": "cloudflare/security-audit-skill",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "html_url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 63316,
+      "forks": 4104,
+      "stars_today": 2524,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "url": "https://github.com/cloudflare"
+      }
+    },
+    {
+      "id": "astral-sh/ruff",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "html_url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars": 50550,
+      "forks": 2597,
+      "stars_today": 107,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-06T00:00:00Z",
+      "first_seen": "2026-11-06T17:00:03.407Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
+      "owner": {
+        "login": "astral-sh",
+        "avatar": "https://github.com/astral-sh.png",
+        "url": "https://github.com/astral-sh"
       }
     },
     {
@@ -60,7 +382,7 @@
       "language": "TypeScript",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "garrytan",
         "avatar": "https://github.com/garrytan.png",
@@ -80,7 +402,7 @@
       "language": "Python",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "Usagi-org",
         "avatar": "https://github.com/Usagi-org.png",
@@ -100,7 +422,7 @@
       "language": "Python",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "D4Vinci",
         "avatar": "https://github.com/D4Vinci.png",
@@ -121,7 +443,7 @@
       "language": "Rust",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "vercel-labs",
         "avatar": "https://github.com/vercel-labs.png",
@@ -142,53 +464,13 @@
       "language": "Rust",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "max-sixty",
         "avatar": "https://github.com/max-sixty.png",
         "url": "https://github.com/max-sixty"
       },
       "banner_url": "https://repository-images.githubusercontent.com/1078528927/6196f2ac-248f-42f5-abb5-d18768111b3b"
-    },
-    {
-      "id": "lz4/lz4",
-      "name": "lz4",
-      "full_name": "lz4/lz4",
-      "html_url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "stars": 12508,
-      "forks": 1640,
-      "stars_today": 23,
-      "window": "today",
-      "language": "C",
-      "created_at": "2026-11-06T00:00:00Z",
-      "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
-      "owner": {
-        "login": "lz4",
-        "avatar": "https://github.com/lz4.png",
-        "url": "https://github.com/lz4"
-      }
-    },
-    {
-      "id": "google/skills",
-      "name": "skills",
-      "full_name": "google/skills",
-      "html_url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 22584,
-      "forks": 1901,
-      "stars_today": 211,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-11-06T00:00:00Z",
-      "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
-      "owner": {
-        "login": "google",
-        "avatar": "https://github.com/google.png",
-        "url": "https://github.com/google"
-      }
     },
     {
       "id": "vercel-labs/agent-browser",
@@ -203,7 +485,7 @@
       "language": "Rust",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "vercel-labs",
         "avatar": "https://github.com/vercel-labs.png",
@@ -223,7 +505,7 @@
       "language": "Python",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "scenario-labs",
         "avatar": "https://github.com/scenario-labs.png",
@@ -243,7 +525,7 @@
       "language": "JavaScript",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "ConardLi",
         "avatar": "https://github.com/ConardLi.png",
@@ -263,7 +545,7 @@
       "language": "Python",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "microsoft",
         "avatar": "https://github.com/microsoft.png",
@@ -283,7 +565,7 @@
       "language": "Java",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "floci-io",
         "avatar": "https://github.com/floci-io.png",
@@ -304,7 +586,7 @@
       "language": "C#",
       "created_at": "2026-11-06T00:00:00Z",
       "first_seen": "2026-11-06T10:06:09.820Z",
-      "last_seen": "2026-11-06T10:06:09.820Z",
+      "last_seen": "2026-11-06T17:00:03.407Z",
       "owner": {
         "login": "JiaFeiMiao-K-Cat",
         "avatar": "https://github.com/JiaFeiMiao-K-Cat.png",
