@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-09",
+  "since": "daily",
+  "fetched_at": "2026-11-09T09:00:03.070Z",
+  "first_fetched_at": "2026-11-09T09:00:03.070Z",
+  "snapshots": 1,
+  "updated_at": "2026-11-09T09:00:03.070Z",
+  "total_count": 9,
+  "items": [
+    {
+      "id": "sherlock-project/sherlock",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "html_url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 105306,
+      "forks": 12248,
+      "stars_today": 2373,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "sherlock-project",
+        "avatar": "https://github.com/sherlock-project.png",
+        "url": "https://github.com/sherlock-project"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/162998479/643206d7-076a-4b92-bb6c-89d9c4161d95"
+    },
+    {
+      "id": "dsx-ai-factory/nvke",
+      "name": "nvke",
+      "full_name": "dsx-ai-factory/nvke",
+      "html_url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 969,
+      "forks": 113,
+      "stars_today": 345,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "dsx-ai-factory",
+        "avatar": "https://github.com/dsx-ai-factory.png",
+        "url": "https://github.com/dsx-ai-factory"
+      }
+    },
+    {
+      "id": "milind-soni/OpenMausBot",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "html_url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 18959,
+      "forks": 2613,
+      "stars_today": 1439,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "milind-soni",
+        "avatar": "https://github.com/milind-soni.png",
+        "url": "https://github.com/milind-soni"
+      }
+    },
+    {
+      "id": "anthropics/claude-quickstarts",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "html_url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 19652,
+      "forks": 3291,
+      "stars_today": 32,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "vercel-labs/agent-browser",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 47997,
+      "forks": 3278,
+      "stars_today": 815,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "meta/astryx",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "html_url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 17963,
+      "forks": 1404,
+      "stars_today": 875,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "meta",
+        "avatar": "https://github.com/meta.png",
+        "url": "https://github.com/meta"
+      }
+    },
+    {
+      "id": "anthropics/skills",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "html_url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 190001,
+      "forks": 22384,
+      "stars_today": 792,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "anthropics",
+        "avatar": "https://github.com/anthropics.png",
+        "url": "https://github.com/anthropics"
+      }
+    },
+    {
+      "id": "google-deepmind/mujoco",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "html_url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars": 16649,
+      "forks": 1964,
+      "stars_today": 41,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "google-deepmind",
+        "avatar": "https://github.com/google-deepmind.png",
+        "url": "https://github.com/google-deepmind"
+      }
+    },
+    {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "full_name": "ranxianglei/billion-context",
+      "html_url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "stars": 5485,
+      "forks": 421,
+      "stars_today": 460,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-09T00:00:00Z",
+      "first_seen": "2026-11-09T09:00:03.070Z",
+      "last_seen": "2026-11-09T09:00:03.070Z",
+      "owner": {
+        "login": "ranxianglei",
+        "avatar": "https://github.com/ranxianglei.png",
+        "url": "https://github.com/ranxianglei"
+      }
+    }
+  ]
+}
