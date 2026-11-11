@@ -1,11 +1,11 @@
 {
   "date": "2026-11-11",
   "since": "daily",
-  "fetched_at": "2026-11-11T10:00:10.625Z",
+  "fetched_at": "2026-11-11T17:00:03.259Z",
   "first_fetched_at": "2026-11-11T10:00:10.625Z",
-  "snapshots": 1,
-  "updated_at": "2026-11-11T10:00:10.625Z",
-  "total_count": 12,
+  "snapshots": 2,
+  "updated_at": "2026-11-11T17:00:03.259Z",
+  "total_count": 17,
   "items": [
     {
       "id": "meta/astryx",
@@ -13,18 +13,200 @@
       "full_name": "meta/astryx",
       "html_url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 23974,
-      "forks": 1876,
-      "stars_today": 3108,
+      "stars": 24531,
+      "forks": 1916,
+      "stars_today": 2842,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "meta",
         "avatar": "https://github.com/meta.png",
         "url": "https://github.com/meta"
+      }
+    },
+    {
+      "id": "ZhuLinsen/daily_stock_analysis",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 69997,
+      "forks": 56801,
+      "stars_today": 429,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T17:00:03.259Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "ZhuLinsen",
+        "avatar": "https://github.com/ZhuLinsen.png",
+        "url": "https://github.com/ZhuLinsen"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1131513930/2a028e99-3b90-4290-8381-d86fffbf3332"
+    },
+    {
+      "id": "GoogleChrome/modern-web-guidance-src",
+      "name": "modern-web-guidance-src",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "",
+      "stars": 1569,
+      "forks": 134,
+      "stars_today": 133,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T17:00:03.259Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "GoogleChrome",
+        "avatar": "https://github.com/GoogleChrome.png",
+        "url": "https://github.com/GoogleChrome"
+      }
+    },
+    {
+      "id": "shadcn/improve",
+      "name": "improve",
+      "full_name": "shadcn/improve",
+      "html_url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "stars": 10615,
+      "forks": 433,
+      "stars_today": 333,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T17:00:03.259Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "shadcn",
+        "avatar": "https://github.com/shadcn.png",
+        "url": "https://github.com/shadcn"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 115710,
+      "forks": 12138,
+      "stars_today": 788,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "vercel-labs/agent-browser",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "html_url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 49716,
+      "forks": 3478,
+      "stars_today": 712,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "vercel-labs",
+        "avatar": "https://github.com/vercel-labs.png",
+        "url": "https://github.com/vercel-labs"
+      }
+    },
+    {
+      "id": "we-promise/sure",
+      "name": "sure",
+      "full_name": "we-promise/sure",
+      "html_url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 12694,
+      "forks": 941,
+      "stars_today": 1079,
+      "window": "today",
+      "language": "Ruby",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "we-promise",
+        "avatar": "https://github.com/we-promise.png",
+        "url": "https://github.com/we-promise"
+      }
+    },
+    {
+      "id": "homeassistant-ai/ha-mcp",
+      "name": "ha-mcp",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 7114,
+      "forks": 446,
+      "stars_today": 640,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "homeassistant-ai",
+        "avatar": "https://github.com/homeassistant-ai.png",
+        "url": "https://github.com/homeassistant-ai"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1056618941/ca31624a-63b8-4606-8ea8-52a7c8bd4f33"
+    },
+    {
+      "id": "openai/codex-security",
+      "name": "codex-security",
+      "full_name": "openai/codex-security",
+      "html_url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 11536,
+      "forks": 919,
+      "stars_today": 20,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T17:00:03.259Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "TheAlgorithms/Java",
+      "name": "Java",
+      "full_name": "TheAlgorithms/Java",
+      "html_url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "stars": 66929,
+      "forks": 21497,
+      "stars_today": 108,
+      "window": "today",
+      "language": "Java",
+      "created_at": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T17:00:03.259Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
+      "owner": {
+        "login": "TheAlgorithms",
+        "avatar": "https://github.com/TheAlgorithms.png",
+        "url": "https://github.com/TheAlgorithms"
       }
     },
     {
@@ -40,31 +222,11 @@
       "language": "Python",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
         "url": "https://github.com/anthropics"
-      }
-    },
-    {
-      "id": "addyosmani/agent-skills",
-      "name": "agent-skills",
-      "full_name": "addyosmani/agent-skills",
-      "html_url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 115482,
-      "forks": 12116,
-      "stars_today": 465,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-11-11T00:00:00Z",
-      "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
-      "owner": {
-        "login": "addyosmani",
-        "avatar": "https://github.com/addyosmani.png",
-        "url": "https://github.com/addyosmani"
       }
     },
     {
@@ -80,7 +242,7 @@
       "language": "Python",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "anthropics",
         "avatar": "https://github.com/anthropics.png",
@@ -100,72 +262,11 @@
       "language": "C++",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "google-deepmind",
         "avatar": "https://github.com/google-deepmind.png",
         "url": "https://github.com/google-deepmind"
-      }
-    },
-    {
-      "id": "we-promise/sure",
-      "name": "sure",
-      "full_name": "we-promise/sure",
-      "html_url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "stars": 12396,
-      "forks": 916,
-      "stars_today": 159,
-      "window": "today",
-      "language": "Ruby",
-      "created_at": "2026-11-11T00:00:00Z",
-      "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
-      "owner": {
-        "login": "we-promise",
-        "avatar": "https://github.com/we-promise.png",
-        "url": "https://github.com/we-promise"
-      }
-    },
-    {
-      "id": "homeassistant-ai/ha-mcp",
-      "name": "ha-mcp",
-      "full_name": "homeassistant-ai/ha-mcp",
-      "html_url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "stars": 6914,
-      "forks": 442,
-      "stars_today": 790,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-11-11T00:00:00Z",
-      "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
-      "owner": {
-        "login": "homeassistant-ai",
-        "avatar": "https://github.com/homeassistant-ai.png",
-        "url": "https://github.com/homeassistant-ai"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1056618941/ca31624a-63b8-4606-8ea8-52a7c8bd4f33"
-    },
-    {
-      "id": "vercel-labs/agent-browser",
-      "name": "agent-browser",
-      "full_name": "vercel-labs/agent-browser",
-      "html_url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "stars": 49531,
-      "forks": 3469,
-      "stars_today": 780,
-      "window": "today",
-      "language": "Rust",
-      "created_at": "2026-11-11T00:00:00Z",
-      "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
-      "owner": {
-        "login": "vercel-labs",
-        "avatar": "https://github.com/vercel-labs.png",
-        "url": "https://github.com/vercel-labs"
       }
     },
     {
@@ -181,7 +282,7 @@
       "language": "Python",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "sherlock-project",
         "avatar": "https://github.com/sherlock-project.png",
@@ -202,7 +303,7 @@
       "language": "Rust",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "tokio-rs",
         "avatar": "https://github.com/tokio-rs.png",
@@ -222,7 +323,7 @@
       "language": "TypeScript",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "ranxianglei",
         "avatar": "https://github.com/ranxianglei.png",
@@ -242,7 +343,7 @@
       "language": "Shell",
       "created_at": "2026-11-11T00:00:00Z",
       "first_seen": "2026-11-11T10:00:10.625Z",
-      "last_seen": "2026-11-11T10:00:10.625Z",
+      "last_seen": "2026-11-11T17:00:03.259Z",
       "owner": {
         "login": "mattpocock",
         "avatar": "https://github.com/mattpocock.png",
