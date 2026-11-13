@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-13",
+  "since": "daily",
+  "fetched_at": "2026-11-13T10:26:47.771Z",
+  "first_fetched_at": "2026-11-13T10:26:47.771Z",
+  "snapshots": 1,
+  "updated_at": "2026-11-13T10:26:47.771Z",
+  "total_count": 13,
+  "items": [
+    {
+      "id": "GoogleChrome/modern-web-guidance-src",
+      "name": "modern-web-guidance-src",
+      "full_name": "GoogleChrome/modern-web-guidance-src",
+      "html_url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 4004,
+      "forks": 235,
+      "stars_today": 1875,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "GoogleChrome",
+        "avatar": "https://github.com/GoogleChrome.png",
+        "url": "https://github.com/GoogleChrome"
+      }
+    },
+    {
+      "id": "openai/codex-security",
+      "name": "codex-security",
+      "full_name": "openai/codex-security",
+      "html_url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 12766,
+      "forks": 1001,
+      "stars_today": 754,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "openai",
+        "avatar": "https://github.com/openai.png",
+        "url": "https://github.com/openai"
+      }
+    },
+    {
+      "id": "nvm-sh/nvm",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "html_url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": 96096,
+      "forks": 10762,
+      "stars_today": 63,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "nvm-sh",
+        "avatar": "https://github.com/nvm-sh.png",
+        "url": "https://github.com/nvm-sh"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/612230/53a0c44a-1f6e-4f8d-918f-89762fafe369"
+    },
+    {
+      "id": "pookjw/HermesEnabler",
+      "name": "HermesEnabler",
+      "full_name": "pookjw/HermesEnabler",
+      "html_url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "stars": 1687,
+      "forks": 147,
+      "stars_today": 218,
+      "window": "today",
+      "language": "Objective-C",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "pookjw",
+        "avatar": "https://github.com/pookjw.png",
+        "url": "https://github.com/pookjw"
+      }
+    },
+    {
+      "id": "we-promise/sure",
+      "name": "sure",
+      "full_name": "we-promise/sure",
+      "html_url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": 14313,
+      "forks": 1077,
+      "stars_today": 944,
+      "window": "today",
+      "language": "Ruby",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "we-promise",
+        "avatar": "https://github.com/we-promise.png",
+        "url": "https://github.com/we-promise"
+      }
+    },
+    {
+      "id": "QwenLM/qwen-code",
+      "name": "qwen-code",
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 30069,
+      "forks": 3416,
+      "stars_today": 151,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "QwenLM",
+        "avatar": "https://github.com/QwenLM.png",
+        "url": "https://github.com/QwenLM"
+      }
+    },
+    {
+      "id": "ashhart/TensorFold",
+      "name": "TensorFold",
+      "full_name": "ashhart/TensorFold",
+      "html_url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "stars": 2048,
+      "forks": 399,
+      "stars_today": 54,
+      "window": "today",
+      "language": "Zig",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "ashhart",
+        "avatar": "https://github.com/ashhart.png",
+        "url": "https://github.com/ashhart"
+      }
+    },
+    {
+      "id": "nodejs/node",
+      "name": "node",
+      "full_name": "nodejs/node",
+      "html_url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": 123686,
+      "forks": 38060,
+      "stars_today": 62,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "nodejs",
+        "avatar": "https://github.com/nodejs.png",
+        "url": "https://github.com/nodejs"
+      }
+    },
+    {
+      "id": "addyosmani/agent-skills",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "html_url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 116954,
+      "forks": 12224,
+      "stars_today": 696,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "addyosmani",
+        "avatar": "https://github.com/addyosmani.png",
+        "url": "https://github.com/addyosmani"
+      }
+    },
+    {
+      "id": "meta/astryx",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "html_url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 27060,
+      "forks": 2091,
+      "stars_today": 1283,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "meta",
+        "avatar": "https://github.com/meta.png",
+        "url": "https://github.com/meta"
+      }
+    },
+    {
+      "id": "CopilotKit/OpenBot",
+      "name": "OpenBot",
+      "full_name": "CopilotKit/OpenBot",
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 11957,
+      "forks": 1464,
+      "stars_today": 298,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "CopilotKit",
+        "avatar": "https://github.com/CopilotKit.png",
+        "url": "https://github.com/CopilotKit"
+      }
+    },
+    {
+      "id": "Alishahryar1/free-claude-code",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "html_url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": 69672,
+      "forks": 10802,
+      "stars_today": 415,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "Alishahryar1",
+        "avatar": "https://github.com/Alishahryar1.png",
+        "url": "https://github.com/Alishahryar1"
+      }
+    },
+    {
+      "id": "ggml-org/llama.cpp",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "html_url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 134802,
+      "forks": 25538,
+      "stars_today": 176,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-11-13T00:00:00Z",
+      "first_seen": "2026-11-13T10:26:47.771Z",
+      "last_seen": "2026-11-13T10:26:47.771Z",
+      "owner": {
+        "login": "ggml-org",
+        "avatar": "https://github.com/ggml-org.png",
+        "url": "https://github.com/ggml-org"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/612354784/8b9eb0ec-6517-44a9-8a3a-fccddc678e57"
+    }
+  ]
+}
