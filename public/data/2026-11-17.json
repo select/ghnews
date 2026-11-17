@@ -1,26 +1,210 @@
 {
   "date": "2026-11-17",
   "since": "daily",
-  "fetched_at": "2026-11-17T10:06:18.705Z",
+  "fetched_at": "2026-11-17T17:00:02.853Z",
   "first_fetched_at": "2026-11-17T10:06:18.705Z",
-  "snapshots": 1,
-  "updated_at": "2026-11-17T10:06:18.705Z",
-  "total_count": 15,
+  "snapshots": 2,
+  "updated_at": "2026-11-17T17:00:02.853Z",
+  "total_count": 20,
   "items": [
+    {
+      "id": "elementalsouls/Claude-BugHunter",
+      "name": "Claude-BugHunter",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 8638,
+      "forks": 1307,
+      "stars_today": 1007,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "elementalsouls",
+        "avatar": "https://github.com/elementalsouls.png",
+        "url": "https://github.com/elementalsouls"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d"
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 68772,
+      "forks": 6131,
+      "stars_today": 772,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "alibaba/open-code-review",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 53542,
+      "forks": 4411,
+      "stars_today": 764,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "url": "https://github.com/alibaba"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
+    },
+    {
+      "id": "Tencent/LoopForge",
+      "name": "LoopForge",
+      "full_name": "Tencent/LoopForge",
+      "html_url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": 2958,
+      "forks": 428,
+      "stars_today": 590,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T17:00:02.853Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "Tencent",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent"
+      }
+    },
+    {
+      "id": "dream-num/univer",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "html_url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 28757,
+      "forks": 2612,
+      "stars_today": 1776,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "dream-num",
+        "avatar": "https://github.com/dream-num.png",
+        "url": "https://github.com/dream-num"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326"
+    },
+    {
+      "id": "getarcaneapp/arcane",
+      "name": "arcane",
+      "full_name": "getarcaneapp/arcane",
+      "html_url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "stars": 9161,
+      "forks": 499,
+      "stars_today": 654,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "getarcaneapp",
+        "avatar": "https://github.com/getarcaneapp.png",
+        "url": "https://github.com/getarcaneapp"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/968905557/41c6a985-ef5a-4ec5-b20d-04ce885cc6ac"
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "html_url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 9990,
+      "forks": 1316,
+      "stars_today": 350,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "google-labs-code",
+        "avatar": "https://github.com/google-labs-code.png",
+        "url": "https://github.com/google-labs-code"
+      }
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 16806,
+      "forks": 1821,
+      "stars_today": 196,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T17:00:02.853Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 319113,
+      "forks": 28449,
+      "stars_today": 598,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T17:00:02.853Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
     {
       "id": "ag-ui-protocol/ag-ui",
       "name": "ag-ui",
       "full_name": "ag-ui-protocol/ag-ui",
       "html_url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "stars": 19687,
-      "forks": 2032,
-      "stars_today": 791,
+      "stars": 19872,
+      "forks": 2055,
+      "stars_today": 1444,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "ag-ui-protocol",
         "avatar": "https://github.com/ag-ui-protocol.png",
@@ -33,14 +217,14 @@
       "full_name": "backnotprop/plannotator",
       "html_url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "stars": 12851,
-      "forks": 1280,
-      "stars_today": 696,
+      "stars": 12956,
+      "forks": 1302,
+      "stars_today": 691,
       "window": "today",
       "language": "TypeScript",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "backnotprop",
         "avatar": "https://github.com/backnotprop.png",
@@ -48,25 +232,85 @@
       }
     },
     {
-      "id": "dream-num/univer",
-      "name": "univer",
-      "full_name": "dream-num/univer",
-      "html_url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "stars": 28599,
-      "forks": 2595,
-      "stars_today": 1828,
+      "id": "sveltejs/svelte",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "html_url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "stars": 89458,
+      "forks": 6224,
+      "stars_today": 533,
       "window": "today",
-      "language": "TypeScript",
+      "language": "JavaScript",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
-        "login": "dream-num",
-        "avatar": "https://github.com/dream-num.png",
-        "url": "https://github.com/dream-num"
+        "login": "sveltejs",
+        "avatar": "https://github.com/sveltejs.png",
+        "url": "https://github.com/sveltejs"
       },
-      "banner_url": "https://repository-images.githubusercontent.com/543101941/e14b70fa-fc46-4249-8bd8-399630941326"
+      "banner_url": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d"
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 305205,
+      "forks": 44943,
+      "stars_today": 902,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T17:00:02.853Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "jingyaogong/minimind",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "html_url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 65772,
+      "forks": 8642,
+      "stars_today": 188,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T17:00:02.853Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "jingyaogong",
+        "avatar": "https://github.com/jingyaogong.png",
+        "url": "https://github.com/jingyaogong"
+      }
+    },
+    {
+      "id": "google-research/paper-orchestra",
+      "name": "paper-orchestra",
+      "full_name": "google-research/paper-orchestra",
+      "html_url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 2599,
+      "forks": 375,
+      "stars_today": 1175,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-17T00:00:00Z",
+      "first_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
+      "owner": {
+        "login": "google-research",
+        "avatar": "https://github.com/google-research.png",
+        "url": "https://github.com/google-research"
+      }
     },
     {
       "id": "tradermonty/claude-trading-skills",
@@ -81,54 +325,12 @@
       "language": "Python",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "tradermonty",
         "avatar": "https://github.com/tradermonty.png",
         "url": "https://github.com/tradermonty"
       }
-    },
-    {
-      "id": "elementalsouls/Claude-BugHunter",
-      "name": "Claude-BugHunter",
-      "full_name": "elementalsouls/Claude-BugHunter",
-      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "stars": 7913,
-      "forks": 1228,
-      "stars_today": 1094,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "elementalsouls",
-        "avatar": "https://github.com/elementalsouls.png",
-        "url": "https://github.com/elementalsouls"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d"
-    },
-    {
-      "id": "getarcaneapp/arcane",
-      "name": "arcane",
-      "full_name": "getarcaneapp/arcane",
-      "html_url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "stars": 9002,
-      "forks": 465,
-      "stars_today": 46,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "getarcaneapp",
-        "avatar": "https://github.com/getarcaneapp.png",
-        "url": "https://github.com/getarcaneapp"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/968905557/41c6a985-ef5a-4ec5-b20d-04ce885cc6ac"
     },
     {
       "id": "DeanChensj/jiangshan-map",
@@ -143,51 +345,11 @@
       "language": "JavaScript",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "DeanChensj",
         "avatar": "https://github.com/DeanChensj.png",
         "url": "https://github.com/DeanChensj"
-      }
-    },
-    {
-      "id": "google-labs-code/stitch-skills",
-      "name": "stitch-skills",
-      "full_name": "google-labs-code/stitch-skills",
-      "html_url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "stars": 9883,
-      "forks": 1284,
-      "stars_today": 529,
-      "window": "today",
-      "language": "TypeScript",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "google-labs-code",
-        "avatar": "https://github.com/google-labs-code.png",
-        "url": "https://github.com/google-labs-code"
-      }
-    },
-    {
-      "id": "mvanhorn/last30days-skill",
-      "name": "last30days-skill",
-      "full_name": "mvanhorn/last30days-skill",
-      "html_url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 68473,
-      "forks": 6095,
-      "stars_today": 135,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "mvanhorn",
-        "avatar": "https://github.com/mvanhorn.png",
-        "url": "https://github.com/mvanhorn"
       }
     },
     {
@@ -203,52 +365,11 @@
       "language": "Python",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "NVIDIA",
         "avatar": "https://github.com/NVIDIA.png",
         "url": "https://github.com/NVIDIA"
-      }
-    },
-    {
-      "id": "alibaba/open-code-review",
-      "name": "open-code-review",
-      "full_name": "alibaba/open-code-review",
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": 53291,
-      "forks": 4371,
-      "stars_today": 951,
-      "window": "today",
-      "language": "Go",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "alibaba",
-        "avatar": "https://github.com/alibaba.png",
-        "url": "https://github.com/alibaba"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d"
-    },
-    {
-      "id": "google-research/paper-orchestra",
-      "name": "paper-orchestra",
-      "full_name": "google-research/paper-orchestra",
-      "html_url": "https://github.com/google-research/paper-orchestra",
-      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "stars": 2011,
-      "forks": 313,
-      "stars_today": 313,
-      "window": "today",
-      "language": "Python",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "google-research",
-        "avatar": "https://github.com/google-research.png",
-        "url": "https://github.com/google-research"
       }
     },
     {
@@ -264,33 +385,12 @@
       "language": "TypeScript",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "ChromeDevTools",
         "avatar": "https://github.com/ChromeDevTools.png",
         "url": "https://github.com/ChromeDevTools"
       }
-    },
-    {
-      "id": "sveltejs/svelte",
-      "name": "svelte",
-      "full_name": "sveltejs/svelte",
-      "html_url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "stars": 89167,
-      "forks": 6142,
-      "stars_today": 115,
-      "window": "today",
-      "language": "JavaScript",
-      "created_at": "2026-11-17T00:00:00Z",
-      "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
-      "owner": {
-        "login": "sveltejs",
-        "avatar": "https://github.com/sveltejs.png",
-        "url": "https://github.com/sveltejs"
-      },
-      "banner_url": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d"
     },
     {
       "id": "kajisho5/ffmpeg-skill",
@@ -305,7 +405,7 @@
       "language": "Python",
       "created_at": "2026-11-17T00:00:00Z",
       "first_seen": "2026-11-17T10:06:18.705Z",
-      "last_seen": "2026-11-17T10:06:18.705Z",
+      "last_seen": "2026-11-17T17:00:02.853Z",
       "owner": {
         "login": "kajisho5",
         "avatar": "https://github.com/kajisho5.png",
