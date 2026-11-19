@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-19",
+  "since": "daily",
+  "fetched_at": "2026-11-19T09:00:02.547Z",
+  "first_fetched_at": "2026-11-19T09:00:02.547Z",
+  "snapshots": 1,
+  "updated_at": "2026-11-19T09:00:02.547Z",
+  "total_count": 19,
+  "items": [
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 17364,
+      "forks": 1914,
+      "stars_today": 314,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 60092,
+      "forks": 5456,
+      "stars_today": 389,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 70378,
+      "forks": 6268,
+      "stars_today": 1059,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "getarcaneapp/arcane",
+      "name": "arcane",
+      "full_name": "getarcaneapp/arcane",
+      "html_url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "stars": 9994,
+      "forks": 570,
+      "stars_today": 547,
+      "window": "today",
+      "language": "Go",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "getarcaneapp",
+        "avatar": "https://github.com/getarcaneapp.png",
+        "url": "https://github.com/getarcaneapp"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/968905557/41c6a985-ef5a-4ec5-b20d-04ce885cc6ac"
+    },
+    {
+      "id": "NVIDIA/SkillEvaluator",
+      "name": "SkillEvaluator",
+      "full_name": "NVIDIA/SkillEvaluator",
+      "html_url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "stars": 3946,
+      "forks": 533,
+      "stars_today": 312,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "url": "https://github.com/NVIDIA"
+      }
+    },
+    {
+      "id": "nvm-sh/nvm",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "html_url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": 96217,
+      "forks": 10795,
+      "stars_today": 237,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "nvm-sh",
+        "avatar": "https://github.com/nvm-sh.png",
+        "url": "https://github.com/nvm-sh"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/612230/53a0c44a-1f6e-4f8d-918f-89762fafe369"
+    },
+    {
+      "id": "astral-sh/uv",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "html_url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "stars": 92350,
+      "forks": 3933,
+      "stars_today": 258,
+      "window": "today",
+      "language": "Rust",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "astral-sh",
+        "avatar": "https://github.com/astral-sh.png",
+        "url": "https://github.com/astral-sh"
+      }
+    },
+    {
+      "id": "google-research/paper-orchestra",
+      "name": "paper-orchestra",
+      "full_name": "google-research/paper-orchestra",
+      "html_url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 4665,
+      "forks": 573,
+      "stars_today": 1524,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "google-research",
+        "avatar": "https://github.com/google-research.png",
+        "url": "https://github.com/google-research"
+      }
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "html_url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 10534,
+      "forks": 1373,
+      "stars_today": 365,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "google-labs-code",
+        "avatar": "https://github.com/google-labs-code.png",
+        "url": "https://github.com/google-labs-code"
+      }
+    },
+    {
+      "id": "sveltejs/svelte",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "html_url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "stars": 89723,
+      "forks": 6224,
+      "stars_today": 692,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "sveltejs",
+        "avatar": "https://github.com/sveltejs.png",
+        "url": "https://github.com/sveltejs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/74293321/6cef4300-6605-11e9-92a3-9171a14b1e2d"
+    },
+    {
+      "id": "jquery/jquery",
+      "name": "jquery",
+      "full_name": "jquery/jquery",
+      "html_url": "https://github.com/jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "stars": 60081,
+      "forks": 20714,
+      "stars_today": 266,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "jquery",
+        "avatar": "https://github.com/jquery.png",
+        "url": "https://github.com/jquery"
+      }
+    },
+    {
+      "id": "appwrite/appwrite",
+      "name": "appwrite",
+      "full_name": "appwrite/appwrite",
+      "html_url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "stars": 58349,
+      "forks": 5894,
+      "stars_today": 232,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "appwrite",
+        "avatar": "https://github.com/appwrite.png",
+        "url": "https://github.com/appwrite"
+      }
+    },
+    {
+      "id": "openvinotoolkit/openvino",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "html_url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 11424,
+      "forks": 3609,
+      "stars_today": 24,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "openvinotoolkit",
+        "avatar": "https://github.com/openvinotoolkit.png",
+        "url": "https://github.com/openvinotoolkit"
+      }
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 321555,
+      "forks": 28582,
+      "stars_today": 822,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "affaan-m/ECC",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 306823,
+      "forks": 45165,
+      "stars_today": 1108,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "affaan-m",
+        "avatar": "https://github.com/affaan-m.png",
+        "url": "https://github.com/affaan-m"
+      }
+    },
+    {
+      "id": "DeanChensj/jiangshan-map",
+      "name": "jiangshan-map",
+      "full_name": "DeanChensj/jiangshan-map",
+      "html_url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "stars": 8309,
+      "forks": 1018,
+      "stars_today": 218,
+      "window": "today",
+      "language": "JavaScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "DeanChensj",
+        "avatar": "https://github.com/DeanChensj.png",
+        "url": "https://github.com/DeanChensj"
+      }
+    },
+    {
+      "id": "n8n-io/n8n",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "html_url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 211306,
+      "forks": 61578,
+      "stars_today": 325,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "n8n-io",
+        "avatar": "https://github.com/n8n-io.png",
+        "url": "https://github.com/n8n-io"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/193215554/df34b36d-279c-496c-91c2-959dd9c9f13d"
+    },
+    {
+      "id": "solidjs/solid",
+      "name": "solid",
+      "full_name": "solidjs/solid",
+      "html_url": "https://github.com/solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "stars": 36714,
+      "forks": 1191,
+      "stars_today": 40,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "solidjs",
+        "avatar": "https://github.com/solidjs.png",
+        "url": "https://github.com/solidjs"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/130884470/ad63fd00-7ab2-11ea-9c57-6c114391183a"
+    },
+    {
+      "id": "punkpeye/awesome-mcp-servers",
+      "name": "awesome-mcp-servers",
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": 98169,
+      "forks": 20388,
+      "stars_today": 53,
+      "window": "today",
+      "language": null,
+      "created_at": "2026-11-19T00:00:00Z",
+      "first_seen": "2026-11-19T09:00:02.547Z",
+      "last_seen": "2026-11-19T09:00:02.547Z",
+      "owner": {
+        "login": "punkpeye",
+        "avatar": "https://github.com/punkpeye.png",
+        "url": "https://github.com/punkpeye"
+      }
+    }
+  ]
+}
