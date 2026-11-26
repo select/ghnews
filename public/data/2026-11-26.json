@@ -1,0 +1,336 @@
+{
+  "date": "2026-11-26",
+  "since": "daily",
+  "fetched_at": "2026-11-26T10:12:02.880Z",
+  "first_fetched_at": "2026-11-26T10:12:02.880Z",
+  "snapshots": 1,
+  "updated_at": "2026-11-26T10:12:02.880Z",
+  "total_count": 16,
+  "items": [
+    {
+      "id": "elementalsouls/Claude-BugHunter",
+      "name": "Claude-BugHunter",
+      "full_name": "elementalsouls/Claude-BugHunter",
+      "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": 23658,
+      "forks": 2414,
+      "stars_today": 1652,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "elementalsouls",
+        "avatar": "https://github.com/elementalsouls.png",
+        "url": "https://github.com/elementalsouls"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1229774092/93703d75-077c-4a14-b580-e2374741fe3d"
+    },
+    {
+      "id": "obra/superpowers",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "html_url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 326981,
+      "forks": 29003,
+      "stars_today": 903,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "obra",
+        "avatar": "https://github.com/obra.png",
+        "url": "https://github.com/obra"
+      }
+    },
+    {
+      "id": "HKUDS/CLI-Anything",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "html_url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 65993,
+      "forks": 6001,
+      "stars_today": 1106,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "HKUDS",
+        "avatar": "https://github.com/HKUDS.png",
+        "url": "https://github.com/HKUDS"
+      }
+    },
+    {
+      "id": "jingyaogong/minimind",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "html_url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 71341,
+      "forks": 9258,
+      "stars_today": 826,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "jingyaogong",
+        "avatar": "https://github.com/jingyaogong.png",
+        "url": "https://github.com/jingyaogong"
+      }
+    },
+    {
+      "id": "cursor/plugins",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "html_url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": 19650,
+      "forks": 2121,
+      "stars_today": 416,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "cursor",
+        "avatar": "https://github.com/cursor.png",
+        "url": "https://github.com/cursor"
+      }
+    },
+    {
+      "id": "firecrawl/firecrawl",
+      "name": "firecrawl",
+      "full_name": "firecrawl/firecrawl",
+      "html_url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": 210434,
+      "forks": 11016,
+      "stars_today": 1135,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "firecrawl",
+        "avatar": "https://github.com/firecrawl.png",
+        "url": "https://github.com/firecrawl"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/787076358/f9616c09-3701-41ef-b5a6-fdf912ffb15b"
+    },
+    {
+      "id": "nginx/nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "html_url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "stars": 33439,
+      "forks": 8410,
+      "stars_today": 176,
+      "window": "today",
+      "language": "C",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "nginx",
+        "avatar": "https://github.com/nginx.png",
+        "url": "https://github.com/nginx"
+      }
+    },
+    {
+      "id": "openvinotoolkit/openvino",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "html_url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 12725,
+      "forks": 3718,
+      "stars_today": 191,
+      "window": "today",
+      "language": "C++",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "openvinotoolkit",
+        "avatar": "https://github.com/openvinotoolkit.png",
+        "url": "https://github.com/openvinotoolkit"
+      }
+    },
+    {
+      "id": "cathrynlavery/diagram-design",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 73443,
+      "forks": 4886,
+      "stars_today": 1141,
+      "window": "today",
+      "language": "HTML",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "cathrynlavery",
+        "avatar": "https://github.com/cathrynlavery.png",
+        "url": "https://github.com/cathrynlavery"
+      }
+    },
+    {
+      "id": "mvanhorn/last30days-skill",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "html_url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 75404,
+      "forks": 6652,
+      "stars_today": 945,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "mvanhorn",
+        "avatar": "https://github.com/mvanhorn.png",
+        "url": "https://github.com/mvanhorn"
+      }
+    },
+    {
+      "id": "google-labs-code/stitch-skills",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "html_url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 13117,
+      "forks": 1548,
+      "stars_today": 355,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "google-labs-code",
+        "avatar": "https://github.com/google-labs-code.png",
+        "url": "https://github.com/google-labs-code"
+      }
+    },
+    {
+      "id": "mjmirza/app-store-compliance",
+      "name": "app-store-compliance",
+      "full_name": "mjmirza/app-store-compliance",
+      "html_url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "stars": 6725,
+      "forks": 443,
+      "stars_today": 858,
+      "window": "today",
+      "language": "Shell",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "mjmirza",
+        "avatar": "https://github.com/mjmirza.png",
+        "url": "https://github.com/mjmirza"
+      }
+    },
+    {
+      "id": "Tracer-Cloud/opensre",
+      "name": "opensre",
+      "full_name": "Tracer-Cloud/opensre",
+      "html_url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "stars": 15648,
+      "forks": 2039,
+      "stars_today": 348,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "Tracer-Cloud",
+        "avatar": "https://github.com/Tracer-Cloud.png",
+        "url": "https://github.com/Tracer-Cloud"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/1133141258/1e1ca9ef-fb92-4604-8b72-9e58667afce2"
+    },
+    {
+      "id": "toeverything/AFFiNE",
+      "name": "AFFiNE",
+      "full_name": "toeverything/AFFiNE",
+      "html_url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "stars": 78708,
+      "forks": 5730,
+      "stars_today": 574,
+      "window": "today",
+      "language": "TypeScript",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "toeverything",
+        "avatar": "https://github.com/toeverything.png",
+        "url": "https://github.com/toeverything"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/519859998/81557da6-35e0-421d-8ad7-ec0c7a4725d2"
+    },
+    {
+      "id": "XiaoYouChR/Ghost-Downloader-3",
+      "name": "Ghost-Downloader-3",
+      "full_name": "XiaoYouChR/Ghost-Downloader-3",
+      "html_url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "stars": 18678,
+      "forks": 1121,
+      "stars_today": 951,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "XiaoYouChR",
+        "avatar": "https://github.com/XiaoYouChR.png",
+        "url": "https://github.com/XiaoYouChR"
+      },
+      "banner_url": "https://repository-images.githubusercontent.com/679086250/850fce55-365a-4e38-9a48-b1060bfb17c7"
+    },
+    {
+      "id": "zhouxiaoka/autoclip",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "html_url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "stars": 16577,
+      "forks": 2361,
+      "stars_today": 880,
+      "window": "today",
+      "language": "Python",
+      "created_at": "2026-11-26T00:00:00Z",
+      "first_seen": "2026-11-26T10:12:02.880Z",
+      "last_seen": "2026-11-26T10:12:02.880Z",
+      "owner": {
+        "login": "zhouxiaoka",
+        "avatar": "https://github.com/zhouxiaoka.png",
+        "url": "https://github.com/zhouxiaoka"
+      }
+    }
+  ]
+}
